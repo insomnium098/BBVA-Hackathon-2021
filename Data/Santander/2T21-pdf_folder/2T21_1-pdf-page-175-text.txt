@@ -1,0 +1,104 @@
+140.00%
+120.00%
+100.00%
+80.00%
+60.00%
+40.00%
+20.00%
+0.00%
+DEA 1M
+DEA 3M
+DEA 6M
+DEA 12M
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mr
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+XLE110R DC013
+Pago de derechos
+bajo distintos valores del valor observado
+$150
+$140
+$130
+$120
+$110
+$100
+50.00
+100.00
+150.00
+200.00
+$90
+$80
+Valor Observado
+Pago de derechos a
+Nivel de mercado
+Valor observado (vo)
+vencimiento
+0
+0
+Ps.90.00
+1.14
+3.00
+Ps.90.00
+2.28
+6.00
+Ps.90.00
+3.42
+9.00
+Ps.90.00
+4.56
+12.00
+Ps.90.00
+5.70
+15.00
+Ps.90.00
+6.84
+18.00
+Ps.90.00
+7.98
+21.00
+Ps.90.00
+9.12
+24.00
+Ps.90.00
+10.26
+27.00
+Ps.90.00
+11.40
+30.00
+Ps.90.00
+12.54
+33.00
+Ps.90.00
+13.68
+36.00
+Ps.90.00
+14.82
+39.00
+Ps.90.00
+15.96
+42.00
+Ps.90.00
+17.10
+45.00
+Ps.90.00
+18.24
+48.00
+Ps.90.00
+19.38
+51.00
+Ps.90.00
+20.52
+54.00
+Ps.90.00
+21.66
+57.00
+Ps.90.00
+22.80
+60.00
+Ps.90.00
+23.94
+63.00
+Ps.90.00
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+173

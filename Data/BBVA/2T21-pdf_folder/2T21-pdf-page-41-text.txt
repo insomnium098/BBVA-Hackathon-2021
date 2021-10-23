@@ -1,0 +1,109 @@
+BBVA
+Creando Oportunidades
+escenarios adversos y los procesos para implantar medidas de recuperación. Este plan de
+igual forma está aprobado por el Consejo de Administración a propuesta del Comité de
+Riesgos y elaborado por el Director General.
+Coeficiente de Cohertura de Liquirez (CCL)
+El CCL cuantifica la capacidad potencial de BBVA México para hacer frente a sus necesidades de
+liquidez a 30 días ante un escenario de estrés, a partir de sus activos líquidos que tenga
+disponibles.
+De acuerdo con los requerimientos de revelación de información, especificados en el Anexo 5 de
+las Disposiciones de Carácter General sobre los Requerimientos de Liquidez para las
+Instituciones de Banca Múltiple, a continuación, se presenta el Formato de Revelación del
+Coeficiente de Cobertura de Liquidez de BBVA México correspondiente al primer trimestre de
+2021.
+2T 2021*
+Coeficiente de Cobertura de Liquidez
+Importe sin
+Importe
+Ponderar
+Ponderado
+Millones de pesos
+(promedio)
+(promedio)
+ACTIVOS LÍQUIDOS COMPUTABLES
+1 Total de Activos Líquidos Computables
+No Aplica
+433,973
+SALIDAS DE EFECTIVO
+2 Financiamiento Minorista No Garantizado
+786,248
+48,508
+3
+Financiamiento Estable
+602,338
+30,117
+4
+Financiamiento menos Estable
+183,910
+18,391
+5 Financiamiento Mayorista No Garantizado
+479,208
+152,221
+6
+Depósitos Operacionales
+292,636
+70,673
+7
+Depósitos No Operacionales
+182,376
+77,351
+8
+Deuda No Garantizada
+4,196
+4,196
+9 Financiamiento Mayorista Garantizado
+361,547
+637
+10 Requerimientos Adicionales
+621,198
+57,648
+11
+Salidas relacionadas a instrumentos financieros derivados y otros requerimientos de
+28,541
+21,523
+garantías
+12
+Salidas relacionadas a pérdidas del financiamiento de Instrumentos de deuda
+O
+O
+13
+Líneas de Crédito y Liquidez
+592,657
+36,125
+14 Otras Obligaciones de Financiamiento Contractuales
+84,392
+10,630
+15 Otras Obligaciones de Financiamiento Contingentes
+O
+O
+16 TOTAL DE SALIDAS DE EFECTIVO
+No Aplica
+269,643
+ENTRADAS DE EFECTIVO
+17 Entradas de Efectivo por Operaciones Garantizadas
+52,631
+O
+18 Entradas de Efectivo por Operaciones No Garantizadas
+97,220
+56,083
+19 Otras entradas de Efectivo
+3,695
+3,695
+20 TOTAL DE ENTRADAS DE EFECTIVO
+153,547
+59,779
+21 TOTAL DE ACTIVOS LÍQUIDOS COMPUTABLES
+No Aplica
+433,973
+22 TOTAL NETO DE SALIDAS DE EFECTIVO
+No Aplica
+209,865
+23 COEFICIENTE DE COBERTURA DE LIQUIDEZ
+No Aplica
+206.89%
+2T21 Promedio de 90 dias
+*
+Información previa
+Las cifras se encuentran en revisión por la autoridad.
+41

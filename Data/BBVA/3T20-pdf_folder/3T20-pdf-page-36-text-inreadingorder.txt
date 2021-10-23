@@ -1,0 +1,39 @@
+BBVA
+Creando Oportunidades
+Riesgos de Mercado, Liquidez y Operacional
+Riesgo de Mercado
+En cuanto al proceso para la medición de riesgos de mercado y en relación a los portafolios de
+operación e inversión, la medición diaria del riesgo mercado se realiza mediante técnicas
+estadísticas de Valor en Riesgo (VaR) como la medida central. A manera de ilustración, el VaR
+consiste en:
+1)
+Definir el grado de sensibilidad en la valuación de las posiciones ante cambios en precios,
+tasas, tipos O índices.
+2)
+Estimar de forma razonable el cambio esperado para un horizonte de tiempo específico
+con determinados precios, tasas, tipos O índices, considerando en ello el grado en que los
+mismos se pueden mover de forma conjunta.
+3)
+Reevaluar el portafolio ante tales cambios esperados conjuntos y con ello determinar la
+pérdida potencial máxima en términos de valor.
+En resumen, el VaR se ha fijado bajo la visión de que no se perderá en un día de operación más
+del monto calculado en el 99% de las veces.
+Riesgos de Mercado, Estructurales y No Bancarios (RMEyNB) tiene la responsabilidad de
+establecer y dar seguimiento a las directrices, metodologías y límites de riesgo de mercado,
+riesgo de contraparte, riesgo estructural y riesgo de liquidez de BBVA México, estableciendo
+los parámetros de medición de riesgo, y proporcionando informes, análisis y evaluaciones a la
+Alta Dirección, al Comité de Riesgos y al Consejo de Administración.
+La medición del riesgo de mercado cuantifica el cambio potencial en el valor de las posiciones
+asumidas como consecuencia de cambios en los factores de riesgo de mercado. Cuando se
+identifican riesgos significativos, se miden y se asignan límites con el fin de asegurar un
+adecuado control. La medición global del riesgo se hace a través de una combinación de la
+metodología aplicada sobre las Carteras de Negociación y sobre el Balance Estructural.
+Actualmente, la metodología oficial utilizada para el cálculo de VaR es Simulación Histórica sin
+alisado.
+Carteras de Negociación
+En el caso particular de BBVA México, el VaR se calcula por Simulación Histórica y bajo la visión
+de que no se perderá en el horizonte de un día más de dicho VaR en el 99% de las veces. Se
+utilizan dos metodologías con y sin "Alisado Exponencial", una que pondere muy fuerte los
+últimos datos del mercado y otra que le da el mismo peso a la información de todo un año de
+tendencias.
+36

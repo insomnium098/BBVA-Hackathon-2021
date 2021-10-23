@@ -1,0 +1,24 @@
+Table
+Millones de pesos ,Total ,1D ,1S ,1M ,3M ,6M ,9M ,1A ,5A ,>5A 
+Gap Estructural ,"146,253 ","(207,159) ","71,163 ","(46,685) ","81,939 ","50,409 ","35,135 ","30,015 ","280,965 ","(149,529) "
+No Derivados ,"145,382 ","(207,104) ","71,164 ","(45,783) ","81,713 ","50,660 ","34,841 ","30,058 ","276,764 ","(146,931) "
+Derivados ,871 ,(55) ,(1) ,(902) ,226 ,(251) ,293 ,(43) ,"4,201 ","(2,598) "
+
+
+Table
+,,Sensibilidad ,NIM ,,,Sensibilidad ,MVE ,
+Banco ,abr-20 ,may-20 ,jun-20 ,Promedio ,abr-20 ,may-20 ,jun-20 ,Promedio 
+Balance MXN GAP ,8% ,9% ,4% ,7% ,49% ,41% ,38% ,43% 
+Escenario ,+100 pb ,+100 pb ,+100 pb ,N/A ,+100 pb ,+100 pb ,+100 pb ,N/A 
+Balance USD GAP ,36% ,31% ,26% ,31% ,73% ,76% ,22% ,57% 
+Escenario ,(75) pb ,(75) pb ,(50) pb ,N/A ,(75) pb ,(75) pb ,(50) pb ,N/A 
+
+
+Table
+MM Pesos ,,Sensibilidad ,NIM ,,,Sensibilidad ,MVE ,
+Banco ,Escenario ,Total ,Derivados ,No Derivados ,Escenario ,Total ,Derivados ,No Derivados 
+Balance MXN GAP ,+100 bp ,(59) ,"1,019 ","(1,078) ",+100 bp ,"(1,608) ","2,016 ","(3,623) "
+,,,,,,,,
+Balance USD GAP ,(50) bp ,(366) ,49 ,(415) ,(50) bp ,"(1,120) ","(1,199) ",78 
+
+

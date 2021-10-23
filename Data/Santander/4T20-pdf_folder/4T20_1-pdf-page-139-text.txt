@@ -1,0 +1,103 @@
+Periodo
+Precio mínimo
+Precio máximo
+Volumen promedio (títulos)
+2016
+73.53
+106.10
+5,753,203.49
+2017
+66.80
+83.92
+7,168,068.43
+2018
+60.60
+83.63
+8,366,162.04
+2019
+52.13
+76.58
+9,383,150.91
+2020
+52.30
+76.05
+8,678,757.11
+1° Sem. 2019
+52.13
+69.88
+11,843,694.15
+2° Sem. 2019
+54.09
+76.58
+6,962,725.22
+1° Sem. 2020
+52.30
+76.05
+9,486,557.24
+2° Sem. 2020
+55.93
+74.50
+7,879,737.42
+julio 2020
+61.28
+65.36
+6,395,856.35
+agosto 2020
+62.12
+65.71
+6,501,920.35
+septiembre 2020
+56.71
+60.91
+9,545,137.63
+octubre 2020
+55.93
+60.47
+6,810,499.77
+noviembre 2020
+56.09
+73.47
+10,954,998.80
+diciembre 2020
+67.22
+74.50
+7,222,936.19
+Volatilidad Histórica
+90.00%
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+DEA 1M
+DEA 3M
+DEA 6M
+DEA 12M
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+CVS112L DC022
+Pago de derechos
+bajo distintos valores del valor observado
+$120
+$100
+$80
+$60
+$40
+$20
+$-
+0
+50
+100
+150
+Valor observado
+Fechas de Observación 1a 3
+Fechas de Ejercicio 1 a 3
+Fecha de Ejercicio 4
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Santander
+137

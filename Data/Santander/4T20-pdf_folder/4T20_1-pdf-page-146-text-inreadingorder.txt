@@ -1,0 +1,52 @@
+Delta en
+Error
+títulos
+esrándar
+0.0000
+0.000000
+0.0000
+0.000000
+0.0000
+0.000000
+0.0000
+0.000000
+0.0000
+0.000000
+Beta
+Delta en términos de
+original
+emisoras
+1.0000
+1.0000
+1.0000
+1.0000
+1.0000
+Delta cobertura en términos de
+emisoras
+163.4130
+755.2361
+305.2870
+27,462.0588
+9,392.6642
+Santander
+Delta obligaciones en términos
+de emisoras
+(163.4130)
+(755.2361)
+(305.2870)
+(27,462.0588)
+(9,392.6642)
+Emisora
+AMZ110L DC127
+FBK111L DC079
+NFX111L DC133
+CVS112L DC022
+INT112R DC006
+Reporte de Resultados | 4T.2020
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+Banco Santander México
+144

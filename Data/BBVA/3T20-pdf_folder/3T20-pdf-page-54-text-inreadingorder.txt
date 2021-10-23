@@ -1,0 +1,269 @@
+BBVA
+Creando Oportunidades
+Balance General
+Activo
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Millones de pesos
+DISPONIBILIDADES
+Cuentas de margen
+INVERSIONES EN VALORES
+Títulos para negociar
+Títulos disponibles para la venta
+Títulos conservados a vencimiento
+Deudores por reporto
+Derivados
+Con Fines de Negociación
+Con Fines de Cobertura
+Ajustes de valuación por cobertura de activos financieros
+TOTAL CARTERA DE CREDITO VIGENTE
+Créditos comerciales
+Actividad empresarial O comercial
+Entidades financieras
+Entidades gubernamentales
+Créditos de consumo
+Créditos a la vivienda
+Media y residencial
+De interés social
+TOTAL CARTERA DE CREDITO VENCIDA
+Créditos comerciales
+Actividad empresarial O comercial
+Créditos de consumo
+Créditos a la vivienda
+Media y residencial
+De interés social
+TOTAL CARTERA DE CREDITO
+Estimación preventiva para riesgos crediticios
+CARTERA DE CREDITO (NETO)
+TOTAL DE CARTERA DE CREDITO (NETO)
+Deudores por primas (neto)
+Cuentas por cobrar a reaseguradores y reafianzadores (neto)
+Beneficios por recibir en operaciones de bursatilización
+Otras cuentas por cobrar (neto)
+Bienes adjudicados (neto)
+Inmuebles, mobiliario y equipo (neto)
+Inversiones permanentes
+Impuestos y PTU diferidos (neto)
+Otros activos
+Cargos diferidos, pagos anticipados e intangibles
+TOTAL ACTIVO
+Sep
+Jun
+2019
+2020
+164,036
+181,837
+17,614
+25,838
+620,916
+730,843
+360,174
+362,401
+127,906
+185,134
+132,836
+183,308
+5,818
+13,885
+129,979
+290,139
+117,018
+266,614
+12,961
+23,525
+1,384
+2,401
+1,281,447
+659,811
+749,098
+505,879
+570,758
+26,452
+28,600
+127,480
+149,740
+296,500
+289,983
+226,178
+242,366
+216,540
+233,339
+9,638
+9,027
+27,031
+25,017
+9,629
+10,243
+9,629
+10,243
+9,959
+8,317
+7,443
+6,457
+6,829
+5,992
+614
+465
+1,306,464
+(41,922)
+1,264,542
+1,264,542
+6,604
+7,132
+541
+710
+40
+0
+106,099
+106,563
+1,417
+1,334
+38,126
+36,908
+894
+1,139
+19,216
+21,293
+17,025
+23,898
+17,025
+23,898
+Dic
+2019
+18,329
+11,263
+10,932
+1,310
+33,162
+9,190
+27,455
+9,518
+9,518
+10,342
+7,595
+7,033
+562
+7,097
+493
+25
+1,438
+38,538
+1,150
+16,229
+16,229
+Mar
+2020
+157,212
+20,919
+725,463
+381,213
+193,618
+150,632
+19,038
+339,543
+314,102
+25,441
+1,194
+780,692
+593,575
+34,830
+152,287
+298,906
+234,434
+225,554
+8,880
+29,116
+10,082
+10,082
+10,843
+8,191
+7,611
+580
+8,096
+629
+18
+132,491
+1,378
+37,634
+1,165
+25,591
+18,796
+18,796
+Sep
+2020
+218,704
+26,005
+797,137
+398,852
+209,625
+188,660
+10,655
+228,687
+208,343
+20,344
+2,129
+717,641
+534,926
+26,762
+155,953
+290,740
+237,505
+7,395
+25,940
+9,932
+9,932
+7,778
+8,230
+7,729
+501
+(41,563)
+6,840
+707
+0
+96,805
+1,415
+36,272
+1,446
+22,828
+22,047
+22,047
+150,711
+669,648
+373,166
+160,965
+135,517
+120,309
+109,377
+1,218,088
+684,509
+507,622
+143,725
+302,366
+231,213
+222,023
+1,245,543
+(35,486)
+1,210,057
+1,210,057
+93,903
+22,530
+2,363,030
+1,182,489
+1,209,520
+(35,436)
+1,174,084
+1,174,084
+2,303,793
+2,708,462
+54
+1,314,032
+1,343,148
+(43,220)
+1,299,928
+1,299,928
+2,789,095
+1,253,281
+244,900
+1,279,221
+1,237,658
+1,237,658
+2,709,335

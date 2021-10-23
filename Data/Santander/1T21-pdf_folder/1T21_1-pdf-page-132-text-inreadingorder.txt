@@ -1,0 +1,78 @@
+Volatilidad Histórica
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+FXI106R DC030
+Reporte de Resultados | 1T.2021
+Banco Santander México
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Pago de derechos
+bajo distintos valores del valor observado
+$130
+$125
+$120
+$115
+$110
+$105
+$100
+$95
+$90
+$85
+$80
+Valor observado
+Nivel de mercado
+Valor observado (VO)
+DEA 1M
+0
+2.02
+5.00
+4.05
+10.00
+6.07
+15.00
+8.09
+20.00
+10.12
+25.00
+12.14
+30.00
+14.16
+35.00
+16.19
+40.00
+18.21
+45.00
+20.24
+50.00
+DEA 3M
+100.00
+derechos a
+vencimiento
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+DEA 6M
+110.00
+Santander
+DEA 12M
+130.00
+80,00
+90.00
+120.00
+0
+Pago de
+130

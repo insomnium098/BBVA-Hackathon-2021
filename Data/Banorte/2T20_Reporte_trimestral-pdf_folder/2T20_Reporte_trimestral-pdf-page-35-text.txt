@@ -1,0 +1,101 @@
+GRUPO FINANCIERO
+IV. Estados Financieros
+BANORTE
+GFNORTE - ESTADO DE FLUJO DE EFECTIVO
+CONSOLIDADO DEL 1 DE ENERO AL 30 DE JUNIO DE 2020
+(Millones de Pesos)
+Resultado Neto
+15,636
+Ajustes por partidas que no implican flujo de efectivo
+Depreciación de Inmuebles, mobiliario y equipo
+1,102
+Reservas Técnicas
+9,162
+Provisiones
+68
+Impuestos a la utilidad causados ydiferidos
+5,114
+Participación en el resultado de subsidiarias no consolidadas, asociadas y
+(812)
+negocios conjuntos
+14,634
+30,270
+Actividades de operación
+Cambio en cuentas de margen
+(12,426)
+Cambio en inversiones en valores
+(57,340)
+Cambio en deudores por reporto
+1,141
+Cambio en derivados (activo)
+(39,403)
+Cambio en cartera de crédito (neto)
+(24,528)
+Cambio en derecho de cobro adquiridos (neto)
+163
+Cambio en cuentas por cobrar de instituciones de seguros y fianzas (neto)
+(153)
+Cambio en deudores por primas (neto)
+(4,722)
+Cambio en reaseguradores y reafianzadores (neto)
+(1,085)
+Cambio en beneficios por recibir en operaciones de bursatilización
+(18)
+Cambio en bienes adjudicados (neto)
+79
+Cambio en otros activos operativos (neto)
+(20,160)
+Cambio en captación tradicional
+76,658
+Cambio en préstamos interbancarios y de otros organismos
+24,756
+Cambio en acreedores por reporto
+7,252
+Cambio en colaterales vendidos o dados en garantía
+(98)
+Cambio en derivados (pasivo)
+38,002
+Cambio en reservas técnicas (neto)
+16,281
+Cambio en reaseguradores yreafianzadores (neto) (pasivo)
+1,655
+Cambio en obligaciones subordinadas con características de pasivo
+9,271
+Cambio en otros pasivos operativos
+5,998
+Cambio en instrumentos de cobertura (de partidas cubiertas relacionadas
+1,239
+con actividades de operación)
+Pago de Impuestos a la utilidad
+(5,570)
+Flujos netos de efectivo de actividades de operación
+47,262
+Actividades de inversión
+Cobros por disposición de inmuebles, mobiliario
+424
+Pagos por adquisición de inmuebles, mobiliario y equipo
+(2,594)
+Pagos por adquisición de subsidiarias, asociadas y acuerdos con control
+(73)
+conjunto
+Cobros de dividendos en efectivo
+1,814
+Flujos netos de efectivo de actividades de inversión
+(429)
+Actividades de financiamiento
+Pagos asociados a la recompra de acciones propias
+(2,146)
+Pagos de intereses de obligaciones subordinadas
+(1,599)
+Flujos netos de efectivo de actividades de financiamiento
+(3,745)
+Incremento o disminución neta de efectivo y equivalentes de efectivo
+43,088
+Efectos por cambios en el valor del efectivo y equivalentes de efectivo
+162
+Efectivo y equivalentes al inicio del período
+62,797
+Efectivo y equivalentes al final del período
+106,047
+Segundo Trimestre de 2020
+35

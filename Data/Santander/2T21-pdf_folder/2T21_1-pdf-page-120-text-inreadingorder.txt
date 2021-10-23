@@ -1,0 +1,54 @@
+Las técnicas de mitigación del riesgo en el Banco tienen un carácter proactivo. El Plan Financiero, adicional a la elaboración de
+proyecciones y escenarios de estrés, permiten anticipar riesgos y ejecutar medidas para garantizar que el perfil de liquidez sea el
+adecuado.
+Explicación de cómo se utilizan las pruebas de estrés.
+Las Pruebas de Estrés de Liquidez son una herramienta de la Administración Integral de Riesgos diseñadas para advertir a los
+distintos órganos de gobierno y al personal responsable de la toma de decisiones en materia de liquidez de la Institución, sobre
+los posibles impactos adversos considerando los Riesgos de Liquidez a los que está expuesta.
+Los resultados de estas pruebas de estrés tienen como objetivo identificar los impactos de forma prospectiva, con el objeto de
+mejorar los procesos de planificación, y ayudar a adecuar y a calibrar el Apetito de Riesgo, los Límites de Exposición y Niveles de
+Tolerancia al Riesgo de Liquidez.
+Descripción de los planes de financiamiento contingentes.
+El Plan contempla los siguientes elementos: tipo y modelo de negocio para poner en contexto el Plan. Se enlistan los Indicadores
+de Alerta Temprana identificados para detectar oportunamente situaciones de riesgo de liquidez, así como los elementos que
+definen una situación de crisis financiera. Adicionalmente se analizan los faltantes de liquidez en caso de materializarse los
+escenarios de estrés descritos y se seleccionan las medidas a utilizar para restablecer las condiciones de liquidez. Se establece
+una priorización general de las medidas a ejecutar a fin de preservar el valor de la entidad y la estabilidad de los mercados. Entre
+los aspectos fundamentales del Plan, se encuentra el proceso de gobierno, que señala las áreas responsables de las distintas
+fases: activación, ejecución, comunicación y mantenimiento del propio Plan.
+El pasado 8 de abril del 2020, sesionó el Comité de Regulación de Liquidez Bancaria, aprobando algunas excepciones a las Disposiciones
+de
+Liquidez (CCL). Dichas excepciones se enlistan a continuación:
+Se pueden seguir registrando como activos líquidos aquellos que hayan sido elegibles en tal capacidad hasta el 28 de febrero de
+2020, antes de que los mercados comenzaran a manifestar el impacto de la pandemia.
+Se permite excluir la información del mes de marzo para el cálculo de las reservas de liquidez que las Instituciones deben
+mantener para hacer frente a potenciales llamadas de margen o cambios en la valuación del portafolio de operaciones con
+instrumentos derivados (LBA).
+Otorgan excepciones temporales a algunas de las medidas correctivas señaladas en las Disposiciones de Liquidez, así como no
+considerar incumplimiento al CCL el que alguna Institución se clasifique en los escenarios III, IVc contemplados en las referidas
+Disposiciones.
+Las excepciones antes mencionadas inicialmente estuvieron vigentes por seis meses a partir del 28 de febrero de 2020, sin
+embargo Banxico y la CNBV han determinado extenderlas de manera indefinida.
+Al aplicar algunas de las excepciones arriba mencionadas, el CCL pasó a 315.99% de acuerdo al formato arriba reportado.
+Datos Generales e Información Bursátil
+Los valores a los que podrá estar referenciada cada una de las Series podrán ser en su conjunto o de manera individual, conforme a lo dispuesto
+en el cuarto párrafo del artículo 66 de la Ley del Mercado de Valores, cualquiera de los valores que a continuación se detallan, de los cuales a la
+fecha y por los últimos 3 ejercicios no han ocurrido suspensiones significativas en la negociación de los mismos.
+La Emisora publicará de manera mensual en la página de Internet https://www.santander.com.mx/personas/regulacion/titulos.html,
+la
+información relativa al comportamiento de los Activos Subyacentes de las Series vigentes.
+Índice
+Clave de pizarra
+Eurostoxx 50
+SX5E
+EURO STOXX 50ESG-X
+SX5EESGX
+Santander
+d)
+e)
+25. Activos Subyacentes
+Índices
+i) Eurosstoxx 50 (SX5E)
+Reporte de Resultados | 2T.2021
+Banco Santander México
+118

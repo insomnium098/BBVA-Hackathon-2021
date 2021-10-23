@@ -1,0 +1,82 @@
+Tipo de Derivado
+Porcentaje de productos cierre del segundo trimestre de 2021
+Derivados sobre tasas de interés
+42.30%
+Derivados sobre tipo de cambio
+57.54%
+Derivados sobre renta fija
+0.00%
+Derivados sobre acciones
+0.16%
+Total
+100.00%
+A continuación se muestra el valor presente de la pérdida esperada al cierre del segundo trimestre del 2021 y promedio trimestral.
+Pérdida Esperada
+Millones de dólares americanos
+Segmento
+abr-21
+may-21
+jun-21
+Promedio
+Riesgo Soberano, Banca de Desarrollo e Instituciones Financieras
+2.01
+2.10
+2.44
+2.18
+Corporativos
+4.79
+4.69
+4.06
+4.51
+Project Finance
+2.76
+2.80
+2.76
+2.77
+Empresas
+1.79
+1.61
+1.14
+1.51
+Como ya se mencionó anteriormente, la exposición de riesgo de crédito de contrapartida se mitiga mediante la aplicación de acuerdos de netting
+(ISDA-CMOF) y colaterales ("CSA-CGAR"), lo que da como resultado el REC Neto. El colateral es un activo que sirve como garantía frente a un
+contrato de derivados o una emisión de bonos, entre otras operaciones financieras y su principal objetivo de los acuerdos de colaterales es
+proveer una protección ante el posible impago de una contrapartida.
+Respecto a la gestión de las garantías reales, colaterales, en el caso de derivados, la operativa sujeta a un acuerdo de colateral se valora según
+la periodicidad establecida en el acuerdo de colateral. Sobre dicha valoración, se aplican los parámetros establecidos en el acuerdo de colateral
+para determinar el importe a entregar o recibir de la contraparte. Estos importes, llamadas de margen, son solicitados por la parte que tenga
+derecho
+a recibir el colateral, normalmente con periodicidad diaria, según lo que estipule el acuerdo de colateral. La contraparte que recibe el
+requerimiento de entrega del colateral, revisa la valoración, pudiendo surgir discrepancias en este proceso. Para caso específico de derivados,
+los contratos de colaterales pueden ser de dos tipos:
+Variation Margin: se refiere a los activos de garantía entregados por una contrapartida a otra contrapartida a fin de cumplir sus
+obligaciones en virtud de una o varias operaciones entre las partes, a raíz de una variación en el valor de tales obligaciones desde la
+última vez en que se entregaron dichos colaterales.
+Initial Margin. se refiere al colateral recibido por una contrapartida para cubrir su exposición actual y futura en el intervalo comprendido
+entre la última recepción de margen y la liquidación de posiciones o la cobertura del riesgo de mercado tras un impago de la otra
+contrapartida.
+El monto total de colaterales recibidos por operaciones de derivados al cierre del segundo trimestre de 2021:
+Garantía
+Porcentaje
+Colaterales en efectivo
+68.41%
+Colaterales en bonos emitidos por el Gobierno Federal Mexicano
+13.83%
+Colaterales en bonos emitidos por otros gobiernos
+17.76%
+Nota: En caso de que descienda la calificación crediticia de Banco Santander, no habría impacto en la cantidad de garantías reales que la
+Institución
+tendría
+que
+proporcionar, porque los contratos de garantías con threshold mayor a 0, por son unilaterales a favor de la Institución.
+Respecto a la correlación entre el colateral recibido y el garante, en las operaciones de derivados, se confirma que por concepto de variation
+margin, se reciben únicamente bonos gubernamentales y/o efectivo como colateral, lo cual implica que, prácticamente no existe riesgo de
+efectos adversos por la existencia de correlaciones.
+El riesgo de correlación adversa o wrong-way risk también es gestionado por la dirección de riesgo de crédito de contrapartida. Este riesgo se
+origina en caso de que la exposición con una cartera o con una contraparte aumente cuando la calidad crediticia de ésta se deteriore. Es decir,
+existe wrong-way risk cuando se produce un incremento del riesgo de incumplimientoy, como consecuencia, aumenta la exposición que se tiene
+con la contraparte. En Banco Santander (México) las operaciones que generen wrong-way risk tienen un tratamiento especial, no se incluyen en
+Reporte de Resultados | 2T.2021
+Santander
+Banco Santander México
+108

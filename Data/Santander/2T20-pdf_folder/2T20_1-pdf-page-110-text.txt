@@ -1,0 +1,112 @@
+Actualmente Banco Santander tiene líneas aprobadas de riesgos de contrapartida para los siguientes sectores: Soberano Mexicano y Banca
+de Desarrollo local, Instituciones Financieras Extranjeras, Instituciones Financieras Mexicanas, Corporativos, Banca de Empresas-SGC, Banca
+de Instituciones, Unidad de Grandes Empresas y Project Finance.
+El REC Neto de las líneas de riesgo de crédito de contrapartida de Banco Santander del segundo trimestre de 2020 es:
+Riesgo Equivalente de Crédito Neto
+Millones de dólares americanos
+Segmento
+abr-20
+may-20
+jun-20
+Promedio
+Riesgo Soberano, Banca de Desarrollo e Instituciones
+Financieras
+1,292.68
+1,059.80
+1,034.98
+1,129.15
+Corporativos
+523.77
+501.37
+521.63
+515.59
+Project Finance
+461.97
+469.69
+475.55
+469.07
+Empresas
+361.05
+357.93
+358.12
+359.03
+El REC Neto de las líneas de riesgo emisor de Banco Santander del segundo trimestre de 2020 es:
+Riesgo Equivalente de Crédito Neto
+Segmento
+abr-20
+may-20
+jun-20
+Promedio
+Riesgo Soberano, Banca de Desarrollo e Instituciones
+Financieras
+19,235.34
+21,573.26
+22,619.92
+21,142.84
+Corporativos
+56.71
+56.16
+54.95
+55.94
+Project Finance
+0.00
+0.00
+0.00
+0.00
+Empresas
+0.02
+0.01
+0.00
+0.01
+El porcentaje por productos de Riesgo de Contrapartida de Banco Santander al cierre del trimestres de 2020, que corresponde a operaciones
+de derivados se distribuye de la siguiente manera de acuerdo con el tipo de derivado:
+Tipo de Derivado
+Porcentaje de Productos Cierre del segundo trimestre de 2020
+Derivados sobre tasas de interés
+38.22%
+Derivados sobre tipo de cambio
+61.66%
+Derivados sobre renta fija
+0.00%
+Derivados sobre acciones
+0.13%
+Total
+100.00%
+A
+continuación se muestra el valor presente de la pérdida esperada al cierre del segundo trimestre del 2020 y promedio trimestral.
+Pérdida Esperada
+Millones de dólares americanos
+Segmento
+abr-20
+may-20
+jun-20
+Promedio
+Riesgo Soberano, Banca de Desarrollo e Instituciones Financieras
+4.02
+3.93
+3.86
+3.94
+Corporativos
+27.03
+15.05
+13.81
+18.63
+Project Finance
+13.20
+9.36
+8.66
+10.41
+Empresas
+11.47
+7.93
+7.46
+8.95
+Como ya se mencionó anteriormente, la exposición de riesgo de crédito de contrapartida se mitiga mediante la aplicación de acuerdos de
+netting (ISDA-CMOF) y colaterales ("CSA-CGAR"), lo que da como resultado el REC Neto. El colateral es un activo que sirve como garantía frente
+a un contrato de derivados o una emisión de bonos, entre otras operaciones financieras y su principal objetivo de los acuerdos de colaterales
+es proveer una protección ante el posible impago de una contrapartida.
+Respecto a la gestión de las garantías reales, colaterales, en el caso de derivados, la operativa sujeta a un acuerdo de colateral se valora según
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+109

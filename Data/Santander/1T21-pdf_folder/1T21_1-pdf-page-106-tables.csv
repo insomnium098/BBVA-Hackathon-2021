@@ -1,0 +1,14 @@
+Table
+Millones de pesos ,Total ,1D ,1S ,1M ,3M ,6M ,9M ,1A ,5A ,>5A 
+Gap Estructural ,"172,108 ","6,638 ","(9,555) ","(107,296) ","56,862 ","29,175 ","32,714 ","24,589 ","283,554 ","(144,573) "
+No Derivados ,"168,909 ","6,638 ","(9,484) ","(107,221) ","57,115 ","28,878 ","32,855 ","24,824 ","279,660 ","(144,356) "
+Derivados ,"3,199 ",0 ,(71) ,(75) ,(253) ,297 ,(141) ,(235) ,"3,893 ",(217) 
+
+
+Table
+MM Pesos ,,Sensibilidad ,NIM ,,,Sensibilidad ,MVE ,
+Banco ,Escenario ,Total ,Derivados ,No Derivados ,Escenario ,Total ,Derivados ,No Derivados 
+Balance MXN GAP ,(100) bp ,(398) ,(862) ,464 ,+100 bp ,"(1,672) ","1,217 ","(2,889) "
+Balance USD GAP ,(100) bp ,(992) ,14 ,"(1,006) ",(100) bp ,"(3,252) ","(3,747) ",495 
+
+

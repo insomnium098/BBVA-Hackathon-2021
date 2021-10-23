@@ -1,0 +1,218 @@
+Ticker
+Nombre
+Ticker
+Nombre
+Ticker
+Nombre
+QRVO UW
+Molson Coors
+Qorvo Inc
+TAP UN Equity
+MA UN Equity
+Mastercard Inc
+Equity
+Brewing Co
+CTL UN Equity
+CenturyLink Inc
+KLAC UW Equity
+KLA-Tencor Corp
+KMX UN Equity
+CarMax Inc
+Marriott
+Intercontinental
+UDR UN Equity
+UDR Inc
+MAR UW Equity
+International
+ICE UN Equity
+Exchange Inc
+Inc/MD
+Fidelity National
+McCormick & Co
+CLX UN Equity
+Clorox Co/The
+MKC UN Equity
+FIS UN Equity
+Information
+Inc/MD
+Services I
+CMS Energy
+Chipotle Mexican
+CMS UN Equity
+JWN UN Equity
+Nordstrom Inc
+CMG UN Equity
+Corp
+Grill Inc
+Newell Brands
+NWL UW Equity
+PCAR UW Equity
+PACCAR Inc
+WYNN UW Equity
+Wynn Resorts Ltd
+Inc
+Colgate-
+Costco Wholesale
+CL UN Equity
+COST UW Equity
+AIZ UN Equity
+Assurant Inc
+Palmolive Co
+Corp
+First Republic
+CMA UN Equity
+Comerica Inc
+FRC UN Equity
+NRG UN Equity
+NRG Energy Inc
+Bank/CA
+IPG Photonics
+Regions Financial
+IPGP UW Equity
+SYK UN Equity
+Stryker Corp
+RF UN Equity
+Corp
+Corp
+Conagra Brands
+Monster Beverage
+CAG UN Equity
+TSN UN Equity
+Tyson Foods Inc
+MNST UW Equity
+Inc
+Corp
+Consolidated
+Lamb Weston
+ED UN Equity
+LW UN Equity
+MOS UN Equity
+Mosaic Co/The
+Edison Inc
+Holdings Inc
+SL Green Realty
+Applied Materials
+SLG UN Equity
+AMAT UW Equity
+EXPE UW Equity
+Expedia Group Inc
+Corp
+Inc
+American Airlines
+GLW UN Equity
+Corning Inc
+AAL UW Equity
+EVRG UN Equity
+Evergy Inc
+Group Inc
+CMI UN Equity
+Cummins Inc
+CAH UN Equity
+Cardinal Health Inc
+DISCA UW Equity
+Discovery Inc
+CF Industries
+DHR UN Equity
+Danaher Corp
+CELG UW Equity
+Celgene Corp
+CF UN Equity
+Holdings Inc
+TGT UN Equity
+Target Corp
+CERN UW Equity
+Cerner Corp
+VIAB UW Equity
+Viacom Inc
+Cincinnati Financial
+DE UN Equity
+Deere & Co
+CINF UW Equity
+GOOG UW Equity
+Alphabet Inc
+Corp
+Dominion
+Cooper Cos
+D UN Equity
+DHI UN Equity
+DR Horton Inc
+COO UN Equity
+Energy Inc
+Inc/The
+TE Connectivity
+DOV UN Equity
+Dover Corp
+FLS UN Equity
+Flowserve Corp
+TEL UN Equity
+Ltd
+Alliant Energy
+Discover Financial
+LNT UW Equity
+EA UW Equity
+Electronic Arts Inc
+DFS UN Equity
+Corp
+Services
+Expeditors
+Duke Energy
+DUK UN Equity
+EXPD UW Equity
+International of
+TRIP UW Equity
+TripAdvisor Inc
+Corp
+Washington I
+Regency Centers
+REG UW Equity
+FAST UW Equity
+Fastenal Co
+VUN Equity
+Visa Inc
+Corp
+Mid-America
+ETN UN Equity
+Eaton Corp PLC
+MTB UN Equity
+M&T Bank Corp
+MAA UN Equity
+Apartment
+Communities Inc
+ECL UN Equity
+Ecolab Inc
+XEL UW Equity
+Xcel Energy Inc
+XYL UN Equity
+Xylem Inc/NY
+Marathon
+PKI UN Equity
+PerkinElmer Inc
+FISV UW Equity
+Fiserv Inc
+MPC UN Equity
+Petroleum Corp
+Emerson Electric
+EMR UN Equity
+FITB UW Equity
+Fifth Third Bancorp
+TSCO UW Equity
+Tractor Supply Co
+Co
+EOG Resources
+Advanced Micro
+EOG UN Equity
+GILD UW Equity
+Gilead Sciences Inc
+AMD UW Equity
+Inc
+Devices Inc
+ETR UN Equity
+Entergy Corp
+HAS UW Equity
+Hasbro Inc
+RMD UN Equity
+ResMed Inc
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+122

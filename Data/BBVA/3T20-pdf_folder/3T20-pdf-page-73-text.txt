@@ -1,0 +1,85 @@
+BBVA
+Creando Oportunidades
+Swaps de Crédito
+SUBYACENTE
+Por recibir
+A entregar
+México
+111
+221
+CCS de cobertura
+Divisa
+Compra
+Venta
+MXN
+24,876
+14,141
+USD
+33,722
+17,285
+EURO
+O
+24,940
+UDI
+O
+504
+GBP
+O
+1,351
+IRS de cobertura
+Divisa
+Compra
+Venta
+MXN
+46,512
+O
+USD
+86,601
+0
+Forwards de cobertura
+Divisa
+Compra
+Venta
+USD
+5,337
+277
+EUR
+390
+O
+* Monto contratado en millones de pesos
+** Monto de referencia en millones de pesos
+Inversiones y Operaciones en Valores
+Grup Financiero BBVA Bancomer, S.A. de C.V.
+Composición de inversiones y operaciones con valores
+Septiembre 2020
+Millones de pesos
+Gubernamental
+Bancario
+Otros deuda
+Acciones
+Total
+Títulos para negociar
+385,262
+3,595
+6,870
+3,125
+398,852
+Títulos disponibles para la venta
+204,363
+2,603
+1,789
+870
+209,625
+Títulos conservados a vencimiento
+81,667
+106,993
+O
+0
+188,660
+Total
+671,292
+113,191
+8,659
+3,995
+797,137
+73

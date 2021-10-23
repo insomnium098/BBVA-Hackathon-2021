@@ -1,0 +1,234 @@
+13
+TASA
+4.950%
+5.750%
+6.875%
+7.625%
+0.875%
+4.970%
+TIIE+0.28%
+TIIE +0.13%
+TIIE +0.17%
+1.550%
+6.750%
+7.500%
+0.450%
+0.500%
+TIIE+0.00%
+8.375%
+2.760%
+0
+18,628
+11,037
+19,787
+56
+934
+50,441
+(14,420)
+36,021
+GRUPO FINANCIERO
+BANORTE
+FECHA DE
+PAGO DE
+INTERESES
+15-feb-28
+182 días
+180 días
+Trimestral
+10-ene-28
+Trimestral
+Anual
+Semestral
+24-nov-22
+28 días
+13-may-22
+28 días
+10-may-24
+28 días
+11-oct-22
+Anual
+27-sep-24
+Trimestral
+27-jun-29
+Trimestral
+18-dic-23
+Anual
+06-dic-24
+Anual
+10-may-21
+28 días
+14-oct-30
+Trimestral
+18-sep-30
+182 días
+62
+V. Anexos
+Obligaciones Q BANORTE 08U
+Obligaciones DIIs emisión 2016 (BANOC36 311004)
+Obligaciones DIIs emisión 2017 (BANOD19_999999)
+Obligaciones Dlls emisión 2017 (BANOE91 _999999)
+Eurobono (francos suizos) emisión 2018 (BANO589)
+Certificados bursátiles 94 BINTER 16U
+Certificados bursátiles 94 BANORTE 18-2
+Certificados bursátiles 94 BANORTE 19
+Certificados bursátiles 94 BANORTE 19-2
+Eurobono (francos suizos) emisión 2019 (BANO397)
+Obligaciones DIIs emisión 2019 (BANOA64_999999)
+Obligaciones Dlls emisión 2019 BANOB48_999999)
+Eurobono (francos suizos) emisión 2019 (BANO343)
+Eurobono (francos suizos) emisión 2020 (BANO664)
+Certificados bursátiles 94 BANORTE 20
+Obligaciones DIIs emisión 2020 (BANOC21 999999)
+Certificados bursátiles 94 BANORTE 20U
+Préstamos de Bancos del Extranjero
+concentrados desde el extranjero
+Préstamos de Banca de Desarrollo
+Préstamos de Banca de Fomento
+Call y Préstamos de Bancos
+Préstamos de Fondos Fiduciarios
+Provisiones de Intereses
+Eliminaciones
+Total
+Cuarto Trimestre de 2020
+EMISIONES o TÍTULOS DE DEUDA A LARGO PLAZO VIGENTES AL 31 DE DICIEMBRE DE 2020 BANCO MERCANTIL DEL NORTE
+(Millones de Pesos)
+FECHA DE
+MONTO
+MONTO ORIGINAL
+MONTO
+MONEDA
+PLAZO
+EMISIÓN
+ORIGINAL
+VALORIZADO)
+ACTUAL
+UDIS
+11-mar-08
+495
+1,749
+1,829
+20 años
+USD
+04-oct-16
+500
+9,607
+5,858
+15 años
+USD
+06-jul-17
+350
+6,413
+6,968
+Perpetuo
+USD
+06-jul-17
+550
+10,077
+10,950
+Perpetuo
+CHF
+14-jun-18
+100
+1,983
+2,253
+3.5 años
+UDIS
+13-oct-16
+365
+2,000
+2,412
+10 años
+MXN
+29-nov-18
+2,663
+2,663
+2,663
+4 años
+MXN
+17-may-19
+5,400
+5,400
+5,400
+3 años
+MXN
+17-may-19
+1,500
+1,500
+1,500
+5 años
+CHF
+11-abr-19
+250
+4,694
+5,632
+3.5 años
+USD
+27-jun-19
+600
+11,501
+11,945
+Perpetuo
+USD
+27-jun-19
+500
+9,584
+9,954
+Perpetuo
+CHF
+18-sep-19
+160
+3,112
+3,604
+4.3 años
+CHF
+06-mar-20
+225
+4,826
+5,069
+4.8 años
+MXN
+08-may-20
+11,000
+11,000
+11,000
+1 año
+USD
+14-jul-20
+500
+11,309
+9,954
+Perpetuo
+UDIS
+30-sep-20
+107
+700
+706
+10 años
+PRÉSTAMOS INTERBANCARIOS Y CON OTROS ORGANISMOS AL 4T20 DE GRUPO
+FINANCIERO BANORTE
+(Millones de Pesos)
+MONEDA
+MONEDA
+TOTAL
+NACIONAL
+EXTRANJERA
+-
+0
+12,922
+5,706
+9,775
+1,261
+19,787
+-
+56
+-
+934
+-
+43,474
+6,967
+TIPO DE DEUDA
+VENCIMIENTO
+04-oct-26
+06-jul-22
+14-dic-21
+01-oct-26

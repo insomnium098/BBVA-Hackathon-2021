@@ -1,0 +1,455 @@
+GRUPO FINANCIERO
+BANORTE
+2T21
+25,060
+8,226
+362
+313
+16,884
+2,584
+14,300
+530
+508
+3,212
+261
+1,263
+176
+7
+-
+0
+438
+6,394
+1,911
+-
+1,176
+3,087
+3,307
+(449)
+95
+102
+(253)
+838
+(10)
+128
+956
+703
+-
+68
+132
+-
+(168)
+-
+2
+-
+38
+72
+4,083
+18,383
+4,089
+137
+701
+1,538
+2,141
+477
+889
+9,972
+8,411
+213
+8,624
+1,376
+727
+2,103
+6,522
+-
+(0)
+6,522
+39
+IV. Estados Financieros
+Banco
+Estado de Resultados - Banco
+(Millones de Pesos)
+Ingresos por Intereses
+Gastos por Intereses
+Comisiones cobradas
+Comisiones Pagadas
+Ingresos de Intereses Netos antes de Estim.
+Ptva. para Riesgos Cred.
+Provisiones Prev. para Riesgos crediticios
+Ingresos de Intereses Netos Ajustado por
+Riesgos Crediticios
+Transferencia de Fondos
+Manejo de Cuenta
+Servicios de Banca Electrónica
+Por Créditos Comerciales y Vivienda
+Por créditos de Consumo
+Fiduciario
+Ingresos por Portafolios Inmobiliarios
+Fondos de Inversión
+Asesoría e Intermediación financiera
+Otras Comisiones Cobradas
+Comisiones por Servicios Cobrados
+Cuotas de Intercambio
+Comisiones de Seguros
+Otras Comisiones Pagadas
+Comisiones por Servicios Pagados
+Comisiones Netas
+Valuación y compra-venta de divisas y metales
+Derivados
+Títulos
+Valuación
+Divisas y Metales
+Derivados
+Títulos
+Compra-venta
+Resultado por intermediación
+Recuperación de cartera de crédito
+Portafolios de crédito
+Resultado por bienes adjudicados
+Liberación de Provisiones
+Quebrantos y Estimaciones
+Deterioro de Activos
+Ingresos por Arrendamiento
+Provenientes de Seguros
+Otros Ingresos (Egresos) de la Operación:
+Total Otros Ingresos (Egresos) de la
+Operación
+Total de Ingresos No Financieros
+Ingreso Total de Operación
+Gasto de Personal
+Participación de los Trabajadores en las Utilidades
+(PTU) causado
+Honorarios Pagados
+Gastos de Administración y Promoción
+Rentas, Depreciaciones y Amortizaciones
+Otros impuestos y Gastos No deducibles
+Aportación al Fobaproa ó al IPAB
+Total Gasto No Financiero
+Resultado de la Operación
+Participación en subsidiarias y asociadas no
+consolidadas
+Resultados Antes de Impuestos a la Utilidad
+Impuestos a la utilidad causados
+Impuesto al Activo
+Impuestos a la utilidad diferidos
+Impuestos
+Resultados antes de operaciones
+discontinuadas
+Operaciones discontinuadas
+Participación no controladora
+Utilidad Neta
+Información Financiera 2T21
+1T20
+1T21
+29,491
+24,413
+12,042
+17,517
+16,171
+4,262
+13,254
+12,940
+2,336
+1,241
+5,782
+1,226
+2,135
+3,647
+1,219
+(1,238)
+1,742
+1,185
+1,048
+4,726
+17,980
+17,860
+3,755
+2,091
+1,862
+9,718
+10,036
+8,263
+8,292
+2,576
+2,112
+6,180
+6,180
+2T20
+28,517
+11,172
+17,421
+8,527
+8,895
+2,027
+1,048
+5,116
+1,018
+1,936
+3,180
+1,139
+1,402
+5,268
+14,163
+3,704
+1,789
+1,967
+9,579
+4,584
+4,603
+3,669
+3,669
+3T20
+26,257
+8,829
+17,501
+3,122
+14,379
+2,379
+1,148
+5,475
+1,228
+2,226
+3,248
+1,034
+4,603
+18,983
+3,846
+1,773
+1,993
+9,853
+9,129
+9,156
+2,004
+2,522
+6,634
+6,634
+4T20
+24,971
+8,094
+16,942
+5,953
+10,989
+3,033
+1,292
+6,511
+1,684
+1,194
+2,879
+3,633
+(1,476)
+(1,111)
+1,930
+1,845
+4,876
+15,865
+4,477
+1,796
+2,053
+10,832
+5,034
+5,062
+1,912
+1,161
+3,900
+3,901
+8,280
+352
+314
+3,231
+473
+509
+2,916
+277
+1,164
+106
+6
+-
+0
+670
+6,122
+1,625
+-
+1,118
+2,743
+3,379
+574
+111
+(264)
+420
+764
+5
+3
+772
+1,193
+-
+85
+86
+-
+(168)
+-
+2
+-
+342
+348
+4,919
+3,823
+138
+699
+1,859
+2,152
+453
+912
+7,824
+28
+7,852
+1,285
+593
+1,879
+5,974
+-
+0
+5,974
+358
+291
+400
+598
+495
+118
+2
+-
+0
+592
+-
+909
+(119)
+(137)
+(862)
+305
+-
+67
+92
+-
+(319)
+-
+18
+-
+173
+31
+131
+624
+428
+828
+29
+(465)
+-
+(0)
+346
+270
+476
+526
+394
+102
+3
+-
+0
+540
+-
+918
+(500)
+(75)
+565
+774
+(323)
+385
+836
+-
+52
+121
+-
+(162)
+-
+19
+-
+658
+687
+131
+650
+419
+919
+19
+317
+617
+934
+-
+(0)
+354
+281
+489
+564
+129
+112
+2
+-
+0
+651
+-
+998
+(306)
+531
+65
+291
+464
+2
+277
+743
+-
+76
+178
+-
+(167)
+-
+(26)
+-
+260
+321
+131
+731
+428
+951
+27
+518
+-
+(0)
+380
+314
+513
+543
+366
+153
+12
+-
+0
+598
+-
+309
+56
+(169)
+84
+734
+-
+54
+189
+-
+(136)
+-
+4
+-
+399
+510
+131
+888
+556
+931
+28
+(750)
+-
+0

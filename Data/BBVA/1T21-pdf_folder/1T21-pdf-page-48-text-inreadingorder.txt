@@ -1,0 +1,36 @@
+BBVA
+Creando Oportunidades
+son los encargados de implantar el modelo en el día a día de las áreas de negocio. De esta
+forma, BBVA México dispone de una visión a pie de proceso, que es donde se identifican y
+priorizan los riesgos operacionales y toman las decisiones de mitigación.
+Para llevar a cabo esta tarea, BBVA México dispone de herramientas que cubren los
+aspectos cualitativos y cuantitativos del riesgo operacional:
+Herramienta de gestión de Riesgo Operacional: En la herramienta corporativa STORM se
+documenta la identificación y gestión de los riesgos más relevantes que constituyen la
+referencia para poner foco en los Comités de Supervisión de Control Interno de las
+unidades de negocio y soporte, así como en las sesiones del Comité de Riesgo delegado
+del Consejo celebradas durante el año. Esta herramienta incluye módulos de indicadores
+y escenarios.
+Indicadores anclados en los principales riesgos operacionales y sus controles: Se está
+desarrollando una estructura de indicadores que permitan medir la evolución de los
+riesgos y sus controles en el tiempo, generar señales de alerta y medir la efectividad de
+los controles de una manera continua. Estos indicadores son definidos y seguidos por
+los RCA's.
+Herramienta SIRO: Los eventos de riesgo operacional casi siempre tienen un impacto
+negativo en las cuentas de BBVA México. Para tener un control exhaustivo de los
+mismos, éstos se registran en una base de datos llamada SIRO (Sistema Integrado de
+Riesgo Operacional). Para que ésta sea confiable, se alimenta directamente desde la
+contabilidad mediante interfaces automáticas en el 95% de sus entradas.
+4) Modelo de Gobierno
+Las decisiones sobre la mitigación se llevan a cabo en el seno de un Comité de Supervisión
+de Control Interno, constituido en cada unidad de negocio/apoyo, en el cual participa su
+cuadro directivo, asegurando así la intervención efectiva en la toma de decisiones.
+Los aspectos relevantes en materia de gestión de riesgos operacionales derivados de los
+Comités de Supervisión de Control Interno, son informados a la Alta Dirección, así como al
+Comité de Riesgos Delegado del Consejo, al Comité de Auditoría delegado del Consejo y al
+Consejo de Administración, mediante un esquema de reporte coordinado por la Dir. de
+Riesgos No Financieros, con el cual se propicia que el máximo nivel de BBVA México esté
+permanentemente involucrado en la gestión de los riesgos operacionales y el
+funcionamiento del sistema de control interno.
+5) Capitalización por riesgo operacional
+48

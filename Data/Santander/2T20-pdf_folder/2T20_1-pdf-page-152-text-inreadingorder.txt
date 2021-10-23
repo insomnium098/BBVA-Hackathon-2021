@@ -1,0 +1,86 @@
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Error
+standard
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+19,671.856290
+107.209370
+(107.209370)
+(359.925900)
+359.925900
+0
+Delta en términos de
+emisoras
+(55.2338)
+(68.7197)
+(30,216.4006)
+(2,221.5968)
+482.1881
+(19,671.8563)
+107.2094
+(359.9259)
+FXI107R DC031
+KOC107R DC005
+Total general
+Emisora
+SXE009R DC058
+SXE108R DC063
+XLE110R DC013
+MSF105L DC019
+SPX012R DV008
+FXI106R DC030
+FXI107R DC031
+KOC107R DC005
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Delta en
+Beta original
+títulos
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+Delta cobertura en
+términos de emisoras
+Santander
+Delta obligaciones en
+términos de emisoras
+55.2338
+68.7197
+30,216.4006
+2,221.5968
+(482.1881)
+19,671.8563
+(107.2094)
+359.9259
+1.0000
+1.0000
+1.0000
+1.0000
+1.0000
+1.0000
+1.0000
+1.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+151

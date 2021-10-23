@@ -1,0 +1,63 @@
+Table
+Banco - Balance General (Millones de Pesos) ,1T20 ,2T20 ,3T20 ,4T20 ,1T21 
+PASIVOS ,,,,,
+Depósitos exigibilidad inmediata ,"451,842 ","479,142 ","506,588 ","530,747 ","545,953 "
+Depósitos a plazo-Del Público en General ,"275,566 ","265,347 ","251,496 ","252,331 ","246,944 "
+Depósitos a plazo-Mercado de Dinero ,"26,894 ","28,433 ","26,741 ","14,248 ","8,069 "
+Cuenta global de captación sin movimientos ,"2,213 ","2,368 ","2,489 ","2,585 ","2,639 "
+Títulos de crédito emitidos ,"35,355 ","46,430 ","46,823 ","43,342 ","31,937 "
+Captación de Recursos ,"791,870 ","821,721 ","834,137 ","843,253 ","835,542 "
+De exigibilidad inmediata ,"5,000 ",0 ,0 ,0 ,0 
+De corto plazo ,"8,332 ","40,754 ","16,672 ","8,261 ","8,224 "
+De largo plazo ,"4,197 ","4,156 ","4,073 ","6,404 ","6,632 "
+Préstamos de Bancos y otros ,"17,529 ","44,910 ","20,745 ","14,665 ","14,856 "
+Valores asignados por liquidar ,- ,- ,- ,- ,- 
+Acreedores por reporto ,"175,685 ","190,404 ","113,037 ","115,962 ","113,047 "
+Préstamos de Valores ,- ,- ,- ,- ,- 
+Reportos (saldo acreedor) ,16 ,8 ,2 ,13 ,19 
+Préstamos de valores ,- ,- ,- ,- ,- 
+Derivados ,- ,- ,- ,- ,- 
+Otros colaterales vendidos ,- ,- ,- ,- ,- 
+Total de Colaterales vendidos o dados en garantía ,16 ,8 ,2 ,13 ,19 
+Con fines de negociación ,"50,574 ","58,754 ","50,121 ","44,097 ","24,508 "
+Con fines de cobertura ,"10,487 ","7,682 ","7,189 ","4,990 ","5,566 "
+Operaciones con valores y derivados ,- ,- ,- ,- ,- 
+Derivados ,"61,062 ","66,436 ","57,310 ","49,087 ","30,073 "
+Total de Op. con Valores y Derivados ,"236,763 ","256,847 ","170,348 ","165,062 ","143,139 "
+Ajustes de valuación por cobertura de pasivos financieros ,- ,- ,- ,- ,- 
+Obligaciones en operaciones de bursatilización ,- ,- ,- ,- ,- 
+Impuestos a la Utilidad por pagar ,"2,402 ","1,204 ","1,714 ","2,388 ","1,220 "
+Participación de los trabajadores en la utili. ,639 ,280 ,407 ,538 ,187 
+Aport. para futuros aumentos de capital pendientes ,- ,- ,- ,- ,- 
+de formalizar por su órgano de gobierno ,,,,,
+Acreedores por liquidación de operaciones ,"29,983 ","3,524 ","8,670 ","4,251 ","3,140 "
+Acreedores por cuentas de margen ,- ,- ,- ,- ,- 
+Acreedores Diver. y otras ctas. p/pagar ,"42,155 ","39,933 ","45,620 ","38,353 ","38,753 "
+Otras cuentas por pagar ,"75,179 ","44,941 ","56,412 ","45,530 ","43,300 "
+Obligaciones subordinadas en circulación ,"58,423 ","57,321 ","66,241 ","57,152 ","58,759 "
+Impuestos diferidos (Neto) ,- ,- ,- ,265 ,- 
+Créditos diferidos y Cobros Anticipados ,221 ,304 ,271 ,"1,211 ","1,183 "
+TOTAL PASIVOS ,"1,179,984 ","1,226,044 ","1,148,153 ","1,127,138 ","1,096,778 "
+CAPITAL ,,,,,
+Capital Social ,"18,794 ","18,794 ","18,795 ","18,795 ","18,795 "
+Aport. para futuros aumentos de capital pendientes de formalizar por su órgano de gobierno ,- ,- ,- ,- ,- 
+Prima en venta de acciones ,"2,336 ","2,546 ","2,747 ","2,964 ","3,076 "
+Obligaciones subordinadas en circulación ,- ,- ,- ,- ,- 
+Capital contribuido ,"21,131 ","21,340 ","21,541 ","21,759 ","21,871 "
+Reservas de capital ,"17,330 ","18,959 ","18,959 ","18,959 ","18,959 "
+Resultado de ejercicios anteriores ,"77,595 ","75,094 ","74,280 ","73,302 ","92,748 "
+Res. por valuación de títulos disponibles para la venta ,"(2,824) ",597 ,"1,796 ","3,871 ","2,213 "
+Res. por valuación de instrumentos de cobertura de flujos de efectivo ,"(3,965) ","(1,423) ","(1,707) ",(905) ,"(2,255) "
+Resultado en la valuación de la reserva de riesgo en curso por variaciones en las tasas ,- ,- ,- ,- ,- 
+Efecto acumulado por conversión ,177 ,160 ,115 ,7 ,32 
+Remediciones por beneficios definidos a los empleados ,"(1,963) ","(1,997) ","(2,031) ","(2,333) ","(2,303) "
+Exceso (insuf.) en la actualiz. del Cap. Cont. ,- ,- ,- ,- ,- 
+Ajustes por obligaciones laborales al retiro ,- ,- ,- ,- ,- 
+Efecto acumulado de impuesto diferido ,- ,- ,- ,- ,- 
+Resultado neto ,"6,180 ","9,849 ","16,483 ","20,384 ","5,974 "
+Capital Ganado ,"92,529 ","101,240 ","107,895 ","113,285 ","115,368 "
+Participación no controladora ,3 ,3 ,3 ,3 ,3 
+Total Capital Contable ,"113,663 ","122,583 ","129,440 ","135,047 ","137,242 "
+TOTAL PASIVOS Y CAPITAL ,"1,293,647 ","1,348,628 ","1,277,593 ","1,262,185 ","1,234,021 "
+
+

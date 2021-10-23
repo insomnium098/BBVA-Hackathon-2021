@@ -1,0 +1,41 @@
+BBVA
+Creando Oportunidades
+Probabilidad de Incumplimiento es aquella de que un cliente incumpla sus obligaciones. Los
+elementos que permiten determinar este factor son calificación de riesgo por cliente,
+migración de la calidad crediticia y situación de la cartera vencida.
+Severidad de la pérdida es aquella pérdida económica neta de la recuperación de un
+financiamiento, los elementos que permiten determinar este factor son gastos de
+recuperación (adjudicación y venta) y tipo de garantía.
+Exposición se refiere al monto máximo de saldo al momento del incumplimiento, los
+elementos que permiten determinar este factor son tamaño de la línea, utilización de línea
+y tipo de producto.
+Una vez que se determina el nivel de pérdida esperada, la volatilidad de la misma determina
+el monto de capital económico necesario para cubrir los riesgos identificados. Dado que las
+pérdidas de crédito pueden variar significativamente en el tiempo, se puede inferir que
+creando un fondo con un monto igual a la pérdida promedio se tendrá cubierto el riesgo
+crediticio en el largo plazo; sin embargo, en el corto plazo las fluctuaciones y, por ende, el
+riesgo persiste generando incertidumbre, por lo que debe de ser también cubierta con
+segundo fondo que sirva como garantía para cubrir cuando éstas rebasen las pérdidas
+promedio.
+Desde este punto de vista, las pérdidas promedio pueden soportarse con la creación de una
+reserva preventiva que debe de ser asimilada como un costo del negocio de crédito mientras
+que, el segundo fondo para hacer frente a las pérdidas no esperadas, debe asegurarse
+separando un determinado monto de capital que podrá ser utilizado O no, pero que asegura
+la solvencia de BBVA México ante quebrantos por encima del promedio. Este capital
+asignado depende entonces de qué tan volátiles son las pérdidas de crédito en el tiempo y
+se le denomina Capital Económico, para darle una connotación de riesgo.
+En el cálculo del capital económico, requerido para respaldar las PNE, se tiene que
+establecer el nivel de solvencia deseado por BBVA México, de tal forma que el monto
+asignado cubra determinado número de veces la volatilidad de las pérdidas, asegurando
+una determinada calidad crediticia para BBVA México a un cierto nivel de probabilidad. Esta
+probabilidad de solvencia se determina utilizando la calificación de riesgo con la que se
+desee operar, por lo que el capital económico tendrá que ser igual al monto necesario para
+que esta probabilidad se cumpla. Asimismo, en todos los niveles de transacción y
+portafolios, se tienen definidos para su utilización los modelos de originación (Scorings
+Ratings) y, en el caso de los modelos de comportamiento, se tienen para el portafolio más
+importante que son el de TDC, Hipotecas y Consumo no Revolvente. Estos modelos,
+además de apoyar la decisión del crédito, están ligados con la probabilidad de
+incumplimiento señalada.
+un
+O
+34

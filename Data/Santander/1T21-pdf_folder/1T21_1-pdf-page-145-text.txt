@@ -1,0 +1,97 @@
+190%
+170%
+150%
+130%
+110%
+90%
+70%
+50%
+IPC
+XLB
+Base de comparación: 31 de marzo de 2016
+Periodo
+Precio mínimo
+Precio máximo
+Volumen promedio (títulos)
+2016
+44.23
+51.50
+5,192,232.38
+2017
+49.70
+60.64
+4,175,340.55
+2018
+47.34
+64.09
+7,369,055.30
+2019
+49.34
+61.42
+6,258,772.69
+2020
+38.35
+72.39
+7,593,030.42
+1° Sem. 2019
+49.34
+58.50
+7,074,720.20
+2° Sem. 2019
+54.95
+61.42
+5,456,128.67
+1° Sem. 2020
+38.35
+61.42
+9,156,436.07
+2° Sem. 2020
+56.47
+72.39
+6,046,618.31
+octubre 2020
+61.94
+66.51
+7,379,296.65
+noviembre 2020
+63.18
+72.09
+6,053,089.77
+diciembre 2020
+70.00
+72.39
+4,041,261.19
+enero 2021
+70.64
+77.48
+8,268,420.13
+febrero 2021
+71.47
+76.26
+6,458,883.71
+marzo 2021
+73.62
+79.69
+8,090,353.35
+Volatilidad Histórica
+90.00%
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+DEA 1M
+DEA 3M
+DEA 6M
+DEA 12M
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+XLB202R DC001
+Reporte de Resultados | 1T.2021
+Banco Santander México
+Santander
+143

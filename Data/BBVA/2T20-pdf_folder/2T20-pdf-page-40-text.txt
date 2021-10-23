@@ -1,0 +1,126 @@
+BBVA
+Creando Oportunidades
+(c) A continuación, se detallan los flujos del balance al cierre de junio de 2020 por plazos
+de vencimiento y sus brechas de liquidez.
+Información previa al cierre de junio 2020 (cifras puntuales)
+Rubro
+A la vista
+30 días
+6 meses
+1 año
+Mayor 1 año
+Sin Vencimiento
+Total
+Millones de pesos
+Disponible
+149,409
+O
+O
+O
+31,282
+0
+180,691
+Cartera de Crédito
+O
+89,131
+203,106
+102,891
+881,716
+O
+1,276,844
+Cartera de Valores
+O
+1,301
+17,584
+123,326
+373,710
+0
+515,921
+ACTIVOS TOTALES
+149,409
+90,432
+220,690
+226,217
+1,286,708
+o
+1,973,456
+Captación
+O
+182,563
+69,553
+3,030
+O
+1,016,775
+1,271,921
+Emisiones y Obligac. Sub.
+O
+6,367
+31,849
+29,701
+148,819
+0
+216,736
+Acreedores por Reportos
+O
+188,168
+32786
+O
+O
+0
+220,954
+Neto resto de Balance
+O
+O
+O
+O
+O
+263,844
+263,844
+PASIVOS TOTALES
+o
+377,099
+134,188
+32,730
+148,819
+1,280,620
+1,973,456
+FUERA DE BALANCE
+O
+(2,365)
+-6833
+(7,442)
+4,036
+0
+(12,605)
+BRECHAS DE LIQUIDEZ
+149,409 (289,031)
+79,668
+186,044
+1,141,924
+(1,280,620)
+(12,605)
+BRECHAS ACUMULADAS
+149,409
+(139,622)
+(59,954)
+126,090
+1,268,015
+(12,605)
+Información Cualitativa
+(a) La manera en la que se gestiona el riesgo de liquidez en BBVA México, considerando
+para tal efecto la tolerancia a dicho riesgo; la estructura y responsabilidades para la
+administración del riesgo de liquidez; los informes de liquidez internos; la estrategia de
+riesgo de liquidez y las políticas y prácticas a través de las líneas de negocio y con el
+Consejo de Administración.
+La gestión del riesgo de liquidez en BBVA México se rige por los siguientes principios:
+gestión descentralizada e independiente de la liquidez; autofinanciación de la actividad
+crediticia de las bancas; planificación de la liquidez en el proceso de planeación de
+crecimiento de la actividad; clara segregación de funciones para realizar una
+administración proactiva del riesgo de liquidez, incluida la liquidez intradía y gestión de
+colaterales; establecimiento de un sistema de precios de transferencia y normas de
+uso interno de la liquidez; y coherencia con los requerimientos regulatorios.
+La estructura y responsabilidades para la administración del riesgo de liquidez están
+claramente segregadas por funciones y áreas:
+Fijación de políticas generales, métricas fundamentales y límites. Las políticas de
+riesgo de liquidez las aprueba su Consejo de Administración, previa opinión
+40

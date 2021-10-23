@@ -1,0 +1,581 @@
+GRUPO FINANCIERO
+BANORTE
+4T20
+24,971
+8,094
+380
+314
+16,942
+5,953
+10,989
+513
+543
+3,033
+366
+1,292
+153
+2
+12
+-
+-
+0
+0
+598
+6,511
+1,684
+-
+-
+1,194
+2,879
+3,633
+(1,476)
+309
+56
+(1,111)
+1,930
+2
+(169)
+84
+1,845
+734
+-
+-
+54
+189
+-
+-
+(136)
+-
+-
+4
+-
+-
+399
+510
+4,876
+15,865
+4,477
+131
+888
+1,796
+2,053
+556
+931
+10,832
+5,034
+28
+5,062
+1,912
+(750)
+1,161
+3,900
+-
+-
+(0)
+o
+3,901
+37
+IV. Estados Financieros
+Banco
+Estado de Resultados - Banco
+(Millones de Pesos)
+Ingresos por Intereses
+Gastos por Intereses
+Comisiones cobradas
+Comisiones Pagadas
+Ingresos de Intereses Netos antes de Estim.
+Ptva. para Riesgos Cred.
+Provisiones Prev. para Riesgos crediticios
+Ingresos de Intereses Netos Ajustado por
+Riesgos Crediticios
+Transferencia de Fondos
+Manejo de Cuenta
+Servicios de Banca Electrónica
+Por Créditos Comerciales y Vivienda
+Por créditos de Consumo
+Fiduciario
+Ingresos por Portafolios Inmobiliarios
+Fondos de Inversión
+Asesoría e Intermediación financiera
+Otras Comisiones Cobradas
+Comisiones por Servicios Cobrados
+Cuotas de Intercambio
+Comisiones de Seguros
+Otras Comisiones Pagadas
+Comisiones por Servicios Pagados
+Comisiones Netas
+Valuación y compra-venta de divisas y metales
+Derivados
+Títulos
+Valuación
+Divisas y Metales
+Derivados
+Títulos
+Compra-venta
+Resultado por intermediación
+Recuperación de cartera de crédito
+Portafolios de crédito
+Resultado por bienes adjudicados
+Liberación de Provisiones
+Quebrantos y Estimaciones
+Deterioro de Activos
+Ingresos por Arrendamiento
+Provenientes de Seguros
+Otros Ingresos (Egresos) de la Operación:
+Total Otros Ingresos (Egresos) de la
+Operación
+Total de Ingresos No Financieros
+Ingreso Total de Operación
+Gasto de Personal
+Participación de los Trabajadores en las Utilidades
+(PTU) causado
+Honorarios Pagados
+Gastos de Administración y Promoción
+Rentas, Depreciaciones y Amortizaciones
+Otros impuestos y Gastos No deducibles
+Aportación al Fobaproa ó al IPAB
+Total Gasto No Financiero
+Resultado de la Operación
+Participación en subsidiarias y asociadas no
+consolidadas
+Resultados Antes de Impuestos a la Utilidad
+Impuestos a la utilidad causados
+Impuesto al Activo
+Impuestos a la utilidad diferidos
+Impuestos
+Resultados antes de operaciones
+discontinuadas
+Operaciones discontinuadas
+Participación no controladora
+Utilidad Neta
+Cuarto Trimestre de 2020
+1T19
+32,320
+30,425
+15,432
+12,837
+382
+315
+16,931
+17,654
+3,700
+3,713
+13,231
+13,941
+427
+604
+2,128
+2,656
+506
+1,210
+1,423
+146
+606
+5,303
+6,370
+1,082
+1,349
+1,080
+1,951
+2,430
+3,351
+3,940
+39
+(79)
+43
+342
+(115)
+432
+659
+662
+45
+203
+(237)
+23
+2,248
+269
+1,820
+304
+6,105
+4,906
+19,336
+18,846
+3,765
+3,933
+134
+485
+1,926
+2,158
+1,595
+1,837
+520
+809
+9,341
+9,875
+9,996
+8,971
+44
+10,009
+9,015
+2,176
+1,355
+812
+2,647
+2,167
+7,362
+6,848
+(0)
+7,362
+6,848
+2T19
+32,094
+15,299
+16,853
+3,657
+13,196
+2,285
+1,244
+5,539
+1,077
+2,016
+3,523
+1,014
+4,631
+17,826
+3,390
+1,882
+1,552
+8,931
+8,895
+8,934
+1,941
+2,382
+6,553
+6,553
+3T19
+30,964
+26,257
+13,896
+8,829
+354
+281
+17,150
+17,501
+4,034
+3,122
+13,116
+14,379
+489
+564
+2,363
+2,379
+129
+1,280
+1,148
+112
+651
+5,695
+5,475
+1,168
+1,228
+998
+2,119
+2,226
+3,576
+3,248
+(306)
+(1,473)
+531
+65
+(1,390)
+291
+464
+2,270
+277
+3,519
+743
+2,129
+1,034
+76
+178
+(167)
+(26)
+260
+321
+5,932
+4,603
+19,048
+18,983
+4,074
+3,846
+131
+731
+2,045
+1,773
+1,691
+1,993
+428
+951
+9,947
+9,853
+9,101
+9,129
+27
+9,132
+9,156
+2,550
+2,004
+518
+2,401
+2,522
+6,730
+6,634
+6,730
+6,634
+4T19
+1T20
+29,491
+12,042
+17,517
+4,262
+13,254
+2,336
+1,241
+5,782
+1,226
+2,135
+3,647
+1,219
+(1,238)
+1,742
+1,185
+1,048
+4,726
+17,980
+3,755
+2,091
+1,862
+9,718
+8,263
+8,292
+2,576
+2,112
+6,180
+6,180
+2T20
+28,517
+11,172
+17,421
+8,527
+8,895
+2,027
+1,048
+5,116
+1,018
+1,936
+3,180
+1,139
+1,402
+5,268
+14,163
+3,704
+1,789
+1,967
+9,579
+4,584
+4,603
+3,669
+3,669
+3T20
+323
+280
+367
+623
+238
+104
+1
+-
+1
+632
+-
+869
+(5)
+521
+68
+585
+101
+82
+166
+349
+934
+-
+45
+88
+-
+(447)
+(132)
+19
+-
+121
+610
+485
+839
+14
+472
+-
+(0)
+335
+346
+278
+270
+399
+476
+614
+526
+289
+394
+108
+102
+0
+-
+1
+599
+540
+-
+940
+918
+(25)
+(500)
+176
+13
+(75)
+164
+565
+206
+774
+121
+(323)
+344
+385
+671
+836
+835
+-
+60
+57
+121
+-
+(877)
+(162)
+-
+19
+-
+658
+273
+687
+121
+131
+655
+650
+503
+419
+829
+919
+39
+317
+441
+617
+934
+-
+(0)
+365
+283
+444
+598
+269
+126
+5
+-
+1
+609
+-
+951
+(14)
+97
+471
+778
+-
+52
+163
+-
+(263)
+-
+25
+-
+251
+228
+120
+778
+418
+821
+31
+(149)
+-
+(0)
+358
+291
+400
+598
+495
+118
+2
+-
+0
+592
+-
+909
+(119)
+(137)
+(862)
+305
+-
+67
+92
+-
+(319)
+-
+18
+-
+173
+31
+131
+624
+428
+828
+29
+(465)
+-
+(0)
+2
+-
+0
+-
+2
+-
+-
+-
+-
+-
+3
+-
+0
+-
+-
+-
+-
+19
+-
+19
+-
+(0)
+52

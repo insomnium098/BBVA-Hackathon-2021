@@ -1,0 +1,22 @@
+Table
+Subyacente ,Compra ,Venta 
+USD ,"37,212 ",276 
+MXN ,4 ,0 
+Indice ,O ,308 
+Bono M10 ,465 ,O 
+
+
+Table
+Subyacente ,Compra ,Venta 
+USD* ,"564,138 ","520,408 "
+Otras divisas ,"90,680 ","52,914 "
+Indice Extranjero ,"21,793 ","34,912 "
+lpc ,"3,776 ",48 
+
+
+Table
+Millones de pesos ,Gubernamental ,Total 
+Acreedores por reporto ,"(247,129) ","(247,129) "
+Deudores por reporto ,"5,143 ","5,143 "
+
+

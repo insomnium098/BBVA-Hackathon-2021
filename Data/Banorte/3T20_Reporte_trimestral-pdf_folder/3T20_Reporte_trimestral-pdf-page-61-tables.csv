@@ -1,0 +1,36 @@
+Table
+TIPO DE DEUDA ,MONEDA ,FECHA DE EMISIÓN ,MONTO ORIGINAL ,MONTO ORIGINAL (VALORIZADO) ,MONTO ACTUAL ,PLAZO ,TASA ,FECHA DE VENCIMIENTO ,PAGO DE INTERESES 
+Obligaciones Q BANORTE 08U ,UDIS ,11-mar-08 ,495 ,"1,749 ","1,814 ",20 años ,4.950% ,15-feb-28 ,182 días 
+Obligaciones Dlls emisión 2010 (IXEGB40 141020) ,USD ,14-oct-10 ,120 ,"1,489 ","2,657 ",10 años ,9.25% ,14-oct-20 ,180 días 
+Obligaciones Dlls emisión 2016 (BANOC36 311004) ,USD ,04-oct-16 ,500 ,"9,607 ","6,515 ",15 años ,5.750% ,04-oct-26 ,180 días 
+Obligaciones Dlls emisión 2017 (BANOD19_999999) ,USD ,06-jul-17 ,350 ,"6,413 ","7,750 ",Perpetuo ,6.875% ,06-jul-22 ,Trimestral 
+Obligaciones Dlls emisión 2017 (BANOE91_999999) ,USD ,06-jul-17 ,550 ,"10,077 ","12,179 ",Perpetuo ,7.625% ,10-ene-28 ,Trimestral 
+Eurobono (francos suizos) emisión 2018 (BANO589) ,CHF ,14-jun-18 ,100 ,"1,983 ","2,410 ",3.5 años ,0.875% ,14-dic-21 ,Anual 
+Certificados bursátiles 94 BINTER 16U ,UDIS ,13-oct-16 ,365 ,"2,000 ","2,392 ",10 años ,4.970% ,01-oct-26 ,Semestral 
+Certificados bursátiles 94 BANORTE 18 ,MXN ,29-nov-18 ,"1,870 ","1,870 ","1,870 ",2 años ,TIIE+0.23% ,26-nov-20 ,28 días 
+Certificados bursátiles 94 BANORTE 18-2 ,MXN ,29-nov-18 ,"2,663 ","2,663 ","2,663 ",4 años ,TIIE+0.28% ,24-nov-22 ,28 días 
+Certificados bursátiles 94 BANORTE 19 ,MXN ,17-may-19 ,"5,400 ","5,400 ","5,400 ",3 años ,TIIE +0.13% ,13-may-22 ,28 días 
+Certificados bursátiles 94 BANORTE 19-2 ,MXN ,17-may-19 ,"1,500 ","1,500 ","1,500 ",5 años ,TIIE +0.17% ,10-may-24 ,28 días 
+Eurobono (francos suizos) emisión 2019 (BANO397) ,CHF ,11-abr-19 ,250 ,"4,694 ","6,025 ",3.5 años ,1.550% ,11-oct-22 ,Anual 
+Obligaciones DIIs emisión 2019 (BANOA64_999999) ,USD ,27-jun-19 ,600 ,"11,501 ","13,286 ",Perpetuo ,6.750% ,27-sep-24 ,Trimestral 
+Obligaciones Dlls emisión 2019 (BANOB48_999999) ,USD ,27-jun-19 ,500 ,"9,584 ","11,072 ",Perpetuo ,7.500% ,27-jun-29 ,Trimestral 
+Eurobono (francos suizos) emisión 2019 (BANO343) ,CHF ,18-sep-19 ,160 ,"3,112 ","3,856 ",4.3 años ,0.450% ,18-dic-23 ,Anual 
+Eurobono (francos suizos) emisión 2020 (BANO664) ,CHF ,06-mar-20 ,225 ,"4,826 ","5,423 ",4.8 años ,0.500% ,06-dic-24 ,Anual 
+Certificados bursátiles 94 BANORTE 20 ,MXN ,08-may-20 ,"11,000 ","11,000 ","11,000 ",año ,TIIE+0.00% ,10-may-21 ,28 días 
+Obligaciones Dlls emisión 2020 (BANOC21) 999999) ,USD ,14-jul-20 ,500 ,"11,309 ","11,072 ",Perpetuo ,8.375% ,14-oct-30 ,Trimestral 
+Certificados bursátiles 94 BANORTE 20U ,UDIS ,30-sep-20 ,107 ,700 ,700 ,10 años ,2.760% ,18-sep-30 ,182 días 
+
+
+Table
+,MONEDA NACIONAL ,MONEDA EXTRANJERA ,TOTAL 
+Préstamos de Bancos del Extranjero concentrados desde el extranjero ,- ,"8,858 ","8,858 "
+Préstamos de Banca de Desarrollo ,"10,839 ","4,379 ","15,218 "
+Préstamos de Banca de Fomento ,"6,973 ","1,155 ","8,128 "
+Call y Préstamos de Bancos ,"17,681 ",- ,"17,681 "
+Préstamos de Fondos Fiduciarios ,58 ,- ,58 
+Provisiones de Intereses ,"1,006 ",- ,"1,006 "
+,"36,557 ","14,392 ","50,949 "
+Eliminaciones ,,,"(15,541) "
+Total ,,,"35,407 "
+
+

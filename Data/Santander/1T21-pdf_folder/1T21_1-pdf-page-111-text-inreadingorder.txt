@@ -1,0 +1,50 @@
+Riesgo Operacional
+El riesgo operacional se define como el riesgo de pérdidas debido a la inadecuación o el fallo de los procesos, personas y sistemas internos, o de
+eventos externos.
+El objetivo principal es evitar o reducir el impacto del riesgo operacional, a través de la identificación, monitoreo y control de los factores que
+desencadenan los eventos de pérdida potencial. Por lo tanto, también requiere establecer políticas y procedimientos para operar bajo la
+exposición al riesgo que el Banco está dispuesto a aceptar.
+En materia de riesgo operacional Banco Santander, alineado con la metodología corporativa, cuenta con políticas, procedimientos y metodología
+para la identificación, control, mitigación, vigilancia y revelación de los riesgos operativos.
+La buena gestión del riesgo involucra principalmente a los responsables de cada Unidad de Negocio en las herramientas de gestión y los
+resultados; así como una capacitación continua para el personal. Los pilares sobre los que se gestionan los riesgos operativos son:
+a) Planificación estratégica y presupuesto: Actividades requeridas para definir el perfil de riesgo operacional para Banco Santander México;
+esto incluye:
+-
+Apetito de riesgo, definido como el nivel de riesgo que el Banco está dispuesto a aceptar.
+-
+Presupuesto anual de pérdida, asegurando la visión general de las pérdidas reales de acuerdo con el presupuesto y las desviaciones,
+desafiando los controles y las medidas de atenuación.
+b)
+Identificar, medir y evaluar el riesgo operacional: Identificar los riesgos y los factores que los desencadenan en el Banco, yestimar el impacto
+cualitativo y / o cuantitativo.
+c) Supervisión: Visión general y seguimiento del objetivo de riesgo operativo para el análisis periódico de la información de riesgo disponible
+(tipo y nivel) durante el desarrollo normal de las actividades.
+d) Mitigación: Una vez que se ha evaluado el riesgo operacional, se requiere establecer acciones para evitar el riesgo o mitigar el impacto de
+los riesgos relevantes o críticos, realizar un estudio costo-beneficio e implementar indicadores que nos ayuden a evaluar la eficacia de dichas
+acciones.
+e) Reportes: Informes el perfil de riesgo operacional y el desempeño del ambiente de riesgo operacional se presentan de manera regular en
+los Comités del Banco.
+Banco Santander México tuvo una pérdida promedio mensual de Ps.41 millones de pesos por riesgo operacional al primer trimestre de 2021.
+Desde diciembre de 2016, Banco Santander México aplica el Enfoque Estándar Alternativo (ASA) para los requisitos de capital de riesgo
+operacional.
+Riesgo Tecnológico
+El riesgo tecnológico, se define como la pérdida potencial por daños, interrupción, alteración o fallas derivadas del uso o dependencia en el
+hardware, software, sistemas, aplicaciones, redes y cualquier otro canal de distribución de información en la prestación de servicios bancarios
+con los clientes de Banco Santander México.
+Banco Santander ha adoptado un modelo corporativo para la gestión del Riesgo Tecnológico, el cual se encuentra integrado a los procesos de
+servicio y soporte de las áreas informáticas, para identificar, vigilar, controlar, mitigar e informar los riesgos de Tecnología Informática a los que
+está expuesta la operación, tendiente a priorizar en el establecimiento de medidas de control que reduzcan la probabilidad de materialización
+de riesgos.
+Procesos y niveles de autorización
+En términos de la normativa interna, todos los productos o servicios que se comercializan por Banco Santander son aprobados por el Comité de
+Comercialización y por el Comité Corporativo de Comercialización. Aquellos productos o servicios que sufren modificaciones o adiciones a su
+autorización original requieren de la aprobación del Comité de Comercialización y dependiendo de su trascendencia requieren la autorización
+del Comité Corporativo de Comercialización también.
+En el Comité están presentes todas aquellas áreas que tienen participación en la operación del producto o servicio dependiendo de la naturaleza
+del mismo, así como las que se encargan de su contabilidad, instrumentación legal, tratamiento fiscal, evaluación de riesgos, etc. Todas las
+autorizaciones del Comité requieren de unanimidad ya que no hay autorizaciones otorgadas por mayoría de los miembros que lo integran.
+Reporte de Resultados | 1T.2021
+Banco Santander México
+Santander
+109

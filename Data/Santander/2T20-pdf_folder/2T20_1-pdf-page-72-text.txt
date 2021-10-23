@@ -1,0 +1,99 @@
+35
+del cual: Instrumentos emitidos por subsidiarias sujetos a eliminación gradual
+36
+Capital adicional de nivel 1 antes de ajustes regulatorios
+11,535
+Capital adicional de nivel 1: ajustes regulatorios
+37
+(conservador)
+Inversiones en instrumentos propios de capital adicional de nivel 1
+38
+(conservador)
+Inversiones en acciones recíprocas en instrumentos de capital adicional de nivel 1
+Inversiones en el capital de bancos, instituciones financieras y aseguradoras fuera del
+alcance de la consolidación regulatoria, netas de las posiciones cortas elegibles, donde
+39
+la Institución no posea más del 10% del capital social emitido (monto que excede el
+(conservador)
+umbral del 10%)
+Inversiones significativas en el capital de bancos, instituciones financieras y
+40
+aseguradoras fuera del alcance de consolidación regulatoria, netas de las posiciones
+(conservador)
+cortas elegibles, donde la Institución posea más del 10% del capital social emitido
+41
+Ajustes regulatorios nacionales
+0
+Ajustes regulatorios aplicados al capital adicional de nivel 1 debido a la insuficiencia del
+42
+capital de nivel 2 para cubrir deducciones
+43
+Ajustes regulatorios totales al capital adicional de nivel 1
+0
+44
+Capital adicional de nivel 1 (AT1)
+11,535
+45
+Capital de nivel 1 (T1 = CET1 + AT1)
+108,451
+Capital de nivel 2: instrumentos y reservas
+46
+Instrumentos emitidos directamente que califican como capital de nivel 2, más su prima
+30,421
+Instrumentos de capital emitidos directamente sujetos a eliminación gradual del capital
+47
+de nivel 2
+0
+Instrumentos de capital de nivel 2 e instrumentos de capital común de nivel 1 y capital
+adicional de nivel 1 que no se hayan incluido en los renglones 5 o 34, los cuales hayan
+sido emitidos por subsidiarias en tenencia de terceros (monto permitido en el capital
+48
+complementario de nivel 2)
+0
+49
+de los cuales: Instrumentos emitidos por subsidiarias sujetos a eliminación gradual
+0
+50
+Reservas
+86
+51
+Capital de nivel 2 antes de ajustes regulatorios
+30,507
+Capital de nivel 2: ajustes regulatorios
+52
+(conservador)
+Inversiones en instrumentos propios de capital de nivel 2
+53
+(conservador)
+Inversiones recíprocas en instrumentos de capital de nivel 2
+Inversiones en el capital de bancos, instituciones financieras y aseguradoras fuera del
+alcance de la consolidación regulatoria, netas de las posiciones cortas elegibles, donde
+54
+la Institución no posea más del 10% del capital social emitido (monto que excede el
+(conservador)
+umbral del 10%)
+Inversiones significativas en el capital de bancos, instituciones financieras y
+55
+aseguradoras fuera del alcance de consolidación regulatoria, netas de posiciones cortas
+(conservador)
+elegibles, donde la Institución posea más del 10% del capital social emitido
+56
+Ajustes regulatorios nacionales
+0
+57
+Ajustes regulatorios totales al capital de nivel 2
+0
+58
+Capital de nivel 2 (T2)
+30,507
+59
+Capital total (TC = T1 + T2)
+138,958
+60
+Activos ponderados por riesgo totales
+832,610
+Razones de capital y suplementos
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+71

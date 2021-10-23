@@ -1,0 +1,255 @@
+b) Exposición al riesgo de liquidez y las necesidades de financiamiento a nivel de la Institución, teniendo en cuenta las limitaciones
+legales, regulatorias y operacionales a la transferibilidad de liquidez.
+El riesgo de liquidez está relacionado con la capacidad de financiar las obligaciones en términos razonables de mercado, así
+como de llevar a cabo los planes de negocios con fuentes de financiamiento estables. Los factores que influyen en el riesgo
+de liquidez pueden ser externos, como crisis de liquidez, o internos, como concentraciones excesivas de vencimientos.
+Las medidas utilizadas para controlar la exposición al riesgo de liquidez en la gestión del balance son el descalce de liquidez,
+las razones de liquidez, pruebas de estrés, y horizontes de liquidez.
+La métrica de horizontes de liquidez establece un plazo de supervivencia en términos de días para diferentes escenarios de
+estrés, en donde los activos líquidos deben ser suficientes para cumplir con los compromisos adquiridos. Se ha establecido
+un límite de 90 días para la moneda local y el balance consolidado y un límite de 30 días para la moneda extranjera. Durante
+el 1T20 el saldo se mantuvo por encima de los límites establecidos y siempre con un excedente de liquidez suficiente.
+31/03/2020
+Plazo
+Monto
+Millones de pesos
+Consolidado
+90 días
+199,779
+Moneda Nacional
+90 días
+91,396
+Moneda Extranjera
+30 días
+102,059
+c)
+Operaciones del balance desglosadas por plazos de vencimiento y las brechas de liquidez resultantes, incluyendo las operaciones
+registradas en cuentas de orden.
+La tabla siguiente muestra el descalce de liquidez de nuestros activos y pasivos con distintos vencimientos al 31 de diciembre
+de 2020. Las cantidades reportadas incluyen flujo de efectivo de intereses de instrumentos a tasa fija y variable. El interés de
+los instrumentos a tasa variable es determinado utilizando las tasas de interés forward para cada periodo presentado.
+0-1
+1-3
+6-12
+1-3
+>5
+No
+Millones de pesos
+Total
+mes
+meses
+3-6 meses
+meses
+años
+3-5 años
+años
+sensible
+Mercado de Dinero
+181,327
+43,414
+0
+0
+0
+36
+0
+0
+137,876
+Préstamos
+977,699
+68,651
+103,908
+91,846
+129,675
+282,060
+127,373
+175,009
+(824)
+Financiamiento de Comercio
+Exterior
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Intragrupo
+380
+0
+0
+0
+0
+0
+0
+0
+380
+Valores
+437,430
+418
+1,222
+3,135
+21,854
+120,678
+46,258
+113,178
+130,687
+Permanentes
+16,397
+0
+0
+0
+0
+0
+0
+0
+16,397
+Otros Activos dentro de
+Balance
+2,730,426
+0
+0
+0
+0
+0
+0
+0
+2,730,426
+Total de Activos Dentro de
+Balance
+4,343,659
+112,483
+105,130
+94,981
+151,529
+402,774
+173,632
+288,187
+3,014,943
+Mercado de Dinero
+(246,866)
+(134,006)
+(203)
+0
+0
+0
+0
+0
+(112,657)
+Depósitos
+(826,410)
+(342,043)
+(34,523)
+(25,464)
+(26,902)
+(66,004)
+(43,962)
+(287,511)
+0
+Financiamiento de Comercio
+Exterior
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Intragrupo
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Financiamiento de largo plazo
+(222,063)
+(8,025)
+(17,215)
+(17,457)
+(38,795)
+(76,437)
+(35,671)
+(9,205)
+(19,258)
+Capital
+(139,897)
+0
+0
+0
+0
+0
+0
+0
+(139,897)
+Otros Pasivos Dentro de
+Balance
+(2,723,255)
+0
+0
+0
+0
+0
+0
+0 (2,723,255)
+Total Pasivos Dentro de
+Balance
+(4,158,491)
+(484,074)
+(51,941)
+(42,921)
+(65,698)
+(142,441)
+(79,634)
+(296,716)
+(2,995,067)
+Descalce Total Dentro de
+Balance
+185,168
+(371,591)
+53,189
+52,060
+85,832
+260,333
+93,998
+(8,529)
+19,876
+Descalce Total Fuera de
+Balance
+6,894
+(19,138)
+42
+153
+1,688
+9,842
+(123)
+(240)
+14,670
+Total Descalce Estructural
+(284,739)
+52,649
+51,841
+84,896
+269,688
+93,875
+(8,769)
+(67,095)
+Descalce Acumulado
+(696,864)
+(232,091)
+(180,250)
+(232,565)
+174,334
+268,209
+259,440
+192,345
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+119

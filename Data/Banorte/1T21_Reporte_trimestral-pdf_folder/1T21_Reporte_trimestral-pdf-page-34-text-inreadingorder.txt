@@ -1,0 +1,348 @@
+GRUPO FINANCIERO
+BANORTE
+1T21
+49
+-
+-
+47
+-
+-
+-
+-
+97
+720,880
+-
+-
+720,880
+277,305
+-
+277,318
+-
+-
+-
+-
+-
+187
+554,810
+127,770
+1,403,556
+-
+276,976
+309,954
+7,024
+316,978
+632,974
+384,942
+543,789
+-
+2,482
+-
+-
+-
+-
+-
+-
+-
+122
+286
+-
+-
+324,592
+2,483,140
+-
+-
+-
+-
+-
+-
+2,483,140
+34
+IV. Estados Financieros
+GFNorte - Cuentas de Orden
+(Millones de Pesos)
+Operaciones por Cuenta de Terceros
+Bancos de clientes
+Dividendos por cobrar de clientes
+Intereses por cobrar de clientes
+Liquidación de operaciones de clientes
+Premios de clientes
+Liquidación con divisas de clientes
+Cuentas margen operaciones con futuros
+Otras cuentas corrientes
+Clientes Cuentas Corrientes
+Valores de clientes recibidos en custodia
+Valores y documentos recibidos en garantía
+Valores de clientes en el extranjero
+Valores de Clientes
+Operaciones de reporto de clientes
+Operac. de préstamo de valores de clientes
+Colaterales recibidos en garantía por cuentas de
+clientes
+Compra de futs y cont. Adelan. (monto nacional)
+Venta de futs y cont. Adelan. (monto nacional)
+Operac. de compra de opciones de clientes
+Operac. de venta de opciones de clientes
+Operac. de Compra de paquetes de instrumentos
+derivados
+Operac. de Venta de paquetes de instrumentos
+derivados de clientes
+Fideicomisos administrados
+Operaciones por Cuenta de Clientes
+Op. de Bca de Inv Cta de Terceros (Neto)
+TOTALES POR CUENTA DETERCEROS
+Avales otorgados
+Compromisos Crediticios
+Fideicomisos
+Mandatos
+Bienes en Fideicomiso o Mandato
+Bienes en custodia o administración
+Colaterales recibidos por la entidad
+Colaterales recibidos o vendidos o entregados por la
+inst.
+Giros en tránsito
+Depósitos de bienes
+Cartas de Créd. a la Soc. entreg en garantía
+Valores a la Sociedad entreg. en custodia
+Valores Gubern. de la sociedad en custodia
+Valores de la sociedad entreg. en garantía
+Valores en el extranjero de la sociedad
+Liquid. con divisas de Soc. en el extranjero
+Adeudo al fondo de contingencias
+Activos y Pasivos Contingentes
+Int.dev. no cob. deriv. de cart. de crédito vencida
+Inver. fondos del sist. de ahorro para retiro
+Integración de la cartera crediticia
+Otras cuentas de registro
+Operaciones por Cuenta Propia
+Títulos a recibir por reporto
+(Menos) Acreedores por reporto
+Títulos a recibir por reporto (Neto)
+Deudores por reporto
+(Menos) Títulos a entregar por reporto
+Títulos a entregar por reporto (Neto)
+TOTALES POR CUENTA PROPIA
+Información Financiera 1T21
+1T20
+62
+(30)
+32
+605,481
+669,495
+605,481
+669,495
+179,276
+238,032
+179,276
+238,040
+204
+359,588
+476,276
+87,728
+97,374
+1,053,090
+1,243,176
+294,733
+292,701
+422,525
+308,516
+7,472
+429,851
+315,988
+660,642
+633,424
+163,758
+282,054
+247,107
+421,090
+3,325
+167
+178
+292,976
+295,069
+2,092,207
+2,243,996
+2,092,207
+2,243,996
+2T20
+641,824
+641,824
+163,653
+163,653
+328,360
+88,149
+1,058,087
+293,470
+319,659
+327,304
+669,104
+240,920
+307,649
+289,983
+2,131,665
+2,131,665
+3T20
+670,163
+670,163
+240,237
+240,237
+481,539
+100,948
+1,252,794
+292,420
+308,883
+316,669
+677,620
+289,443
+432,443
+304,055
+2,315,039
+2,315,039
+4T20
+85
+-
+-
+208
+-
+-
+-
+-
+293
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+79
+295
+-
+-
+-
+-
+-
+-
+-
+-
+24
+-
+-
+(270)
+-
+-
+-
+-
+(245)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+79
+289
+-
+-
+-
+-
+-
+-
+-
+-
+21
+-
+-
+123
+-
+-
+-
+-
+145
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+109
+180
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1,036
+7,326
+2,766
+1,054
+7,645
+2,867
+1,066
+7,786
+2,101

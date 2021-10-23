@@ -1,0 +1,48 @@
+la periodicidad establecida en el acuerdo de colateral. Sobre dicha valoración, se aplican los parámetros establecidos en el acuerdo de colateral
+para determinar el importe a entregar o recibir de la contraparte. Estos importes, llamadas de margen, son solicitados por la parte que tenga
+derecho a recibir el colateral, normalmente con periodicidad diaria, según lo que estipule el acuerdo de colateral. La contraparte que recibe el
+requerimiento de entrega del colateral, revisa la valoración, pudiendo surgir discrepancias en este proceso. Para el caso específico de
+derivados, los contratos de colaterales pueden ser de dos tipos:
+Variation Margin: se refiere a los activos de garantía entregados por una contrapartida a otra contrapartida a fin de cumplir sus
+obligaciones en virtud de una o varias operaciones entre las partes, a raíz de una variación en el valor de tales obligaciones desde la
+última vez en que se entregaron dichos colaterales.
+Initial Margin: se refiere al colateral recibido por una contrapartida para cubrir su exposición actual y futura en el intervalo
+comprendido entre la última recepción de margen y la liquidación de posiciones o la cobertura del riesgo de mercado tras un impago
+de la otra contrapartida.
+El monto total de colaterales recibidos por operaciones de derivados al cierre del segundo trimestre de 2020:
+Garantía
+Porcentaje
+Efectivo
+73.37%
+Bonos Emitidos por el gobierno Mexicano
+15.86%
+Bonos Emitidos por otros gobiernos
+10.77%
+Respecto a la correlación entre el colateral recibido y el garante, en las operaciones de derivados, se confirma que por concepto de variation
+margin, se reciben únicamente bonos gubernamentales y/o efectivo como colateral, lo cual implica que, prácticamente no existe riesgo de
+efectos adversos por la existencia de correlaciones.
+El riesgo de correlación adversa o wrong-way risk también es gestionado por la dirección de riesgo de crédito de contrapartida. Este riesgo se
+origina en caso de que la exposición con una cartera o con una contraparte aumente cuando la calidad crediticia de ésta se deteriore. Es decir,
+existe wrong-way risk cuando se produce un incremento del riesgo de incumplimiento y, como consecuencia, aumenta la exposición que se
+tiene con la contraparte. En Banco Santander (México) las operaciones que generen wrong-way risk tienen un tratamiento especial, no se
+incluyen en el contrato netting de la contraparte y deben tener un CSA independiente con threshold 0, de modo que su exposición esté acotada.
+Riesgo Legal
+El riesgo legal, se define como la pérdida potencial por el incumplimiento de las disposiciones legales y administrativas aplicables, la emisión
+de resoluciones administrativas y judiciales desfavorables y la aplicación de sanciones, en relación con las operaciones que Banco Santander
+lleva a cabo.
+En cumplimiento a los lineamientos en materia de Administración Integral de Riesgos, se desarrollan las funciones siguientes: a)
+Establecimiento de políticas y procedimientos para analizar la validez jurídica y procurar la adecuada instrumentación de los actos jurídicos
+celebrados, b) Estimación del monto de pérdidas potenciales derivado de resoluciones judiciales o administrativas desfavorables y la posible
+aplicación de sanciones, c) Análisis de los actos jurídicos que se rijan por un sistema jurídico distinto al nacional, d) Difusión entre los directivos
+yempleados, de las disposiciones legales y administrativas aplicables a las operaciones ye) Realización, cuando menos anualmente, auditorias
+legales internas.
+Riesgo Operacional
+El riesgo operacional se define como el riesgo de pérdidas debido a la inadecuación o el fallo de los procesos, personas y sistemas internos, o
+de eventos externos.
+El objetivo principal es evitar o reducir el impacto del riesgo operacional, a través de la identificación, monitoreo y control de los factores que
+desencadenan los eventos de pérdida potencial. Por lo tanto, también requiere establecer políticas y procedimientos para operar bajo la
+exposición al riesgo que el Banco está dispuesto a aceptar.
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+110

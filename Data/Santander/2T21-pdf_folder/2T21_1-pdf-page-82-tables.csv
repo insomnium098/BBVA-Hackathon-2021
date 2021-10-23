@@ -1,0 +1,17 @@
+Table
+8 ,Inversiones directas en el capital de entidades financieras donde la Institución no posea más del 10% del capital social emitido ,18 ,0 ,
+9 ,Inversiones indirectas en el capital de entidades financieras donde la Institución no posea más del 10% del capital social emitido ,18 ,90 ,"BG3= 458,649 Menos: Inversiones en acciones de la propia institución 0; Inversiones en valores que computan como activos en riesgo 458,560 "
+10 ,Inversiones directas en el capital de entidades financieras donde la Institución posea más del 10% del capital social emitido ,19 ,0 ,
+11 ,Inversiones indirectas en el capital de entidades financieras donde la Institución posea más del 10% del capital social emitido ,19 ,,
+12 ,Impuesto a la utilidad diferida (a favor) proveniente de diferencias temporales ,21 ,"6,508 ","BG15= 14,836 Menos: monto que computa como activo en riesgo 8,329 "
+13 ,Reservas reconocidas como capital complementario ,50 ,893 ,"BG8= Cartera de crédito (neta) 657,124 "
+14 ,Inversiones en deuda subordinada ,26-B ,0 ,
+15 ,Inversiones en organismos multilaterales ,26-D ,0 ,"BG13= 34,161 Menos: inversiones permanentes en subsidiarias 28,617; inversiones en cámaras de compensación 457; inversiones permanentes en asociadas 2,202; otras inversiones que computan como activo en riesgo 2,884 "
+,,,,"BG13= 34,161 Menos: inversiones en cámaras de compensación 457; inversiones permanentes en asociadas 2,202; otras inversiones que computan como activo en riesgo "
+16 ,Inversiones en empresas relacionadas ,26-E ,"28,617 ","2,884 "
+17 ,Inversiones en capital de riesgo ,26-F ,0 ,
+18 ,Inversiones en fondos de inversión ,26- G ,0 ,
+19 ,Financiamiento para la adquisición de acciones propias ,26- H ,0 ,
+20 ,Cargos diferidos y pagos anticipados ,26-J - ,"1,932 ","BG16= 10,799 Menos: intangibles 8,712; otros activos que computan como activos en riesgo 1,861; Más: Intangibles "
+
+

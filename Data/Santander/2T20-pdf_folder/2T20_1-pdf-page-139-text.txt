@@ -1,0 +1,115 @@
+140.00%
+120.00%
+100.00%
+80.00%
+60.00%
+40.00%
+20.00%
+0.00%
+DEA 1M
+DEA 3M
+DEA 6M
+DEA 12M
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+MSF105L DC019
+Pago de Derechos
+bajo distintos valores del Valor Observado
+$120
+$100
+$80
+$60
+$40
+$20
+$-
+o
+50
+100
+150
+Valor Observado
+Fechas de Observación 1 a
+3
+Fechas de Ejercicio 1 a 3
+Fecha de Ejercicio 4
+Fechas de
+Fechas de
+Nivel de Mercado
+Valor Observado
+Observación 1 a
+Fecha de Ejercicio 4
+Ejercicio 1 a 3
+3
+-
+0
+0.00
+0.00
+Ps.70.00
+9.08
+5
+0.00
+0.00
+Ps.70.00
+18.16
+10
+0.00
+0.00
+Ps.70.00
+27.24
+15
+0.00
+0.00
+Ps.70.00
+36.31
+20
+0.00
+0.00
+Ps.70.00
+45.39
+25
+0.00
+0.00
+Ps.70.00
+54.47
+30
+0.00
+0.00
+Ps.70.00
+63.55
+35
+0.00
+0.00
+Ps.70.00
+72.63
+40
+0.00
+0.00
+Ps.70.00
+81.71
+45
+0.00
+0.00
+Ps.70.00
+90.79
+50
+0.00
+0.00
+Ps.70.00
+99.86
+55
+0.00
+0.00
+Ps.70.00
+108.94
+60
+0.00
+0.00
+Ps. 70.00
+118.02
+65
+0.00
+0.00
+Ps. 75.00
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+138

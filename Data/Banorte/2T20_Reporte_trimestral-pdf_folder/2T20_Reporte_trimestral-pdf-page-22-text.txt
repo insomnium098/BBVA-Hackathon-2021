@@ -1,0 +1,95 @@
+13
+GRUPO FINANCIERO
+II. Discusión y Análisis de la Administración
+BANORTE
+Al cierre del 2T20 el Índice de Capitalización (ICAP) estimado de Banorte fue de 19.68% considerando riesgos de
+crédito, de mercado y operacional, y de 25.16% considerando únicamente los riesgos crediticios. Por otro lado, el nivel de
+Capital Fundamental corresponde a 13.19% al 2T20. Sin considerar el efecto de reservas adicionales, el ICAP del 2T20
+hubiera sido de 19.78% con un Capital Fundamental de 13.54%
+El Índice de Capitalización incrementa en 0.73 pp con respecto al 1T20, considerando el efecto de las reservas adicionales,
+mientras que si no se consideran dichos efectos se tendría un beneficio de 0.10 pp adicionales, posicionando el ICAP en
+19.78%, debido a los siguientes efectos:
+Con
+Sin
+Reservas
+Reservas
+Adicionales
+Adicionales
+1.
+Inversiones Permanentes, Intangibles y Otros Efectos de Capital
++ 1.16 pp
++ 0.92 pp
+2.
+Valuación de Instrumentos Financieros y Derivados de Cobertura*
++ 0.72 pp
++0.72 pp
+3.
+Utilidades generadas en el 2T20
++ 0.79 pp
++ 0.79 pp
+4.
+Reservas Adicionales
+- 0.38 pp
+0.00 pp
+5.
+Notas de Capital
+- 0.20 pp
+0.20 pp
+6.
+Crecimiento en Activos en Riesgo
+- 1.37 pp
+- 1.41 pp
+* Incluye derivados de cobertura de cartera tasa fija
+El Índice de Capitalización disminuyó en (0.25 pp) con respecto al 2T19, considerando el efecto de las reservas
+adicionales, mientras que si no se consideran dichos efectos se tendría un beneficio de 0.10 pp adicionales, debido a los
+siguientes efectos:
+Con
+Sin
+Reservas
+Reservas
+Adicionales
+Adicionales
+1.
+Utilidades generadas en el periodo
++ 3.01 pp
++ 3.01 pp
+2.
+Inversiones Permanentes, Intangibles y Otros Efectos de Capital
++ 1.01 pp
++ 0.77 pp
+3.
+Valuación de Instrumentos Financieros y Derivados de Cobertura *
++0.23 pp
++ 0.23 pp
+4.
+Reservas Adicionales
+- 0.38 pp
+0.00 pp
+5.
+Notas de Capital***
+- 0.14 pp
+0.14 pp
+6.
+Pago de Dividendos entre 3T19 y 4T19
+- 1.40 pp
+1.40 pp
+7.
+Crecimiento de Activos en Riesgo
+- 2.57 pp
+- 2.61 pp
+*
+Incluye derivados de cobertura de cartera tasa fija
+**
+Incluye efecto de valorización de Notas de Capital, y efecto de recompra (BINTER: Mar 20/ Tender Offer Oct 19 y Dic'19).
+En caso de no considerar los Criterios Contables Especiales autorizados por la CNBV ante la contingencia sanitaria de
+COVID-19, el Índice de Capitalización se hubiera posicionado en 19.63% con un Capital Fundamental de 13.14%.
+Evolución de Activos en Riesgo
+En cumplimiento con los requerimientos de capitalización establecidos a la fecha por las autoridades mexicanas y las
+normas prudenciales internacionales denominadas Basilea, Banorte realiza la clasificación de sus Activos en Riesgo en
+Crédito, Mercado, y Operacional, mismos que se gestionan y revisan de forma activa por la Institución para garantizar su
+calidad.
+Los Activos en Riesgo Totales para junio 2020 correspondieron a Ps 891,465 millones, presentando un incremento de Ps
+64,435 millones respecto al cierre de marzo 2020 y de Ps 115,046 millones respecto a junio 2019.
+La evolución de los Activos en Riesgo se presenta a continuación:
+Segundo Trimestre de 2020
+22

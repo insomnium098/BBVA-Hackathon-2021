@@ -1,0 +1,129 @@
+Periodo
+Precio mínimo
+junio 2021
+100.00%
+80.00%
+60.00%
+40.00%
+20.00%
+0.00%
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+$120
+$100
+$80
+$60
+$40
+$20
+Nivel de mercado Valor observado Fechas de Observación 1a5 Fechas de Ejercicio 1 a 5 Fecha de Ejercicio 6
+0.00
+0.00
+116.22
+5.00
+232.45
+10.00
+348.67
+15.00
+464.89
+20.00
+581.11
+25.00
+697.34
+30.00
+813.56
+35.00
+929.78
+40.00
+1,046.00
+45.00
+1,162.23
+50.00
+1,278.45
+55.00
+1,394.67
+60.00
+1,510.89
+65.00
+1,627.12
+70.00
+1,743.34
+75.00
+1,859.56
+80.00
+Precio máximo
+Volumen promedio (títulos)
+2,328.28
+295,755.97
+DEA 3M
+DEA 6M
+Pago de Derechos
+bajo distintos valores del Valor Observado
+100
+Valor Observado
+Fechas de Observación 1 a 5
+Fechas de Ejercicio 1 a 5
+Fecha de Ejercicio 6
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1.05
+2,172.19
+DEA 1M
+DEA 12M
+o
+Volatilidad Histórica
+BKN112L DC001
+Reporte de Resultados | 2T.2021
+Banco Santander México
+$-
+50
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+150
+Santander
+Ps. 0.00
+Ps. 5.00
+Ps. 10.00
+Ps. 15.00
+Ps. 20.00
+Ps. 25.00
+Ps. 30.00
+Ps.35.00
+Ps. 40.00
+Ps. 45.00
+Ps. 50.00
+Ps. 55.00
+Ps. 60.00
+Ps. 65.00
+Ps. 70.00
+Ps. 75.00
+Ps. 81.05
+133

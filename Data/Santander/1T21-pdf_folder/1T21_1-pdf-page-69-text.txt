@@ -1,0 +1,88 @@
+Préstamos en divisas
+Préstamos concertados con bancos del extranjero
+10
+1.50
+Hasta 1 día
+Call money
+266
+0.05
+De 1a3 días
+Fiduciarios públicos
+1,861
+1.08
+De 1 día a 4 años
+Banca de desarrollo
+30
+6.17
+De 1a3 meses
+Total
+2,167
+Total de financiamientos
+42,669
+Intereses devengados
+156
+Total préstamos bancarios y de otros organismos
+42,825
+12. Impuestos causados e impuestos diferidos
+Impuestos causados al 31 de marzo de 2021 se integran como sigue:
+Impuesto sobre la renta
+536
+Impuestos diferidos
+256 (1)
+Total Banco
+792
+Impuesto causado-diferido otras subsidiarias
+258
+Total Banco consolidado
+1,050
+(1) Se integran como sigue:
+Reserva preventiva global
+(431)
+Propiedades, mobiliario y equipo y cargos diferidos
+(9)
+Efecto neto instrumentos financieros
+(31)
+Pasivos acumulados
+399
+Otros
+328
+Total Banco
+256 (1)
+Efecto neto reserva incobrables (subsidiarias)
+(293)
+Otros subsidiarias
+(64)
+Total impuesto diferido Banco consolidado
+(101)
+Al 31 de marzo de 2021, el activo y pasivo diferido se encuentran registrados al 100%
+Remanente reservas preventivas globales e incobrables
+10,386
+Otros
+9,289
+Total impuesto diferido (neto)
+19,675
+Impuesto diferido registrado en cuentas de balance
+19,675
+Impuesto diferido registrado en cuentas de orden
+0
+13. Participación de los empleados en las utilidades (PTU)
+Al 31 de marzo de 2021, la PTU diferida se integra como sigue:
+Activo por PTU diferida:
+Estimación preventiva para riesgos crediticios pendientes de deducir
+1,958
+Propiedades, mobiliario y equipo y cargos diferidos
+730
+Pasivos acumulados
+449
+Pérdidas fiscales por amortizar de acciones
+876
+Comisiones e intereses cobrados por anticipado
+165
+Bienes adjudicados
+98
+Obligaciones laborales
+306
+Reporte de Resultados | 1T.2021
+Banco Santander México
+Santander
+67

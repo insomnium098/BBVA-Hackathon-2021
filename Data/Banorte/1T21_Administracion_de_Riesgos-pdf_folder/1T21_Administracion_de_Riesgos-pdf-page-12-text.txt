@@ -1,0 +1,147 @@
+GRUPO FINANCIERO
+BANORTE
+Posición
+1T21
+Promedio 1T21
+(Millones de pesos)
+Forwards
+330
+491
+FX Swap
+(7)
+(14)
+FX
+1
+4
+Opciones
+231
+181
+Swap Tasa de Interés (IRS)
+8,638
+12,359
+Cross Currency Swap (CCIRS)
+(7,054)
+(7,138)
+Credit Default Swaps (CDS)
+167
+167
+Total
+2,307
+6,050
+Valor Razonable Positivo
+13,401
+20,107
+(Valor de Mercado positivo)
+Efecto del neteo*
+11,078
+14,051
+Garantías Entregadas (-) / Recibidas (+)
+Efectivo
+(9,142)
+(10,784)
+Valores
+(13)
+(45)
+Totales
+(9,155)
+(10,829)
+*La diferencia entre el valor de mercado positivo (sin considerar el neteo de las posiciones) y el valor de mercado del portafolio.
+No se incluyen operaciones liquidadas en Cámara de Compensación debido a que no tienen riesgo contraparte.
+En la siguiente tabla se presenta los niveles de exposición actual y de exposición potencial futura al cierre del trimestre y
+en promedio durante el trimestre respectivamente.
+(Millones de pesos)
+Riesgo Potencial
+Riesgo Actual
+Contrapartes
+1T21
+Promedio 1T21
+1T21
+Promedio 1T21
+Financieras
+FWD
+307
+475
+FX SWAP
+4,717
+7,455
+(7)
+(14)
+FX
+1
+4
+OPCIONES
+5,604
+5,513
+303
+197
+SWAP TASA
+7,273
+7,215
+(2,247)
+(3,880)
+CCS
+5,173
+7,413
+(7,053)
+(7,150)
+CDS
+168
+168
+167
+167
+Total
+5,760
+5,634
+(8,529)
+(10,201)
+Clientes
+1T21
+Promedio 1T21
+1T21
+Promedio 1T21
+(No Financieras)
+FWD
+53
+60
+23
+16
+OPCIONES
+61
+78
+(71)
+(16)
+SWAP TASA
+12,043
+16,911
+10,885
+16,239
+CCS
+220
+93
+(1)
+12
+Total
+9,013
+9,459
+7,996
+8,472
+Con base en las condiciones que se establecen dentro los contratos de operación de instrumentos financieros derivados
+se consideran niveles de tolerancia de exposición, en función a la calificación que mantengan las entidades involucradas
+en la transacción. La siguiente tabla presenta el monto de garantías a entregar en caso de deterioro por baja de calificación
+de la institución. Cabe mencionar que con la mayor parte de las contrapartes se ha migrado a umbral (threshold) cero, por
+lo que las garantías a entregar no dependen de la calificación crediticia sino que obedecen a movimientos de mercado:
+Salidas Netas de Efectivo
+1T21
+Promedio 1T21
+(Millones de pesos)
+Salida de Efectivo con Downgrade de 1 Escalón
+0
+0
+Salida de Efectivo con Downgrade de 2 Escalones
+0
+0
+Salida de Efectivo con Downgrade de 3 Escalones
+0
+0
+Administración de Riesgos 1T21
+12

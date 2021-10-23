@@ -1,0 +1,126 @@
+Bursatilizaciones con Grado de Riesgo 3 (ponderados al 100%)
+0
+0
+Bursatilizaciones con Grado de Riesgo 4 (ponderados al 350%)
+0
+0
+Bursatilizaciones con grado de Riesgo 4, o 5 o No calificados (ponderados al 1250%)
+1,500
+120
+Rebursatilizaciones con Grado de Riesgo 1 (ponderados al 40%)
+0
+0
+Rebursatilizaciones con Grado de Riesgo 2 (ponderados al 100%)
+0
+0
+Rebursatilizaciones con Grado de Riesgo 3 (ponderados al 225%)
+0
+0
+Rebursatilizaciones con Grado de Riesgo 4 (ponderados al 650%)
+0
+0
+Rebursatilizaciones con grado de Riesgo 4, 5 o No Calificados (ponderados al 1250%)
+0
+0
+Tabla III.3
+Activos ponderados sujetos a riesgo de operacional
+Requerimiento
+Método empleado
+Activos ponderados por riesgo
+de capital
+Método estándar alternativo
+65,909
+5,273
+Promedio del requerimiento por riesgo de mercado y de
+Promedio de los ingresos netos anuales positivos
+crédito de los últimos 36 meses
+de los últimos 36 meses
+61,911
+Tabla IV.1
+Principales características de los títulos que forman parte del Capital Neto
+Referencia
+Característica
+Opciones
+1
+Emisor
+Banco Santander México, S. A.
+2
+Identificador ISIN, CUSIP o Bloomberg
+MX41BS060013
+3
+Marco legal
+Ley del Mercado de Valores
+Tratamiento regulatorio
+4
+Nivel de capital con transitoriedad
+N.A
+5
+Nivel de capital sin transitoriedad
+Básico I
+Institución de Crédito sin consolidar
+6
+Nivel del instrumento
+Subsidiarias
+7
+Tipo de instrumento
+Acciones Serie F
+8
+Monto reconocido en el capital regulatorio
+$15,210,402,155.77
+9
+Valor nominal del instrumento
+$3.78
+9A
+Moneda del instrumento
+Pesos Mexicanos
+10
+Clasificación contable
+Capital
+11
+Fecha de emisión
+N.A
+12
+Plazo del instrumento
+Perpetuidad
+13
+Fecha de vencimiento
+Sin vencimiento
+14
+Cláusula de pago anticipado
+No
+15
+Primera fecha de pago anticipado
+N.A
+15A
+Eventos regulatorios o fiscales
+No
+15B
+Precio de liquidación de la cláusula de pago anticipado
+N.A
+16
+Fechas subsecuentes de pago anticipado
+N.A
+Rendimientos / dividendos
+17
+Tipo de rendimiento / dividendo
+Variable
+18
+Tasa de interés / dividendo
+Variable
+19
+Cláusula de cancelación de dividendos
+No
+20
+Discrecionalidad en el pago
+Obligatorio
+21
+Cláusula de aumento de intereses
+No
+22
+Rendimiento / dividendos
+No Acumulable
+Reporte de Resultados |
+1T.2021
+Banco Santander México
+Santander
+86

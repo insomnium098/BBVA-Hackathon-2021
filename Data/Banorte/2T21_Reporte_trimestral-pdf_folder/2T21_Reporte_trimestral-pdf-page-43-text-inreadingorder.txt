@@ -1,0 +1,86 @@
+GRUPO FINANCIERO
+BANORTE
+43
+IV. Estados Financieros
+Resultado Neto
+Ajustes por partidas que no implican flujo de efectivo
+Depreciación de Inmuebles, mobiliario yequipo
+Provisiones
+Impuestos a la utilidad causados diferidos
+Participación en el resultado de subsidiarias no consolidadas,
+Actividades de operación
+Cambio en cuentas de margen
+Cambio en inversiones en valores
+Cambio en deudores por reporto
+Cambio en derivados (activo)
+Cambio en cartera de crédito (neto)
+Cambio en derecho de cobro adquiridos (neto)
+Cambio en beneficios por recibir en operaciones de bursatilización
+Cambio en bienes adjudicados (neto)
+Cambio en otros activos operativos (neto)
+Cambio en captación tradicional
+Cambio en préstamos interbancarios yde otros organismos
+Cambio en acreedores por reporto
+Cambio en colaterales vendidos o dados en garantía
+Cambio en derivados (pasivo)
+Cambio en obligaciones subordinadas con características de pasivo
+Cambio en otros pasivos operativos
+Cambio en instrumentos de cobertura (de partidas cubiertas
+relacionadas con actividades de operación)
+Pago de Impuestos a la utilidad
+Flujos netos de efectivo de actividades de operación
+Actividades de inversión
+Cobros por disposición de inmuebles, mobiliario equipo
+Pagos por adquisición de inmuebles, mobiliario yequipo
+Pagos por adquisición de subsidiarias, asociadas y acuerdos con
+control conjunto
+Cobros de dividendos en efectivo
+Flujos netos de efectivo de actividades de inversión
+Actividades de financiamiento
+Pagos de intereses de obligaciones subordinadas
+Flujos netos de efectivo de actividades de financiamiento
+Incremento o disminución neta de efectivo y equivalentes de efectivo
+Efectos por cambios en el valor del efectivo y equivalentes de efectivo
+Efectivo y equivalentes al inicio del período
+Efectivo y equivalentes al final del período
+Información Financiera 2T21
+BANORTE- ESTADO DE FLUJO DE EFECTIVO
+CONSOLIDADO DEL 1 DE ENERO AL 30 DE JUNIO DE 2021
+(Millones de Pesos)
+12,495
+1,172
+273
+3,981
+(241)
+5,185
+17,680
+9,396
+(122)
+108
+23,894
+2,654
+196
+110
+(428)
+(8,734)
+(27,864)
+89
+3,148
+42
+(24,094)
+92
+13,280
+438
+(5,317)
+4,568
+419
+(1,485)
+(9)
+31
+(1,044)
+(1,863)
+(1,863)
+1,661
+3
+108,743
+110,407

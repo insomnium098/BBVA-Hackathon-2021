@@ -1,0 +1,218 @@
+Ticker
+Nombre
+American
+AXP UN Equity
+Express Co
+Verizon
+VZ UN Equity
+Communications
+AVGO UW
+Broadcom Inc
+Equity
+BA UN Equity
+Boeing Co/The
+CAT UN Equity
+Caterpillar Inc
+JPMorgan Chase
+JPM UN Equity
+& Co
+CVX UN Equity
+Chevron Corp
+Coca-Cola
+KO UN Equity
+Co/The
+ABBV UN Equity
+AbbVie Inc
+Walt Disney
+DIS UN Equity
+Co/The
+FleetCor
+FLT UN Equity
+Technologies Inc
+Extra Space
+EXR UN Equity
+Storage Inc
+Exxon Mobil
+XOM UN Equity
+Corp
+PSX UN Equity
+Phillips 66
+General Electric
+GE UN Equity
+HPQ UN Equity
+HP Inc
+Home Depot
+HD UN Equity
+Inc/The
+International
+IBM UN Equity
+Business
+Machines Corp
+Concho
+CXO UN Equity
+Resources Inc
+Johnson &
+JNJ UN Equity
+Johnson
+McDonald's
+MCD UN Equity
+Corp
+MRK UN Equity
+Merk & Co Inc
+MMM UN Equity
+3M Co
+American Water
+AWK UN Equity
+Works Co Inc
+Bank of America
+BAC UN Equity
+Corp
+Baker Hughes a
+BHGE UN Equity
+GE Co
+Ticker
+MSI UN Equity
+CBOE UF Equity
+MYL UW Equity
+LH UN Equity
+NEM UN Equity
+NKE UN Equity
+NI UN Equity
+NBL UN Equity
+NSC UN Equity
+PFG UW Equity
+ES UN Equity
+NOC UN Equity
+WFC UN Equity
+NUE UN Equity
+PVH UN Equity
+OXY UN Equity
+OMC UN Equity
+OKE UN Equity
+RJF UN Equity
+PH UN Equity
+ROL UN Equity
+PPL UN Equity
+EXC UN Equity
+COP UN Equity
+PHM UN Equity
+PNW UN Equity
+Nombre
+Nombre
+Hartford Financial
+Motorola Solutions
+Services Group
+Inc
+Inc/Th
+Cboe Global
+Iron Mountain Inc
+Markets Inc
+Estee Lauder Cos
+Mylan NV
+Inc/The
+Laboratory Corp of
+Cadence Design
+America Holdings
+Systems Inc
+Newmont Goldcorp
+Universal Health
+Corp
+Services Inc
+E*TRADE Financial
+NIKE Inc
+Corp
+Skyworks
+NiSource Inc
+Solutions Inc
+National Oilwell
+Noble Energy Inc
+Varco Inc
+Norfolk Southern
+Quest Diagnostics
+Corp
+Inc
+Principal Financial
+Activision Blizzard
+Group Inc
+Inc
+Rockwell
+Eversource Energy
+Automation Inc
+Northrop Grumman
+Kraft Heinz Co/The
+Corp
+American Tower
+Wells Fargo & Co
+Corp
+Nucor Corp
+HollyFrontier Corp
+Regeneron
+PVH Corp
+Pharmaceuticals
+Inc
+Occidental
+Amazon.com Inc
+Petroleum Corp
+Omnicom Group
+Jack Henry &
+Inc
+Associates Inc
+ONEOK Inc
+Ralph Lauren Corp
+Raymond James
+Boston Properties
+Financial Inc
+Inc
+Parker-Hannifin
+Amphenol Corp
+Corp
+Rollins Inc
+Arconic Inc
+Pioneer Natural
+PPL Corp
+Resources Co
+Valero Energy
+Exelon Corp
+Corp
+ConocoPhillips
+Synopsys Inc
+Western Union
+PulteGroup Inc
+Co/The
+Pinnacle West
+CH Robinson
+Capital Corp
+Worldwide Inc
+Ticker
+HIG UN Equity
+IRM UN Equity
+EL UN Equity
+CDNS UW Equity
+UHS UN Equity
+ETFC UW Equity
+SWKS UW Equity
+NOV UN Equity
+DGX UN Equity
+ATVI UW Equity
+ROK UN Equity
+KHC UW Equity
+AMT UN Equity
+HFC UN Equity
+REGN UW Equity
+AMZN UW Equity
+JKHY UW Equity
+RL UN Equity
+BXP UN Equity
+APH UN Equity
+ARNC UN Equity
+PXD UN Equity
+VLO UN Equity
+SNPS UW Equity
+WU UN Equity
+CHRW UW Equity
+119
+Inc
+Co
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander

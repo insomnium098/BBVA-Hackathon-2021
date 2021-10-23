@@ -1,0 +1,38 @@
+Table
+Emisora/ Serie ,Tipo de valor ,Total 
+SXE108R DC063 ,Cobertura ,71.939650 
+,Obligación ,(71.939650) 
+XLE110R DC013 ,Cobertura ,"(4,273.544800) "
+,Obligación ,"4,273.544800 "
+INT112R DC006 ,Cobertura ,"11,282.850020 "
+,Obligación ,"(11,282.850020) "
+XLB202R DC001 ,Cobertura ,"6,935.341340 "
+,Obligación ,"(6,935.341340) "
+BAB202L DC045 ,Cobertura ,"15,601.200910 "
+,Obligación ,"(15,601.200910) "
+XLV203R DC010 ,Cobertura ,"3,381.873690 "
+,Obligación ,"(3,381.873690) "
+BAG204L DC008 ,Cobertura ,"8,714.596770 "
+,Obligación ,"(8,714.596770) "
+NVD210L DC110 ,Cobertura ,255.558060 
+,Obligación ,(255.558060) 
+PYL210L DC020 ,Cobertura ,"1,970.806150 "
+,Obligación ,"(1,970.806150) "
+MLI110L DC001 ,Cobertura ,558.918600 
+,Obligación ,(558.918600) 
+MLI204L DC002 ,Cobertura ,300.646540 
+,Obligación ,(300.646540) 
+MLI210LDC003 ,Cobertura ,601.096220 
+,Obligación ,(601.096220) 
+
+
+Table
+Tipo de valor ,Emisora / Serie ,Número de títulos ,Precio de mercado ,Coef. beta ,Periodo en meses para el cálculo de beta ,Coefic. delta (en caso de opciones y títulos opcionales) ,Delta títulos ,Delta en términos de emisoras 
+Obligación ,TSL212LI DC065 ,"1,115,700 ",96.83 ,1.0000 ,12 ,(0.001913) ,"(2,134.17) ","(2,134.1736) "
+Obligación ,SXG112L DC001 ,"150,000 ",98.56 ,1.0000 ,12 ,(0.013529) ,"(2,029.33) ","(2,029.3274) "
+Obligación ,NVD112L DC117 ,"181,500 ",100.20 ,1.0000 ,12 ,(0.000802) ,(145.52) ,(145.5203) 
+Obligación ,SPO207L DC007 ,"1,125,000 ",0.00 ,1.0000 ,12 ,(0.005734) ,"(6,450.4698) ","(6,450.4698) "
+Obligación ,FXI107R DC031 ,"497,000 ",113.50 ,1.0000 ,12 ,0.046565 ,"23,142.7557 ","23,142.7557 "
+Obligación ,KOC107R DC005 ,"236,200 ",109.86 ,1.0000 ,12 ,0.000000 ,0.0745 ,0.0745 
+
+

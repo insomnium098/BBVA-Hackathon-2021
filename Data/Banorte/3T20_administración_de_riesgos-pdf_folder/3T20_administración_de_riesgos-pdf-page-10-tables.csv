@@ -1,0 +1,47 @@
+Table
+Entidad Federativa ,Cartera ,,Emproblemada ,,Cartera ,Reservas 
+(Millones de pesos) ,Vigente ,Vencida ,Vigente ,Vencida ,Total* ,Totales 
+1 Ciudad de México ,"248,557 ",997 ,238 ,"1,063 ","250,854 ","3,875 "
+2 Nuevo León ,"119,503 ",392 ,96 ,347 ,"120,338 ","1,922 "
+3 Estado de México ,"61,451 ",538 ,101 ,174 ,"62,264 ","1,386 "
+4 Jalisco ,"50,843 ",235 ,82 ,68 ,"51,228 ",787 
+5 Baja California Sur ,"25,348 ",99 ,7 ,6 ,"25,460 ",329 
+6 Tamaulipas ,"23,131 ",136 ,46 ,31 ,"23,344 ",468 
+7 Sinaloa ,"21,409 ",95 ,34 ,160 ,"21,698 ",358 
+8 Coahuila ,"20,302 ",101 ,34 ,26 ,"20,463 ",326 
+9 Baja California Norte ,"20,015 ",53 ,13 ,36 ,"20,116 ",314 
+10 Chihuahua ,"18,625 ",113 ,32 ,70 ,"18,840 ",391 
+Principales 10 ,"609,185 ","2,758 ",683 ,"1,982 ","614,607 ","10,156 "
+Otras Entidades Federativas ,"189,260 ","1,555 ",287 ,365 ,"191,467 ","4,394 "
+Registros Contables** ,(937) ,0 ,0 ,0 ,(937) ,"3,115 "
+Cartera Total ,"797,508 ","4,313 ",970 ,"2,348 ","805,138 ","17,666 "
+
+
+Table
+Provisiones preventivas ,,3T20 ,
+para Riesgos Crediticios para créditos emproblemados (Millones de pesos) ,Banorte ,Arrendadora y Factor ,GFNorte 
+Provisiones Preventivas Iniciales ,"1,063 ",288 ,"1,351 "
+Cargos a resultados ,304 ,17 ,321 
+Por créditos castigados ,169 ,0 ,169 
+Por ajustes en el riesgo crediticio ,135 ,17 ,153 
+Por Venta de Cartera ,0 ,0 ,0 
+Por variaciones en el Tipo de Cambio ,0 ,0 ,0 
+Por Daciones ,0 ,0 ,0 
+"Castigos, Condonaciones y Quitas ",(322) ,0 ,(322) 
+Provisiones Preventivas Finales ,"1,045 ",305 ,"1,350 "
+Recuperaciones de cartera ,59 ,0 ,59 
+
+
+Table
+Plazo Remanente ,Cartera ,,Emproblemada ,,Cartera ,Reservas 
+(Millones de pesos) ,Vigente ,Vencida ,Vigente ,Vencida ,Total* ,Totales 
+0 1 años ,"128,154 ","1,362 ",235 ,"1,241 ","130,992 ","6,233 "
+1 5 años ,"219,355 ","1,157 ",694 ,599 ,"221,805 ","5,498 "
+5 10 años ,"90,448 ",169 ,33 ,160 ,"90,811 ",557 
+> 10 años ,"331,822 ","1,619 ",0 ,0 ,"333,441 ","1,766 "
+Banorte* ,"769,779 ","4,307 ",962 ,"2,000 ","777,049 ","14,054 "
+Arrendadora y Factoraje ,"28,665 ",5 ,8 ,348 ,"29,026 ",497 
+Registros Contables** ,(937) ,0 ,0 ,0 ,(937) ,"3,115 "
+Cartera Total ,"797,508 ","4,313 ",970 ,"2,348 ","805,138 ","17,666 "
+
+

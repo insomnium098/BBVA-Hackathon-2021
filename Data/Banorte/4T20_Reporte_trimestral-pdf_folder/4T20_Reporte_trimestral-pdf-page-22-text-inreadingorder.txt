@@ -1,0 +1,154 @@
+GRUPO FINANCIERO
+BANORTE
+4T19
+27.5%
+28.7%
+1.3%
+27.1%
+12.6%
+3.0 pp
+16.7%
+1.2 pp
+1.8 pp
+(0.1 pp)
+1.7 pp
+Sin
+Reservas
+Adicionales
+-0.75 pp
++ 0.61 pp
++ 0.32 pp
++0.00 pp
+-0.04 pp
+-0.19 pp
+-0.68 pp
+-0.77 pp
+Nov-20
+20.89
+20.70
+22
+II. Discusión y Análisis de la Administración
+Capitalización
+(Millones de Pesos)
+Capital Fundamental
+Capital Básico
+Capital Complementario
+Capital Neto
+Activos con Riesgo Crédito
+Capital Neto / Activos con Riesgo Crédito
+Activos Riesgo Total
+Capital Fundamental
+Capital Básico
+Capital Complementario
+Índice de Capitalización
+El índice de capitalización del último periodo reportado es el enviado a Banco de México
+Al cierre del 4T20 el Índice de Capitalización (ICAP) estimado de Banorte fue de 20.20% considerando riesgos de
+crédito, de mercado y operacional, y de 26.71% considerando únicamente los riesgos crediticios. Por otro lado, el nivel de
+Capital Fundamental corresponde a 13.91% al 4T20. De no haberse constituido las reservas adicionales en los meses de
+junio y diciembre 2020, el ICAP del 4T20 hubiera sido de 20.70% con un Capital Fundamental de 14.43% (el no considerar
+el efecto sobre resultados y activos en riesgo de las reservas adicionales del mes de diciembre 2020, correspondería a un
+beneficio de 0.17 pp en el ICAP y Capital Fundamental).
+El Índice de Capitalización disminuyó -0.92pp con respecto al 3T20, lo anterior debido a:
+Utilidades generadas en el 4T20
+Valuación de Instrumentos Financieros y Derivados de Cobertura*
+Reservas Adicionales
+Inversiones Permanentes e Intangibles y otros efectos en Capital**
+Desincorporación reservas adicionales Jun-20 en complementario
+Crecimiento en Activos en Riesgo
+Notas de Capital
+Incluye derivados de cobertura de cartera tasa fija
+** Incluye efectos de reserva actuarial empleados, variación de inv. permanentes e intangibles.
+El cálculo del mes de Dic 2020 desincorpora el beneficio registrado por las reservas constituidas en el mes de junio 2020,
+con un impacto no material de -0.19 pp en el capital complementario, llevando al ICAP de un nivel de 20.39% a terminar
+el trimestre en 20.20%. Lo anterior se debe a que la CNBV indicó que dicho tratamiento es exclusivo de instituciones que
+hubiesen adoptado las facilidades de la propia CNBV, lo cual no es el caso de Banorte.
+El impacto en el ICAP es exclusivo del complementario y no material, lo cual se detalla en la siguiente tabla:
+Jun-20
+19.66
+sin efecto de reservas s/
+19.47
+Complementario
+Cuarto Trimestre de 2020
+Var. VS.
+Con
+Reservas
+Adicionales
+-0.92 pp
++ 0.61 pp
++ 0.32 pp
+- -0.19 pp
+-0.04 pp
+-0.19 pp
+-0.66 pp
+-0.77 pp
+4T19
+139,655
+148,438
+800,445
+3T20
+904,682
+20.69
+20.50
+4T20
+Sep-20
+21.12
+20.93
+3T20
+4.5%
+0.0%
+-21.7%
+-1.3%
+2.2%
+(0.9 pp)
+3.2%
+0.2 pp
+(0.6 pp)
+(0.3 pp)
+(0.9 pp)
+Oct-20
+101,927
+8,783
+627,281
+23.66%
+12.73%
+17.45%
+1.10%
+18.54%
+124,312
+179,672
+11,365
+191,036
+690,977
+27.65%
+13.74%
+19.86%
+1.26%
+21.12%
+129,929
+179,701
+8,894
+188,595
+706,194
+26.71%
+933,801
+13.91%
+19.24%
+0.95%
+20.20%
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+*
+Mes
+ICAP
+ICAP
+Jul-20
+20.52
+20.33
+Ago-20
+20.92
+20.73

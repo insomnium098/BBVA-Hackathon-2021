@@ -1,0 +1,38 @@
+BBVA
+Creando Oportunidades
+vulnerados, incluyendo el seguimiento en otros plazos por vencer. Asimismo, se tienen
+métricas para identificar con carácter anticipatorio posibles amenazas para permitir la
+adopción, en su caso, de las acciones de gestión preventivas necesarias, incluidos
+indicadores de concentración del financiamiento, liquidez en divisas, diversificación de
+la financiación a largo plazo, liquidez intradía, entre otros.
+Trimestral
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Exposición de Riesgo de Liquidez: promedio de cierres mensuales
+Margen absoluto en relación asu límite (positivo sin exceso, negativo con exceso)
+3T20
+LtSCD
+FCP 12m
+CB 30d
+(b) La exposición al riesgo liquidez y las necesidades de financiamiento a nivel de BBVA
+México, teniendo en cuenta las limitaciones legales, regulatorias y operacionales a la
+transferibilidad de liquidez.
+La exposición al riesgo de liquidez de BBVA México y sus necesidades de financiamiento
+parten del principio de una gestión descentralizada e independiente de la liquidez
+(incluido Banco Bilbao Vizcaya Argentaria, S.A. en España O cualquier otra entidad de
+ésta), a fin de evitar dependencias O subsidios y eventuales contagios por crisis. En todo
+momento, se toman en cuenta las limitaciones legales, regulatorias y operacionales a la
+transferibilidad de liquidez de las regulaciones aplicables en la fijación de las políticas de
+riesgo de liquidez de BBVA México, incluidos los regímenes de admisión de pasivos y de
+inversión para las operaciones pasivas en Moneda Extranjera del Banco de México,
+reglas de operación de los sistemas de pagos, la diversificación de riesgos en la
+realización de operaciones pasivas especificadas por la CUB, entre otros.
+En el caso del régimen de inversión para las operaciones pasivas en Moneda Extranjera,
+adicional al límite regulatorio de Faltante, de manera preventiva se cuenta con un
+alertamiento más estricto que el límite regulatorio para el régimen de inversión para las
+operaciones pasivas en Moneda Extranjera del Banco de México.
+(c) A continuación, se detallan los flujos del balance al cierre de septiembre de 2020 por
+plazos de vencimiento y las brechas de liquidez.
+21%
+79%
+235,616 mill MXP
+38

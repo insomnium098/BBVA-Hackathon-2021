@@ -1,0 +1,90 @@
+La medición del riesgo de mercado cuantifica el cambio potencial en el valor de las posiciones asumidas como consecuencia de cambios
+en
+los
+factores de riesgo de mercado.
+Dependiendo de la naturaleza de la actividad de las unidades de negocio, los títulos de deuda y accionarios son registrados como títulos de
+negociación, títulos disponibles para la venta y/o títulos conservados a vencimiento. En particular, detrás del concepto de títulos disponibles
+para la venta, lo que subyace y los identifica como tales es su carácter de permanencia, y son gestionados como parte estructural del balance.
+Banco
+Santander
+ha
+establecido
+lineamientos
+que
+deben
+seguir
+los
+títulos
+disponibles
+para
+la
+venta,
+así
+como
+los
+controles
+adecuados
+que
+aseguran su cumplimiento.
+Cuando se identifican riesgos significativos, se miden y se asignan límites con el fin de asegurar un adecuado control. La medición
+global
+del
+riesgo se hace a través de una combinación de la metodología aplicada sobre las Carteras de Negociación y la de Gestión de Activos y Pasivos.
+Carteras de Negociación
+Para medir el riesgo dentro de un enfoque global, se sigue la metodología de Valor en Riesgo ("VaR"). El VaR se define como la estimación
+estadística de la pérdida potencial de valor de una determinada posición, en un determinado período de tiempo y con un determinado nivel de
+confianza. El VaR proporciona una medida universal del nivel de exposición de las diversas carteras de riesgo, permite la comparación del nivel
+de riesgo asumido entre diferentes instrumentos y mercados, expresando el nivel de cada cartera mediante una cifra única en unidades
+económicas.
+Se
+calcula el VaR por Simulación Histórica con una ventana de 521 días hábiles (520 cambios porcentuales) y un horizonte de un día. El cálculo
+se realiza a partir de la serie de pérdidas y ganancias simuladas como el percentil del 1% con pesos constantes y con pesos decrecientes
+exponencialmente con un factor de decaimiento que se revisa anualmente, reportándose la medida que resulte más conservadora. Se presume
+un nivel de confianza de 99%.
+Cabe señalar que el modelo de Simulación Histórica tiene la limitante de suponer que el pasado reciente representa el futuro inmediato.
+El Valor en Riesgo correspondiente al segundo trimestre de 2021 (no auditado) ascendía a:
+Banco
+VaR
+(Miles de pesos)
+%
+Mesas de Negociación
+138,914.29
+0.09
+Market Making
+84,515.82
+0.06
+Propietary Trading
+47,577.00
+0.03
+VaR
+(Miles de pesos)
+%
+Factor de Riesgo
+Tasa de Interés
+137,944.12
+0.09
+Tipo de Cambio
+7,388.94
+0.00
+Renta Variable
+1,538.53
+0.00
+* % de VaR respecto del Capital Neto
+El Valor en Riesgo correspondiente al promedio del segundo trimestre de 2021 (no auditado) ascendía a:
+Banco
+VaR
+(Miles de pesos)
+%
+Mesas de Negociación
+74,893.09
+0.05
+Market Making
+49,053.46
+0.03
+Propietary Trading
+29,981.45
+0.02
+Reporte de Resultados | 2T.2021
+Santander
+Banco Santander México
+103

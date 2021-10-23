@@ -1,0 +1,69 @@
+Tabla 1.2
+Notas al formato de revelación de la integración de capital sin considerar transitoriedad en la aplicación de los ajustes regulatorios
+Referencia
+Descripción
+Elementos del capital contribuido conforme a la fracción I inciso a) numerales 1) y 2) del Artículo
+1
+2 Bis 6 de las presentes disposiciones.
+2
+Resultados de ejercicios anteriores y sus correspondientes actualizaciones.
+Reservas de capital, resultado neto, resultado por valuación de títulos disponibles para la venta,
+efecto acumulado por conversión, resultado por valuación de instrumentos de cobertura de flujos
+3
+de efectivo, resultado por tenencia de activos no monetarios, y el saldo de remediciones por
+beneficios definidos a los empleados considerando en cada concepto sus actualizaciones.
+No aplica. El capital social de las instituciones de crédito en México está representado por títulos
+4
+representativos o acciones. Este concepto solo aplica para entidades donde dicho capital no esté
+representado por títulos representativos o acciones.
+No aplica para el ámbito de capitalización en México que es sobre una base no consolidada. Este
+5
+concepto solo aplicaría para entidades donde el ámbito de aplicación es consolidado.
+6
+Suma de los conceptos 1 a 5.
+No aplica. En México no se permite el uso de modelos internos para el cálculo del requerimiento
+7
+de capital por riesgo de mercado.
+Crédito mercantil, neto de sus impuestos a la utilidad diferidos a cargo conforme a lo establecido
+8
+en la fracción I inciso n) del Artículo 2 Bis 6 de las presentes disposiciones.
+Intangibles, diferentes al crédito mercantil, y en su caso a los derechos por servicios hipotecario,
+9
+netos de sus impuestos a la utilidad diferidos a cargo, conforme a lo establecido en la fracción I
+inciso n) del Artículo 2 Bis 6 de las presentes disposiciones.
+Impuestos a la utilidad diferidos a favor provenientes de pérdidas y créditos fiscales conforme a
+lo establecido en la fracción I inciso p) del Artículo 2 Bis 6 de las presentes disposiciones.
+Este tratamiento es más conservador que lo establecido por el Comité de Supervisión Bancaria de
+10*
+Basilea en su documento "Basilea III: Marco regulador global para reforzar los bancos y sistemas
+bancarios" publicado en junio de 2011, ya que no permite compensar con los impuestos a la
+utilidad.
+Resultado por valuación de instrumentos de cobertura de flujos de efectivo que corresponden a
+11
+partidas cubiertas que no están valuadas a valor razonable.
+Reservas pendientes de constituir conforme a lo establecido en la fracción I inciso k) del Artículo
+2 Bis 6 de las presentes disposiciones.
+Este tratamiento es más conservador que lo establecido por el Comité de Supervisión Bancaria de
+Basilea en su documento "Basilea III: Marco regulador global para reforzar los bancos y sistemas
+bancarios" publicado en junio de 2011, ya que deduce del capital común de nivel 1 las reservas
+12*
+preventivas pendientes de constituirse, de acuerdo con lo dispuesto en el Capítulo V del Título
+Segundo de las presentes disposiciones, así como aquéllas constituidas con cargo a cuentas
+contables que no formen parte de las partidas de resultados o del capital contable y no sólo la
+diferencia positiva entre las Pérdidas Esperadas Totales menos las Reservas Admisibles Totales,
+en el caso de que las Instituciones utilicen métodos basados en calificaciones internas en la
+determinación de sus requerimientos de capital.
+Beneficios sobre el remanente en operaciones de bursatilización conforme a lo establecido en la
+13
+fracción I inciso c) del Artículo 2 Bis 6 de las presentes disposiciones.
+14
+No aplica.
+Inversiones realizadas por el fondo de pensiones de beneficios definidos que corresponden a los
+recursos a los que la Institución no tiene acceso irrestricto e ilimitado. Estas inversiones se
+15
+considerarán netas de los pasivos del plan y de los impuestos a la utilidad diferidos a cargo que
+correspondan que no hayan sido aplicados en algún otro ajuste regulatorio.
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+73

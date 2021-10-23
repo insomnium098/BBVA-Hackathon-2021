@@ -1,0 +1,102 @@
+Mercado donde cotiza:
+Nasdaq
+Descripción:
+Intel Corporation diseña, fabrica y vende componentes de computadoras y productos relacionados. Los principales productos de la empresa incluyen
+microprocesadores, conjuntos de chips, procesadores integrados, microcontroladores, memoria flash, gráficos, redes y comunicaciones, gestión de sistemas,
+productos de software, conferencias e imágenes digitales.
+Evolución Histórica
+220%
+200%
+180%
+160%
+140%
+120%
+100%
+80%
+60%
+IPC
+INTC
+Base de comparación: 30 de junio de 2016
+Periodo
+Precio mínimo
+Precio máximo
+Volumen promedio (títulos)
+2016
+32.68
+38.10
+21,483,558.39
+2017
+33.46
+47.56
+24,190,031.49
+2018
+42.42
+57.08
+30,219,890.01
+2019
+43.46
+60.08
+23,182,203.39
+2020
+44.11
+68.47
+32,956,109.44
+2° Sem. 2019
+44.96
+60.08
+20,679,652.95
+1° Sem. 2020
+44.61
+68.47
+29,363,836.32
+2° Sem. 2020
+44.11
+61.15
+36,509,336.11
+1° Sem. 2021
+49.67
+68.26
+32,349,071.61
+enero 2021
+49.67
+62.46
+48,869,326.19
+febrero 2021
+56.69
+63.19
+27,495,382.36
+marzo 2021
+58.33
+65.78
+34,500,433.84
+abril 2021
+57.53
+68.26
+33,595,619.03
+mayo 2021
+53.62
+57.73
+24,176,225.90
+junio 2021
+55.26
+58.19
+24,783,904.00
+Volatilidad Histórica
+140.00%
+120.00%
+100.00%
+80.00%
+60.00%
+40.00%
+20.00%
+-
+0.00%
+DEA 1M
+DEA 3M
+DEA 6M
+DEA 12M
+Fuente de información sobre Evolución y Volatilidad Histórico: www.bloomberg.com.mx
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+145

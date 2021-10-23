@@ -1,0 +1,33 @@
+BBVA
+Creando Oportunidades
+Políticas y Procedimientos:
+Se cuenta con manuales de riesgos que plasman la estrategia, organización, marco operativo,
+marco tecnológico, marco metodológicoy procesos normativos según las necesidades de cada
+procedimiento O política de administración Integral de Riesgos de BBVA México.
+Se lleva a cabo un programa de capacitación en riesgos y divulgación de normatividad
+incluyendo la responsabilidad de terceros definida y delimitada.
+Toma de decisiones tácticas:
+El modelo de gestión de BBVA México garantiza la independencia de la Unidad para la
+Administración Integral de Riesgos. Establece procesos de monitoreo a través de reportes y
+alertas para detectar en forma oportuna deterioros y desviaciones de los objetivos de negocio
+y de la estructura de límites definida por tipo de riesgo.
+En cuanto al apetito de riesgo, las diferentes unidades de riesgos participan en la elaboración
+del Apetito de Riesgo que BBVA México está dispuesto a asumir para alcanzar sus objetivos de
+negocio y que deberá ser sometido en términos generales y exposiciones particulares y sub
+límites por el Comité de Riesgos al Consejo de Administración, para, en su caso, aprobación.
+Se realizan procesos adecuados de autorización para nuevos productos y/o servicios que
+impliquen riesgo para BBVA México que incluyen la ratificación del nuevoproductoy/oservicio
+por parte del Comité de Riesgos.
+Herramientas y analíticos:
+Medición continúa de riesgos de crédito, mercado y liquidez bajo metodologías y parámetros
+consistentes. Se elaboran presupuestos de dichas métricas, que sirven como eje de dirección
+de la gestión de los riesgos.
+En los informes se les da seguimiento y se analizan los riesgos en que incurren las diferentes
+unidades de negocio de BBVA México, en dicho seguimiento se consideran las Métricas de
+Riesgo, el Apetito de Riesgo, Principales Concentraciones, Cumplimiento de Límites
+Regulatorios, el Análisis de Estrés de Crédito, el Cálculo de Requerimiento del Capital
+Regulatorio, Riesgos estructurales, Riesgos de Mercado, Riesgo de liquidez, Riesgo
+Operacional y Riesgo Legal.
+Las metodologías y parámetros utilizados para medir los riesgos se calibran periódicamente y
+se presentan para su aprobación a las instancias facultadas.
+29

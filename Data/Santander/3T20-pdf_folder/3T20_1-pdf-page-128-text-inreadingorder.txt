@@ -1,0 +1,71 @@
+septiembre 2020
+90.00%
+70.00%
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+85.00
+3,236.92
+DEA 12M
+bajo distintos valores del valor observado
+90.00
+105.00
+Pago de
+derechos
+0
+91.33
+182.66
+273.99
+365.32
+456.65
+547.98
+639.31
+3,580.84
+796,253,240.03
+DEA 3M
+100.00
+0
+3.00
+6.00
+9.00
+12.00
+15.00
+18.00
+21.00
+Santander
+Volatilidad Histórica:
+SPX012R DV008
+Reporte de Resultados | 3T.2020
+Banco Santander México
+80.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+Pago de derechos
+Valor observado
+Valor
+observado
+DEA 1M
+DEA 6M
+95.00
+$115
+$110
+$105
+$100
+$95
+$90
+110.00
+Nivel de
+mercado
+Ps.114.00
+Ps.114.00
+Ps.114.00
+Ps.114.00
+Ps.114.00
+Ps.114.00
+Ps.114.00
+Ps.114.00
+126

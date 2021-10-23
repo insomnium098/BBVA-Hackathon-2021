@@ -1,0 +1,141 @@
+Al cierre del segundo trimestre de 2020 Banco Santander no tiene ninguna situación o eventualidad, tales como cambios en el valor del activo
+subyacente o las variables de referencia, que implique que el uso de los instrumentos financieros derivados difieran de aquellos con que
+originalmente fueron concebidos, que modifiquen significativamente el esquema de los mismos o que impliquen la pérdida parcial o total de
+la cobertura, y que requieran que la Emisora asuma nuevas obligaciones, compromisos o variaciones en su flujo de efectivo de forma que vea
+afectada su liquidez; ni contingencias y eventos conocidos o esperados por la administración, que puedan afectarla en futuros reportes.
+Resumen de Instrumentos Financieros Derivados
+Cifras en millones de pesos al 30 de junio de 2020
+Valor Razonable
+Fines de
+Negociación o
+Trimestre
+Tipo de Derivado
+Subyacente
+de Cobertura
+Monto Nocional
+Trimestre Actual
+Anterior
+Contratos Adelantados
+Divisas
+Negociación
+424,836
+(767)
+(4,068)
+Contratos Adelantados
+Acciones
+Negociación
+492
+(5)
+7
+Futuros
+Divisas
+Negociación
+9,284
+0
+0
+Futuros
+Índices
+Negociación
+3,843
+0
+0
+Opciones
+Acciones
+Negociación
+1,698
+(478)
+(214)
+Opciones
+Divisas
+Negociación
+147,346
+1,308
+1,023
+Opciones
+Índices
+Negociación
+2,153
+156
+82
+Opciones
+Tasas
+Negociación
+193,513
+213
+154
+Swaps
+Divisas
+Negociación
+992,365
+(3,337)
+(7,140)
+Swaps
+Tasas
+Negociación
+7,954,786
+7,453
+7,305
+Swaps
+Acciones
+Negociación
+762
+167
+353
+Contratos Adelantados
+Divisas
+Cobertura
+36,864
+1,057
+1,794
+Swaps
+Divisas
+Cobertura
+61,474
+(14,672)
+(13,497)
+Swaps
+Tasas
+Cobertura
+82,525
+(4,616)
+(188)
+Banco Santander México, en la celebración de operaciones con instrumentos financieros derivados OTC, tiene formalizados contratos
+Colaterales con muchas de sus contrapartes, que sirven de garantía del valor de mercado de las operaciones de derivados y se determina en
+función a la exposición de la posición neta en riesgo con cada contraparte. El Colateral gestionado consiste mayoritariamente en depósitos en
+efectivo, con lo cual no se da situación de deterioro del mismo.
+No se tiene instrumentos financieros derivados cuyo subyacente sean acciones propias o títulos de crédito que las representen, durante el
+trimestre.
+Durante el segundo trimestre de 2020, el número de instrumentos financieros derivados vencidos y posiciones cerradas fue el siguiente (no
+auditado):
+Descripción
+Vencimientos
+Posiciones cerradas
+Caps and Floors
+479
+11
+Equity Forward
+29
+0
+OTC Equity
+230
+16
+OTC Fx
+1303
+320
+Swaptions
+0
+1
+Fx Forward
+3317
+318
+IRS
+653
+78
+CCS
+80
+5
+El monto de las llamadas de margen realizadas durante el trimestre fue el necesario para cubrir tanto las aportaciones en mercados
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+114

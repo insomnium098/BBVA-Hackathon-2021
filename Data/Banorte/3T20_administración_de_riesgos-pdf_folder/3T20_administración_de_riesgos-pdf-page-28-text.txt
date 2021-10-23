@@ -1,0 +1,49 @@
+GRUPO FINANCIERO
+BANORTE
+5. RIESGO OPERACIONAL
+GFNorte cuenta con un área formal de Riesgo Operacional que reporta directamente a la Dirección General de
+Administración de Riesgo y Crédito.
+El Riesgo Operacional se define como la pérdida potencial por fallas o deficiencias en los controles internos, por errores en
+el procesamiento y almacenamiento de las operaciones o en la transmisión de información, así como por resoluciones
+administrativas y judiciales adversas, fraudes o robos (esta definición incluye al Riesgo Tecnológico y Legal).
+La Administración del Riesgo Operacional tiene como objetivos: a) Permitir y apoyar a la organización a alcanzar sus
+objetivos institucionales a través de la prevención y administración de los riesgos operacionales, b) Asegurar que los riesgos
+operacionales existentes y los controles requeridos estén debidamente identificados, evaluados y alineados con la estrategia
+de riesgos establecida por la organización y c) Asegurar que los riesgos operacionales estén debidamente cuantificados
+para posibilitar la adecuada asignación de capital por Riesgo Operacional.
+5.1. Políticas, objetivos y lineamientos
+Como parte de la normatividad institucional se encuentran documentadas las políticas, objetivos, lineamientos,
+metodologías y áreas responsables en materia de gestión del Riesgo Operacional.
+La Dirección de Riesgo Operacional mantiene una estrecha comunicación y coordinación con la Dirección de Contraloría
+Normativa, a fin de propiciar un Control Interno efectivo en el que se establezcan procedimientos y adecuados controles
+que mitiguen el Riesgo Operacional dentro de los procesos, dándose seguimiento al cumplimiento de los mismos a través
+de la Dirección de Auditoría Interna.
+La Contraloría Normativa como parte del Sistema de Control Interno lleva a cabo las siguientes actividades relacionadas con
+la mitigación del riesgo: a) Validación del control interno, b) Administración y control de la normatividad institucional, c)
+Monitoreo del control interno de los procesos operativos por medio de los reportes de indicadores de control, reportados
+por los contralores de proceso de las diferentes áreas, d) Administración del proceso de Prevención de Lavado de Dinero, e)
+Control y seguimiento a las disposiciones regulatorias, f) Análisis y evaluación de procesos operativos y proyectos con la
+participación de los directores responsables de cada proceso, a fin de asegurar un adecuado control interno.
+5.2. Herramientas Cuantitativas y Cualitativas de medición
+5.2.1 Base de Datos de Pérdidas Operativas
+Para el registro de los eventos de pérdida operativa se cuenta con un sistema que permite a las áreas centrales proveedoras
+de información registrar directamente y en línea dichos eventos, los cuales son clasificados por Tipo de Evento de acuerdo
+a las siguientes categorías:
+Fraude Interno: Pérdidas derivadas de algún tipo de actuación encaminada a defraudar, apropiarse de bienes indebidamente
+o soslayar regulaciones, leyes o políticas empresariales (excluidos los eventos de diversidad / discriminación) en las que se
+encuentra implicada, al menos, una parte interna a la empresa.
+Fraude Externo: Pérdidas derivadas de algún tipo de actuación encaminada a defraudar, apropiarse de bienes indebidamente
+o soslayar la legislación, por parte de un tercero.
+Relaciones Laborales y Seguridad en el Puesto de Trabajo: Pérdidas derivadas de actuaciones incompatibles con la
+legislación o acuerdos laborales, sobre higiene o seguridad en el trabajo, sobre el pago de reclamaciones por daños
+personales, o sobre casos relacionados con la diversidad / discriminación.
+Clientes, Productos y Prácticas Empresariales: Pérdidas derivadas del incumplimiento involuntario o negligente de una
+obligación profesional frente a clientes concretos (incluidos requisitos fiduciarios y de adecuación), o de la naturaleza o
+diseño de un producto.
+Desastres Naturales y Otros Acontecimientos: Pérdidas derivadas de daños o perjuicios a activos materiales como
+consecuencia de desastres naturales u otros acontecimientos.
+Incidencias en el Negocio y Fallos en los Sistemas: Pérdidas derivadas de incidencias en el negocio y de fallos en los sistemas.
+Ejecución, Entrega y Gestión de Procesos: Pérdidas derivadas de errores en el procesamiento de operaciones o en la gestión
+de procesos, así como de relaciones con contrapartes comerciales y proveedores.
+Administración de Riesgos 3T20
+28

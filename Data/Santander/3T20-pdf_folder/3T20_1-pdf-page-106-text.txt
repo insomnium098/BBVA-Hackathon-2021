@@ -1,0 +1,133 @@
+Escenario
+(100) bp
+(50) bp
+(50) bp
+N/A
+(50) bp
+(50) bp
+(50) bp
+N/A
+Utilizando técnicas de simulación, se mide la variación previsible del margen financiero y del valor patrimonial ante distintos escenarios de tasas
+de interés, y la sensibilidad de ambos, frente a un movimiento extremo de los mismos, al cierre del tercer trimestre de 2020:
+MM Pesos
+Sensibilidad NIM
+Sensibilidad MVE
+No
+No
+Escenario
+Total
+Derivados
+Escenario
+Total
+Derivados
+Banco
+Derivados
+Derivados
+Balance
+MXN GAP
+(100) bp
+(49)
+(991)
+941
++100 bp
+(1,896)
+1,544
+(3,440)
+Balance
+USD GAP
+(50) bp
+(391)
+26
+(417)
+(50) bp (1,146)
+(1,115)
+(31)
+El Comité de Activos y Pasivos adopta estrategias de inversión y coberturas para mantener dichas sensibilidades dentro del rango objetivo.
+Límites
+Los límites se emplean para controlar el riesgo global de Banco Santander, a partir de cada uno de sus portafolios y libros. La estructura de
+límites se aplica para controlar las exposiciones y establecen el riesgo total otorgado a las unidades de negocio. Estos límites se establecen para
+el VaR, alerta de pérdida, pérdida máxima, volumen equivalente de tipo de interés, delta equivalente de renta variable, posiciones abiertas en
+divisas, sensibilidad del margen financiero y sensibilidad de valor patrimonial.
+Riesgo de Liquidez
+El riesgo de liquidez está asociado a la capacidad que Banco Santander tenga de financiar los compromisos adquiridos, a precios de
+mercados
+razonables, así como de llevar a cabo sus planes de negocio con fuentes de financiación estables. Los factores que influyen pueden ser de
+carácter externo (crisis de liquidez) e interno por excesiva concentración de vencimientos.
+Banco Santander realiza una gestión coordinada de los vencimientos de activos y pasivos, realizando una vigilancia de perfiles máximos
+de
+desfase temporal. Esta vigilancia se basa en análisis de vencimientos de activos y pasivos tanto contractuales como de gestión. Banco Santander
+realiza
+un
+control para el mantenimiento de una cantidad de activos líquidos suficiente para garantizar un horizonte de supervivencia durante
+un mínimo de días ante un escenario de estrés de liquidez sin recurrir a fuentes de financiación adicionales. El Riesgo de Liquidez se limita en
+términos de un periodo mínimo de días establecido para monedas locales, extranjeras y en forma consolidado. Cabe agregar que en el trimestre
+que se presenta no se han tenido incidencias en las métricas.
+Millones de
+Total
+1D
+1S
+1M
+3M
+6M
+9M
+1A
+5A
+>5A
+pesos
+Gap Estructural
+167,824
+(141,665)
+(44,149)
+(43,399)
+58,087
+43,700
+42,033
+24,003
+320,118
+(90,905)
+No Derivados
+169,279
+(141,664)
+(44,118)
+(43,514)
+58,729
+43,452
+42,308
+23,645
+317,942
+(87,502)
+Derivados
+(1,455)
+(1)
+(31)
+115
+(643)
+248
+(275)
+358
+2,176
+(3,403)
+Riesgo de Crédito
+La gestión del riesgo de crédito del Grupo Financiero se desarrolla de forma diferenciada para los distintos segmentos de clientes a lo largo de
+las tres fases del proceso crediticio: admisión, seguimiento y recuperación.
+Bajo
+una
+perspectiva global, la gestión del riesgo de crédito en el Grupo Financiero se ocupa de la identificación, medición, integración y
+valoración de riesgo agregado y de la rentabilidad ajustada al mismo, cuyo propósito es vigilar los niveles de concentración de riesgo y
+acomodarlos a los límites y a los objetivos establecidos.
+Se identifican y distinguen los riesgos que reciben un tratamiento individualizado (riesgos con empresas, instituciones y entidades financieras)
+de aquellos otros que se gestionan de forma estandarizada (créditos de consumo e hipotecarios de particulares y crédito a negocios y
+microempresas).
+Para los riesgos de tratamiento individualizado la gestión del riesgo se realiza mediante análisis experto complementado por un
+sistema
+propio
+de calificación de solvencia o "rating", con probabilidad de incumplimiento asociada, que permite medir el riesgo de cada cliente
+en
+cada
+etapa
+del ciclo de crédito.
+Los riesgos estandarizados requieren, por sus características especiales (gran número de operaciones de cuantía relativamente reducida), una
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+104

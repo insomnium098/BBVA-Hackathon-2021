@@ -1,0 +1,102 @@
+Mercado donde cotiza:
+Nasdaq
+Descripción:
+Intel Corporation diseña, fabrica y vende componentes de computadoras y productos relacionados. Los principales productos de la empresa incluyen
+microprocesadores, conjuntos de chips, procesadores integrados, microcontroladores, memoria flash, gráficos, redes y comunicaciones, gestión de sistemas,
+productos de software, conferencias e imágenes digitales.
+Evolución Histórica
+Volatilidad Histórica
+Reporte de Resultados | 2T.2021
+Banco Santander México
+220%
+200%
+180%
+160%
+140%
+120%
+100%
+80%
+60%
+Base de comparación: 30 de junio de 2016
+Precio máximo
+140.00%
+120.00%
+100.00%
+80.00%
+60.00%
+40.00%
+20.00%
+Fuente de información sobre Evolución y Volatilidad Histórico: www.bloomberg.com.mx
+IPC
+Volumen promedio (títulos)
+INTC
+21,483,558.39
+24,190,031.49
+30,219,890.01
+23,182,203.39
+32,956,109.44
+20,679,652.95
+29,363,836.32
+36,509,336.11
+32,349,071.61
+48,869,326.19
+27,495,382.36
+34,500,433.84
+33,595,619.03
+24,176,225.90
+24,783,904.00
+Santander
+Periodo
+Precio mínimo
+2016
+2017
+2018
+2019
+2020
+2° Sem. 2019
+1° Sem. 2020
+2° Sem. 2020
+1° Sem. 2021
+enero 2021
+febrero 2021
+marzo 2021
+abril 2021
+mayo 2021
+junio 2021
+32.68
+33.46
+42.42
+43.46
+44.11
+44.96
+44.61
+44.11
+49.67
+49.67
+56.69
+58.33
+57.53
+53.62
+55.26
+38.10
+47.56
+57.08
+60.08
+68.47
+60.08
+68.47
+61.15
+68.26
+62.46
+63.19
+65.78
+68.26
+57.73
+58.19
+-
+DEA 12M
+0.00%
+DEA 6M
+DEA 1M
+DEA 3M
+145

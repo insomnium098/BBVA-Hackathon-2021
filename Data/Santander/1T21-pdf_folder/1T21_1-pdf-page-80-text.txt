@@ -1,0 +1,98 @@
+Operaciones de banca de inversión por cuenta de terceros
+BG39
+(neto)
+0
+Intereses devengados no cobrados derivados de cartera de
+BG40
+crédito vencida
+817
+BG41
+Otras cuentas de registro
+1,671,523
+Tabla II.2
+Conceptos regulatorios considerados para el cálculo de los componentes del Capital Neto
+Referencia(s) del rubro
+Referencia del
+Monto de conformidad con
+del balance general y
+formato de
+las notas a la tabla Conceptos
+monto relacionado con
+Conceptos regulatorios considerados
+revelación de la
+regulatorios considerados
+el concepto regulatorio
+Identificador
+para el cálculo de los componentes
+integración de
+para el cálculo de los
+considerado para el
+del Capital Neto
+capital del
+componentes del Capital
+cálculo del Capital Neto
+apartado I del
+Neto
+proveniente de la
+presente anexo
+referencia mencionada.
+Activo
+BG16= = 10,488 Menos:
+cargos diferidos y
+pagos anticipados
+1,801; intangibles
+6,272; otros activos
+que computan como
+activos en riesgo 1,811;
+Más: Intangibles que se
+reconocen en el pasivo
+1
+Crédito mercantil
+8
+2,404
+1,800
+BG16= 10,488 Menos:
+cargos diferidos y
+pagos anticipados
+1,801; intangibles
+2,404; otros activos
+que computan como
+activos en riesgo 1,811;
+Más: Intangibles que se
+reconocen en el pasivo
+2
+Otros Intangibles
+9
+6,272
+1,800
+Impuesto a la utilidad diferida (a favor)
+proveniente de pérdidas y créditos
+3 fiscales
+10
+0
+Beneficios sobre el remanente en
+4
+operaciones de burzatilización
+13
+151
+BG9=160
+Inversiones del plan de pensiones por
+beneficios definidos sin acceso
+5
+irrestricto e ilimitado
+15
+0
+BG3= 558,824 Menos:
+Inversiones indirectas
+Inversiones en acciones de la propia
+en el capital de
+6
+institución
+16
+0.00
+entidades financieras
+Reporte de Resultados |
+1T.2021
+Banco Santander México
+Santander
+78

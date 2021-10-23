@@ -1,0 +1,217 @@
+BBVA
+Creando Oportunidades
+Calificación de la Cartera Credicia
+Alrededor del 80% de la cartera se ubica en un nivel mínimo de riesgo, lo que implica una
+adecuada calidad de activos.
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Calificación de la cartera de crédito
+Comercial
+Vivienda
+Consumo
+Tarjeta de Crédito
+TOTAL
+Junio 2021
+Saldo
+Reserva
+Saldo
+Reserva
+Saldo
+Reserva
+Saldo
+Reserva
+Saldo
+Reserva
+Millones de pesos
+Nivel de Riesgo
+A1
+635,798
+1,605
+220,165
+241
+56,038
+501
+51,878
+908
+963,879
+3,255
+A2
+61,158
+666
+1,646
+11
+13,716
+348
+14,633
+573
+91,153
+1,598
+B1
+11,269
+186
+6,862
+61
+56,138
+1,863
+8,422
+484
+82,691
+2,594
+B2
+12,627
+292
+14,988
+176
+31,399
+1,429
+7,447
+540
+66,461
+2,437
+B3
+26,739
+941
+2,638
+42
+8,701
+484
+7,661
+682
+45,739
+2,149
+C1
+10,010
+699
+8,018
+250
+5,956
+435
+8,082
+963
+32,066
+2,347
+C2
+3,129
+281
+4,141
+302
+3,982
+395
+9,474
+2,273
+20,726
+3,251
+D
+4,116
+1,194
+5,824
+1,641
+2,258
+523
+1,451
+730
+13,649
+4,088
+E
+10,760
+7,001
+3,189
+1,687
+7,589
+5,217
+1,853
+1,600
+23,391
+15,505
+Adicional
+5,482
+Total requerido
+775,606
+12,865
+267,471
+4,411
+185,777
+11,195
+110,901
+8,753
+1,339,755
+42,706
+En comercial se incluyen TDC Negocio y cartas de crédito.
+En vivienda se considera la bursatilización que consolida BACOMCB 09.
+La exposición al riesgo se distribuye de la siguiente manera:
+Grupo Financiero BBVA México
+Exposición, Probabilidad de Incumplimiento y Severidad
+Junio 2021 Millones de pesos
+Exposición
+Exposición Media
+PI %
+Severidad %
+Comercial
+698,404
+699,590
+3.7
+41.9
+Consumo
+183,066
+182,649
+8.3
+69.8
+Hipotecario
+266,392
+263,445
+5.1
+15.9
+TDC
+152,630
+149,329
+7.9
+77.4
+Consumo e hipotecario no considera intereses vencidos
+Grupo Financiero BBVA México
+Cartera Comercial
+Exposición, Probabilidad de Incumplimiento y Severidad
+Junio 2021 Millones de pesos
+Exposición
+Exposición Media
+PI %
+Severidad %
+Empresas con Ventas < 14 Millones Udis
+121,770
+110,037
+9.0
+42.6
+Empresas con Ventas > 14 Millones Udis
+342,713
+350,657
+2.9
+39.7
+Entidades Federativas y Municipios
+139,002
+142,413
+0.7
+47.8
+Instituciones Financieras
+23,640
+24,423
+0.8
+55.9
+Proyectos
+26,740
+28,130
+1.6
+20.0
+Disponibles
+17,061
+16,283
+1.5
+45.0
+TDC
+27,478
+27,648
+10.9
+44.9
+Total
+698,404
+699,590
+3.7
+41.9
+15

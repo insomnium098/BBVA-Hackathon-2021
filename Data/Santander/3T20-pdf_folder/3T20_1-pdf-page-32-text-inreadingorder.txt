@@ -1,0 +1,87 @@
+Capitalización y liquidez
+Capitalización
+Millones de pesos
+Capital fundamental
+Capital básico
+Capital complementario
+Total capital
+Activos en riesgo
+Riesgos de crédito
+Riesgos de crédito, mercado y operacional
+Riesgos de crédito:
+Capital Fundamental (CET1) (%)
+Capital Básico (Tier1)
+Capital Complementario (Tier2) (%)
+Índice de capitalización (%)
+Riesgos totales:
+Capital Fundamental (CET1) (%)
+Capital Básico (Tier 1)
+Capital Complementario (Tier2) (%)
+Índice de capitalización (%)
+El índice de capitalización de Banco Santander México a septiembre de 2020 fue de 17.16%, comparado con el
+16.89% y el 16.69% a septiembre 2019 y junio 2020, respectivamente. El índice de capitalización del 17.16% está
+compuesto por 12.26% de capital fundamental (CET1), 1.34% de capital básico no fundamental (Additional Tier 1)
+y 3.56% de capital complementario (Tier 2).
+En agosto 2020, Banco Santander México se encontraba clasificado en la categoría I de conformidad con las reglas
+de carácter general a que se refiere el artículo 134 bis de la Ley de Instituciones de Crédito. De acuerdo al resultado
+previo obtenido en el mes de septiembre 2020, el Banco continúa en la categoría I.
+Coeficiente de cobertura de liquidez (CCL)
+De conformidad con el requerimiento regulatorio de Banco de México y la Comisión Nacional Bancaria y de Valores
+(CNBV), el Coeficiente de Cobertura de Liquidez Promedio para el 3T20 fue de 275.11% que compara con el 180.25%
+reportado en 3T19 y con el 211.33% reportado en el 2T20. (Por favor consulte la nota 24 del presente reporte).
+Razón de apalancamiento
+De conformidad con el requerimiento regulatorio por parte de la CNBV emitido el 14 de junio de 2016, se presenta
+la razón de apalancamiento en 6.82% a septiembre, 6.53% a junio 2020, 6.53% a marzo 2020, 7.02% a diciembre
+2019, y 7.64% a septiembre 2019.
+Esta razón es definida por los reguladores y es resultado de dividir el Capital Básico (de conformidad con el artículo
+2 Bis 6 de la Circular Única de Bancos (CUB)), entre los activos ajustados (de conformidad a lo establecido en el
+apartado Il del artículo 1 de la CUB).
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Sep-20
+Jun-20
+Sep-19
+100,880
+111,944
+29,324
+141,268
+130,158
+537,037
+823,055
+18.78
+20.85
+5.46
+26.31
+12.26
+13.60
+3.56
+17.16
+Santander
+96,915
+108,451
+30,507
+138,958
+545,833
+832,610
+17.76
+19.87
+5.59
+25.46
+11.64
+13.03
+3.66
+16.69
+94,694
+104,548
+25,610
+547,900
+770,777
+17.28
+19.08
+4.67
+23.76
+12.29
+13.56
+3.32
+16.89
+30

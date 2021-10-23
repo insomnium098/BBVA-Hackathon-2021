@@ -1,0 +1,107 @@
+(Compensaciones realizadas al nocional efectivo ajustado de los instrumentos financieros
+derivados de crédito suscritos y deducciones de los factores adicionales por los
+instrumentos financieros derivados de crédito suscritos)
+Exposiciones totales a instrumentos financieros derivados (suma de las líneas 4 a 10)
+Exposiciones por operaciones de financiamiento con valores
+Activos SFT brutos (sin reconocimiento de compensación), después de ajustes por
+transacciones contables por ventas
+(Cuentas por pagar y por cobrar de SFT compensadas)
+Exposición Riesgo de Contraparte por SFT
+Exposiciones por SFT actuando por cuenta de terceros
+Exposiciones totales por operaciones de financiamiento con valores (suma de las líneas 12
+a 15)
+Otras exposiciones fuera de balance
+Exposición fuera de balance (importe nocional bruto)
+(Ajustes por conversión a equivalentes crediticios)
+Partidas fuera de balance (suma de las líneas 17y 18)
+Capital y exposiciones totales
+Capital de Nivel 1
+Exposiciones totales (suma de las líneas 3, 11, 16 y 19)
+Coeficiente de apalancamiento
+Coeficiente de apalancamiento de Basilea III
+Tabla II.1
+Comparativo de los activos totales y los activos ajustados
+Descripción
+Activos totales
+Ajuste por inversiones en el capital de entidades bancarias, financieras, aseguradoras o comerciales
+que se consolidan a efectos contables, pero quedan fuera del ámbito de consolidación regulatoria
+Ajuste relativo a activos fiduciarios reconocidos en el balance conforme al marco contable, pero
+excluidos de la medida de la exposición del coeficiente de apalancamiento
+Ajuste por instrumentos financieros derivados
+Ajuste por operaciones de reporto y préstamo de valores[¹]
+Ajuste por partidas reconocidas en cuentas de orden
+Otros ajustes
+Exposición del coeficiente de apalancamiento
+Tabla III.1
+Conciliación entre activo total y la exposición dentro del balance
+Concepto
+Activos totales
+Operaciones en instrumentos financieros derivados
+Operaciones en reporto y prestamos de valores
+Activos fiduciarios reconocidos en el balance conforme al marco contable, pero
+excluidos de la medida de la exposición del coeficiente de apalancamiento
+Exposiciones dentro del Balance
+Tabla IV.1
+Variación de los elementos
+dic-20
+mar-21
+T-1
+T
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+Referencia
+1
+2
+3
+4
+5
+6
+7
+Concepto/Trimestre
+Reporte de Resultados | 1T.2021
+Banco Santander México
+70,860
+51,320
+(3,607)
+2,276
+49,989
+146,759
+(48,690)
+98,069
+124,927
+1,640,656
+7.61%
+mar-21
+1,742,581
+0
+(44,882)
+(157,388)
+2,276
+98,069
+1,640,656
+1,742,581
+(228,247)
+(47,713)
+0
+1,466,620
+Referencia
+1
+2
+3
+4
+5
+mar-21
+Variación (%)
+Santander
+97

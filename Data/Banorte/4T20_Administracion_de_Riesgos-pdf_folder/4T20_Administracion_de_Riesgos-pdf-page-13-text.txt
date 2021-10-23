@@ -1,0 +1,92 @@
+GRUPO FINANCIERO
+BANORTE
+En la siguiente tabla se detalla el valor de mercado de acuerdo a los rangos de calificación para las contrapartes del portafolio
+de los productos derivados operados.
+Intervalo de Calificación
+MtM 4T20
+Promedio 4T20
+(Millones de pesos)
+AAA/AA-
+0
+0
+A+/A-
+(11,680)
+(11,041)
+BBB+/BBB-
+2,002
+1,744
+BB+/BB-
+10,666
+9,643
+B+/B-
+1,841
+1,648
+CCC/C
+0
+0
+SC
+8,315
+7,969
+Total
+11,144
+9,963
+2.3. Garantía de los Créditos
+Las garantías representan la segunda fuente de recuperación del crédito, cuando la cobertura del mismo vía la actividad
+preponderante del solicitante se ve comprometida. Las garantías pueden ser reales o personales.
+Los principales tipos de garantías reales son los siguientes:
+Hipotecaria Civil
+Hipotecaria Industrial
+Prendaria Ordinaria
+Prenda sin Transmisión de Posesión
+Prenda/Bono de Prenda
+Bono de Prenda
+Caución Bursátil
+Prenda Bursátil
+Fideicomiso de Administración y Pago
+Fondos de Fomento
+Para el caso de bienes físicos otorgados en garantía, la Institución cuenta con políticas y procesos para dar seguimiento y
+realizar visitas de inspección periódicas para cerciorarse de la existencia, legitimidad, valor y calidad de las garantías que
+fueron aceptadas como soporte alterno del crédito. Por otro lado, cuando las garantías son valores, existen políticas y
+procesos para dar seguimiento a la valuación de mercado de las mismas y requerir garantías adicionales en caso de ser
+necesario.
+A continuación se muestra la cartera de crédito cubierta por tipo de garantía:
+4T20
+Tipo de Garantía
+Arrendadora
+(Millones de pesos)
+Banorte
+GFNorte*
+y Factor**
+Cartera Total
+791,112
+35,215
+811,070
+Cartera Cubierta por Tipo de Garantía
+Garantías Reales Financieras
+18,367
+0
+18,367
+Garantías Reales No Financieras
+456,669
+6,904
+463,573
+Pari Passu
+33,993
+0
+33,993
+Primeras Pérdidas
+17,841
+0
+17,841
+Garantías Personales
+22,929
+4,480
+27,410
+Cartera Total Cubierta
+549,800
+11,384
+561,184
+*Cartera de Crédito Total GFNorte incluye eliminaciones y registros contables por (Ps 15,257).
+** La cartera de AyF no incluye arrendamiento puro.
+Administración de Riesgos 4T20
+13

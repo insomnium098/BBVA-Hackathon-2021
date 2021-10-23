@@ -1,0 +1,30 @@
+Table
+Ticker ,Nombre ,Ticker ,Nombre 
+OR FP Equity ,L'Oreal SA ,ENI IM Equity ,Eni SpA 
+DG FP Equity ,Vinci SA ,ENGI FP Equity ,Engie SA 
+ASML NA Equity ,ASML Holding NV ,ABI BB Equity ,Anheuser-Busch InBev SA/NV 
+SAN SQ Equity ,Banco Santander SA ,ADYEN NA Equity ,Adyen NV 
+PHIA NA Equity ,Koninklijke Philips NV ,SAN FP Equity ,Sanofi 
+TTE FP Equity ,TotalEnergies SE ,ENEL IM Equity ,Enel SpA 
+Al FP Equity ,Air Liquide SA ,SU FP Equity ,Schneider Electric SE 
+CS FP Equity ,AXA SA ,ALV GY Equity ,Allianz SE 
+BNP FP Equity ,BNP Paribas SA ,BAYN GY Equity ,Bayer AG 
+BN FP Equity ,Danone SA ,BMW GY Equity ,Bayerische Motoren Werke AG 
+VIV FP Equity ,Vivendi SE ,CRH ID Equity ,CRH PLC 
+EL FP Equity ,EssilorLuxottica SA ,BAS GY Equity ,BASF SE 
+MC FP Equity ,LVMH Moet Hennessy Louis Vuitton SE ,SIE GY Equity ,Siemens AG 
+KER FP Equity ,Kering SA ,VOW3 GY Equity ,Volkswagen AG 
+AMS SQ Equity ,Amadeus IT Group SA ,MUV2 GY Equity ,Munich Re 
+AD NA Equity ,Koninklijke Ahold Delhaize NV ,SAP GY Equity ,SAP SE 
+
+
+Table
+Nivel de mercado ,Valor observado ,Pago de derechos 
+206.00 ,7903.27 ,Ps. 206.00 
+211.00 ,8095.10 ,Ps. 211.00 
+216.00 ,8286.93 ,Ps. 216.00 
+221.00 ,8478.75 ,Ps. 221.00 
+226.00 ,8670.58 ,Ps. 226.00 
+231.00 ,8862.41 ,Ps. 231.00 
+
+

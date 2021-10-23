@@ -1,0 +1,47 @@
+Se permite excluir la información del mes de marzo para el cálculo de las reservas de liquidez que las Instituciones deben
+mantener para hacer frente a potenciales llamadas de margen o cambios en la valuación del portafolio de operaciones con
+instrumentos derivados (LBA).
+Otorgan excepciones temporales a algunas de las medidas correctivas señaladas en las Disposiciones de Liquidez, así como no
+considerar incumplimiento al CCL el que alguna Institución se clasifique en los escenarios III, IV o V contemplados en las
+referidas Disposiciones.
+Las excepciones antes mencionadas estarán vigentes por un periodo de seis meses contados a partir del 28 de febrero de 2020,
+y podrán extenderse por un periodo máximo de hasta seis meses adicionales si Banxico y CNBV consideran que las condiciones
+así lo requieren.
+Al aplicar algunas de las excepciones arriba mencionadas, el CCL pasaría a 211.33% de acuerdo al formato arriba reportado.
+25. Activos Subyacentes
+Datos Generales e Información Bursátil
+Los valores a los que podrá estar referenciada cada una de las Series podrán ser en su conjunto o de manera individual, conforme a lo
+dispuesto en el cuarto párrafo del artículo 66 de la Ley del Mercado de Valores, cualquiera de los valores que a continuación se detallan,
+de
+los cuales a la fecha y por los últimos 3 ejercicios no han ocurrido suspensiones significativas en la negociación de los mismos.
+La Emisora publicará de manera mensual en la página de Internet www.santander.com.mx/conocealbanco/titulosopcionales al banco/títulos
+opcionales, la información relativa al comportamiento de los Activos Subyacentes de las Series vigentes.
+Índices
+Índice
+Clave de Pizarra
+S&P 500
+SPX
+Eurostoxx 50
+SX5E
+i) S&P 500 (SPX)
+El índice Standard and Poor's 500 es un índice ponderado por capitalización y está compuesto por 500 acciones. El índice está diseñado para
+medir el desempeño de la economía en Estados Unidos a través de los cambios del valor agregado de mercado de 500 acciones
+representativas de los principales sectores industriales.
+Fórmula:
+La fórmula empleada para determinar el valor del SPX mide el cambio diario del valor de capitalización de una muestra de valores. Esta
+fórmula evalúa la trayectoria del mercado, y facilita su reproducción en portafolios, sociedades de inversión y carteras de valores que
+pretendan obtener el rendimiento promedio que ofrece el mercado.
+1
+P. it * 0 it
+I =
+P. * 0 * F
+it-1
+it-1
+1it-1
+It: Índice en el tiempo t
+Pit: Precio de la emisora i en el tiempo t
+Qit: Acciones de la emisora i en el tiempo t
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+121

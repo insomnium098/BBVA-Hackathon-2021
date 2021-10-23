@@ -1,0 +1,260 @@
+GRUPO FINANCIERO
+BANORTE
+1%
+4%
+21%
+1%
+32%
+14%
+3%
+2%
+2%
+2%
+2%
+5%
+7%
+3%
+17%
+6
+I.
+Resumen Ejecutivo
+Estado de Resultados - GFNorte
+(Millones de Pesos)
+Ingresos por Intereses
+Gastos por Intereses
+Resultado Técnico (Seguros y Pensiones)
+Ingresos de Intereses Netos
+Comisiones por Servicios Netas
+Intermediación
+Otros Ingresos (Egresos) de la Operación
+Ingresos No Financieros
+Ingreso Total
+Gasto No Financiero
+Resultado Neto de Operación
+Participación en el Resultado de Subsidiarias
+Participación no controladora
+Subsidiarias y participación no controladora
+Utilidad Neta
+Balance General - GFNorte
+(Millones de Pesos)
+Activos en Administración
+Cartera Vigente (a)
+Cartera Vencida (b)
+Cartera de Crédito (a+b)
+Total de Cartera de Crédito Neto (d)
+Derechos de Cobro Adquiridos (e)
+Total de Cartera de Crédito (d+e)
+Depósitos Total
+Capital Contable
+Indicadores Financieros GFNorte
+Rentabilidad:
+Operación:
+Índice de Eficiencia (4)
+Índice de Eficiencia Operativa (5)
+CCL Promedio Banorte y SOFOM - Basilea III (6)
+Calidad de Activos:
+Índice de Cartera Vencida
+Índice de Cobertura
+Costo de Riesgo (7)
+Referencias de Mercado
+Tasa de Referencia Banxico
+TIIE 28 días (Promedio)
+Tipo de Cambio Peso/Dólar
+1)
+MIN= Ingresos de Intereses Netos del trimestre anualizado / Activos productivos promedio
+2)
+Utilidad Neta del periodo anualizada como porcentaje del promedio trimestral del Capital Contable (sin interés minoritario) del mismo periodo
+3)
+Utilidad Neta del periodo anualizada como porcentaje del promedio trimestral del Activo Total (sin interés minoritario) del mismo periodo
+4)
+Gasto No Financiero / (Ingreso Total)
+5)
+Gasto No Financiero del trimestre anualizado, / Activo Total Promedio
+6)
+El cálculo del CCL es preliminar y será actualizado una vez que Banco de México realice su cálculo
+7)
+Costo de Riesgo = Provisiones del periodo anualizadas / Cartera Total Promedio
+Información Financiera 1T21
+Var. Vs.
+6%
+2%
+(90%)
+2%
+(11%)
+12%
+(4%)
+(6%)
+0%
+(6%)
+(46%)
+50%
+52%
+(16%)
+(46%)
+(27%)
+43.2%
+Var. Vs.
+3%
+(0%)
+19%
+(0%)
+0%
+(5%)
+0%
+1%
+1%
+1%
+2%
+1T20
+4T20
+36,879
+14,528
+21,968
+3,455
+1,166
+4,949
+26,916
+10,466
+4,344
+12,106
+3,228
+9,118
+1T20
+4T20
+2,708,692
+779,818
+13,212
+793,030
+774,525
+776,025
+1,729,280
+772,993
+1,531,790
+197,490
+1T20
+120.1%
+140.1%
+23.48
+4T20
+30,676
+9,638
+(1,458)
+19,580
+3,599
+5,315
+24,896
+11,612
+5,993
+7,290
+1,757
+5,966
+4T20
+2,975,753
+802,138
+8,931
+811,070
+791,066
+1,617
+792,682
+1,787,904
+821,712
+1,562,801
+225,103
+4T20
+192.5%
+224.0%
+19.91
+1T21
+32,572
+9,797
+(2,773)
+20,002
+3,214
+5,000
+25,003
+10,883
+3,215
+10,905
+2,678
+8,544
+1T21
+3,074,928
+800,328
+10,607
+810,935
+791,265
+792,794
+1,810,207
+830,531
+1,580,066
+230,142
+1T21
+207.6%
+185.4%
+20.44
+1T20
+(12%)
+(33%)
+(623%)
+(9%)
+(7%)
+(17%)
+151%
+(7%)
+(26%)
+(10%)
+(17%)
+(6.3%)
+1T20
+(20%)
+(383)
+327
+353
+(113)
+240
+1,500
+5.9%
+18.8%
+2.2%
+38.9%
+2.5%
+1.7%
+2.2%
+6.50%
+7.36%
+858
+859
+509
+(77)
+433
+4.8%
+10.9%
+1.3%
+46.6%
+2.6%
+1.1%
+3.0%
+4.25%
+4.51%
+964
+822
+429
+(112)
+317
+1,529
+4.9%
+15.2%
+1.9%
+43.5%
+2.4%
+1.3%
+1.6%
+4.00%
+4.37%
+Provisiones
+Impuestos
+Activo Total
+Pasivo Total
+MIN (1)
+ROE (2)
+ROA (3)

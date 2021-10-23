@@ -1,0 +1,72 @@
+BBVA
+Creando Oportunidades
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Valor en riesgo de títulos para negociar
+Millones de pesos
+VaR 1 día
+VaR 10 días
+Asimismo, se realizan simulaciones diarias de las pérdidas O ganancias de las carteras
+mediante reevaluaciones de las mismas bajo escenarios catastróficos (stress test). Estas
+estimaciones se generan aplicando a los factores de riesgo, cambios porcentuales observados
+en determinado período de la historia, el cual abarca turbulencias significativas del mercado.
+Con frecuencia mensual se realizan pruebas de "backtesting" para comparar las pérdidas y
+ganancias diarias que se hubieran observado sise hubiesen mantenido las mismas posiciones,
+considerando únicamente el cambio en valor debido a movimientos del mercado contra el
+cálculo de valor en riesgo y en consecuencia poder calibrar los modelos utilizados.
+Riesgo de Liquidez
+Información Cuantitativa
+(a) Límites de concentración respecto de los distintos grupos de garantías recibidas y las
+fuentes principales de financiamiento.
+De manera adicional a los ratios regulatorios de liquidez y el esquema de control del
+riesgo de liquidez de BBVA México se basan en el establecimiento de límites en tres ejes
+fundamentales: a) autofinanciación a través del ratio LtSCD O Loan to Stable Customer
+Deposits (relación máxima de la financiación de la inversión crediticia neta con recursos
+estables de clientes); b) diversificación de la estructura de financiación a través de un
+importe máximo de Financiación a Corto Plazo (FCP); y c) capacidad de absorción de
+shocks de liquidez a través de la Capacidad Básica a 30 días (CB 30d - -cociente de buffer
+de liquidez disponible; y las salidas netas de liquidez previstas dentro del plazo por vencer
+correspondiente). También se tienen alertas para prevenir que los límites no sean
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Valor en riesgo de títulos para negociar
+Millones de pesos
+1 Día
+3T 2020
+Renta fija
+Renta variable
+Cambios
+Vega
+Total
+3T
+4T
+2019
+2019
+108
+119
+334
+379
+37
+VaR
+165
+23
+35
+24
+148
+VaR
+10 Días
+537
+75
+117
+76
+482
+2020
+1T
+121
+381
+2T
+175
+549
+3T
+148
+482
+2020
+2020

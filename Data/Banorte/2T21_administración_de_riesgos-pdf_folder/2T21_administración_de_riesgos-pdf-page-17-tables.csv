@@ -1,0 +1,21 @@
+Table
+Cartera de ,Auto Persona ,Física bajo Modelo ,Interno Avanzado ,,Millones de pesos 
+Grado de Riesgo* ,Saldo Contable ,Exposición al Incumplimiento (EI) ,Severidad de la Pérdida ,PI ponderada por El ,El Vigente 
+A1 ,"23,278 ","23,278 ",56.62% ,0.79% ,"23,278 "
+A2 ,"2,467 ","2,467 ",61.07% ,3.58% ,"2,467 "
+B1 ,384 ,384 ,68.98% ,5.36% ,384 
+B2 ,0 ,0 ,0.00% ,0.00% ,0 
+B3 ,0 ,0 ,0.00% ,0.00% ,0 
+C1 ,649 ,649 ,52.04% ,13.91% ,649 
+C2 ,908 ,908 ,68.98% ,13.91% ,907 
+D ,229 ,229 ,52.04% ,53.43% ,18 
+E ,492 ,492 ,69.35% ,80.02% ,9 
+Cartera Total ,"28,408 ","28,408 ",57.65% ,3.61% ,"27,713 "
+
+
+Table
+Cartera ,Pérdida Esperada Modelos Internos* ,Pérdida Observada ,Diferencia Ps (Pérdida Observada - Pérdida Esperada) ,% Cobertura PNC 
+Auto Persona Física ,689 ,587 ,(102) ,117% 
+Cartera Total ,689 ,587 ,(102) ,117% 
+
+

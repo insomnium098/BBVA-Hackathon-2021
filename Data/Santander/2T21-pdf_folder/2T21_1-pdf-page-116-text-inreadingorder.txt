@@ -1,0 +1,51 @@
+Delta por factor de Riesgo (EQ y FX)
+EQ
+Total
+De acuerdo a lo anterior, se refleja un manejo prudencial de la cartera de negociación de Banco Santander respecto de los factores de riesgo.
+Stress Test de Instrumentos Financieros Derivados
+A continuación se presentan distintos escenarios de stress test considerando diversos escenarios hipotéticos calculados para la cartera de
+Este escenario se definió con base en movimientos resultantes de una desviación estándar, respecto de los factores de riesgo que influyen en la
+valuación de los instrumentos financieros que ha mantenido la cartera de negociación de Banco Santander en cada uno de los períodos. En
+resumen los movimientos aplicados a cada factor de riesgo fueron los siguientes:
+Los factores de riesgo de tasa ("IR"), volatilidades ("Vol") y tipo de cambio ("FX") se incrementaron en una desviación estándar; y
+Los factores de riesgo respecto del mercado accionario (EQ) se disminuyeron en una desviación estándar.
+En este escenario se modificaron los factores de riesgo en 25%. En resumen los movimientos aplicados a cada factor de riesgo fueron los
+Los factores de riesgo IR, Vol y FX se multiplicaron por 1.25, es decir se incrementaron 25%.
+Los factores de riesgo EQ se multiplicaron por 0.75, es decir se disminuyeron 25%.
+En este escenario, se modificaron los factores de riesgo en 50%. En resumen los movimientos aplicados a cada factor de riesgo fueron los
+Los factores de riesgo IR, Vol y FX se multiplican por 1.50, es decir se incrementaron 50%.
+Los factores de riesgo EQ se multiplicaron por 0.5, es decir se disminuyeron 50%.
+En el siguiente cuadro se muestran las posibles utilidades (pérdidas) para la cartera de negociación de Banco Santander, de acuerdo a cada
+escenario de estrés, al cierre del segundo trimestre de 2021:
+Resumen Análisis de Stress Test
+Perfil de Riesgo
+Escenario Probable
+Escenario Remoto
+Escenario Posible
+Con fecha 31 de diciembre de 2014, la Comisión y el Banco de México publicaron en el Diario Oficial de la Federación, las Disposiciones de
+Carácter General sobre los Requerimientos de Liquidez para las Instituciones de Banca Múltiple, mismas que establecen los requerimientos
+liquidez que las instituciones de crédito deberán cumplir en todo momento, de conformidad con las directrices que estableció el Comité de
+Regulación de Liquidez Bancaria en su sesión celebrada el 17 de octubre de 2014.
+Dichas Disposiciones entraron en vigor el 1 de enero de 2015.
+FX
+Stress todos los
+factores
+Santander
+(0.02)
+Millones de pesos
+(0.27)
+16
+1,722
+459
+negociación de Banco Santander.
+Escenario Probable
+Escenario Posible
+siguientes:
+Escenario Remoto
+siguientes:
+Impacto en Resultados
+24. Coeficiente de cobertura de liquidez
+Reporte de Resultados | 2T.2021
+Banco Santander México
+de
+114

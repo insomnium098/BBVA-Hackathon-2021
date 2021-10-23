@@ -1,0 +1,143 @@
+BBVA
+Creando Oportunidades
+Indicadores Financieros
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+1T
+2T
+3T
+4T
+1T
+2020
+2020
+2020
+2020
+2021
+Indicadores de Infraestructura (#)
+Sucursales
+1,864
+1,866
+1,814
+1,746
+1,728
+Cajeros automáticos
+13,066
+13,115
+12,923
+12,950
+12,957
+Empleados
+GFBB
+37,167
+36,683
+36,302
+36,111
+36,668
+BBVA México
+34,118
+33,707
+33,347
+33,313
+33,759
+Indicadores de Rentabilidad (%)
+a) Margen de interés neto ajustado (activo productivo)
+3.4
+3.4
+4.3
+3.1
+3.9
+b) Margen de interés neto (activo total)
+5.7
+4.2
+5.0
+5.3
+5.2
+c) Eficiencia operativa
+2.6
+2.4
+2.4
+2.5
+2.6
+d) Índice de eficiencia
+36.6
+42.1
+37.0
+37.1
+40.4
+e) Índice de productividad
+39.0
+34.1
+39.8
+43.5
+38.5
+f) Rendimiento sobre capital (ROE)
+14.6
+18.6
+22.3
+13.2
+16.1
+g) Rendimiento sobre activos (ROA)
+1.3
+1.6
+2.1
+1.3
+1.6
+Indicadores de Calidad de Activos (%)
+h) Índice de morosidad
+2.17
+1.91
+2.03
+3.00
+2.61
+i) Índice de cobertura
+148.4
+167.6
+160.2
+129.0
+137.7
+Indicadores de Solvencia (%)
+j) Índice de capital fundamental
+11.5
+12.4
+13.5
+14.4
+14.6
+k) Índice de capital básico total
+11.5
+12.4
+13.5
+14.4
+14.6
+I) Indice de capital total
+15.1
+16.0
+16.8
+17.5
+17.7
+m) Coeficiente de Apalancamiento
+8.6
+9.4
+9.8
+10.3
+10.3
+Indicadores de Liquidez (%)
+n) Índice de liquidez (requerimiento CNBV)
+71.9
+71.1
+78.4
+76.8
+78.5
+o) Liquidez Cartera/Captación)
+102.1
+99.0
+94.6
+91.3
+90.5
+p) Coeficiente de Cobertura de Liquidez (CCL)
+141.88
+159.07
+185.24
+190.49
+203.12
+INFRAESTRUCTURA
+Cajeros automáticos: Aquellos que tuvieron operación durante el trimestre.
+24

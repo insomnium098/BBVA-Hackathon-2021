@@ -1,0 +1,127 @@
+BBVA
+Creando Oportunidades
+(b) La exposición al riesgo liquidez y las necesidades de financiamiento a nivel de BBVA
+México, teniendo en cuenta las limitaciones legales, regulatorias y operacionales a la
+transferibilidad de liquidez.
+La exposición al riesgo de liquidez de BBVA México y sus necesidades de financiamiento
+parten del principio de una gestión descentralizada e independiente de la liquidez
+(incluido Banco Bilbao Vizcaya Argentaria, S.A. en España O cualquier otra entidad de
+ésta), a fin de evitar dependencias O subsidios y eventuales contagios por crisis. En todo
+momento, se toman en cuenta las limitaciones legales, regulatorias y operacionales a la
+transferibilidad de liquidez de las regulaciones aplicables en la fijación de las políticas de
+riesgo de liquidez de BBVA México, incluidos los regímenes de admisión de pasivos y de
+inversión para las operaciones pasivas en Moneda Extranjera del Banco de México,
+reglas de operación de los sistemas de pagos, la diversificación de riesgos en la
+realización de operaciones pasivas especificadas por la CUB, entre otros.
+En el caso del régimen de inversión para las operaciones pasivas en Moneda Extranjera,
+adicional al límite regulatorio de Faltante, de manera preventiva se cuenta con un
+alertamiento más estricto que el límite regulatorio para el régimen de inversión para las
+operaciones pasivas en Moneda Extranjera del Banco de México.
+(c) A continuación, se detallan los flujos del balance al cierre de diciembre de 2020 por
+plazos de vencimiento y las brechas de liquidez.
+Información previa al cierre de diciembre 2020 (cifras puntuales)
+Rubro
+Millones de pesos
+Disponible
+Cartera de Crédito
+Cartera de Valores
+ACTIVOS TOTALES
+Captación
+Emisiones y Obligac. Sub.
+Acreedores por Reportos
+Neto resto de Balance
+PASIVOS TOTALES
+FUERA DE BALANCE
+BRECHAS DE LIQUIDEZ
+BRECHAS ACUMULADAS
+A la vista
+6 meses
+188,524
+O
+189,267
+O
+188,524
+247,473
+O
+O
+0
+O
+o
+o
+188,524
+158,250
+188,524
+30 días
+0
+81,420
+100,757
+4,490
+77,746
+85,910
+178,503
+171,896
+1,285
+6,226
+7,584
+255,727
+3493
+0
+433,848
+12,363
+(3,237)
+(6,684)
+(351,176)
+159,456
+(162,651)
+155,055
+1 año
+Sin Vencimiento
+1,081,424
+247,158
+1,328,582
+(1,328,582)
+(9,512)
+Mayor 1 año
+33,936
+837,044
+435,298
+1,306,277
+141,299
+3244
+144,595
+2,332
+1,164,015
+1,319,070
+Total
+222,460
+1,208,488
+575,740
+2,006,687
+1,312,236
+183,007
+264,287
+247,158
+2,006,687
+(9,512)
+0
+0
+O
+0
+0
+0
+0
+o
+0
+0
+o
+58,206
+57,579
+27,898
+1823
+87,300
+(1,923)
+(4,401)
+52
+0
+(9,512)
+40

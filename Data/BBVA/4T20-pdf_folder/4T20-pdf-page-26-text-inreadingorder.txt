@@ -1,0 +1,200 @@
+BBVA
+Creando Oportunidades
+Indicadores Financieros
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+indicadores delnfraestructura(#)
+Sucursales
+Cajeros automáticos
+Empleados
+GFBB
+BBVA México
+Indicadores de Rentabilidad (%)
+a) Margen de interés neto ajustado (activo productivo)
+b) Margen de interés neto (activo total)
+c) Eficiencia operativa
+d) Índice de eficiencia
+e) Índice de productividad
+f) Rendimiento sobre capital (ROE)
+g) Rendimiento sobre activos (ROA)
+Indicadores de Calidad de Activos (%)
+h) Índice de morosidad
+i) Índice de cobertura
+Indicadores de Solvencia (%)
+j) Índice de capital fundamental
+k) Índice de capital básico total
+I) Indice de capital total
+m) Coeficiente de Apalancamiento
+Indicadores de Liquidez (%)
+n) Índice de liquidez (requerimiento CNBV)
+o) Liquidez (Cartera/Captación)
+p) Coeficiente de Cobertura de Liquidez (CCL)
+INFRAESTRUCTURA
+Cajeros automáticos: Aquellos que tuvieron operación durante el trimestre.
+RENTABILIDAD
+a) Margen de interés neto (MIN): Margen financiero ajustado por riesgos crediticios (anualizado) / Activo productivo promedio.
+Activo productivo promedio: Disponibilidades + inversiones en valores + deudores por reporto + prestamos de valores + derivados +
+cartera de crédito vigente + Beneficio por recibir en operaciones de bursatilización + Ajuste valuación por cobertura de activos
+financieros.
+b)
+Margen de interés neto (MIN): Margen financiero (sin ajustar por riesgos crediticios, anualizado) / Activo total promedio.
+c)
+Eficiencia operativa: Gastos (anualizado) / Activo total promedio.
+d) Índice de eficiencia: Gastos de administración y promoción / Margen financiero + comisiones y tarifas, neto + resultado por
+intermediación + otros ingresos (egresos) de la operación.
+e)
+Índice de productividad: Comisiones y tarifas, neto / Gastos de administración y promoción.
+4T
+2019
+2020
+1,860
+1,746
+12,950
+36,111
+33,313
+4.9
+6.1
+5.3
+2.9
+2.5
+36.5
+37.1
+42.5
+43.5
+25.4
+13.2
+2.6
+2.20
+3.00
+129.3
+129.0
+12.5
+14.4
+12.5
+14.4
+15.6
+17.5
+10.0
+10.3
+73.1
+76.8
+103.6
+91.3
+190.49
+26
+1T
+3.4
+5.7
+2.6
+36.6
+39.0
+14.6
+1.3
+2.17
+11.5
+11.5
+15.1
+8.6
+71.9
+2T
+1,866
+13,115
+3.4
+4.2
+2.4
+42.1
+34.1
+18.6
+1.6
+1.91
+167.6
+12.4
+12.4
+16.0
+9.4
+71.1
+99.0
+3T
+1,814
+4.3
+5.0
+2.4
+37.0
+39.8
+22.3
+2.1
+2.03
+160.2
+13.5
+13.5
+16.8
+9.8
+78.4
+94.6
+4T
+3.1
+1.3
+12M
+2019
+1,860
+13,170
+36,771
+33,705
+4.7
+5.9
+2.8
+36.3
+42.1
+25.0
+2.5
+2.20
+129.3
+12.5
+12.5
+15.6
+10.0
+73.1
+103.6
+145.67
+12M
+2020
+1,746
+12,950
+36,111
+33,313
+3.8
+5.3
+2.6
+38.1
+39.1
+16.8
+1.7
+3.00
+129.0
+14.4
+14.4
+17.5
+10.3
+76.8
+91.3
+190.49
+2020
+1,864
+13,066
+37,167
+34,118
+148.4
+102.1
+141.88
+2020
+36,683
+33,707
+159.07
+2020
+12,923
+36,302
+33,347
+185.24
+13,170
+36,771
+33,705
+145.67

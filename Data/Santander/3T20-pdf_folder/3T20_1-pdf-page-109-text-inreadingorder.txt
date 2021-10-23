@@ -1,0 +1,109 @@
+Project Finance
+Empresas
+El REC Neto de las líneas de riesgo emisor de Banco Santander del tercer trimestre de 2020 es:
+Riesgo equivalente de crédito neto
+Millones de dólares americanos
+Segmento
+Riesgo Soberano, Banca de Desarrollo e
+Instituciones Financieras
+Corporativos
+Project Finance
+Empresas
+El porcentaje por productos de Riesgo de Contrapartida de Banco Santander al cierre del tercer trimestres de 2020, que corresponde a
+operaciones de derivados se distribuye de la siguiente manera de acuerdo con el tipo de derivado:
+Tipo de Derivado
+Derivados sobre tasas de interés
+Derivados sobre tipo de cambio
+Derivados sobre renta fija
+Derivados sobre acciones
+Total
+A continuación se muestra el valor presente de la pérdida esperada al cierre del tercer trimestre del 2020 y promedio trimestral.
+Millones de dólares americanos
+Riesgo Soberano, Banca de Desarrollo e Instituciones Financieras
+Como ya se mencionó anteriormente, la exposición de riesgo de crédito de contrapartida se mitiga mediante la aplicación de acuerdos de netting
+(ISDA-CMOF) y colaterales ("CSA-CGAR"), lo que da como resultado el REC Neto. El colateral es un activo que sirve como garantía frente a un
+contrato de derivados o una emisión de bonos, entre otras operaciones financieras y su principal objetivo de los acuerdos de colaterales es
+proveer una protección ante el posible impago de una contrapartida.
+Respecto a la gestión de las garantías reales, colaterales, en el caso de derivados, la operativa sujeta a un acuerdo de colateral se valora según
+la periodicidad establecida en el acuerdo de colateral. Sobre dicha valoración, se aplican los parámetros establecidos en el acuerdo de colateral
+para determinar el importe a entregar o recibir de la contraparte. Estos importes, llamadas de margen, son solicitados por la parte que tenga
+recibir
+el
+colateral, normalmente con periodicidad diaria, según lo que estipule el acuerdo de colateral. La contraparte que recibe el
+requerimiento de entrega del colateral, revisa la valoración, pudiendo surgir discrepancias en este proceso. Para el caso específico de derivados,
+los contratos de colaterales pueden ser de dos tipos:
+Variation Margin. se refiere a los activos de garantía entregados por una contrapartida a otra contrapartida a fin de cumplir sus obligaciones
+en virtud de una o varias operaciones entre las partes, a raíz de una variación en el valor de tales obligaciones desde la última vez en que se
+entregaron dichos colaterales.
+Initial Margin: se refiere al colateral recibido por una contrapartida para cubrir su exposición actual y futura en el intervalo comprendido
+entre la última recepción de margen y la liquidación de posiciones o la cobertura del riesgo de mercado tras un impago de la otra
+El monto total de colaterales recibidos por operaciones de derivados al cierre del tercer trimestre de 2020:
+Reporte de Resultados | 3T.2020
+5.2
+5.7
+60
+0
+0
+Porcentaje de productos cierre del tercer trimestre de 2020
+3.08
+10.37
+8.12
+6.09
+4.7
+5.6
+58
+0
+0
+Santander
+4.7
+5.6
+58
+0
+0
+sep-20
+4.8
+5.6
+59
+0
+0
+0.00%
+El rating promedio se calculó ponderando rating interno por exposición
+jul-20
+ago-20
+23,707
+19,662
+jul-20
+ago-20
+3.14
+12.44
+8.90
+7.00
+Garantía
+Porcentaje
+sep-20
+21,889
+2.87
+9.96
+7.08
+5.41
+Promedio
+21,753
+69.79%
+14.64%
+15.57%
+100.00%
+Pérdida Esperada
+Segmento
+Corporativos
+Project Finance
+Empresas
+derecho
+a
+contrapartida.
+Banco Santander México
+Promedio
+3.03
+10.93
+8.03
+6.17
+107

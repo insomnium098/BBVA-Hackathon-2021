@@ -1,0 +1,269 @@
+BBVA
+Creando Oportunidades
+Balance General
+Activo
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Sep
+Dic
+Mar
+Jun
+Sep
+Millones de pesos
+2019
+2019
+2020
+2020
+2020
+DISPONIBILIDADES
+164,036
+150,711
+157,212
+181,837
+218,704
+Cuentas de margen
+17,614
+18,329
+20,919
+25,838
+26,005
+INVERSIONES EN VALORES
+620,916
+669,648
+725,463
+730,843
+797,137
+Títulos para negociar
+360,174
+373,166
+381,213
+362,401
+398,852
+Títulos disponibles para la venta
+127,906
+160,965
+193,618
+185,134
+209,625
+Títulos conservados a vencimiento
+132,836
+135,517
+150,632
+183,308
+188,660
+Deudores por reporto
+5,818
+11,263
+19,038
+13,885
+10,655
+Derivados
+129,979
+120,309
+339,543
+290,139
+228,687
+Con Fines de Negociación
+117,018
+109,377
+314,102
+266,614
+208,343
+Con Fines de Cobertura
+12,961
+10,932
+25,441
+23,525
+20,344
+Ajustes de valuación por cobertura de activos financieros
+1,384
+1,310
+1,194
+2,401
+2,129
+TOTAL CARTERA DE CREDITO VIGENTE
+1,182,489
+1,218,088
+1,314,032
+1,281,447
+1,253,281
+Créditos comerciales
+659,811
+684,509
+780,692
+749,098
+717,641
+Actividad empresarial O comercial
+505,879
+507,622
+593,575
+570,758
+534,926
+Entidades financieras
+26,452
+33,162
+34,830
+28,600
+26,762
+Entidades gubernamentales
+127,480
+143,725
+152,287
+149,740
+155,953
+Créditos de consumo
+296,500
+302,366
+298,906
+289,983
+290,740
+Créditos a la vivienda
+226,178
+231,213
+234,434
+242,366
+244,900
+Media y residencial
+216,540
+222,023
+225,554
+233,339
+237,505
+De interés social
+9,638
+9,190
+8,880
+9,027
+7,395
+TOTAL CARTERA DE CREDITO VENCIDA
+27,031
+27,455
+29,116
+25,017
+25,940
+Créditos comerciales
+9,629
+9,518
+10,082
+10,243
+9,932
+Actividad empresarial O comercial
+9,629
+9,518
+10,082
+10,243
+9,932
+Créditos de consumo
+9,959
+10,342
+10,843
+8,317
+7,778
+Créditos a la vivienda
+7,443
+7,595
+8,191
+6,457
+8,230
+Media y residencial
+6,829
+7,033
+7,611
+5,992
+7,729
+De interés social
+614
+562
+580
+465
+501
+TOTAL CARTERA DE CREDITO
+1,209,520
+1,245,543
+1,343,148
+1,306,464
+1,279,221
+Estimación preventiva para riesgos crediticios
+(35,436)
+(35,486)
+(43,220)
+(41,922)
+(41,563)
+CARTERA DE CREDITO (NETO)
+1,174,084
+1,210,057
+1,299,928
+1,264,542
+1,237,658
+TOTAL DE CARTERA DE CREDITO (NETO)
+1,174,084
+1,210,057
+1,299,928
+1,264,542
+1,237,658
+Deudores por primas (neto)
+6,604
+7,097
+8,096
+7,132
+6,840
+Cuentas por cobrar a reaseguradores y reafianzadores (neto)
+541
+493
+629
+710
+707
+Beneficios por recibir en operaciones de bursatilización
+40
+25
+18
+0
+0
+Otras cuentas por cobrar (neto)
+106,099
+93,903
+132,491
+106,563
+96,805
+Bienes adjudicados (neto)
+1,417
+1,438
+1,378
+1,334
+1,415
+Inmuebles, mobiliario y equipo (neto)
+38,126
+38,538
+37,634
+36,908
+36,272
+Inversiones permanentes
+894
+1,150
+1,165
+1,139
+1,446
+Impuestos y PTU diferidos (neto)
+19,216
+22,530
+25,591
+21,293
+22,828
+Otros activos
+17,025
+16,229
+18,796
+23,898
+22,047
+Cargos diferidos, pagos anticipados e intangibles
+17,025
+16,229
+18,796
+23,898
+22,047
+TOTAL ACTIVO
+2,303,793
+2,363,030
+2,789,095
+2,708,462
+2,709,335
+54

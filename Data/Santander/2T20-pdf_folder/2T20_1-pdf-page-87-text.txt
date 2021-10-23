@@ -1,0 +1,123 @@
+El monto agregado de las Operaciones Sujetas a Riesgo de Crédito a cargo de Personas Relacionadas Relevantes
+47 conforme a la fracción I incisos) del Artículo 2 Bis 6 de las presentes disposiciones.
+Tabla III.1
+Posiciones expuestas a riesgo de mercado por factor de riesgo
+Importe de
+posiciones
+Requerimiento
+Concepto
+equivalentes
+de capital
+Operaciones en moneda nacional con tasa nominal
+82,950
+6,636
+Operaciones con títulos de deuda en moneda nacional con sobretasa y una tasa revisable
+2,936
+235
+Operaciones en moneda nacional con tasa real o denominados en UDI's
+8,515
+681
+Operaciones en moneda nacional con tasa de rendimiento referida al crecimiento del Salario Mínimo
+General
+8,550
+684
+Posiciones en UDI's o con rendimiento referido al INPC
+30
+2
+Posiciones en moneda nacional con tasa de rendimiento referida al crecimiento del salario mínimo
+general
+382
+31
+Operaciones en moneda extranjera con tasa nominal
+89,412
+7,153
+Posiciones en divisas o con rendimiento indizado al tipo de cambio
+19,732
+1,579
+Posiciones en acciones o con rendimiento indizado al precio de una acción o grupo de acciones
+11,807
+945
+Posiciones en Mercancías
+1
+0
+Requerimiento de Capital por Impacto de Gamma y Vega
+1
+0
+Tabla III.2
+Activos ponderados sujetos a riesgo de crédito por grupo de riesgo
+Activos
+ponderados
+Requerimiento de
+Concepto
+por riesgo
+capital
+Grupo I-A (ponderados al 0%)
+0
+0
+Grupo I-A (ponderados al 10%)
+0
+0
+Grupo I-A (ponderados al 20%)
+0
+0
+Grupo I-B (ponderados al 2%)
+8,009
+641
+Grupo I-B (ponderados al 4.0%)
+0
+0
+Grupo Il (ponderados al 0%)
+0
+0
+Grupo Il (ponderados al 20%)
+4,224
+338
+Grupo Il (ponderados al 50%)
+0
+0
+Grupo Il (ponderados al 100%)
+14,906
+1,193
+Grupo Il (ponderados al 120%)
+0
+0
+Grupo II (ponderados al 150%)
+0
+0
+Grupo III (ponderados al 2.5%)
+0
+0
+Grupo III (ponderados al 10%)
+0
+0
+Grupo III (ponderados al 11.50%)
+0
+0
+Grupo III (ponderados al 20%)
+36,105
+2,888
+Grupo III (ponderados al 23%)
+310
+25
+Grupo III (ponderados al 25%)
+0
+0
+Grupo III (ponderados al 28.75%)
+0
+0
+Grupo III (ponderados al 50%)
+0
+0
+Grupo III (ponderados al 57.5%)
+0
+0
+Grupo III (ponderados al 60%)
+0
+0
+Grupo III (ponderados al 75%)
+0
+0
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+86

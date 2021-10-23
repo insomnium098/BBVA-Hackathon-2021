@@ -1,0 +1,78 @@
+BBVA
+Creando Oportunidades
+CCS de cobertura
+Divisa
+Compra
+Venta
+MXN
+30,829
+14,141
+USD
+22,559
+19,573
+EURO
+O
+13,890
+UDI
+O
+421
+GBP
+O
+1,331
+IRS de cobertura
+Divisa
+Compra
+Venta
+MXN
+56,868
+0
+USD
+74,765
+0
+Forwards de cobertura
+Divisa
+Compra
+Venta
+USD
+3,358
+0
+EUR
+360
+O
+* Monto contratado en millones de pesos
+** Monto de referencia en millones de pesos
+Inversiones y Operaciones en Valores
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Composición de inversiones y operaciones con valores
+Marzo 2021
+Millones de pesos
+Gubernamental
+Bancario
+Otros deuda
+Acciones
+Total
+Títulos para negociar
+366,790
+1,776
+7,556
+443
+376,565
+Títulos disponibles para la venta
+242,610
+2,726
+1,655
+716
+247,707
+Títulos conservados a vencimiento
+81,754
+115,280
+0
+O
+197,034
+Total
+691,154
+119,782
+9,211
+1,159
+821,306
+74

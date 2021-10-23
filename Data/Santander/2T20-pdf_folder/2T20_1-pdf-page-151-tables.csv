@@ -1,0 +1,35 @@
+Table
+Tipo de valor ,Emisora / Serie ,Número de títulos ,Precio de mercado ,Coeficiente Beta ,Periodo en meses usado para cálculo de Beta ,Coefic. Delta (en caso de opciones y titulos opcionales) ,Delta titulos ,Delta en términos de emisoras 
+Cobertura ,SXE009R DC058 ,"464,000 ",0.00 ,1.0000 ,12 ,1.000000 ,"464,000.00 ",(55.2338) 
+Cobertura ,SXE108R DC063 ,"808,500 ",0.00 ,1.0000 ,12 ,1.000000 ,"808,500.00 ",(68.7197) 
+Cobertura ,XLE110R DC013 ,"1,360,000 ",0.00 ,1.0000 ,12 ,1.000000 ,"1,360,000.00 ","(30,216.4006) "
+Cobertura ,MSF105L DC019 ,"705,000 ",0.00 ,1.0000 ,12 ,1.000000 ,"705,000.00 ","(2,221.5968) "
+Cobertura ,SPX012R DV008 ,"930,000 ",0.00 ,1.0000 ,12 ,1.000000 ,"930,000.00 ",482.1881 
+Cobertura ,FXI106R DC030 ,"500,700 ",0.00 ,1.0000 ,12 ,1.000000 ,"500,700.00 ","(19,671.8563) "
+Cobertura ,FXI107R DC031 ,"497,000 ",0.00 ,1.0000 ,12 ,1.000000 ,"497,000.0000 ",107.2094 
+Cobertura ,KOC107R DC005 ,"236,200 ",0.00 ,1.0000 ,12 ,1.000000 ,"236,200.0000 ",(359.9259) 
+Obligación ,SXE009R DC058 ,"464,000 ",104.46 ,1.0000 ,12 ,0.000119 ,55.23 ,55.2338 
+Obligación ,SXE108R DC063 ,"808,500 ",90.89 ,1.0000 ,12 ,0.000085 ,68.72 ,68.7197 
+Obligación ,XLE110R DC013 ,"1,360,000 ",93.34 ,1.0000 ,12 ,0.022218 ,"30,216.40 ","30,216.4006 "
+Obligación ,MSF105L DC019 ,"705,000 ",100.44 ,1.0000 ,12 ,0.003151 ,"2,221.60 ","2,221.5968 "
+Obligación ,SPX012R DV008 ,"930,000 ",99.44 ,1.0000 ,12 ,0.000518 ,482.19 ,(482.1881) 
+Obligación ,FXI106R DC030 ,"500,700 ",95.82 ,1.0000 ,12 ,0.039289 ,"19,671.86 ","19,671.8563 "
+Obligación ,FXI107R DC031 ,"497,000 ",0.00 ,1.0000 ,12 ,0.000216 ,107.2094 ,(107.2094) 
+Obligación ,KOC107R DC005 ,"236,200 ",0.00 ,1.0000 ,12 ,0.001524 ,359.9259 ,359.9259 
+
+
+Table
+Emisora/Serie ,Tipo de valor ,Total 
+SXE009R DC058 ,Cobertura ,(55.233840) 
+,Obligación ,55.233840 
+SXE108R DC063 ,Cobertura ,(68.719670) 
+,Obligación ,68.719670 
+XLE110R DC013 ,Cobertura ,"(30,216.400550) "
+,Obligación ,"30,216.400550 "
+MSF105L DC019 ,Cobertura ,"(2,221.596810) "
+,Obligación ,"2,221.596810 "
+SPX012R DV008 ,Cobertura ,482.188100 
+,Obligación ,(482.188100) 
+FXI106R DC030 ,Cobertura ,"(19,671.856290) "
+
+

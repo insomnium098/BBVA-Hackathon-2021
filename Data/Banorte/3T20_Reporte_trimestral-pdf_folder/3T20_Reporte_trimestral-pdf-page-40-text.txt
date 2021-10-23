@@ -1,0 +1,86 @@
+GRUPO FINANCIERO
+IV. Estados Financieros
+BANORTE
+BANORTE- ESTADO DE FLUJO DE EFECTIVO
+CONSOLIDADO DEL 1 DE ENERO AL 30 DE SEPTIEMBRE DE 2020
+(Millones de Pesos)
+Resultado Neto
+16,483
+Ajustes por partidas que no implican flujo de efectivo
+Depreciación de Inmuebles, mobiliario eeupo
+1,545
+Provisiones
+(402)
+Impuestos a la utilidad causados ydiferidos
+5,568
+Participación en el resultado de subsidiarias no consolidadas,
+(75)
+6,636
+23,119
+Actividades de operación
+Cambio en cuentas de margen
+(10,385)
+Cambio en inversiones en valores
+13,119
+Cambio en deudores por reporto
+(281)
+Cambio en derivados (activo)
+(31,513)
+Cambio en cartera de crédito (neto)
+(36,673)
+Cambio en derecho de cobro adquiridos (neto)
+17
+Cambio en beneficios por recibir en operaciones de bursatilización
+(12)
+Cambio en bienes adjudicados (neto)
+138
+Cambio en otros activos operativos (neto)
+(23,235)
+Cambio en captación tradicional
+89,865
+Cambio en préstamos interbancarios yde otros organismos
+6,115
+Cambio en acreedores por reporto
+(49,647)
+Cambio en colaterales vendidos o dados en garantía
+(104)
+Cambio en derivados (pasivo)
+29,369
+Cambio en obligaciones subordinadas con características de pasivo
+18,191
+Cambio en otros pasivos operativos
+16,720
+Cambio en instrumentos de cobertura (de partidas cubiertas
+1,824
+relacionadas con actividades de operación)
+Pago de Impuestos a la utilidad
+(4,486)
+Flujos netos de efectivo de actividades de operación
+42,141
+Actividades de inversión
+Cobros por disposición de inmuebles, mobiliario yequipo
+591
+Pagos por adquisición de inmuebles, mobiliario yequipo
+(3,013)
+Pagos por disposición de subsidiarias, asociadas y acuerdos con
+(107)
+control conjunto
+Cobros de dividendos en efectivo
+32
+Flujos netos de efectivo de actividades de inversión
+(2,497)
+Actividades de financiamiento
+Pagos de intereses de obligaciones subordinadas
+(2,433)
+Flujos netos de efectivo de actividades de financiamiento
+(2,433)
+Incremento o disminución neta de efectivo y equivalentes de efectivo
+37,211
+Efectos por cambios en el valor del efectivo y equivalentes de efectivo
+122
+Efectivo y equivalentes al inicio del período
+62,282
+Efectivo y equivalentes al final del período
+99,615
+Tercer Trimestre de 2020
+40

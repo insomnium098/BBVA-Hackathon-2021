@@ -1,0 +1,121 @@
+Otros Activos (ponderados al 100%)
+Ajuste por Valuación Crediticia en Operaciones Derivadas
+Bursatilizaciones con Grado de Riesgo 1 (ponderados al 20%)
+Bursatilizaciones con Grado de Riesgo 2 (ponderados al 50%)
+Bursatilizaciones con Grado de Riesgo 3 (ponderados al 100%)
+Bursatilizaciones con Grado de Riesgo 4 (ponderados al 350%)
+Bursatilizaciones con grado de Riesgo 4, o 5 o No calificados (ponderados al
+1250%)
+Rebursatilizaciones con Grado de Riesgo 1 (ponderados al 40%)
+Rebursatilizaciones con Grado de Riesgo 2 (ponderados al 100%)
+Rebursatilizaciones con Grado de Riesgo 3 (ponderados al 225%)
+Rebursatilizaciones con Grado de Riesgo 4 (ponderados al 650%)
+Rebursatilizaciones con grado de Riesgo 4, 5 o No Calificados (ponderados al
+1250%)
+Método empleado
+Método estándar alternativo
+Promedio del requerimiento por riesgo de mercado y de
+crédito de los últimos 36 meses
+Referencia
+1
+Emisor
+2
+Identificador ISIN, CUSIP o Bloomberg
+3
+Marco legal
+Tratamiento regulatorio
+4
+Nivel de capital con transitoriedad
+5
+Nivel de capital sin transitoriedad
+6
+Nivel del instrumento
+7
+Tipo de instrumento
+8
+Monto reconocido en el capital regulatorio
+9
+Valor nominal del instrumento
+9A
+Moneda del instrumento
+10
+Clasificación contable
+11
+Fecha de emisión
+12
+Plazo del instrumento
+13
+Fecha de vencimiento
+14
+Cláusula de pago anticipado
+15
+Primera fecha de pago anticipado
+15A
+Eventos regulatorios o fiscales
+15B
+Precio de liquidación de la cláusula de pago anticipado
+16
+Fechas subsecuentes de pago anticipado
+Rendimientos / dividendos
+Reporte de Resultados | 3T.2020
+Banco Santander México
+23,427
+31,729
+1,888
+0
+0
+0
+2,897
+0
+0
+0
+0
+0
+MX41BS060013
+Ley del Mercado de Valores
+Acciones Serie F
+$15,210,402,155.77
+Pesos Mexicanos
+Sin vencimiento
+1,874
+2,538
+151
+0
+0
+0
+232
+0
+0
+0
+0
+0
+5,129
+Tabla III.3
+Activos ponderados sujetos a riesgo de operacional
+Activos ponderados por riesgo
+Promedio de los ingresos netos anuales positivos
+Tabla IV.1
+Principales características de los títulos que forman parte del Capital Neto
+Banco Santander México, S. A.
+Institución de Crédito sin consolidar
+Subsidiarias
+Perpetuidad
+Requerimiento
+de capital
+Santander
+64,107
+60,241
+Opciones
+de los últimos 36 meses
+Característica
+N.A
+$3.78
+Capital
+N.A
+No
+N.A
+No
+N.A
+N.A
+Básico I
+86

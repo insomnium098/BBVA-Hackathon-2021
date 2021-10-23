@@ -1,0 +1,471 @@
+GRUPO FINANCIERO
+BANORTE
+3T20
+506,588
+251,496
+26,741
+2,489
+46,823
+834,137
+0
+16,672
+4,073
+20,745
+-
+113,037
+-
+2
+-
+-
+-
+2
+50,121
+7,189
+-
+57,310
+170,348
+-
+-
+1,714
+407
+-
+8,670
+-
+45,620
+56,412
+66,241
+-
+271
+1,148,153
+18,795
+-
+2,747
+-
+21,541
+18,959
+74,280
+1,796
+(1,707)
+-
+115
+(2,031)
+-
+-
+-
+16,483
+107,895
+3
+129,440
+1,277,593
+38
+IV. Estados Financieros
+Banco - Balance General
+(Millones de Pesos)
+PASIVOS
+Depósitos exigibilidad inmediata
+Depósitos a plazo-Del Público en General
+Depósitos a plazo-Mercado de Dinero
+Cuenta global de captación sin movimientos
+Títulos de crédito emitidos
+Captación de Recursos
+De exigibilidad inmediata
+De corto plazo
+De largo plazo
+Préstamos de Bancos y otros
+Valores asignados por liquidar
+Acreedores por reporto
+Préstamos de Valores
+Reportos (saldo acreedor)
+Préstamos de valores
+Derivados
+Otros colaterales vendidos
+Total de Colaterales vendidos o dados en
+garantía
+Con fines de negociación
+Con fines de cobertura
+Operaciones con valores y derivados
+Derivados
+Total de Op. con Valores y Derivados
+Ajustes de valuación por cobertura de pasivos
+financieros
+Obligaciones en operaciones de bursatilización
+Impuestos a la Utilidad por pagar
+Participación de los trabajadores en la utili.
+Aport. para futuros aumentos de capital pendientes
+de formalizar por su órgano de gobierno
+Acreedores por liquidación de operaciones
+Acreedores por cuentas de margen
+Acreedores Diver. y otras ctas. p/pagar
+Otras cuentas por pagar
+Obligaciones subordinadas en circulación
+Impuestos diferidos (Neto)
+Créditos diferidos y Cobros Anticipados
+TOTAL PASIVOS
+CAPITAL
+Capital Social
+Aport. para futuros aumentos de capital pendientes
+de formalizar por su órgano de gobierno
+Prima en venta de acciones
+Obligaciones subordinadas en circulación
+Capital contribuido
+Reservas de capital
+Resultado de ejercicios anteriores
+Res. por valuación de títulos disponibles para la venta
+Res. por valuación de instrumentos de cobertura de
+flujos de efectivo
+Resultado en la valuación de la reserva de riesgo en
+curso por variaciones en las tasas
+Efecto acumulado por conversión
+Remediciones por beneficios definidos a los
+empleados
+Exceso (insuf.) en la actualiz. del Cap. Cont.
+Ajustes por obligaciones laborales al retiro
+Efecto acumulado de impuesto diferido
+Resultado neto
+Capital Ganado
+Participación no controladora
+Total Capital Contable
+TOTAL PASIVOS Y CAPITAL
+Tercer Trimestre de 2020
+1T19
+391,855
+435,453
+280,277
+261,705
+51,019
+18,122
+1,803
+2,085
+12,272
+26,907
+737,227
+744,271
+500
+11,864
+9,276
+21,767
+4,854
+33,631
+14,630
+172,118
+162,684
+105
+105
+18,872
+20,752
+9,313
+4,221
+28,184
+24,973
+200,311
+187,763
+1,341
+1,513
+508
+11,561
+9,397
+37,575
+28,758
+51,082
+40,176
+33,327
+48,050
+385
+1,056,082
+1,035,276
+18,794
+18,794
+1,455
+2,123
+20,250
+20,917
+14,847
+17,330
+77,622
+50,883
+1,885
+(3,082)
+(2,287)
+(34)
+(1,930)
+7,362
+27,493
+96,049
+93,341
+116,301
+114,261
+1,172,383
+1,149,536
+2T19
+394,308
+268,190
+49,515
+1,856
+24,159
+738,028
+9,737
+22,169
+32,806
+152,642
+20,367
+8,763
+29,130
+181,775
+1,331
+7,014
+31,206
+39,808
+53,953
+1,046,845
+1,226,044
+18,794
+1,612
+20,406
+17,330
+64,882
+(2,912)
+13,914
+93,075
+113,484
+1,160,329
+1,348,628
+3T19
+399,464
+263,555
+33,999
+1,919
+27,483
+726,420
+7,851
+9,996
+3,940
+21,787
+165,120
+24,226
+5,079
+29,305
+194,428
+1,792
+9,281
+32,689
+44,137
+55,515
+1,042,747
+18,794
+1,931
+20,726
+17,330
+58,082
+1,572
+(2,676)
+20,645
+93,958
+114,686
+1,157,433
+4T19
+1T20
+451,842
+275,566
+26,894
+2,213
+35,355
+791,870
+5,000
+8,332
+4,197
+17,529
+175,685
+50,574
+10,487
+61,062
+236,763
+2,402
+29,983
+42,155
+75,179
+58,423
+1,179,984
+18,794
+2,336
+21,131
+17,330
+77,595
+(2,824)
+(3,965)
+(1,963)
+6,180
+92,529
+113,663
+1,293,647
+2T20
+479,142
+265,347
+28,433
+2,368
+46,430
+821,721
+40,754
+4,156
+44,910
+190,404
+58,754
+7,682
+66,436
+256,847
+1,204
+3,524
+39,933
+44,941
+57,321
+18,794
+2,546
+21,340
+18,959
+75,094
+(1,423)
+(1,997)
+9,849
+101,240
+122,583
+0
+-
+-
+9
+-
+-
+-
+9
+-
+-
+-
+-
+-
+-
+-
+-
+65
+-
+-
+-
+-
+3
+900
+-
+-
+4
+-
+-
+-
+4
+-
+-
+-
+256
+280
+-
+-
+-
+475
+304
+-
+-
+755
+597
+-
+(18)
+160
+(875)
+-
+-
+-
+3
+0
+-
+-
+8
+-
+-
+-
+8
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3
+-
+-
+4
+-
+-
+-
+4
+-
+-
+-
+-
+-
+-
+-
+-
+-
+4
+-
+-
+-
+3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3
+16
+16
+639
+221
+177
+606
+505
+(13)
+(752)
+374
+460
+(999)

@@ -1,0 +1,37 @@
+Table
+Notas al formato de revelación de la ,integración de capital sin considerar transitoriedad en la aplicación de los ajustes regulatorios 
+,
+Referencia ,Descripción 
+1 ,Elementos del capital contribuido conforme a la fracción I inciso a) numerales 1) y 2) del Artículo 2 Bis 6 de las presentes disposiciones. 
+2 ,Resultados de ejercicios anteriores y sus correspondientes actualizaciones. 
+3 ,"Reservas de capital, resultado neto, resultado por valuación de títulos disponibles para la venta, efecto acumulado por conversión, resultado por valuación de instrumentos de cobertura de flujos de efectivo, resultado por tenencia de activos no monetarios, y el saldo de remediciones por beneficios definidos a los empleados considerando en cada concepto sus actualizaciones. "
+4 ,No aplica. El capital social de las instituciones de crédito en México está representado por títulos representativos o acciones. Este concepto solo aplica para entidades donde dicho capital no esté representado por títulos representativos o acciones. 
+5 ,No aplica para el ámbito de capitalización en México que es sobre una base no consolidada. Este concepto solo aplicaría para entidades donde el ámbito de aplicación es consolidado. 
+6 ,Suma de los conceptos 1 a 5. 
+7 ,No aplica. En México no se permite el uso de modelos internos para el cálculo del requerimiento de capital por riesgo de mercado. 
+8 ,"Crédito mercantil, neto de sus impuestos a la utilidad diferidos a cargo conforme a lo establecido en la fracción I inciso n) del Artículo 2 Bis 6 de las presentes disposiciones. "
+
+
+Table
+69 ,Razón mínima nacional de CET1 (si difiere del mínimo establecido por Basilea 3) ,
+70 ,Razón mínima nacional de T1 (si difiere del mínimo establecido por Basilea 3) ,
+71 ,Razón mínima nacional de TC (si difiere del mínimo establecido por Basilea 3) ,
+,Cantidades por debajo de los umbrales para deducción (antes de la ponderación por riesgo) ,
+72 ,Inversiones no significativas en el capital de otras instituciones financieras ,
+73 ,Inversiones significativas en acciones comunes de instituciones financieras ,
+74 ,Derechos por servicios hipotecarios (netos de impuestos a la utilidad diferidos a cargo) ,
+75 ,Impuestos a la utilidad diferidos a favor derivados de diferencias temporales (netos de impuestos a la utilidad diferidos a cargo) ,"8,115 "
+,Límites aplicables a la inclusión de reservas en el capital de nivel 2 ,
+76 (conservador) ,Reservas elegibles para su inclusión en el capital de nivel 2 con respecto a las exposiciones sujetas a la metodología estandarizada (previo a la aplicación del límite) ,
+77 (conservador) ,Límite en la inclusión de provisiones en el capital de nivel 2 bajo la metodología estandarizada ,
+78 ,Reservas elegibles para su inclusión en el capital de nivel 2 con respecto a las exposiciones sujetas a riesgos de crédito (previo a la aplicación del límite) ,
+79 ,Límite en la inclusión de reservas en el capital de nivel 2 bajo la metodología de calificaciones internas ,
+,Instrumentos de capital sujetos a eliminación gradual (aplicable únicamente entre el 1 de enero de 2018 y el 1 de enero de 2022) ,
+80 ,Límite actual de los instrumentos de CET1 sujetos a eliminación gradual ,
+81 ,Monto excluido del CET1 debido al límite (exceso sobre el límite después de amortizaciones y vencimientos) ,
+82 ,Límite actual de los instrumentos AT1 sujetos a eliminación gradual ,
+83 ,Monto excluido del AT1 debido al límite (exceso sobre el límite después de amortizaciones y vencimientos) ,
+84 ,Límite actual de los instrumentos T2 sujetos a eliminación gradual ,
+85 ,Monto excluido del T2 debido al límite (exceso sobre el límite después de amortizaciones y vencimientos) ,
+
+

@@ -1,0 +1,32 @@
+Table
+Capital Básico a septiembre 2020 (Millones de pesos) ,"179,672 "
+I. Financiamientos cuyo monto individual representa más del 10% del capital básico: ,
+Operaciones crediticias ,
+Número de financiamientos ,0 
+Monto de los financiamientos en su conjunto ,0 
+% en relación al capital básico ,0% 
+Operaciones en mercado de dinero ,
+Número de financiamientos ,0 
+Monto de los financiamientos en su conjunto ,0 
+% en relación al capital básico ,0% 
+Operaciones overnight ,
+Número de financiamientos ,0 
+Monto de los financiamientos en su conjunto ,0 
+% en relación al capital básico ,0% 
+II. Monto máximo de financiamiento con los 3 mayores deudores y grupos de riesgo común ,"45,030 "
+
+
+Table
+Cartera Comercial de Empresas bajo ,Modelo Interno Básico ,,Millones de pesos 
+Subsidiaria ,Saldo Contable* ,Exposición al Incumplimiento (EI) ,Pérdida Esperada 
+Banco Mercantil del Norte ,"159,858 ","160,172 ",692 
+Arrendadora y Factor Banorte ,"27,319 ","27,319 ",128 
+Cartera Total* ,"187,177 ","187,491 ",819 
+
+
+Table
+Backtesting* ,,,Millones de pesos 
+Periodo ,Pérdida Esperada Modelos Internos ,Pérdida Observada ,% Cobertura (Pérdida Esperada / Pérdida Observada) 
+4T19 ,685 ,224 ,306% 
+
+

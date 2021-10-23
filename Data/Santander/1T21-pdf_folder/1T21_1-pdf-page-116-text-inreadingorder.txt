@@ -1,0 +1,51 @@
+Análisis de Sensibilidad
+Millones de pesos
+Sensibilidad total de tasa
+Sens. a 1 pb
+Vega por factor de Riesgo
+Total
+Delta por factor de Riesgo (EQ y FX)
+Total
+De acuerdo a lo anterior, se refleja un manejo prudencial de la cartera de negociación de Banco Santander respecto de los factores de riesgo.
+Stress Test de Instrumentos Financieros Derivados
+A continuación se presentan distintos escenarios de stress test considerando diversos escenarios hipotéticos calculados para la cartera de
+Este escenario se definió con base en movimientos resultantes de una desviación estándar, respecto de los factores de riesgo que influyen en la
+valuación de los instrumentos financieros que ha mantenido la cartera de negociación de Banco Santander en cada uno de los períodos. En
+resumen los movimientos aplicados a cada factor de riesgo fueron los siguientes:
+Los factores de riesgo de tasa ("IR"), volatilidades ("Vol") y tipo de cambio ("FX") se incrementaron en una desviación estándar; y
+Los factores de riesgo respecto del mercado accionario (EQ) se disminuyeron en una desviación estándar.
+escenario se modificaron los factores de riesgo en 25%. En resumen los movimientos aplicados a cada factor de riesgo fueron los
+Los factores de riesgo IR, Vol y FX se multiplicaron por 1.25, es decir se incrementaron 25%.
+Los factores de riesgo EQ se multiplicaron por 0.75, es decir se disminuyeron 25%.
+En este escenario, se modificaron los factores de riesgo en 50%. En resumen los movimientos aplicados a cada factor de riesgo fueron los
+Los factores de riesgo IR, Vol y FX se multiplican por 1.50, es decir se incrementaron 50%.
+Los factores de riesgo EQ se multiplicaron por 0.5, es decir se disminuyeron 50%.
+En el siguiente cuadro se muestran las posibles utilidades (pérdidas) para la cartera de negociación de Banco Santander, de acuerdo a cada
+escenario de estrés, al cierre del primer trimestre de 2021:
+Pesos
+Otras Divisas
+EQ
+EQ
+(1.64)
+0.01
+(0.04)
+0.88
+1.13
+7
+FX
+FX
+Santander
+IR
+(2.03)
+negociación de Banco Santander.
+Escenario Probable
+Escenario Posible
+En
+este
+siguientes:
+Escenario Remoto
+siguientes:
+Impacto en Resultados
+Reporte de Resultados | 1T.2021
+Banco Santander México
+114

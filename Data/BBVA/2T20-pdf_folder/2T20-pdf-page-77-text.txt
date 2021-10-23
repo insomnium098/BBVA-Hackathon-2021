@@ -1,0 +1,72 @@
+BBVA
+Creando Oportunidades
+Solvencia
+Ohligaciones Suhordinaras
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Obligaciones Subordinadas
+Millones de pesos
+Saldo
+Fecha
+Fecha
+Tasa
+jun-20
+Emisión
+Vencimiento
+Notas Subordinadas Preferentes (USD)
+17,319
+10-mar-11
+10-mar-21
+6.50
+Notas Subordinadas Preferentes (USD)
+34,634
+28-sep-12
+30-sep-22
+6.75
+Notas Subordinadas Preferentes (USD)
+4,618 12-nov-14
+12-nov-29
+5.35
+Notas Subordinadas Preferentes (USD)
+23,089
+17-ene-18
+18-ene-33
+5.13
+Notas Subordinadas Preferentes (USD)
+17,317
+13-sep-19
+13-sep-34
+5.87
+Intereses devengados no pagados
+1,816
+Total
+98,793
+Capital Neto en BBVA México
+BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer
+Capital Neto
+Junio 2020
+Millones de pesos
+Capital Básico
+212,394
+Capital contable
+220,318
+Deducción de inversiones en instrumentos subordinados
+(262)
+Deducción de inversiones en acciones de entidades financieras
+(780)
+Gastos de organización y otros intangibles
+(6,281)
+Pérdidas Fiscales
+(601)
+Capital Complementario
+61,477
+Obligaciones e instrumentos de capitalización
+10,058
+Emisiones posteriores al 31 diciembre 2012 que cumplen con el anexo 1-S
+45,024
+Reservas preventivas por riesgos crediticios generales
+2,734
+Reservas preventivas por riesgos Met Interna
+3,661
+Capital Neto
+273,871
+77

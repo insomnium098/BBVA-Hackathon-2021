@@ -1,0 +1,41 @@
+GRUPO FINANCIERO
+BANORTE
+2.2.2. Exposición con Instrumentos Financieros
+Al 1T21, la exposición al Riesgo de Crédito de Inversiones en Valores para Banco Mercantil del Norte es de Ps 220,279
+millones, de los cuales el 94.2% presenta una calificación mayor o igual a A+ (mex) en escala local, colocándolos en grado
+de inversión y en donde los 3 principales emisores distintos a Gobierno Federal, Paraestatales e Instituciones Financieras
+Nacionales representan el 5% del Capital Básico a diciembre de 2020. Adicionalmente, la exposición de las inversiones con
+un mismo emisor distinto a Gobierno Federal que representan una concentración mayor o igual al 5% del Capital Neto a
+diciembre de 2020 tienen calificación AAA(mex), excepto Pemex que tiene BBB-(mex), y se componen por (plazo en
+promedio ponderado, monto en millones de pesos y rendimiento al vencimiento anualizado en promedio ponderado).
+certificados de depósito y certificados bursátiles de Banobras a 1 año y 3 meses por Ps 12,523 a 4.3%; y certificados
+bursátiles y bonos de Pemex a 4 años y 1 mes por Ps 12,014 a 3.9%.
+Para el caso de las operaciones con Derivados, la exposición de las 3 principales contrapartes distintas a Gobierno Federal,
+Paraestatales e Instituciones Financieras Nacionales representan el 3% del Capital Básico a diciembre de 2020.
+En cuanto a Casa de Bolsa Banorte, la exposición al Riesgo de Crédito de Inversiones en Valores es de Ps 278,422 millones,
+de los cuales el 99.8% tiene calificación mayor o igual a A+(mex) en escala local, lo que los coloca en grado de inversión y
+los 3 principales emisores distintos a Gobierno Federal, Paraestatales e Instituciones Financieras Nacionales representan el
+83% del Capital Contable a diciembre de 2020. Adicionalmente, la exposición de las inversiones con un mismo emisor
+distinto a Gobierno Federal que representan una concentración mayor o igual al 5% del Capital Contable a diciembre de
+2020 tienen calificación mayor o igual a A(mex) y se componen por (plazo en promedio ponderado, monto en millones de
+pesos y rendimiento al vencimiento anualizado en promedio ponderado). certificados de depósito y certificados bursátiles
+de Banco Santander Mexicano a 6 meses por Ps 6,384 a 4.3%; certificados bursátiles de Scotiabank Inverlat a 1 año y 2
+meses por Ps 4,002 a 4.4%; certificados de depósito y certificados bursátiles de BBVA México a 2 años y 6 meses por Ps
+3,671 a 4.4%; certificados bursátiles de HSBC México a 1 año y 4 meses por Ps 3,437 a 4.4%; ccertificados bursátiles del
+Gobierno de la Ciudad de México a 26 años y 6 meses por Ps 2,452 a 4.5%; ccertificados bursátiles de FEFA a 2 años y 4
+meses por Ps 1,719 a 4.5%; certificados de depósito y certificados bursátiles de Banco del Bajío a 1 año por Ps 1,594 a 4.7%;
+certificados de depósito de Banco Multiva a 7 meses por Ps 1,351 a 4.6%; certificados bursátiles de Banco Compartamos a
+2 años por Ps 830 a 4.9%; certificados de depósito de Banca Mifel a 8 meses por Ps 825 a 4.8%; certificados bursátiles de
+Banco Inbursa a 2 años y 2 meses por Ps 812 a 4.5%; bonos de Deutsche Bank a 2 años y 2 meses por Ps 783 a 5.3%; bonos
+de CABEI a 1 año y 7 meses por Ps 728 a 3.6%; certificados bursátiles de Grupo Aeroportuario del Pacífico a 3 años y 9
+meses por Ps 495 a 5.1%; certificados bursátiles de Pemex a 4 años por Ps 477 a 7.6%; certificados bursátiles de Nafinsa a
+1 mes por Ps 377 a 4.0%; certificados de depósito de Banco Invex a 3 meses por Ps 299 a 4.8%; y certificados de depósito
+y certificados bursátiles de Banobras a 5 años por Ps 296 a 4.3%.
+Para el caso de Derivados, no se tienen operaciones.
+Para Arrendadora y Factor Banorte, no se tiene exposición en Inversiones en Valores ni Derivados.
+A continuación se presenta la exposición al riesgo de contraparte de las operaciones con instrumentos financieros
+Derivados para Banorte, así como el efecto de compensación (neteo) y la mitigación de la exposición con base al agregado
+de las garantías relacionadas con las operaciones celebradas (incluye operaciones con Banco de México. No incluye
+operaciones liquidadas a través de contrapartes centrales).
+Administración de Riesgos 1T21
+11

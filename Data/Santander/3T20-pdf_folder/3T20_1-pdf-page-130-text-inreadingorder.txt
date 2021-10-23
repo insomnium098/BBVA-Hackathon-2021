@@ -1,0 +1,127 @@
+Cualquier acción remanente que sea un componente actual del índice es añadida a la lista de selección.
+Las acciones en la lista son ordenadas de mayor a menor en circulación. En casos excepcionales, el Comité de Supervisión puede añadir o quitar
+acciones a la lista de selección.
+Selección de las acciones
+Las 40 acciones con más acciones en circulación en la lista de selección son elegidas como componentes.
+Cualquier componente remanente del índice Euro Stoxx 50 ordenado entre el lugar 41 y 60 son añadidos como componentes del índice.
+Si
+el
+número de componentes sigue siendo menor a 50, entonces las acciones con mayor número de acciones en circulación son añadidas
+hasta completar 50 acciones.
+Frecuencia de la Revisión
+La composición del índice es revisada anualmente en septiembre. Los componentes son monitoreados mensualmente.
+Ponderación
+El índice es ponderado por capitalización de mercado de libre flotación. El peso de cada componente está topado al 10% del mercado de
+flotación. Los pesos de libre flotación son revisados trimestralmente.
+A continuación la lista de valores que componen la muestra:
+Ticker
+Nombre
+Ticker
+OR FP Equity
+L'Oreal SA
+ISP IM Equity
+DG FP Equity
+Vinci SA
+ENI IM Equity
+BBVA SQ Equity
+Banco Bilbao Vizcaya Argentaria SA
+ENGI FP Equity
+SAN SQ Equity
+Banco Santander SA
+ORA FP Equity
+ASML NA Equity
+ASML Holding NV
+ABI BB Equity
+URW NA Equity
+Unibail-Rodamco-Westfielo
+SAN FP Equity
+PHIA NA Equity
+Koninklijke Philips NV
+GLE FP Equity
+TEF SQ Equity
+Telefonica SA
+ENEL IM Equity
+FP FP Equity
+TOTAL SA
+NOKIA FH Equity
+Al FP Equity
+Air Liquide SA
+SU FP Equity
+CS FP Equity
+AXA SA
+ALV GY Equity
+BNP FP Equity
+BNP Paribas SA
+AIR FP Equity
+BN FP Equity
+Danone SA
+BAYN GY Equity
+VIV FP Equity
+Vivendi SA
+BMW GY Equity
+EL FP Equity
+EssilorLuxottica SA
+CRH ID Equity
+MC FP Equity
+LVMH Moet Hennessy Louis Vuitton SE
+BAS GY Equity
+KER FP Equity
+Kering SA
+SIE GY Equity
+AMS SQ Equity
+Amadeus IT Group SA
+VOW3 GY Equity
+SAF FP Equity
+Safran SA
+MUV2 GY Equity
+AD NA Equity
+Koninklijke Ahold Delhaize NV
+FRE GY Equity
+UNA NA Equity
+Unilever NV
+SAP GY Equity
+IBE SQ Equity
+Iberdrola SA
+ADS GY Equity
+INGA NA Equity
+ING Groep NV
+DTE GY Equity
+LIN GY Equity
+Linde PLC
+DPW GY Equity
+ITX SQ Equity
+Industria de Diseño Textil SA
+DAI GY Equity
+Para mayor información de este índice respecto sus antecedentes, características principales y criterios de selección de emisoras, consultar la
+página de Internet www.stoxx.com
+Reporte de Resultados | 3T.2020
+Banco Santander México
+libre
+Nombre
+Intesa Sanpaolo SpA
+Eni SpA
+Engie SA
+Orange SA
+Anheuser-Busch InBev SA/NV
+Sanofi
+Societe Generale SA
+Enel SpA
+Nokia OYJ
+Schneider Electric SE
+Allianz SE
+Airbus SE
+Bayer AG
+Bayerische Motoren Werke AG
+CRH PLC
+BASF SE
+Siemens AG
+Volkswagen AG
+Munich Re
+Fresenius SE & Co KGaA
+SAP SE
+adidas AG
+Deutsche Telekom AG
+Deutsche Post AG
+Daimler AG
+Santander
+128

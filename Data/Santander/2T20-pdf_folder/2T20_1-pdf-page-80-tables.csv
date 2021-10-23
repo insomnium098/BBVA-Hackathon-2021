@@ -1,0 +1,37 @@
+Table
+BG19 ,Acreedores por reporto ,"268,006 "
+BG20 ,Préstamo de valores ,0 
+BG21 ,Colaterales vendidos o dados en garantía ,"15,411 "
+BG22 ,Derivados ,"399,025 "
+BG23 ,Ajustes de valuación por cobertura de pasivos financieros ,4 
+BG24 ,Obligaciones en operaciones de bursatilización ,
+BG25 ,Otras cuentas por pagar ,"101,392 "
+BG26 ,Obligaciones subordinadas en circulación ,"41,957 "
+BG27 ,Impuestos y PTU diferidos (neto) ,0 
+BG28 ,Créditos diferidos y cobros anticipados ,163 
+,Capital Contable ,"146,155 "
+BG29 ,Capital contribuido ,"34,989 "
+BG30 ,Capital ganado ,"111,166 "
+,Cuentas de orden ,"3,715,421 "
+BG31 ,Avales otorgados ,
+BG32 ,Activos y pasivos contingentes ,59 
+BG33 ,Compromisos crediticios ,"151,030 "
+BG34 ,Bienes en fideicomiso o mandato ,"202,650 "
+BG35 ,Agente financiero del gobierno federal ,
+BG36 ,Bienes en custodia o en administración ,"1,736,180 "
+BG37 ,Colaterales recibidos por la entidad ,"89,120 "
+BG38 ,Colaterales recibidos y vendidos o entregados en garantía por la entidad ,"33,734 "
+BG39 ,Operaciones de banca de inversión por cuenta de terceros (neto) ,0 
+BG40 ,Intereses devengados no cobrados derivados de cartera de crédito vencida ,545 
+BG41 ,Otras cuentas de registro ,"1,502,103 "
+
+
+Table
+,,Tabla ,II.2 ,
+,Conceptos regulatorios ,considerados para el ,cálculo de los componentes ,del Capital Neto 
+Identificador ,Conceptos regulatorios considerados para el cálculo de los componentes del Capital Neto ,Referencia del formato de revelación de la integración de capital del apartado I del presente anexo ,Monto de conformidad con las notas a la tabla Conceptos regulatorios considerados para el cálculo de los componentes del Capital Neto ,Referencia(s) del rubro del balance general y monto relacionado con el concepto regulatorio considerado para el cálculo del Capital Neto proveniente de la referencia mencionada. 
+,Activo ,,,
+1 ,Crédito mercantil ,8 ,"2,365 ","BG16=9,083 Menos: cargos diferidos y pagos anticipados 978; intangibles 6,359; otros activos que computan como activos en riesgo 1,103; Más: Intangibles que se reconocen en el pasivo 1,722 "
+2 ,Otros Intangibles ,9 ,"6,359 ","BG16=9,083 Menos: cargos diferidos y pagos anticipados 978; intangibles 2,365; otros activos que computan como activos en riesgo 1,103; Más: "
+
+

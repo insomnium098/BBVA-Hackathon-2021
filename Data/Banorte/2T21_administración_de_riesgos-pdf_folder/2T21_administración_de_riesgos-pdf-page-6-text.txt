@@ -1,0 +1,52 @@
+GRUPO FINANCIERO
+BANORTE
+Los Mercados Objetivo son categorías de actividad económica por cada región, en los que GFNorte tiene interés en
+participar en la colocación de créditos. Su definición se encuentra respaldada por estudios económicos y análisis de
+comportamiento del portafolio, así como por la opinión de expertos.
+Los Criterios de Aceptación de Riesgo son parámetros que describen los diferentes tipos de riesgos identificados por cada
+industria, permitiendo estimar el riesgo que implica otorgar un crédito a un cliente de acuerdo a la actividad económica
+que desempeña. Los tipos de riesgo considerados en los Criterios de Aceptación de Riesgo son el Riesgo Financiero, de
+Operación, de Mercado, de ciclo de vida de la empresa, Legal y Regulatorio, además de experiencia crediticia y calidad de
+la administración.
+Las Alertas Tempranas son un conjunto de criterios basados en información e indicadores de los acreditados y de su entorno
+que han sido establecidos como mecanismo para prevenir e identificar de manera oportuna el probable deterioro en la
+cartera de crédito, permitiendo actuar por medio de acciones preventivas que mitiguen el Riesgo de Crédito.
+La CIR Banorte es una metodología de calificación del deudor que evalúa criterios cuantitativos y cualitativos para
+determinar su calidad crediticia y se aplica a cartera Comercial igual o mayor a un importe equivalente en moneda nacional
+a cuatro millones de unidades de inversión a la fecha de la calificación, o acreditados con ventas o ingresos anuales mayores
+o iguales a 14 millones de unidades de inversión (sólo en el caso de Empresas).
+2.1.2.
+Riesgo de Crédito del Portafolio
+GFNorte ha diseñado una metodología de Riesgo de Crédito del portafolio que, además de contemplar estándares
+internacionales en lo referente a la identificación, medición, control y seguimiento, ha sido adaptada para funcionar dentro
+del contexto del Sistema Financiero Mexicano.
+La metodología de Riesgo de Crédito desarrollada permite conocer la exposición de todos los portafolios de crédito en la
+cartera total de GFNorte, permitiendo vigilar los niveles de concentración de riesgo por calificaciones de riesgo, regiones
+geográficas, actividades económicas, monedas y tipo de producto con la finalidad de conocer el perfil del portafolio y
+tomar acciones para orientarlo hacia una diversificación en donde se optimice la relación riesgo-rendimiento.
+El modelo considera como la exposición de la cartera de crédito directamente el saldo de cada uno de los créditos, mientras
+que para la cartera de instrumentos financieros se considera el valor presente de los instrumentos y sus flujos futuros. Al
+ser la exposición sensible a cambios en el mercado, es posible la estimación de sensibilidad ante distintos escenarios
+económicos.
+Adicional a la exposición, la metodología contempla la probabilidad de incumplimiento, el nivel de recuperación asociado
+a cada cliente y la modelación de los acreditados basada en el modelo de Merton. La probabilidad de incumplimiento es
+la probabilidad de que un acreditado incumpla en su obligación de deuda con la institución de acuerdo a los términos y
+condiciones pactados originalmente; y se encuentra basada en las matrices de transición que GFNorte estima a partir de la
+migración de los acreditados a distintos niveles de calificación de riesgo. La tasa de recuperación es el porcentaje de la
+exposición total que se espera recuperar en caso de que el acreditado llegue al incumplimiento. La modelación de los
+acreditados basada en el modelo de Merton tiene como fundamento el asociar el comportamiento futuro del acreditado a
+los factores de crédito y mercado en los que se ha determinado, por medio de técnicas estadísticas, de las que depende su
+"salud crediticia".
+Como resultados principales se obtienen la pérdida esperada y la pérdida no esperada en un horizonte de un año. La
+pérdida esperada se define como la media de la distribución de pérdidas del portafolio de crédito, con lo cual se estima la
+pérdida promedio que se esperaría en el siguiente año a causa de incumplimiento o variaciones en la calidad crediticia de
+los acreditados. La pérdida no esperada es un indicador de la pérdida ante escenarios extremos, y se mide como la
+diferencia entre la pérdida máxima dada la distribución de pérdidas, a un nivel de confianza específico, que en el caso de
+GFNorte a partir de Junio 2021, es de 99.85% basado en Expected Shortfall (previamente era 99.95% basado en VaR), y la
+pérdida esperada.
+Los resultados obtenidos son utilizados como herramienta para una mejor toma de decisiones en la concesión de créditos
+y en la diversificación del portafolio, de acuerdo con la estrategia de GFNorte. Las herramientas de identificación de riesgo
+individual y la metodología de Riesgo de Crédito del portafolio se revisan y actualizan periódicamente con el fin de incluir
+nuevas técnicas que apoyen o fortalezcan a las mismas.
+Administración de Riesgos 2T21
+6

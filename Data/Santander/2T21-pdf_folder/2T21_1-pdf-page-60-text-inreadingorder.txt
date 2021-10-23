@@ -1,0 +1,43 @@
+NIF C-20, Instrumentos financieros para cobrar principal e interés
+La entidad debe presentar en un rubro por separado del estado de resultados integral los efectos de la renegociación
+de un Instrumento Financiero para Cobrar Principal e Interés (IFCPI) dentro de los resultados relativos a las
+actividades de operación.
+Las NIF C-2, NIF C-19 y NIF C-20, presentaban una lista de las partidas que forman parte de los costos de transacción,
+en el cual se incluyen los intereses, comisiones y otras partidas pagadas por anticipado. Estos conceptos no son
+costos de transacción y se eliminan de dicha lista.
+NIF C-7, Inversiones en asociadas, negocios conjuntos y otras inversiones permanentes
+La Norma Internacional de Contabilidad (NIC) 28, Inversiones en asociadas y negocios conjuntos no incluye
+normativa para las otras inversiones permanentes definidas principalmente como aquellas inversiones
+permanentes efectuadas por una tenedora en entidades en las que no se tiene el control, control conjunto, ni
+influencia significativa, pero en las que no se tiene la intención de venderlas. Adicionalmente la Normas
+Internacional de Información Financiera (NIIF) 9, Instrumentos financierosestable que un activo financiero deberá
+medirse a valor razonable con cambios en resultados, con la excepción que una entidad puede realizar una elección
+irrevocable para presentar en ORI los cambios posteriores en el valor razonable de una inversión en un instrumento
+de capital que no sea mantenido para negociar en el corto plazo.
+NIF C-8, Activos intangibles
+Incorpora la definición de monto amortizable para alinear las definiciones de los conceptos de depreciación y
+amortización, en el caso de un activo intangible el monto amortizable debe determinarse deduciendo del costo de
+adquisición su valor residual; un valor residual distinto a cero implica que una entidad espera disponer del activo
+intangible al término de su vida útil.
+NIF D-5, Arrendamientos
+Establece las revelaciones obligatorias del gasto relacionado con arrendamientos a corto plazo y de bajo valor por
+los cuales no se ha reconocido el activo por derecho de uso. Asimismo, establece que si la transferencia de un activo
+por el vendedor-arrendatario satisface los requerimientos de la NIF D-1, Ingresos por contratos con clientes, para
+ser reconocida como una venta parcial del activo, el vendedor-arrendatario debe dar de baja el activo transferido y
+reconocer el activo por derecho de uso que surge del arrendamiento en vía de regreso en la proporción del importe
+en libros anterior del activo que corresponde a los derechos de uso conservados por el vendedor-arrendatario.
+Revelaciones sobre propiedades de inversión.
+Elimina el párrafo donde especificaba que los activos por derecho de uso cumplen la definición de propiedad de
+inversión, un arrendatario debe aplicar los requerimientos de información a revelar según la norma para propiedad
+de inversión toda vez que en la NIF C-17, Propiedades de inversión, establece no permite la revaluación de los activos
+por derecho de uso.
+Pagos variables por arrendamiento.
+Se aclara que el pago variable por arrendamiento es la parte del pago establecida en el contrato de arrendamiento
+por el derecho a usar un activo subyacente durante el plazo del arrendamiento que varía debido a cambios en hechos
+y circunstancias ocurridos después de la fecha de comienzo del arrendamiento, y no es consecuencia del paso del
+tiempo. Por lo que los pagos por arrendamientos deben incluirse en el reconocimiento inicial de la inversión neta en
+el arrendamiento.
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+58

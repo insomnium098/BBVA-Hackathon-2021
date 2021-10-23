@@ -1,0 +1,140 @@
+Periodo en
+meses
+para el
+Delta títulos
+cálculo de
+beta
+12
+(2,134.17)
+12
+(2,029.33)
+12
+(145.52)
+12
+(6,450.4698)
+12
+23,142.7557
+12
+0.0745
+Tipo de
+valor
+Obligación
+Obligación
+Obligación
+Obligación
+Obligación
+Obligación
+Emisora/ Serie
+SXE108R DC063
+XLE110R DC013
+INT112R DC006
+XLB202R DC001
+BAB202L DC045
+XLV203R DC010
+BAG204L DC008
+NVD210L DC110
+PYL210L DC020
+MLI110L DC001
+MLI204L DC002
+MLI210LDC003
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Precio de
+Coefic. delta (en caso de
+mercado
+opciones y títulos opcionales)
+96.83
+98.56
+100.20
+0.00
+113.50
+109.86
+71.939650
+(71.939650)
+(4,273.544800)
+4,273.544800
+11,282.850020
+(11,282.850020)
+6,935.341340
+(6,935.341340)
+15,601.200910
+(15,601.200910)
+3,381.873690
+(3,381.873690)
+8,714.596770
+(8,714.596770)
+255.558060
+(255.558060)
+1,970.806150
+(1,970.806150)
+558.918600
+(558.918600)
+300.646540
+(300.646540)
+601.096220
+(601.096220)
+Coef.
+beta
+1.0000
+(0.001913)
+1.0000
+(0.013529)
+1.0000
+(0.000802)
+1.0000
+(0.005734)
+1.0000
+0.046565
+1.0000
+0.000000
+Delta en términos de
+emisoras
+(2,134.1736)
+(2,029.3274)
+(145.5203)
+(6,450.4698)
+23,142.7557
+0.0745
+Santander
+Emisora / Serie
+Número de títulos
+TSL212LI DC065
+SXG112L DC001
+NVD112L DC117
+SPO207L DC007
+FXI107R DC031
+KOC107R DC005
+Delta en términos de emisoras
+Tipo de valor
+1,115,700
+150,000
+181,500
+1,125,000
+497,000
+236,200
+Total
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+179

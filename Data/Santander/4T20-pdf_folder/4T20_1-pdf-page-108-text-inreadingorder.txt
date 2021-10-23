@@ -1,0 +1,48 @@
+b) Identificar, mediry evaluar el riesgo operacional: Identificar los riesgos y los factores que los desencadenan en el Banco, y estimar el impacto
+cualitativo y / o cuantitativo.
+c) Supervisión: Visión general y seguimiento del objetivo de riesgo operativo para el análisis periódico de la información de riesgo disponible
+(tipo y nivel) durante el desarrollo normal de las actividades.
+d) Mitigación: Una vez que se ha evaluado el riesgo operacional, se requiere establecer acciones para evitar el riesgo o mitigar el impacto de
+los riesgos relevantes o críticos, realizar un estudio costo-beneficio e implementar indicadores que nos ayuden a evaluar la eficacia de dichas
+acciones.
+e) Reportes: Informes el perfil de riesgo operacional y el desempeño del ambiente de riesgo operacional se presentan de manera regular en
+los Comités del Banco.
+Banco Santander México tuvo una pérdida promedio mensual de Ps.46.3 millones de pesos por riesgo operacional al cuarto trimestre de 2020.
+Desde diciembre de 2016, Banco Santander México aplica el Enfoque Estándar Alternativo (ASA) para los requisitos de capital de riesgo
+operacional.
+Riesgo Tecnológico
+El riesgo tecnológico, se define como la pérdida potencial por daños, interrupción, alteración o fallas derivadas del uso o dependencia en el
+hardware, software, sistemas, aplicaciones, redes y cualquier otro canal de distribución de información en la prestación de servicios bancarios
+con los clientes de Banco Santander México.
+Banco Santander ha adoptado un modelo corporativo para la gestión del Riesgo Tecnológico, el cual se encuentra integrado a los procesos de
+servicio y soporte de las áreas informáticas, para identificar, vigilar, controlar, mitigar e informar los riesgos de Tecnología Informática a los que
+expuesta la operación, tendiente a priorizar en el establecimiento de medidas de control que reduzcan la probabilidad de materialización
+de riesgos.
+Procesos y niveles de autorización
+En términos de la normativa interna, todos los productos o servicios que se comercializan por Banco Santander son aprobados por el Comité de
+Comercialización y por el Comité Corporativo de Comercialización. Aquellos productos o servicios que sufren modificaciones o adiciones a su
+autorización original requieren de la aprobación del Comité de Comercialización y dependiendo de su trascendencia requieren la autorización
+del Comité Corporativo de Comercialización también.
+En el Comité están presentes todas aquellas áreas que tienen participación en la operación del producto o servicio dependiendo de la naturaleza
+del mismo, así como las que se encargan de su contabilidad, instrumentación legal, tratamiento fiscal, evaluación de riesgos, etc. Todas las
+autorizaciones del Comité requieren de unanimidad ya que no hay autorizaciones otorgadas por mayoría de los miembros que lo integran.
+Adicionalmente a la aprobación del Comité, existen productos que requieren autorizaciones de Autoridades locales, por lo tanto, las
+aprobaciones del Comité están condicionadas a la obtención de las autorizaciones que se requieran de las Autoridades que sean competentes
+en cada caso.
+Finalmente, todas las aprobaciones son presentadas para su autorización en el Comité de Administración Integral de Riesgos.
+Revisiones Independientes
+Banco Santander se encuentra bajo la supervisión y vigilancia de la Comisión Nacional Bancaria y de Valores, Banco de México y Banco de España,
+la cual se ejerce a través de procesos de seguimiento, visitas de inspección, requerimientos de información y documentación y entrega de
+reportes.
+Asimismo, se realizan revisiones periódicas por parte de los Auditores Internos y Externos.
+Descripción genérica sobre técnicas de valuación
+Los instrumentos financieros derivados se valúan a valor razonable, de conformidad con la normatividad contable establecida en la circular única
+para instituciones de crédito emitida por la Comisión Nacional Bancaria y de Valores, en su criterio B-5 Instrumentos financieros derivados y
+operaciones de cobertura.
+A. Metodología de Valuación
+1) Con fines de negociación
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Santander
+está
+106

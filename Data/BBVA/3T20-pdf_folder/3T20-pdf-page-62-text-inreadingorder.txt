@@ -1,0 +1,36 @@
+BBVA
+Creando Oportunidades
+atención a su plazo, deberá ajustarse con base en dicho valor presente. El efecto del valor
+presente es material cuando se pacta el cobro de la cuenta por cobrar, total O parcialmente,
+un plazo mayor de un año, ya que en estos casos existe una operación de financiamiento.
+Los cambios contables que surjan deberán reconocerse en forma retrospectiva, sin embargo,
+los efectos de valuación pueden reconocerse prospectivamente.
+NIF C-9 "Provisiones, contingencias y compromisos" - Deja sin efecto al Boletín C-9
+"Pasivo, provisiones, activos y pasivos contingentes y compromisos", se disminuye su alcance
+al reubicar el tema relativo al tratamiento contable de pasivos financieros en la NIF C-19
+"Instrumentos financieros por pagar" y se modifica la definición de pasivo eliminando el
+calificativo de "virtualmente ineludible" e incluyendo el término "probable". La aplicación por
+primera vez de esta NIF no generará cambios contables en los estados financieros.
+NIF C-16 "Deterioro de instrumentos financieros por cobrar" - Señala que, para determinar
+el reconocimiento de la pérdida esperada, deberá considerarse la experiencia histórica que
+tenga la entidad de pérdidas crediticias, las condiciones actuales y los pronósticos razonables
+y sustentables de los diferentes eventos futuros cuantificables que pudieran afectar el importe
+de los flujos de efectivo futuros por recuperar de los instrumentos financieros por cobrar (IFC).
+Señala también que la pérdida esperada deberá reconocerse cuando, al haberse incrementado
+el riesgo de crédito, se concluye que una parte de los flujos de efectivo futuros del IFC no se
+recuperará. Los cambios contables que surjan deberán reconocerse en forma retrospectiva.
+NIF C-19 "Instrumentos financieros por pagar"-
+Las principales características emitidas para esta NIF, se muestran a continuación:
+Se establece la posibilidad de valuar, subsecuentemente a su reconocimiento inicial,
+ciertos pasivos financieros a su valor razonable, cuando se cumplen ciertas condiciones.
+Valuar los pasivos a largo plazo a su valor presente en su reconocimiento inicial.
+Al reestructurar un pasivo, sin que se modifiquen sustancialmente los flujos de efectivo
+futuros para liquidar el mismo, los costos y comisiones erogados en este proceso
+afectarán el monto del pasivo y se amortizarán sobre una tasa de interés efectiva
+modificada, en lugar de afectar directamente la utilidad O pérdida neta.
+Incorpora lo establecido en la IFRIC 19 "Extinción de Pasivos Financieros con
+Instrumentos de Capital", tema que no estaba incluido en la normativa existente.
+El efecto de extinguir un pasivo financiero debe presentarse como un resultado
+financiero en el estado de resultado integral.
+a
+62

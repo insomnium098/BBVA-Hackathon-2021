@@ -1,0 +1,116 @@
+BBVA
+Creando Oportunidades
+Activos en Riesgo BBVA México
+Udis
+Vega
+BBVA México
+Activos en Riesgo
+Junio 2021
+Millones de pesos
+Activos en Riesgo Crédito
+Ponderados al 10%
+Ponderados al 11.5%
+Ponderados al 20%
+Ponderados al 23%
+Ponderados al 25%
+Ponderados al 28.8%
+Ponderados al 40%
+Ponderados al 50%
+Ponderados al 57.5%
+Ponderados al 60%
+Ponderados al 75%
+Ponderados al 90%
+Ponderados al 100%
+Ponderados al 115%
+Ponderados al 120%
+Ponderados al 150%
+Ponderados al 350%
+Ponderados al 1250%
+Metodología Interna
+Por facilidades Covid
+-CVA (RC061 B)
+-ECC(RC06C)
+-Contraparte derivados
+-Relacionados derivados
+-Contraparte reportos y spot
+Activos en Riesgo Mercado
+Operaciones en moneda nacional con tasa nominal
+Operaciones en moneda nacional con tasa real O denominados en
+Tasa de Rendimineto referida al salario minimo general (SMG)
+Tasa de interés operaciones en moneda extranjera con tasa
+nominal
+Posiciones en UDIs O con rendimiento referido al INPC
+Operaciones referidas al SMG
+Posiciones en divisas O con rendimiento indizado al tipo de cambio
+Posiciones en acciones O con rendimiento indizado al precio de
+una acción o grupo de acciones
+Sobretasa
+Gamma
+Activos en riesgo operativo
+Total con Crédito, Mercado y Operativo
+Activos Ponderados
+por Riesgo
+1,096,340
+508
+907
+15,910
+19
+5,242
+4,390
+332,675
+9,273
+327
+968
+615,532
+21,962
+28
+14,927
+11,972
+473
+439,760
+368,123
+12,160
+5,029
+35,701
+95
+258
+5,331
+5,239
+5,745
+122,841
+1,658,941
+Capital Requerido
+87,328
+41
+73
+1,273
+419
+26,614
+742
+26
+77
+49,243
+1,757
+1,194
+958
+38
+35,181
+29,450
+973
+402
+2,856
+21
+426
+419
+460
+9,827
+132,336
+0
+0
+0
+0
+2
+8
+O
+O
+75

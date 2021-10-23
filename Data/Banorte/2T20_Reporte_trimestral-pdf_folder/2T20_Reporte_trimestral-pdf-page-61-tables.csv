@@ -1,0 +1,34 @@
+Table
+,VM deudores por reporto ,VM Colaterales recibidos vendidos en reporto ,Diferencia deudora ,Diferencia acreedora ,VM acreedores por reporto 
+Valores gubernamentales ,"116,928 ","115,008 ","1,928 ",8 ,"309,252 "
+Valores bancarios ,"23,540 ","23,540 ",- ,0 ,"36,361 "
+Valores privados ,"5,272 ","5,272 ",- ,- ,"7,598 "
+Total ,"145,741 ","143,820 ","1,928 ",8 ,"353,211 "
+
+
+Table
+Instrumento ,Valor Razonable 
+Futuros ,
+Futuros TIIE 28 ,- 
+Forward ,
+Forward de divisa ,181 
+Opciones ,
+Opciones de tasas ,345 
+Opciones de divisa ,"1,713 "
+Títulos Opcionales ,- 
+Swaps ,
+Swaps de tasas ,"47,044 "
+Swaps de divisas ,"12,128 "
+Swaps de crédito ,294 
+Total negociación ,"61,705 "
+Opciones ,
+Opciones de tasas ,- 
+Opciones de divisa ,- 
+Swaps ,
+Swaps de tasas ,"1,385 "
+Swaps de divisas ,999 
+Swaps de crédito ,- 
+Total cobertura ,"2,384 "
+Total posición ,"64,089 "
+
+

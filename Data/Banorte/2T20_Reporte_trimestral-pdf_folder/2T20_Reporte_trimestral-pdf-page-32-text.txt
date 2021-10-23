@@ -1,0 +1,400 @@
+1
+GRUPO FINANCIERO
+IV. Estados Financieros
+BANORTE
+GFNorte - Balance General
+1T19
+2T19
+3T19
+4T19
+1T20
+2T20
+(Millones de Pesos)
+ACTIVOS
+Disponibilidades
+72,135
+54,543
+56,121
+62,797
+90,877
+106,047
+Cuentas de Margen
+3,508
+4,408
+6,245
+5,926
+9,701
+18,353
+Títulos para negociar
+250,541
+223,499
+225,565
+233,832
+238,956
+243,834
+Títulos disponibles para la venta
+196,009
+212,927
+213,131
+202,685
+204,963
+231,114
+Títulos conservados a vencimiento
+131,202
+131,481
+146,657
+150,606
+156,631
+169,514
+Inversiones en Valores
+577,752
+567,907
+585,353
+587,123
+600,550
+644,463
+Valores no asignados por liquidar
+-
+-
+-
+-
+-
+-
+Deudores por reporto (saldo deudor)
+253
+556
+162
+3,070
+2,810
+1,928
+Préstamo de Valores
+-
+-
+-
+-
+-
+-
+Con fines de negociación
+23,793
+25,473
+26,398
+22,295
+48,940
+61,705
+Con fines de cobertura
+15
+29
+29
+162
+1,292
+2,384
+Operaciones con valores y derivadas
+Operaciones con Derivados
+23,807
+25,502
+26,427
+22,457
+50,232
+64,089
+Operaciones con Valores y Derivadas
+24,061
+26,059
+26,590
+25,527
+53,042
+66,017
+Ajustes de valuación por cobertura de activos
+80
+77
+73
+69
+65
+62
+Créditos Comerciales
+298,561
+294,591
+285,822
+293,499
+318,439
+326,535
+Créditos a Entidades Financieras
+9,384
+7,942
+5,784
+7,389
+9,067
+9,502
+Créditos al Consumo
+114,086
+115,577
+117,013
+117,680
+117,537
+115,601
+Créditos a la Vivienda
+158,605
+162,619
+166,286
+170,086
+173,226
+177,282
+Media y Residencial
+155,134
+159,294
+162,995
+166,921
+170,143
+174,331
+De interés social
+13
+12
+10
+9
+8
+5
+Créditos adquiridos al INFONAVIT o FOVISSSTE
+3,457
+3,314
+3,280
+3,156
+3,075
+2,946
+Remodelación o mejoramiento con garantía
+otorgada por la banca de desarrollo o fideicomisos
+-
+-
+-
+-
+-
+-
+públicos
+Créditos a Entidades Gubernamentales
+181,470
+187,454
+157,821
+173,988
+161,549
+162,717
+Cartera de Crédito Vigente
+762,105
+768,183
+732,726
+762,642
+779,818
+791,637
+Créditos Comerciales
+7,740
+8,146
+7,965
+6,511
+7,047
+2,604
+Créditos a Entidades Financieras
+4
+4
+4
+4
+4
+-
+Créditos al Consumo
+4,183
+4,716
+4,577
+4,314
+4,052
+4,229
+Créditos a la Vivienda
+1,557
+1,696
+1,807
+1,973
+2,070
+2,305
+Media y Residencial
+1,417
+1,526
+1,634
+1,785
+1,834
+2,025
+De interés social
+0
+0
+0
+0
+0
+1
+Créditos adquiridos al INFONAVIT o FOVISSSTE
+139
+170
+172
+187
+235
+279
+Remodelación o mejoramiento con garantía
+otorgada por la banca de desarrollo o fideicomisos
+-
+-
+-
+-
+-
+-
+públicos
+Créditos a Entidades Gubernamentales
+4
+4
+4
+4
+40
+115
+Cartera de Crédito Vencida
+13,488
+14,567
+14,357
+12,806
+13,212
+9,254
+Cartera de Crédito Total
+775,594
+782,750
+747,084
+775,448
+793,030
+800,891
+Reservas Prev. Riesgos Crediticios
+18,329
+18,592
+18,171
+17,639
+18,504
+18,555
+Cartera de Crédito Neto
+757,265
+764,158
+728,913
+757,809
+774,525
+782,337
+Derechos de cobro adquiridos
+2,217
+2,065
+1,905
+1,601
+1,500
+1,438
+Total de cartera de crédito (neto)
+759,482
+766,222
+730,818
+759,410
+776,025
+783,774
+Cuentas por cobrar de Instituciones de Seguros y
+1,763
+1,945
+2,112
+2,279
+2,205
+2,432
+Pensiones
+Deudores por Prima (Neto)
+11,246
+9,125
+6,429
+4,474
+8,003
+9,196
+Ctas por cobrar a reaseguradores y reafianzadores
+11,532
+10,884
+10,920
+7,787
+8,162
+8,872
+Beneficios por recibir en operaciones de
+85
+125
+158
+139
+161
+156
+Bursatilización
+Otras Cuentas por cobrar, neto
+49,472
+62,040
+67,824
+31,203
+85,131
+50,981
+Inventario de Mercancías
+765
+912
+555
+677
+758
+1,299
+Bienes Adjudicados (Neto)
+988
+830
+919
+1,154
+1,096
+1,075
+Propiedades, mobiliario y equipo, neto
+17,338
+17,782
+18,018
+18,764
+19,833
+31,151
+Inversiones permanentes
+13,278
+13,701
+14,192
+14,554
+13,489
+13,894
+Activos de larga duración disponibles para la venta
+-
+-
+-
+-
+-
+-
+Impuestos diferidos, neto
+2,632
+2,481
+1,964
+626
+3,742
+201
+Cargos diferidos, pagos anticipados e intangibles
+48,117
+50,598
+50,546
+52,115
+51,139
+40,257
+Otros activos a corto y largo plazo
+375
+362
+4,813
+5,388
+5,300
+5,351
+Otros activos
+157,589
+170,783
+178,452
+139,157
+199,020
+164,866
+TOTAL ACTIVOS
+1,594,607
+1,589,998
+1,583,651
+1,580,010
+1,729,280
+1,783,581
+Segundo Trimestre de 2020
+32

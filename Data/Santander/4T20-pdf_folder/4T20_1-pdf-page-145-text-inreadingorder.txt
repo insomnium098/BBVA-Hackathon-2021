@@ -1,0 +1,108 @@
+Delta en términos de emisoras
+Tipo de valor
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Total general
+Delta en
+Beta
+títulos
+original
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+Emisora / Serie
+SXE108R DC063
+XLE110R DC013
+FXI106R DC030
+FXI107R DC031
+KOC107R DC005
+AMZ110L DC127
+FBK111L DC079
+NFX111L DC133
+CVS112L[ DC022
+INT112R DC006
+Emisora
+SXE108R DC063
+XLE110R DC013
+FXI106R DC030
+FXI107R DC031
+KOC107R DC005
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Total
+(55,881.582940)
+(15,030.715580)
+27,462.058840
+(27,462.058840)
+Delta en términos de
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+88.334250
+(88.334250)
+55,881.582940
+(8,740.200700)
+8,740.200700
+15,030.715580
+3,774.711780
+(3,774.711780)
+163.412980
+(163.412980)
+755.236080
+(755.236080)
+305.286990
+(305.286990)
+9,392.664230
+(9,392.664230)
+0
+Error
+esrándar
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+Delta cobertura en términos de
+emisoras
+88.3343
+55,881.5829
+(8,740.2007)
+15,030.7156
+3,774.7118
+Santander
+Delta obligaciones en términos
+de emisoras
+(88.3343)
+(55,881.5829)
+8,740.2007
+(15,030.7156)
+(3,774.7118)
+emisoras
+1.0000
+1.0000
+1.0000
+1.0000
+1.0000
+143

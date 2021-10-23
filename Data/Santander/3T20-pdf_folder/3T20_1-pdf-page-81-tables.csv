@@ -1,0 +1,15 @@
+Table
+,,,,"financieras 14; Inversiones en valores que computan como activos en riesgo 552,325 "
+7 ,Inversiones recíprocas en el capital ordinario ,17 ,0 ,
+8 ,Inversiones directas en el capital de entidades financieras donde la Institución no posea más del 10% del capital social emitido ,18 ,0 ,
+9 ,Inversiones indirectas en el capital de entidades financieras donde la Institución no posea más del 10% del capital social emitido ,18 ,14 ,"BG3= 552,339 Menos: Inversiones en acciones de la propia institución 0.14; Inversiones en valores que computan como activos en riesgo 552,325 "
+10 ,Inversiones directas en el capital de entidades financieras donde la Institución posea más del 10% del capital social emitido ,19 ,0 ,
+11 ,Inversiones indirectas en el capital de entidades financieras donde la Institución posea más del 10% del capital social emitido ,19 ,,
+12 ,Impuesto a la utilidad diferida (a favor) proveniente de diferencias temporales ,21 ,"6,490 ","BG15= 15,173 Menos: monto que computa como activo en riesgo 8,684 "
+13 ,Reservas reconocidas como capital complementario ,50 ,575 ,"BG8= Cartera de crédito (neta) 664,975 "
+14 ,Inversiones en deuda subordinada ,26-B ,0 ,
+15 ,Inversiones en organismos multilaterales ,26-D ,"3,036 ","BG13= 38,060 Menos: inversiones permanentes en subsidiarias 33,464; inversiones en cámaras de compensación 528; inversiones permanentes en asociadas 1,032; otras inversiones que computan como activo en riesgo 3,036 "
+16 ,Inversiones en empresas relacionadas ,26 E ,"33,464 ","BG13= 38,060 Menos: inversiones en cámaras de compensación 528; inversiones permanentes en asociadas 1,032; otras inversiones que computan como activo en riesgo 3,036 "
+17 ,Inversiones en capital de riesgo ,26 F ,0 ,
+
+

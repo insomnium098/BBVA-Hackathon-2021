@@ -1,0 +1,36 @@
+BBVA
+Creando Oportunidades
+Componente
+2T21
+Salida contingente (Look Back Approach)
+18,650
+Millones de pesos. Cifras Promedio
+(g) Descalce en divisas
+El riesgo de liquidez asociado a las operaciones en moneda extranjera se encuentra cubierto de
+acuerdo a las disposiciones del Coeficiente de Liquidez en moneda extranjera (ACLME),
+establecidas por Banco de México. Asimismo, el riesgo asociado al tipo de cambio se encuentra
+debidamente fondeado y se gestiona dentro de los límites regulatorios.
+(h)
+Los flujos de efectivo de salida y de entrada que, en su caso, no se capturen en el presente
+marco, pero que la Institución considera relevantes para su perfil de liquidez.
+BBVA México considera que todos los flujos relevantes para el cálculo del CCL están incluidos
+dentro del cálculo de la métrica, por lo que no se tienen flujos adicionales por considerar.
+Riesgo Operacional
+1) Definición y valoración
+BBVA México, consciente de la importancia de contemplar todos los aspectos vinculados al
+riesgo operacional, persigue una gestión integral del mismo, contemplando no sólo los
+aspectos cuantitativos del riesgo, sino también abordando la medición de otros elementos que
+exigen la introducción de mecanismos de evaluación cualitativos.
+De acuerdo a la CUB emitida por la CNBV, se define el riesgo operacional como: "La pérdida
+potencial por fallas O deficiencias en los controles internos, por errores en el procesamiento y
+almacenamiento de las Operaciones O en la transmisión de información, así como por
+resoluciones administrativas y judiciales adversas, fraudes O robos y comprende, entre otros,
+al riesgo tecnológico y al riesgo legal, en el entendido de que:
+a) El riesgo tecnológico se define como la pérdida potencial por daños, interrupción,
+alteración O fallas derivadas del uso del hardware, software, sistemas, aplicaciones, redes
+y cualquier otro canal de transmisión de información en la prestación de servicios
+bancarios a los clientes de BBVA México.
+b)
+El riesgo legal se define como la pérdida potencial por el incumplimiento de las
+disposiciones legales y administrativas aplicables, la emisión de resoluciones
+44

@@ -1,0 +1,151 @@
+GRUPO FINANCIERO
+BANORTE
+Total GFNorte
+Monto
+1,181
+13
+-
+-
+Total Clientes
+2.0%
+49.4%
+100.0%
+DBRS
+Nacional
+Global
+Total
+Ps 1,639
+Ps 188
+Requerimiento de capital
+0
+47
+1
+0
+0
+31
+En las bursatilizaciones realizadas, Banco Mercantil del Norte, es el fideicomitente y fideicomisario de los fideicomisos. A su
+vez actuó como intermediario colocador en cada emisión, ofreciendo los certificados bursátiles a los inversionistas.
+Adicionalmente, la Institución también desempeña funciones de administrador en cada uno de los fideicomisos.
+Por otra parte, la Institución también actúa como inversionista al adquirir títulos de los certificados bursátiles emitidos por
+los fideicomisos constituidos para las bursatilizaciones. Al 4T20, GFNorte tiene en posición propia los siguientes títulos y
+montos de las bursatilizaciones realizadas por la misma Institución:
+Bursatilización
+Banorte
+Seguros
+(Millones de pesos)
+Títulos
+Monto
+Títulos
+Monto
+Títulos
+91_BNTECB_07
+50,763,776
+1,170
+500,000
+12
+51,263,776
+91_BNTECB_07-2
+563,059
+13
+-
+-
+563,059
+97_FCASACB_06U
+-
+-
+-
+-
+A continuación se muestra la proporción de títulos que mantiene en posición propia Grupo Financiero Banorte, en relación
+al total de los títulos emitidos por cada serie:
+Bursatilización
+Total
+Títulos emitidos
+Banorte
+(Millones de pesos)
+Seguros
+GFNorte
+91_BNTECB_07
+52,313,776
+97.0%
+1.0%
+98.0%
+91_BNTECB_07-2
+1,113,059
+50.6%
+0.0%
+50.6%
+97_FCASACB_06L
+1,351,386
+0.0%
+0.0%
+0.0%
+A continuación se presentan las calificaciones asignadas por cada agencia calificadora al cierre del trimestre para cada
+certificado bursátil emitido por los fideicomisos mencionados:
+Standard &
+Fitch Ratings
+Moody' S
+HR Ratings
+Verum
+Best
+Bursatilización
+Poor's
+Nacional
+Global
+Nacional
+Global
+Nacional
+Global
+Nacional
+Global
+Nacional
+Global
+Nacional
+Gobal
+91_BNTECB_07
+Aa3.mx
+Baa3
+HR AA+
+91_BNTECB_07-2
+A3.mx
+Ba3
+HR AA
+CCC
+97_FCASACB_06U
+mxCCC
+(mex)
+Al 4T20, los montos de los activos subyacentes de cada bursatilización son:
+Bursatilización
+Monto
+(Millones de pesos)
+Vigente
+Vencido
+91_BNTECB_
+Ps 1,639
+Ps 0
+91_BNTECB_07-2
+97_FCASACB_06U
+Ps 77
+Ps 110
+No se tienen activos deteriorados en el Fideicomiso 477.
+La exposición mantenida de bursatilizaciones realizadas, desglosada por ponderador de Riesgo Crédito, se muestra a
+continuación:
+Concepto
+Saldo*
+(Millones de pesos)
+Bursatilizaciones con Grado de Riesgo 1 (ponderados al 20%)
+0
+Bursatilizaciones con Grado de Riesgo 2 (ponderados al 50%)
+1,170
+Bursatilizaciones con Grado de Riesgo 3 (ponderados al 100%)
+13
+Bursatilizaciones con Grado de Riesgo 4 (ponderados al 350%)
+0
+Bursatilizaciones con grado de Riesgo 5, 6 o No calificados (ponderados al
+0
+1250%)
+*No incluye la posición de Seguros Banorte.
+No se cuenta con posición de bursatilizaciones registradas en cuentas de orden y ninguna posición mantenida de las
+bursatilizaciones se deduce del capital fundamental.
+Las bursatilizaciones de los fideicomisos 563 y 477 cuentan con cláusulas de amortización anticipada. La Institución no ha
+realizado bursatilizaciones de operaciones revolventes ni rebursatilizaciones durante el trimestre.
+Administración de Riesgos 4T20

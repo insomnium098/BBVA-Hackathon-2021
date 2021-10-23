@@ -1,0 +1,90 @@
+GRUPO FINANCIERO
+BANORTE
+Acreedores por
+Reporto
+VM acreedores por
+reporto
+340,959
+24,322
+6,132
+371,414
+58
+V. Anexos
+Valores gubernamentales
+Valores bancarios
+Valores privados
+Total
+Información Financiera 1T21
+POSICIONES POR OPERACIONES DE REPORTO 1T21
+(Millones de Pesos)
+Deudores por Reporto
+VM Colaterales
+VM deudores por
+recibidos
+Diferencia
+Diferencia
+reporto
+vendidos en
+deudora
+acreedora
+reporto
+252,278
+249,146
+3,148
+12,999
+12,999
+-
+3,536
+3,539
+(0)
+268,813
+265,684
+3,148
+OPERACIONES CON INSTRUMENTOS
+DERIVADOS AL 1T21
+(Millones de Pesos)
+Posición Activa
+Instrumento
+Valor Razonable
+Futuros
+Futuros TIIE 28
+-
+Forward
+Forward de divisa
+369
+Opciones
+Opciones de tasas
+188
+Opciones de divisa
+575
+Títulos Opcionales
+-
+Swaps
+Swaps de tasas
+21,394
+Swaps de divisas
+5,765
+Swaps de crédito
+168
+Total negociación
+28,458
+Opciones
+Opciones de tasas
+-
+Opciones de divisa
+-
+Swaps
+Swaps de tasas
+86
+Swaps de divisas
+523
+Swaps de crédito
+-
+Total cobertura
+609
+Total posición
+29,068
+16
+0
+3
+19

@@ -1,0 +1,176 @@
+GRUPO FINANCIERO
+BANORTE
+2.2. Exposición al Riesgo de Crédito
+Al 4T20, el monto total de las exposiciones brutas sujetas al Método Estándar y a los Modelos Internos (Modelo Interno
+Avanzado para Tarjetas de Crédito y Automotriz Personas Físicas, y Modelo Interno Básico para Empresas) para el cálculo
+del Índice de Capital es el siguiente:
+Exposiciones Brutas (Saldos)
+sujetas al Método Estándar y/o Modelos Internos*
+Banorte
+Arrendadora y
+Cartera
+Factor*
+Total
+(Millones de pesos)
+Comercial
+67,764
+844
+68,607
+Ingresos o Ventas anuales < 14 MM UDIS
+67,764
+844
+68,607
+Entidades Federativas o Municipios
+106,582
+84
+106,666
+Organismos Descentralizados del Gobierno Federal,
+32,694
+6,441
+39,134
+Estatal y Municipal, y Empresas Productivas del Estado
+Proyectos con Fuente de Pago Propia
+98,711
+0
+98,711
+Instituciones Financieras
+24,898
+659
+25,557
+Hipotecario
+189,394
+0
+189,394
+Consumo No Revolvente
+53,163
+7
+53,170
+Cartera Total sujeta al Método Estándar
+573,205
+8,035
+581,240
+Comercial
+132,937
+27,180
+160,118
+Ingresos o Ventas anuales >= 14 MM UDIS
+132,937
+27,180
+160,118
+Organismos Descentralizados del Gobierno Federal,
+Estatal y Municipal con ingresos o ventas anuales > = 14
+16,874
+0
+16,874
+MM UDIS
+Cartera Total sujeta al Modelo Interno Básico
+149,811
+27,180
+176,991
+Consumo No Revolvente (Automotriz)
+28,248
+0
+28,248
+Tarjeta de Crédito
+39,771
+0
+39,771
+Cartera Total sujeta al Modelo Interno Avanzado
+68,020
+0
+68,020
+Eliminaciones y Registros Contables
+(15,257)
+Sin Calificar
+76
+Cartera Total
+811,070
+* No incluye Arrendamiento Puro.
+** La Exposición no incluye Cartas de Crédito e incluyen ajustes contables.
+Para las operaciones sujetas a Riesgo de Crédito la Institución utiliza las calificaciones externas emitidas por las agencias
+S&P, Moody's, Fitch, HR Ratings, Verum, DBRS Ratings México y A.M. Best America Latina. Sólo se consideran las
+calificaciones emitidas por calificadoras y no se asignan con base en activos comparables.
+2.2.1.
+Cartera de Crédito
+La cartera crediticia de GFNorte con Riesgo de Crédito al 4T20 registra una exposición bruta (saldo total) de Ps 811,070
+millones, mostrando un crecimiento trimestral de Ps 5,932 millones (0.7%) y un crecimiento de Ps 35,622 millones en el año
+(4.6%).
+Las variaciones por producto de la cartera total de GFNorte son:
+Producto/Segmento
+Cartera Total
+Var. vs 3T20
+Var. vs 4T19
+(Millones de pesos)
+4T19
+3T20
+4T20
+Ps
+%
+Ps
+%
+Gobierno
+173,992
+162,897
+161,600
+(1,297)
+(0.8%)
+(12,392)
+(7.1%)
+Comercial
+176,892
+190,005
+195,291
+5,286
+2.8%
+18,398
+10.4%
+Hipotecario
+172,059
+184,495
+189,394
+4,899
+2.7%
+17,335
+10.1%
+Corporativa
+130,510
+147,070
+143,595
+(3,476)
+(2.4%)
+13,084
+10.0%
+Nómina
+53,069
+53,252
+53,093
+(159)
+(0.3%)
+24
+0.04%
+Tarjeta
+41,987
+39,831
+39,771
+(60)
+(0.2%)
+(2,216)
+(5.3%)
+Automotriz
+26,938
+27,587
+28,326
+738
+2.7%
+1,387
+5.2%
+Cartera Total
+775,448
+805,138
+811,070
+5,932
+0.7%
+35,622
+4.6%
+Administración de Riesgos 4T20
+8

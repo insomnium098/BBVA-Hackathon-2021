@@ -1,0 +1,55 @@
+GRUPO FINANCIERO
+BANORTE
+4.11. Riesgo de Balance
+El riesgo de tasa de interés consiste en estimar el impacto en el margen financiero. El margen financiero es la diferencia
+entre los ingresos generados por intereses y los costos asociados a pasivos con costo financieros (gastos por interés).
+Dependiendo de la estructura del balance, los movimientos en las tasas de interés pueden tener impactos positivos o
+negativos en los escenarios de alza o baja en tasas.
+Debido a que el margen financiero obedece a la estructura de flujos de los activos y pasivos en el balance, el modelo
+utilizado para estimar esta métrica, es un modelo de brechas de re-precio. Todos los activos y pasivos se alocan en distintas
+bandas dependiendo su naturaleza de re-precio y/o estructura de vencimientos. Una vez con la estructura de re-precio, se
+puede calcular el impacto de cada banda en el indicador.
+4.11.1. Sensibilidad del Margen Financiero
+La sensibilidad de margen financiero es una métrica estática que considera el ejercicio presupuestal a doce meses, es decir,
+solo las bandas menores a un año son impactadas por los distintos movimientos de tasas de interés. Los supuestos son:
+Considera los efectos de re-preciación de todos los activos y pasivos financieros del libro de balance.
+El seguimiento del libro de negociación se lleva por separado.
+Considera el comportamiento de todos los modelos de balance (ej. Prepago hipotecario, y sobrevivencia de
+depósitos).
+El balance es considerado estático y constante a lo largo del tiempo, es decir, no se considera ni crecimiento
+orgánico ni movimientos en la estructura de tasas ni cambios en la mezcla o estrategias de productos.
+En la siguiente tabla, se aprecia la Sensibilidad del Margen Financiero para Banco Banorte.
+Sensibilidad al Margen
+3T20
+4T20
+Var vs. 3T20
+(Millones de pesos)
+Balance en Moneda Nacional
+504
+561
+11.3%
+Balance en Moneda Extranjera
+785
+565
+(28.0%)
+Durante en 4T20, la sensibilidad del balance en moneda nacional a una variación de 100 pbs en tasas nacionales pasa de Ps
+504 millones en 3T20 a Ps 561 millones. Por otro lado, la sensibilidad del balance en moneda extranjera a una variación de
+100 pbs en tasas extranjeras pasa de Ps 785 millones a Ps 565 millones. Es importante destacar que las posiciones de
+Mercados Financieros inmunizan, vía resultados por intermediación, el impacto de baja en tasas en el Balance. Los
+Disponibles para la Venta, al cierre del 4T20 correspondieron a Ps 153,063 millones, y en promedio durante el 4T20 a Ps
+151,124 millones
+Es importante mencionar que libro de balance en moneda nacional muestra una exposición al riesgo de base debido a la
+composición y estructura de los activos y pasivos. El riesgo base surge cuando los bancos tienen posiciones dentro de su
+balance a tasa flotante con diferentes tasas base de re-precio y diferentes monedas. En el balance de moneda nacional del
+Banco, del lado activo, la cartera mayorista a tasa flotante con base en TIIE, mientras que del lado de los pasivos los depósitos
+a la vista paga intereses sobre un porcentaje de CETES. Finalmente existe una diferencia positiva entre el valor promedio de
+TIIE y CETES que produce riesgo de base, mientras la diferencia sea positiva y mayor tendrá un efecto positivo sobre el
+margen financiero.
+4.12. Subsidiarias
+Los procesos de Administración de Riesgos de Balance y Liquidez del Banco y sus Sofomes se centralizan en la Dirección
+General de Administración de Riesgo y Crédito de GFNorte. Para dar seguimiento a la liquidez de las Sofomes, se realizan
+análisis de comportamiento estructural del balance, así como de la diversificación del Fondeo. Adicionalmente se realiza
+análisis de las brechas de liquidez. Puntualmente para la Casa de Bolsa se da seguimiento a los requerimientos regulatorios
+de liquidez.
+Administración de Riesgos 4T20
+26

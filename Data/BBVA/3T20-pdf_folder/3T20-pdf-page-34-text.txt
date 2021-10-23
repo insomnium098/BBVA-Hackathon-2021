@@ -1,0 +1,38 @@
+BBVA
+Creando Oportunidades
+Riesgo de Tasa de Interés
+Balance Fstructural
+Por lo que respecta al riesgo del Balance Estructural de tasas de interés y tipo de cambio, se
+calculan sensibilidades de Valor Económico y de Margen Financiero ante movimientos
+paralelos en las curvas de +/-100 pb y de forma agregada para Pesos y UDIs con respecto al
+Dólar, según la metodología autorizada por el Comité de Riesgos. Se tiene establecido un
+esquema de alertas para las métricas anteriores, cuyo seguimiento se hace de manera mensual
+en el Comité de Riesgos y se presenta de manera trimestral al Consejo de Administración; en
+caso de rebasar los límites de las alertas, se tienen establecidas medidas de mitigación.
+El sistema de medición del riesgo estructural es ORM (Quantitative Risk Management), el cual
+incorpora a su vez la caracterización de los rubros del Balance Estructural según las
+características financieras de cada rubro. La metodología detrás de las métricas de Valor
+Económico consiste en estimar el valor justo O "fair value" de las posiciones del Balance
+Estructural, mediante el cálculo del valor actual de sus flujos futuros netos (flujos esperados de
+sus activos menos los flujos esperados de sus pasivos) descontados a tasas de interés de
+mercado. Por su parte, la metodología detrás de las métricas de Margen Financiero se basa en
+la proyección de los ingresos y egresos por intereses del Balance Estructural, mes a mes en un
+horizonte de 12 meses, considerando las previsiones de crecimiento del negocio. En específico,
+los principales supuestos detrás de la caracterización de los rubros del Balance estructural son
+los siguientes:
+Tasas de prepago: Se supone una amortización anticipada de ciertos rubros del Balance
+Estructural como créditos hipotecarios y créditos al consumo.
+Evolución de productos que no tienen plazo de vencimiento: Para los depósitos a la vista
+y la TDC, se calibran saldos "core" O estables y saldos volátiles, y posteriormente se pronostica
+la evolución de los mismos en el tiempo.
+Los supuestos detrás de la caracterización de los rubros del Balance estructural se modelan a
+partir de observaciones históricas, tanto de los mismos rubros del Balance Estructural como
+de la evolución de los factores de riesgo. Con frecuencia anual mínima, se realiza una revisión y
+validación de la adecuación de los modelos y sistemas que integran las métricas de riesgos del
+Balance Estructural.
+Para dar seguimiento al riesgo del Balance Estructural de tasas de interés y tipo de cambio, el
+Comité de Activos y Pasivos es el órgano ejecutivo encargado de gestionarlo. Este comité no es
+un órgano delegado del Consejo de Administración. Adopta estrategias de inversión y
+cobertura dentro de las políticas y límites de riesgos aprobados por el Consejo de
+Administración y Comité de Riesgos delegado del Consejo.
+34

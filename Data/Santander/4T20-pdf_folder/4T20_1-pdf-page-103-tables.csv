@@ -1,0 +1,20 @@
+Table
+MM Pesos ,,Sensibilidad ,NIM ,,,Sensibilidad ,MVE ,
+Banco ,Escenario ,Total ,Derivados ,No Derivados ,Escenario ,Total ,Derivados ,No Derivados 
+Balance MXN GAP ,(100) bp ,(168) ,(938) ,770 ,+100 bp ,"(1,333) ","1,532 ","(2,864) "
+Balance USD GAP ,(50) bp ,(425) ,22 ,(447) ,(100) bp ,"(1,479) ","(1,804) ",325 
+
+
+Table
+Millones de pesos ,Total ,1D ,1S ,1M ,3M ,6M ,9M ,1A ,5A ,>5A 
+Gap Estructural ,"186,126 ","2,424 ","2,865 ","(122,175) ","41,513 ","42,322 ","25,052 ","34,391 ","280,852 ","(121,118) "
+No Derivados ,"184,579 ","2,424 ","2,617 ","(122,197) ","41,944 ","42,660 ","24,748 ","34,462 ","278,547 ","(120,624) "
+Derivados ,"1,548 ",0 ,249 ,23 ,(431) ,(337) ,305 ,(72) ,"2,305 ",(494) 
+
+
+Table
+Escenario ,+100 bp ,+100 bp ,(100) bp ,N/A ,+100 bp ,+100 bp ,100 bp ,N/A 
+Balance USD GAP ,37% ,34% ,36% ,36% ,37% ,30% ,33% ,33% 
+Escenario ,(75) bp ,(50) bp ,(50) bp ,N/A ,(100) bp ,(75) bp ,(100) bp ,N/A 
+
+

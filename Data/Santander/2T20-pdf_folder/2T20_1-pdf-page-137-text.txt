@@ -1,0 +1,96 @@
+116.00
+4450.3864
+125
+121.00
+4642.2134
+125
+126.00
+4834.0404
+126
+131.00
+5025.8674
+131
+136.00
+5217.6944
+136
+141.00
+5409.5214
+141
+146.00
+5601.3484
+146
+151.00
+5793.1754
+151
+156.00
+5985.0024
+156
+161.00
+6176.8294
+161
+166.00
+6368.6564
+166
+171.00
+6560.4834
+171
+176.00
+6752.3104
+176
+181.00
+6944.1374
+181
+186.00
+7135.9644
+186
+191.00
+7327.7914
+191
+196.00
+7519.6184
+196
+201.00
+7711.4454
+201
+206.00
+7903.2724
+206
+211.00
+8095.0994
+211
+216.00
+8286.9264
+216
+221.00
+8478.7534
+221
+226.00
+8670.5804
+226
+231.00
+8862.4074
+231
+Acciones
+Para mayor información respecto a las acciones el inversionista puede consultar las siguientes páginas de Internet:
+www.bmv.com.mx
+www.bloomberg.com
+La página de bloomberg no forma parte del prospecto por lo que la Comisión no revisó la misma.
+Algunas Emisoras cuentan con un formador de mercado. El impacto de la actuación de dicho formador se ve reflejado en un incremento en
+los niveles de operación, así como en un mejoramiento del bid-offer spread de los precios de las acciones de la Emisora de que se trate.
+Emisora
+Clave de Pizarra
+Microsoft Corporation
+MSFT*
+Energy Select Sector SPDR
+XLE*
+iShares China Large-Cap ETF
+FXI*
+The Coca-Cola Company
+KO*
+Microsoft Corporation (MSFT*)
+Mercado donde cotiza:
+Nasdaq
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+136

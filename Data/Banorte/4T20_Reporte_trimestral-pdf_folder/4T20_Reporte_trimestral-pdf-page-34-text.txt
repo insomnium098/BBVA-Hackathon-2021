@@ -1,0 +1,516 @@
+GRUPO FINANCIERO
+IV. Estados Financieros
+BANORTE
+GFNorte - Cuentas de Orden
+1T19
+2T19
+3T19
+4T19
+1T20
+2T20
+3T20
+4T20
+(Millones de Pesos)
+Operaciones por Cuenta de Terceros
+Bancos de clientes
+34
+35
+35
+56
+85
+24
+21
+62
+Dividendos por cobrar de clientes
+-
+-
+-
+-
+-
+-
+-
+-
+Intereses por cobrar de clientes
+-
+-
+-
+-
+-
+-
+-
+-
+Liquidación de operaciones de clientes
+32
+(136)
+136
+143
+208
+(270)
+123
+(30)
+Premios de clientes
+-
+-
+-
+-
+-
+-
+-
+-
+Liquidación con divisas de clientes
+-
+-
+-
+-
+-
+-
+-
+-
+Cuentas margen operaciones con futuros
+-
+-
+-
+-
+-
+-
+-
+-
+Otras cuentas corrientes
+-
+-
+-
+-
+-
+-
+-
+-
+Clientes Cuentas Corrientes
+66
+(101)
+170
+199
+293
+(245)
+145
+32
+Valores de clientes recibidos en custodia
+709,242
+726,007
+744,672
+716,128
+605,481
+641,824
+670,163
+669,495
+Valores y documentos recibidos en garantía
+-
+-
+-
+-
+-
+-
+-
+-
+Valores de clientes en el extranjero
+-
+-
+-
+-
+-
+-
+-
+-
+Valores de Clientes
+709,242
+726,007
+744,672
+716,128
+605,481
+641,824
+670,163
+669,495
+Operaciones de reporto de clientes
+184,937
+187,339
+184,220
+184,063
+179,276
+163,653
+240,237
+238,032
+Operac. de préstamo de valores de clientes
+-
+-
+-
+-
+-
+-
+-
+-
+Colaterales recibidos en garantía por cuentas de
+184,939
+187,340
+184,239
+184,063
+179,276
+163,653
+240,237
+238,040
+clientes
+Compra de futs y cont. Adelan. (monto nacional)
+-
+-
+-
+-
+-
+-
+-
+-
+Venta de futs y cont. Adelan. (monto nacional)
+-
+-
+-
+-
+-
+-
+-
+-
+Operac. de compra de opciones de clientes
+-
+-
+-
+-
+-
+-
+-
+-
+Operac. de venta de opciones de clientes
+Operac. de Compra de paquetes de instrumentos
+-
+-
+-
+-
+-
+-
+-
+-
+derivados
+Operac. de Venta de paquetes de instrumentos
+-
+-
+-
+-
+-
+-
+-
+-
+derivados de clientes
+Fideicomisos administrados
+89,878
+86,428
+88,900
+83,298
+1,036
+1,054
+1,066
+204
+Operaciones por Cuenta de Clientes
+459,754
+461,107
+457,359
+451,424
+359,588
+328,360
+481,539
+476,276
+Op. de Bca de Inv Cta de Terceros (Neto)
+82,947
+101,587
+104,928
+96,100
+87,728
+88,149
+100,948
+97,374
+TOTALES POR CUENTA DE TERCEROS
+1,252,008
+1,288,600
+1,307,129
+1,263,851
+1,053,090
+1,058,087
+1,252,794
+1,243,176
+Avales otorgados
+-
+-
+-
+-
+-
+-
+-
+-
+Compromisos Crediticios
+316,687
+284,174
+275,096
+286,019
+294,733
+293,470
+292,420
+292,701
+Fideicomisos
+445,853
+456,152
+457,200
+452,406
+422,525
+319,659
+308,883
+308,516
+Mandatos
+1,344
+8,039
+7,964
+7,615
+7,326
+7,645
+7,786
+7,472
+Bienes en Fideicomiso o Mandato
+447,197
+464,191
+465,164
+460,021
+429,851
+327,304
+316,669
+315,988
+Bienes en custodia o administración
+687,330
+693,335
+694,066
+631,539
+660,642
+669,104
+677,620
+633,424
+Colaterales recibidos por la entidad
+230,687
+184,929
+233,652
+213,885
+163,758
+240,920
+289,443
+282,054
+Colaterales recibidos o vendidos o entregados por la
+327,444
+287,246
+322,840
+304,448
+247,107
+307,649
+432,443
+421,090
+inst.
+Giros en tránsito
+-
+-
+-
+-
+-
+-
+-
+-
+Depósitos de bienes
+2,658
+2,318
+1,764
+3,107
+2,766
+2,867
+2,101
+3,325
+Cartas de Créd. a la Soc. entreg en garantía
+-
+-
+-
+-
+-
+-
+-
+-
+Valores a la Sociedad entreg. en custodia
+-
+-
+-
+-
+-
+-
+-
+-
+Valores Gubern. de la sociedad en custodia
+-
+-
+-
+-
+-
+-
+-
+-
+Valores de la sociedad entreg. en garantía
+-
+-
+-
+-
+-
+-
+-
+-
+Valores en el extranjero de la sociedad
+-
+-
+-
+-
+-
+-
+-
+-
+Liquid. con divisas de Soc. en el extranjero
+-
+-
+-
+-
+-
+-
+-
+-
+Adeudo al fondo de contingencias
+-
+-
+-
+-
+-
+-
+-
+-
+Activos y Pasivos Contingentes
+54
+64
+39
+50
+79
+79
+109
+167
+Int.dev. no cob. deriv. de cart. de crédito vencida
+633
+318
+323
+299
+295
+289
+180
+178
+Inver. fondos del sist. de ahorro para retiro
+-
+-
+-
+-
+-
+-
+-
+-
+Integración de la cartera crediticia
+-
+-
+-
+-
+-
+-
+-
+-
+Otras cuentas de registro
+266,235
+272,258
+278,650
+280,016
+292,976
+289,983
+304,055
+295,069
+Operaciones por Cuenta Propia
+2,278,926
+2,188,832
+2,271,594
+2,179,383
+2,092,207
+2,131,665
+2,315,039
+2,243,996
+Títulos a recibir por reporto
+-
+-
+-
+-
+-
+-
+-
+-
+(Menos) Acreedores por reporto
+-
+-
+-
+-
+-
+-
+-
+-
+Títulos a recibir por reporto (Neto)
+-
+-
+-
+-
+-
+-
+-
+-
+Deudores por reporto
+-
+-
+-
+-
+-
+-
+-
+-
+(Menos) Títulos a entregar por reporto
+-
+-
+-
+-
+-
+-
+-
+-
+Títulos a entregar por reporto (Neto)
+-
+-
+-
+-
+-
+-
+-
+-
+TOTALES POR CUENTA PROPIA
+2,278,926
+2,188,832
+2,271,594
+2,179,383
+2,092,207
+2,131,665
+2,315,039
+2,243,996
+Cuarto Trimestre de 2020
+34

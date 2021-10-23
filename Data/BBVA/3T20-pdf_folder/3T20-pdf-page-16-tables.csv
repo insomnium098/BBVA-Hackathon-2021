@@ -1,0 +1,36 @@
+Table
+"Grupo Financiero BBVA Bancomer, Calificación de la cartera de crédito ",S.A. de C.V. Comercial ,,Vivienda ,,Consumo ,,Tarjeta de ,Crédito ,Total ,
+Septiembre 2020 Millones de pesos ,Saldo ,Reserva ,Saldo ,Reserva ,Saldo ,Reserva ,Saldo ,Reserva ,Saldo ,Reserva 
+Nivel de Riesgo ,,,,,,,,,,
+A1 ,"686,225 ","1,648 ","211,728 ",245 ,"58,459 ",504 ,"49,329 ",822 ,"1,005,741 ","3,219 "
+A2 ,"46,396 ",464 ,"2,525 ",16 ,"13,904 ",350 ,"14,727 ",578 ,"77,552 ","1,408 "
+B1 ,"20,060 ",352 ,"7,677 ",69 ,"51,525 ","1,713 ","8,677 ",498 ,"87,939 ","2,632 "
+B2 ,"12,689 ",264 ,"7,110 ",92 ,"31,904 ","1,458 ","6,989 ",505 ,"58,692 ","2,319 "
+B3 ,"19,060 ",614 ,"2,982 ",48 ,"8,639 ",481 ,"5,890 ",525 ,"36,571 ","1,668 "
+C1 ,"5,755 ",348 ,"8,859 ",271 ,"7,956 ",579 ,"8,078 ",982 ,"30,648 ","2,180 "
+C2 ,"3,056 ",217 ,"3,891 ",283 ,"5,654 ",579 ,"12,006 ","2,647 ","24,607 ","3,726 "
+D ,"5,414 ","1,823 ","4,589 ","1,180 ","4,423 ","1,037 ","1,489 ",681 ,"15,915 ","4,721 "
+E Adicional ,"10,070 ","5,379 ","3,768 ","1,941 ","7,575 ","4,748 ","1,214 ","1,078 ","22,627 ","13,146 6,544 "
+Total requerido ,"808,725 ","11,109 ","253,129 ","4,145 ","190,039 ","11,449 ","108,399 ","8,316 ","1,360,292 ","41,563 "
+
+
+Table
+Millones de pesos ,Exposición ,Exposición Media ,PI % ,Severidad % 
+Empresas con Ventas < 14 Millones Udis ,"106,418 ","106,250 ",11.9 ,44.1 
+Empresas con Ventas > 14 Millones Udis ,"387,245 ","407,093 ",1.5 ,39.0 
+Entidades Federativas y Municipios ,"126,547 ","120,095 ",0.7 ,49.2 
+Instituciones Financieras ,"26,785 ","27,583 ",0.8 ,55.9 
+Proyectos ,"28,977 ","29,134 ",1.6 ,20.1 
+Disponibles ,"12,524 ","11,576 ",1.6 ,45.0 
+TDC ,"30,905 ","31,378 ",9.7 ,44.7 
+Total ,"719,402 ","733,109 ",3.2 ,41.8 
+
+
+Table
+Millones de pesos ,Exposición ,Exposición Media ,PI % ,Severidad % 
+Comercial ,"719,402 ","733,109 ",3.2 ,41.8 
+Consumo ,"187,598 ","188,665 ",8.4 ,69.9 
+Hipotecario ,"251,855 ","248,976 ",4.9 ,16.0 
+Tdc ,"147,148 ","145,805 ",7.7 ,77.6 
+
+

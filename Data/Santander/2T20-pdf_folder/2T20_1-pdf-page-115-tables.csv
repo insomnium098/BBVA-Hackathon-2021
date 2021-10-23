@@ -1,0 +1,31 @@
+Table
+Descripción ,Vencimientos ,Posiciones cerradas 
+Caps and Floors ,479 ,11 
+Equity Forward ,29 ,0 
+OTC Equity ,230 ,16 
+OTC Fx ,1303 ,320 
+Swaptions ,0 ,1 
+Fx Forward ,3317 ,318 
+IRS ,653 ,78 
+CCS ,80 ,5 
+
+
+Table
+,,,,Valor ,Razonable 
+Tipo de Derivado ,Subyacente ,Fines de Negociación o de Cobertura ,Monto Nocional ,Trimestre Actual ,Trimestre Anterior 
+Contratos Adelantados ,Divisas ,Negociación ,"424,836 ",(767) ,"(4,068) "
+Contratos Adelantados ,Acciones ,Negociación ,492 ,(5) ,7 
+Futuros ,Divisas ,Negociación ,"9,284 ",0 ,0 
+Futuros ,Índices ,Negociación ,"3,843 ",0 ,0 
+Opciones ,Acciones ,Negociación ,"1,698 ",(478) ,(214) 
+Opciones ,Divisas ,Negociación ,"147,346 ","1,308 ","1,023 "
+Opciones ,Índices ,Negociación ,"2,153 ",156 ,82 
+Opciones ,Tasas ,Negociación ,"193,513 ",213 ,154 
+Swaps ,Divisas ,Negociación ,"992,365 ","(3,337) ","(7,140) "
+Swaps ,Tasas ,Negociación ,"7,954,786 ","7,453 ","7,305 "
+Swaps ,Acciones ,Negociación ,762 ,167 ,353 
+Contratos Adelantados ,Divisas ,Cobertura ,"36,864 ","1,057 ","1,794 "
+Swaps ,Divisas ,Cobertura ,"61,474 ","(14,672) ","(13,497) "
+Swaps ,Tasas ,Cobertura ,"82,525 ","(4,616) ",(188) 
+
+

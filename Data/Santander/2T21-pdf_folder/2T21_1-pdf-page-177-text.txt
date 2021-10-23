@@ -1,0 +1,116 @@
+200%
+180%
+160%
+140%
+120%
+100%
+80%
+60%
+40%
+IPC
+XLV
+Base de comparación: 30 de junio de 2016
+Periodo
+Precio mínimo
+Precio máximo
+Volumen promedio (títulos)
+2016
+66.02
+75.68
+9,290,052.69
+2017
+68.94
+83.98
+7,214,044.55
+2018
+79.55
+95.87
+9,722,717.68
+2019
+83.47
+103.11
+9,885,136.35
+2020
+74.62
+113.44
+10,450,181.77
+2° Sem. 2019
+87.95
+103.11
+8,226,989.13
+1° Sem. 2020
+74.62
+104.73
+13,273,916.88
+2° Sem. 2020
+100.71
+113.44
+7,657,139.44
+1° Sem. 2021
+110.80
+126.03
+8,811,907.59
+enero 2021
+112.95
+118.50
+8,706,689.03
+febrero 2021
+112.61
+117.28
+8,571,871.79
+marzo 2021
+110.80
+117.57
+10,441,172.65
+abril 2021
+116.39
+123.68
+6,816,555.80
+mayo 2021
+121.33
+124.48
+9,238,298.48
+junio 2021
+121.33
+126.03
+9,015,840.80
+Volatilidad Histórica
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+DEA 1M
+DEA 3M
+DEA 6M
+DEA 12M
+Fuente de información sobre Evolución y Volatilidad Histórico: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+XLV203R DC010
+Pago de Derechos
+bajo distintos valores del Valor Observado
+$125
+$120
+$115
+$110
+$105
+$100
+80.00
+90.00
+100.00
+$95
+110.00
+120.00
+130.00
+$90
+$85
+$80
+Valor Observado
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+175

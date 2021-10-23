@@ -1,0 +1,159 @@
+Como parte de la gestión financiera de Banco Santander, se analiza la sensibilidad del margen financiero ("NIM") y del valor patrimonial
+("MVE") de los distintos rubros del balance, frente a variaciones de las tasas de interés. Esta sensibilidad se deriva de los desfases en las fechas
+de vencimiento y de modificación de las tasas de interés que se producen en los distintos rubros de activo y pasivo. El análisis se realiza a partir
+de la clasificación de cada rubro sensible a tasas de interés a lo largo del tiempo, conforme a sus fechas de amortización, vencimiento, o
+modificación contractual de tasa de interés aplicable.
+Sensibilidad NIM
+Sensibilidad MVE
+Banco
+abr-20
+may-20
+jun-20
+Promedio
+abr-20
+may-20
+jun-20
+Promedio
+Balance
+8%
+9%
+4%
+7%
+49%
+41%
+38%
+43%
+MXN GAP
+Escenario
++100 pb
++100 pb
++100 pb
+N/A
++100 pb
++100 pb
++100 pb
+N/A
+Balance USD
+36%
+31%
+26%
+31%
+73%
+76%
+22%
+57%
+GAP
+Escenario
+(75) pb
+(75) pb
+(50) pb
+N/A
+(75) pb
+(75) pb
+(50) pb
+N/A
+Utilizando técnicas de simulación, se mide la variación previsible del margen financiero y del valor patrimonial ante distintos escenarios de
+tasas de interés, y la sensibilidad de ambos, frente a un movimiento extremo de los mismos, al cierre del segundo trimestre de 2020:
+MM Pesos
+Sensibilidad NIM
+Sensibilidad MVE
+No
+No
+Escenario
+Total
+Derivados
+Escenario
+Total
+Derivados
+Banco
+Derivados
+Derivados
+Balance
++100 bp
+(59)
+1,019
+(1,078)
++100 bp
+(1,608)
+2,016
+(3,623)
+MXN GAP
+Balance
+(50) bp
+(366)
+49
+(415)
+(50) bp
+(1,120)
+(1,199)
+78
+USD GAP
+El Comité de Activos y Pasivos adopta estrategias de inversión y coberturas para mantener dichas sensibilidades dentro del rango objetivo.
+Límites
+Los límites se emplean para controlar el riesgo global de Banco Santander, a partir de cada uno de sus portafolios y libros. La estructura de
+límites se aplica para controlar las exposiciones y establecen el riesgo total otorgado a las unidades de negocio. Estos límites se establecen
+para el VaR, alerta de pérdida, pérdida máxima, volumen equivalente de tipo de interés, delta equivalente de renta variable, posiciones abiertas
+en divisas, sensibilidad del margen financiero y sensibilidad de valor patrimonial.
+Riesgo de Liquidez
+El riesgo de liquidez está asociado a la capacidad que Banco Santander tenga de financiar los compromisos adquiridos, a precios
+de
+mercados
+razonables, así como de llevar a cabo sus planes de negocio con fuentes de financiación estables. Los factores que influyen pueden ser
+de
+carácter externo (crisis de liquidez) e interno por excesiva concentración de vencimientos.
+Banco Santander realiza una gestión coordinada de los vencimientos de activos y pasivos, realizando una vigilancia de perfiles máximos de
+desfase temporal. Esta vigilancia se basa en análisis de vencimientos de activos y pasivos tanto contractuales como de gestión. Banco
+Santander realiza un control para el mantenimiento de una cantidad de activos líquidos suficiente para garantizar un horizonte de
+supervivencia durante un mínimo de días ante un escenario de estrés de liquidez sin recurrir a fuentes de financiación adicionales. El Riesgo
+de
+Liquidez se limita en términos de un periodo mínimo de días establecido para monedas locales, extranjeras y en forma consolidado. Cabe
+agregar que en el trimestre que se presenta no se han tenido incidencias en las métricas.
+Millones de pesos
+Total
+1D
+1S
+1M
+3M
+6M
+9M
+1A
+5A
+>5A
+Gap Estructural
+146,253
+(207,159)
+71,163
+(46,685)
+81,939
+50,409
+35,135
+30,015
+280,965
+(149,529)
+No Derivados
+145,382
+(207,104)
+71,164
+(45,783)
+81,713
+50,660
+34,841
+30,058
+276,764
+(146,931)
+Derivados
+871
+(55)
+(1)
+(902)
+226
+(251)
+293
+(43)
+4,201
+(2,598)
+Riesgo de Crédito
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+106

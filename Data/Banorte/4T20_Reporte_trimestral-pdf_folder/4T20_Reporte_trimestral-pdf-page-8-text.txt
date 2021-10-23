@@ -1,0 +1,208 @@
+GRUPO FINANCIERO
+II. Discusión y Análisis de la Administración
+BANORTE
+II. Discusión y Análisis de la Administración
+En este reporte se hace referencia a cifras recurrentes que se refieren a la actividad usual sin el efecto del movimiento
+extraordinario del 1T19 como ingreso relacionado al reconocimiento de la liquidación de Banorte USA, así como los
+movimientos correspondientes al reconocimiento de reservas adicionales y castigos anticipados relacionados a COVID-19,
+durante el segundo y cuarto trimestre 2020.
+Para efectos de comparación, es importante considerar que GFNorte tiene el 98.2618% de las acciones del Banco, por lo
+que en algunos casos ciertas cifras pueden variar al hacer referencia a ellas, tanto en Grupo como en Banco.
+Ingresos de Intereses Netos (IIN)
+Var. Vs.
+Var. Vs.
+4T19
+3T20
+4T20
+2019
+2020
+(Millones de Pesos)
+3T20
+4T19
+2019
+Ingresos por Intereses
+33,395
+28,508
+27,068
+(5%)
+(19%)
+138,752
+119,479
+(14%)
+Gastos por Intereses
+14,858
+10,149
+9,324
+(8%)
+(37%)
+67,533
+46,741
+(31%)
+Comisiones Cobradas
+382
+354
+380
+7%
+(1%)
+1,406
+1,440
+2%
+Comisiones Pagadas
+316
+281
+314
+12%
+(1%)
+1,160
+1,156
+(0%)
+IIN sin Seguros y Pensiones
+18,604
+18,432
+17,810
+(3%)
+(4%)
+71,465
+73,022
+2%
+Ingresos por Primas (Neto)
+7,747
+7,385
+9,192
+24%
+19%
+32,537
+36,849
+13%
+Reservas Técnicas
+5,086
+4,262
+4,368
+2%
+(14%)
+15,003
+17,793
+19%
+Siniestros, Reclamaciones y Otras Obligaciones
+4,967
+5,433
+6,281
+16%
+26%
+18,779
+21,920
+17%
+Resultado Técnico
+(2,305)
+(2,310)
+(1,458)
+37%
+37%
+(1,244)
+(2,863)
+(130%)
+Ingresos (Egresos) por Intereses Netos
+3,889
+4,479
+3,228
+(28%)
+(17%)
+10,356
+12,673
+22%
+IIN de Seguros y Pensiones
+1,584
+2,169
+1,770
+(18%)
+12%
+9,112
+9,810
+8%
+IIN GFNORTE
+20,188
+20,601
+19,580
+(5%)
+(3%)
+80,577
+82,832
+3%
+Provisiones para Crédito
+3,765
+3,138
+5,993
+91%
+59%
+15,347
+21,931
+43%
+IIN Ajustado por Riesgos Crediticios
+16,423
+17,463
+13,587
+(22%)
+(17%)
+65,230
+60,901
+(7%)
+Activos Productivos Promedio
+1,419,439
+1,615,282
+1,625,011
+1%
+14%
+1,434,764
+1,564,112
+9%
+MIN (1)
+5.7%
+5.1%
+4.8%
+5.6%
+5.3%
+MIN ajustado por Provisiones de Crédito (2)
+4.6%
+4.3%
+3.3%
+4.5%
+3.9%
+MIN ajustado sin Seguros y Pensiones
+5.9%
+5.2%
+5.0%
+5.6%
+5.3%
+MIN de Cartera Crediticia (3)
+8.7%
+7.9%
+7.6%
+8.2%
+8.0%
+1) MIN (Margen de Interés Neto) = Ingresos de Intereses Netos del trimestre Anualizado/ Activos productivos promedio.
+2)
+MIN = Ingresos de Intereses Netos del trimestre ajustado por Riesgos de Crédito anualizado / Activos productivos promedio.
+3)
+MIN = Ingresos de Intereses Netos proveniente de cartera crediticia del trimestre anualizado / Cartera vigente promedio.
+Ingresos de Intereses Netos
+Los ingresos de intereses netos (IIN) sin seguros y pensiones decrecen (3%) en el trimestre, en línea con la baja en IIN
+de cartera. Por lo que corresponde a gastos por intereses decrecen (8%) por reducción en préstamos interbancarios, aunado
+al aumento de 5% en depósitos vista y reducción de (1%) en plazo; que en suma contribuyen a la mejora en el costo de
+fondeo. El MIN de la cartera crediticia se contrae (31pb) para cerrar en 7.6% de 7.9% del trimestre previo; mientras que
+el MIN ajustado sin seguros y pensiones disminuyó (18pb) para situarse en 5.0% al cierre del 4T20.
+En la comparativa anual acumulada, los ingresos por intereses netos sin seguros y pensiones crecen 2%, derivado en
+mayor medida por las eficiencias en el costo de fondeo gracias a la reducción de (31%) en gastos por intereses y un
+alza de 1% en ingresos por intereses de cartera, mientras que la cartera total creció 5% en el año. Los productos a tasa
+variable reflejan el ajuste en precio derivado de la fuerte reducción de (259pb) en la tasa promedio de referencia TIIE 28d
+durante el año, que pasó de 8.3% a 5.7%, lo que a su vez se traduce en un impacto a la baja de (14pb) en el MIN de cartera
+crediticia para quedar en 8.0%; por otro lado, el MIN ajustado sin seguros y pensiones decrece (28pb) para ubicarse en
+5.3% al cierre de 2020.
+Por lo que respecta a los IIN de seguros y pensiones se observa una disminución trimestral de (18%), explicado por
+una contracción de (28%) en los ingresos por intereses netos pese al incremento de 37% en el resultado técnico. A detalle,
+el resultado técnico se vio favorecido por un incremento de 24% en la colocación de las primas, lo cual contrarrestó el
+aumento del 16% en la siniestralidad principalmente en el ramo de vida y en menor medida el aumento en la constitución
+de reservas.
+En la comparativa anual, IIN de seguros y pensiones crece el 8% derivado de un crecimiento de 22% en ingresos por
+intereses netos a pesar de la afectación en el resultado técnico, el cual refleja un incremento de Ps 4,312 millones en
+Cuarto Trimestre de 2020
+8

@@ -1,0 +1,66 @@
+GRUPO FINANCIERO
+BANORTE
+26
+Durante 2T21, se observó un CCL promedio de los 92 días del trimestre para Banco y Sofomes de 210.15%, con CCL al
+cierre de 2T21 de 209.78%, situándose por arriba del Perfil de Riesgo Deseado y el mínimo regulatorio establecido en la
+normativa vigente. Los resultados anteriores indican que Banorte se encuentra en posición de hacer frente a la totalidad
+de sus obligaciones de corto plazo ante un escenario de crisis¹.
+4.4. Evolución de los Componentes del CCL
+La evolución de los componentes del Coeficiente de Cobertura de Liquidez entre el cierre del 1T21 y el cierre del 2T21 se
+presenta en la siguiente tabla.
+Componente CCL
+1T21
+2T21
+Var vs. 1T21
+(Millones de pesos)
+Activos Líquidos
+166,523
+153,518
+(7.8%)
+Entradas de Efectivo
+58,175
+62,352
+7.2%
+Salidas de Efectivo
+144,746
+135,532
+(6.4%)
+Los Activos Líquidos que computan para el CCL del Banco y Sofomes entre el cierre del 1T21 y el cierre del 2T21 presentan
+la siguiente distribución:
+Tipo de Activo
+1T21
+2T21
+Var vs. 1T21
+(Millones de pesos)
+Total
+166,523
+153,518
+(7.8%)
+Nivel I
+158,497
+145,338
+(8.3%)
+Nivel Il
+8,026
+8,180
+1.9%
+Nivel II A
+4,111
+4,244
+3.2%
+Nivel Il B
+3,915
+3,935
+0.5%
+4.5. Principales Causas de los Resultados del CCL
+Las variaciones en el Coeficiente de Cobertura de Liquidez entre el 1T21 y el 2T21 se deben a la estructura de pasivos en el
+balance, incluyendo vencimiento de emisiones a mercado y la estructura de la liquidez disponible.
+Cabe destacar que Banorte no ha usado las Facilidades Ordinarias ni las Facilidades Extraordinarias de Banco de México
+durante el 2T21.
+4.6. Riesgo de Liquidez en moneda extranjera
+Para la cuantificación y el seguimiento del Riesgo de Liquidez se utilizan, para el portafolio de dólares, los criterios
+establecidos por Banco de México para la elaboración del Coeficiente de Liquidez, en moneda extranjera.
+El Coeficiente de Liquidez en moneda extranjera debe interpretarse como la capacidad que tiene la institución de cubrir
+sus descalces de liquidez con activos líquidos, ambos en moneda extranjera.
+La información del Coeficiente de Cobertura de Liquidez es preliminar y está sujeto a la validación de Banco de México.
+Administración de Riesgos 2T21

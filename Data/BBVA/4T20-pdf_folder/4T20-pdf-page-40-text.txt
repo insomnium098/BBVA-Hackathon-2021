@@ -1,0 +1,127 @@
+BBVA
+Creando Oportunidades
+(b) La exposición al riesgo liquidez y las necesidades de financiamiento a nivel de BBVA
+México, teniendo en cuenta las limitaciones legales, regulatorias y operacionales a la
+transferibilidad de liquidez.
+La exposición al riesgo de liquidez de BBVA México y sus necesidades de financiamiento
+parten del principio de una gestión descentralizada e independiente de la liquidez
+(incluido Banco Bilbao Vizcaya Argentaria, S.A. en España O cualquier otra entidad de
+ésta), a fin de evitar dependencias O subsidios y eventuales contagios por crisis. En todo
+momento, se toman en cuenta las limitaciones legales, regulatorias y operacionales a la
+transferibilidad de liquidez de las regulaciones aplicables en la fijación de las políticas de
+riesgo de liquidez de BBVA México, incluidos los regímenes de admisión de pasivos y de
+inversión para las operaciones pasivas en Moneda Extranjera del Banco de México,
+reglas de operación de los sistemas de pagos, la diversificación de riesgos en la
+realización de operaciones pasivas especificadas por la CUB, entre otros.
+En el caso del régimen de inversión para las operaciones pasivas en Moneda Extranjera,
+adicional al límite regulatorio de Faltante, de manera preventiva se cuenta con un
+alertamiento más estricto que el límite regulatorio para el régimen de inversión para las
+operaciones pasivas en Moneda Extranjera del Banco de México.
+(c) A continuación, se detallan los flujos del balance al cierre de diciembre de 2020 por
+plazos de vencimiento y las brechas de liquidez.
+Información previa al cierre de diciembre 2020 (cifras puntuales)
+Rubro
+A la vista
+30 días
+6 meses
+1 año
+Mayor 1 año
+Sin Vencimiento
+Total
+Millones de pesos
+Disponible
+188,524
+0
+O
+0
+33,936
+0
+222,460
+Cartera de Crédito
+O
+81,420
+189,267
+100,757
+837,044
+0
+1,208,488
+Cartera de Valores
+O
+4,490
+58,206
+77,746
+435,298
+0
+575,740
+ACTIVOS TOTALES
+188,524
+85,910
+247,473
+178,503
+1,306,277
+o
+2,006,687
+Captación
+O
+171,896
+57,579
+1,285
+52
+1,081,424
+1,312,236
+Emisiones y Obligac. Sub.
+O
+6,226
+27,898
+7,584
+141,299
+0
+183,007
+Acreedores por Reportos
+0
+255,727
+1823
+3493
+3244
+0
+264,287
+Neto resto de Balance
+O
+0
+0
+0
+0
+247,158
+247,158
+PASIVOS TOTALES
+o
+433,848
+87,300
+12,363
+144,595
+1,328,582
+2,006,687
+FUERA DE BALANCE
+o
+(3,237)
+(1,923)
+(6,684)
+2,332
+o
+(9,512)
+BRECHAS DE LIQUIDEZ
+188,524
+(351,176)
+158,250
+159,456
+1,164,015
+(1,328,582)
+(9,512)
+BRECHAS ACUMULADAS
+188,524
+(162,651)
+(4,401)
+155,055
+1,319,070
+(9,512)
+40

@@ -1,0 +1,496 @@
+GRUPO FINANCIERO
+BANORTE
+3T20
+4T20
+99,615
+108,743
+16,312
+18,099
+36,918
+41,432
+163,887
+153,063
+33,379
+33,277
+234,184
+227,772
+-
+-
+2,297
+3,036
+-
+-
+53,819
+48,233
+1,885
+2,043
+-
+-
+55,704
+50,277
+58,000
+53,313
+58
+54
+299,343
+297,305
+24,763
+24,898
+118,314
+116,477
+182,685
+187,736
+179,791
+184,980
+5
+4
+2,889
+2,752
+-
+-
+161,247
+156,115
+-
+-
+786,350
+782,532
+1,864
+2,183
+-
+-
+2,349
+4,705
+1,811
+1,658
+1,612
+1,429
+1
+1
+198
+228
+-
+-
+284
+33
+6,307
+8,580
+792,658
+791,112
+17,169
+19,464
+775,489
+771,648
+1,341
+1,617
+776,830
+773,264
+151
+110
+53,442
+40,495
+-
+-
+722
+1,384
+27,277
+28,289
+564
+519
+-
+-
+214
+-
+10,111
+9,929
+112
+213
+92,593
+80,939
+1,277,593
+1,262,185
+38
+IV. Estados Financieros
+Banco - Balance General
+(Millones de Pesos)
+Disponibilidades
+Cuentas de Margen
+Títulos para negociar
+Títulos disponibles para la venta
+Títulos conservados a vencimiento
+Inversiones en Valores
+Valores no asignados por liquidar
+Deudores por reporto (saldo deudor)
+Préstamo de Valores
+Con fines de negociación
+Con fines de cobertura
+Operaciones con valores y derivadas
+Operaciones con Derivados
+Operaciones con Valores y Derivadas
+Ajustes de valuación por cobertura de activos
+Créditos Comerciales
+Créditos a Entidades Financieras
+Créditos al Consumo
+Créditos a la Vivienda
+Media y Residencial
+De interés social
+Créditos adquiridos al INFONAVIT o FOVISSSTE
+Remodelación o mejoramiento con garantía
+otorgada por la banca de desarrollo o fideicomisos
+Créditos a Entidades Gubernamentales
+Créditos otorgados en calidad de Agente del
+Gobierno Federal
+Cartera de Crédito Vigente
+Créditos Comerciales
+Créditos a Entidades Financieras
+Créditos al Consumo
+Créditos a la Vivienda
+Media y Residencial
+De interés social
+Créditos adquiridos al INFONAVIT o FOVISSSTE
+Remodelación o mejoramiento con garantía
+otorgada por la banca de desarrollo o fideicomisos
+Créditos a Entidades Gubernamentales
+Cartera de Crédito Vencida
+Cartera de Crédito Total
+Prov. Prev. Riesgos Crediticios
+Cartera de Crédito Neto
+Derechos de cobro adquiridos
+Total de cartera de crédito (neto)
+Beneficios por recibir en operaciones de
+Bursatilización
+Otras Cuentas por cobrar, neto
+Inventario de Mercancías
+Bienes Adjudicados (neto)
+Propiedades, Mobiliario y equipo (Neto)
+Inversiones permanentes
+Activos de larga duración disponibles para la venta
+Impuestos diferidos, neto
+Cargos diferidos, pagos anticipados e intangibles
+Otros activos a corto y largo plazo
+TOTAL ACTIVOS
+Cuarto Trimestre de 2020
+1T19
+4T19
+71,563
+62,282
+3,508
+5,926
+100,271
+75,169
+138,523
+152,630
+8,456
+19,593
+247,250
+247,392
+2,016
+23,793
+22,295
+23,807
+22,457
+23,810
+24,473
+272,884
+266,442
+22,708
+20,595
+112,105
+116,228
+158,605
+170,086
+155,134
+166,921
+3,457
+3,156
+179,434
+170,155
+745,735
+743,507
+7,418
+6,147
+4,115
+4,268
+1,557
+1,973
+1,417
+1,785
+13,095
+12,392
+758,830
+755,899
+17,822
+17,083
+741,008
+738,816
+1,864
+1,359
+742,872
+740,175
+43,371
+29,410
+13,667
+15,088
+3,328
+1,104
+21,490
+21,979
+83,299
+69,220
+1,172,383
+1,149,536
+2T19
+53,955
+4,408
+71,098
+154,921
+7,886
+233,906
+25,473
+25,502
+25,513
+268,146
+20,351
+113,803
+162,619
+159,294
+3,314
+185,133
+750,052
+7,810
+4,659
+1,696
+1,526
+14,170
+764,222
+18,070
+746,152
+1,720
+747,872
+55,248
+14,010
+2,572
+21,409
+94,599
+1,160,329
+3T19
+55,470
+6,245
+75,687
+155,394
+19,755
+250,836
+26,398
+26,427
+26,590
+258,389
+18,287
+115,413
+166,286
+162,995
+3,280
+157,242
+715,617
+7,600
+4,514
+1,807
+1,634
+13,925
+729,542
+17,617
+711,925
+1,560
+713,485
+65,982
+14,360
+2,215
+20,677
+104,734
+1,157,433
+1T20
+88,668
+9,701
+79,968
+157,021
+19,711
+256,700
+1,930
+48,940
+1,292
+50,232
+52,162
+288,409
+24,011
+116,200
+173,226
+170,143
+3,075
+161,246
+763,091
+6,700
+4,018
+2,070
+1,834
+12,827
+775,918
+17,932
+757,986
+1,261
+759,247
+83,264
+15,167
+4,351
+22,727
+127,103
+1,293,647
+2T20
+105,537
+18,353
+95,379
+184,050
+19,497
+298,926
+1,928
+61,705
+2,384
+64,089
+66,017
+300,483
+23,733
+115,593
+177,282
+174,331
+2,946
+161,457
+778,548
+2,240
+4,229
+2,305
+2,025
+8,885
+787,433
+18,075
+769,358
+1,438
+770,796
+48,306
+26,482
+1,126
+11,470
+88,937
+1,348,628
+ACTIVOS
+-
+3
+-
+-
+-
+-
+4
+0
+-
+0
+-
+-
+-
+-
+-
+-
+-
+4
+0
+279
+-
+0
+111
+156
+-
+800
+491
+-
+106
+-
+-
+-
+-
+-
+4
+0
+-
+0
+-
+-
+-
+-
+-
+9
+-
+-
+4
+0
+-
+0
+-
+-
+-
+-
+-
+8
+-
+-
+4
+0
+-
+-
+-
+-
+-
+-
+5
+-
+-
+-
+1
+-
+-
+-
+11
+29
+77
+12
+170
+125
+606
+422
+209
+162
+29
+73
+10
+172
+158
+701
+413
+228
+15
+80
+13
+139
+85
+770
+362
+226
+162
+69
+187
+139
+860
+418
+223
+65
+235
+35
+161
+818
+468
+146
+62

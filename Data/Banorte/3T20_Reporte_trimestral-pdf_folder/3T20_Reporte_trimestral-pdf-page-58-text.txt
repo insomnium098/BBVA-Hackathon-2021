@@ -1,0 +1,90 @@
+GRUPO FINANCIERO
+V. Anexos
+BANORTE
+POSICIONES POR OPERACIONES DE REPORTO 3T20
+(Millones de Pesos)
+Acreedores por
+Deudores por Reporto
+Reporto
+VM Colaterales
+VM deudores por
+recibidos
+Diferencia
+Diferencia
+VM acreedores por
+reporto
+vendidos en
+deudora
+acreedora
+reporto
+reporto
+Valores gubernamentales
+170,651
+166,856
+3,797
+2
+314,096
+Valores bancarios
+19,685
+19,685
+0
+-
+31,187
+Valores privados
+5,208
+5,208
+0
+-
+7,344
+Total
+195,544
+191,749
+3,797
+2
+352,628
+OPERACIONES CON INSTRUMENTOS
+DERIVADOS AL 3T20
+(Millones de Pesos)
+Posición Activa
+Instrumento
+Valor Razonable
+Futuros
+Futuros TIE 28
+-
+Forward
+Forward de divisa
+416
+Opciones
+Opciones de tasas
+271
+Opciones de divisa
+1,284
+Títulos Opcionales
+-
+Swaps
+Swaps de tasas
+41,742
+Swaps de divisas
+9,817
+Swaps de crédito
+288
+Total negociación
+53,819
+Opciones
+Opciones de tasas
+-
+Opciones de divisa
+-
+Swaps
+Swaps de tasas
+896
+Swaps de divisas
+989
+Swaps de crédito
+-
+Total cobertura
+1,885
+Total posición
+55,704
+Tercer Trimestre de 2020
+58

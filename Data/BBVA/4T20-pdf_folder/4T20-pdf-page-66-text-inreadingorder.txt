@@ -1,0 +1,42 @@
+BBVA
+Creando Oportunidades
+En diciembre de 2020 el CINIF emitió el documento llamado "Mejoras a las NIF 2021", que contiene
+modificaciones puntuales a algunas NIF ya existentes. Las principales mejoras que generan cambios
+contables son las siguientes:
+NIF B-1 "Cambios contables y correcciones de errores" - Para converger con la NIC 8 de las Normas
+Internacionales de Información Financiera, se incorpora la aplicación prospectiva cuando es impráctico
+determinar los efectos acumulados de un cambio contable O de la corrección de un error. En esos casos,
+la entidad debe reconocer los efectos del cambio de la corrección del error en el periodo contable actual.
+La modificación a esta NIF entra en vigor para los ejercicios que inicien el 1 de enero de 2021; permitiendo
+su aplicación anticipada para el ejercicio 2020. Los cambios contables que surjan deben reconocerse
+mediante aplicación prospectiva.
+NIF B-3 "Estado de resultado integral" - Incorpora que las ganancias O pérdidas por baja de pasivos
+y los efectos de renegociación de un instrumento financiero para cobrar principal e intereses, deben
+presentarse como parte de los resultados de la operación.
+La modificación a esta NIF entra en vigor para los ejercicios que inicien el 1 de enero de 2021; permitiendo
+su aplicación anticipada para el ejercicio 2020. Los cambios contables que surjan deben reconocerse
+con base a lo establecido en la NIF B-1.
+NIF C-2 "Inversión en instrumentos financieros" - Incorpora la precisión de que deben desglosarse
+en un rubro por separado en el estado de resultado integral O en una nota relativa, el efecto de la
+renegociación de un IFCV, en la utilidad O pérdida neta, dentro de los resultados relativos a las
+actividades de operación.
+La modificación a esta NIF entra en vigor para los ejercicios que inicien el 1 de enero de 2021; permitiendo
+su aplicación anticipada para el ejercicio 2020. Los cambios contables que surjan deben reconocerse
+con base a lo establecido en la NIF B-1.
+NIF C-19 "Instrumentos financieros por pagar" - Establece que ahora las ganancias por
+condonaciones recibidas u otorgadas deben presentarse dentro de los resultados relativos a las
+actividades de operación, en vez de presentarse en el resultado integral.
+La modificación a esta NIF entra en vigor para los ejercicios que inicien el 1 de enero de 2021; permitiendo
+su aplicación anticipada para el ejercicio 2020. Los cambios contables que surjan deben reconocerse
+con base a lo establecido en la NIF B-1.
+NIF C-20 "Instrumentos financieros para cobrar principal e interés" - Establece que ahora los
+efectos de la renegociación de un IFCPI deben presentarse dentro de los resultados relativos a las
+actividades de operación, en lugar de presentarse en el resultado integral.
+La modificación a esta NIF entra en vigor para los ejercicios que inicien el 1 de enero de 2021; permitiendo
+su aplicación anticipada para el ejercicio 2020. Los cambios contables que surjan deben reconocerse
+con base a lo establecido en la NIF B-1.
+NIF D-5 "Arrendamientos"- 1) establece que las revelaciones obligatorias del gasto relacionado con
+arrendamientos a corto plazo y de bajo valor por los cuales no se ha reconocido el activo por derecho de
+uso, de forma separada. 2) Incorpora el método para determinar la proporción que corresponde a los
+derechos de uso conservados por el vendedor-arrendatario, así como su reconocimiento contable
+66

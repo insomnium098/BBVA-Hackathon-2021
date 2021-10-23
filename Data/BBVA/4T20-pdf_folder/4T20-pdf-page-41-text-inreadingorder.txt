@@ -1,0 +1,37 @@
+BBVA
+Creando Oportunidades
+Información Cualitativa
+(a)
+Lamanera en la que se gestiona el riesgo de liquidez en BBVA México, considerando para
+tal efecto la tolerancia a dicho riesgo; la estructura y responsabilidades para la
+administración del riesgo de liquidez; los informes de liquidez internos; la estrategia de
+riesgo de liquidez y las políticas y prácticas a través de las líneas de negocio y con el
+Consejo de Administración.
+La gestión del riesgo de liquidez en BBVA México se rige por los siguientes principios:
+gestión descentralizada e independiente de la liquidez; autofinanciación de la actividad
+crediticia de las bancas; planificación de la liquidez en el proceso de planeación de
+crecimiento de la actividad; clara segregación de funciones para realizar una
+administración proactiva del riesgo de liquidez, incluida la liquidez intradía y gestión de
+colaterales; establecimiento de un sistema de precios de transferencia y normas de uso
+interno de la liquidez; y coherencia con los requerimientos regulatorios.
+La estructura y responsabilidades para la administración del riesgo de liquidez están
+claramente segregadas por funciones y áreas:
+Fijación de políticas generales, métricas fundamentales y límites. Las políticas de
+riesgo de liquidez las aprueba su Consejo de Administración, previa opinión favorable
+del Comité de Riesgos; estos órganos también aprueban el esquema de límites de
+riesgo de liquidez de BBVA México.
+Identificación, medición y control de riesgos. El área de Riesgos identifica, mide y
+establece mecanismos para controlar el riesgo de liquidez a que está sometido BBVA
+México a través de la fijación, seguimiento y reportes de un esquema de límites.
+Gestión de la actividad de inversión y captación. Se realiza en las áreas de negocio,
+atendiendo a las políticas de riesgos.
+Gestión de la liquidez y financiación. Se realiza por el área de Finanzas, a través del
+área de Gestión Financiera.
+Generación de la información de seguimiento. Las áreas de Sistemas y Finanzas de
+BBVA México realizan el aprovisionamiento de la información relevante para el riesgo
+de liquidez. A su vez, el área de Riesgos promueve la mejora continua de la calidad de
+la información para un correcto proceso de toma de decisiones.
+El estado de los límites y alertas se reporta mediante informes internos a diario a la Alta
+Dirección, al área de Auditoría Interna y áreas gestoras de la liquidez, inclusive con mayor
+frecuencia en situaciones de crisis.
+41

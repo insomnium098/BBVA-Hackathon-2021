@@ -1,0 +1,15 @@
+Table
+Valor en riesgo de títulos para negociar Millones de pesos ,1T 2020 ,2T 2020 ,3T 2020 ,4T 2020 ,1T 2021 
+VaR 1 día ,121 ,175 ,148 ,159 ,203 
+VaR 10 días ,381 ,549 ,482 ,501 ,645 
+
+
+Table
+"Grupo Financiero BBVA Bancomer, S.A. de C.V. Valor en riesgo de títulos para negociar Millones de pesos 1T 2021 ",VaR 1 Día ,VaR 10 Días 
+Renta fija ,203 ,646 
+Renta variable ,9 ,37 
+Cambios ,21 ,75 
+Vega ,23 ,73 
+Total ,203 ,645 
+
+

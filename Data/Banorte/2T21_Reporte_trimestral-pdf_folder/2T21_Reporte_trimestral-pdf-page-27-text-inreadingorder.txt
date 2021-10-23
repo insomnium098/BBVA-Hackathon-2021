@@ -1,0 +1,284 @@
+GRUPO FINANCIERO
+BANORTE
+Var. Vs.
+1S21
+1S20
+586
+(49%)
+13,902
+(5%)
+3,012
+(26%)
+8,275
+28%
+2,615
+(36%)
+3,202
+(39%)
+(1,112)
+9%
+108
+79
+(27%)
+360
+461
+28%
+2,629
+(41%)
+720
+761
+6%
+1,869
+(50%)
+545
+(52%)
+961
+868
+(10%)
+(21)
+(19)
+6%
+2,173
+(39%)
+30,608
+17%
+70,125
+7%
+33,217
+5%
+17,063
+(3%)
+1.3
+1.3
+0.0 pp
+9.7
+10.7
+1.0 pp
+236.0
+267.5
+31.5 pp
+62%
+76%
+14.6 pp
+71%
+85%
+13.7 pp
+14.9%
+(14.7 pp)
+22.7%
+(41.5 pp)
+27
+II. Discusión y Análisis de la Administración
+Banorte Ahorro y Previsión
+Seguros Banorte
+Estado de Resultados y principales cifraslindicadores
+Seguros Banorte
+(Millones de Pesos)
+Ingresos por Intereses (Neto)
+Ingresos por Primas (Neto)
+Incremento neto de reservas técnicas
+Siniestros, Reclamaciones y Otras obligaciones (neto)
+Resultado Técnico
+Ingresos de Intereses Netos
+Otras Comisiones (Gastos de Adquisición)
+Intermediación de Valores
+Otros Ingresos (Egresos) de la Operación
+Ingreso Total de Operación
+Gasto No Financiero
+Resultado Neto de Operación
+Impuestos
+Participación en el Resultado de Subsidiarias
+Participación no controladora
+Utilidad Neta
+Capital Contable
+Activo Total
+Reservas Técnicas
+Primas Emitidas
+Índice de cobertura de reservas técnicas
+Índice de cobertura del requerimiento de capital de solvencia
+Índice de cobertura de capital mínimo pagado
+Indice de siniestralidad
+Indice combinado
+ROE
+ROE sin Afore
+Los ingresos por intereses con un alza importante de 28% en la comparación trimestral, y una caída de (49%) en
+comparativa semestral explicado por la caída de Intereses en valores por el efecto de la valuación.
+En la variación trimestral, el ingreso por primas cae (75%) y las reservas técnicas disminuyen Ps 6,062 millones en el
+trimestre, por el efecto de las renovaciones estacionales del trimestre pasado. Al cierre de 1S21, las primas caen (5%),
+debido a la cancelación anticipada de un negocio del ramo de vida, sin este efecto la venta de primas continúa su tendencia
+al alza, principalmente en banca-seguros.
+Al cierre del 2T21 el resultado técnico de Seguros Banorte fue de Ps 951 millones, una caída trimestral de (43%) derivado
+de menores ingresos por primas por el efecto de la estacionalidad propia del negocio y a su vez favorecido por una menor
+siniestralidad contra el trimestre anterior.
+El rubro de siniestros, reclamaciones y otras obligaciones cayó (31%) secuencialmente o Ps 1,494 millones, lo que muestra
+una clara disminución trimestral en los efectos por COVID-19. Con cifras al 1S21 incrementan 28% respecto del 1S20, se
+estima que, alrededor de Ps 2,700 millones corresponden a siniestros COVID-19 durante el 1S21. Al cierre del 2T21 88%
+del impacto corresponde al ramo de vida y 12% a gastos médicos.
+Los gastos de adquisición reflejan una reducción secuencial de (23%) ubicándose en Ps (485) millones, alineado a la
+estacionalidad del negocio, mientras que comparado con el mismo periodo 2020 hay una reducción de (7%) por una
+disminución en pagos a agentes por colocación.
+El Resultado Neto de Operación fue de Ps 649 millones en el 2T21, una caída de (47%) en comparación con el trimestre
+anterior por el efecto de estacionalidad, mientras que en la comparativa anual se muestra una fuerte contracción de (50%)
+por lo descrito previamente.
+La Utilidad Neta en el trimestre fue de Ps 919 millones, menor en (27%) respecto al 1T21 y (39%) menor en la
+comparación semestral, dado que en el 1S20 el efecto de la pandemia era menor. La Utilidad Neta trimestral de Seguros
+Información Financiera 2T21
+Var. Vs.
+28%
+(75%)
+(134%)
+(31%)
+(43%)
+(33%)
+23%
+14%
+(28%)
+(36%)
+0%
+(47%)
+(49%)
+15%
+(15%)
+(27%)
+3%
+(3%)
+(8%)
+(75%)
+0.02 pp
+(1.2 pp)
+8.2 pp
+3.5 pp
+18.1 pp
+(5.2 pp)
+2T20
+2T20
+643
+(49%)
+5,772
+(51%)
+765
+(299%)
+3,674
+1,332
+(29%)
+1,976
+(35%)
+(519)
+(28%)
+160
+1,675
+(39%)
+351
+1,324
+(51%)
+395
+(53%)
+630
+(26%)
+1,545
+(41%)
+26,184
+65,256
+31,526
+7,171
+(52%)
+0.03 pp
+1.0 pp
+236.0
+31.5 pp
+74%
+4.6 pp
+84%
+14.5 pp
+24.6%
+(12.3 pp)
+41.0%
+(26.2 pp)
+1T21
+257
+11,085
+4,537
+4,070
+4,884
+1,664
+1,921
+(627)
+(1,225)
+269
+1,600
+4,480
+380
+1,220
+3,760
+361
+404
+1,254
+29,677
+72,304
+36,094
+13,597
+259.3
+17.5%
+29.6%
+30.9%
+64.2%
+2T21
+329
+2,817
+(1,525)
+3,390
+951
+1,280
+(485)
+192
+1,029
+381
+649
+465
+919
+30,608
+70,125
+33,217
+3,465
+267.5
+12.4%
+14.8%
+1S20
+1,160
+14,587
+6,441
+4,077
+5,237
+1,127
+3,573
+26,184
+65,256
+31,526
+17,535
+1T21
+(16.2 pp)
+(8%)
+7%
+20%
+8%
+22%
+17%
+7%
+5%
+58
+(13)
+1.3
+9.7
+37
+(9)
+1.3
+11.9
+75%
+80%
+42
+184
+(10)
+1.3
+10.7
+78%
+98%

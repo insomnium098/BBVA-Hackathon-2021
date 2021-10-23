@@ -1,0 +1,220 @@
+Ticker
+Nombre
+Ticker
+Nombre
+Ticker
+Nombre
+Royal Caribbean
+Akamai
+RCL UN Equity
+TIF UN Equity
+Tiffany & Co
+AKAM UW Equity
+Cruises Ltd
+Technologies Inc
+American
+MarketAxess
+AEP UN Equity
+Electric Power
+TJX UN Equity
+TJX Cos Inc/The
+MKTX UW Equity
+Holdings Inc
+Co Inc
+Devon Energy
+HES UN Equity
+Hess Corp
+TMK UN Equity
+Torchmark Corp
+DVN UN Equity
+Corp
+Anadarko
+Total System
+APC UN Equity
+TSS UN Equity
+GOOGL UW Equity
+Alphabet Inc
+Petroleum Corp
+Services Inc
+Johnson Controls
+AON UN Equity
+Aon PLC
+JCI UN Equity
+TFX UN Equity
+Teleflex Inc
+International plc
+APA UN Equity
+Apache Corp
+ULTA UW Equity
+Ulta Beauty Inc
+RHT UN Equity
+Red Hat Inc
+Archer-Daniels-
+ADM UN Equity
+UNP UN Equity
+Union Pacific Corp
+NFLX UW Equity
+Netflix Inc
+Midland Co
+Automatic Data
+Keysight
+ADP UW Equity
+KEYS UN Equity
+ALLE UN Equity
+Allegion PLC
+Processing Inc
+Technologies Inc
+Verisk Analytics
+UnitedHealth
+Agilent
+VRSK UW Equity
+UNH UN Equity
+A UN Equity
+Inc
+Group Inc
+Technologies Inc
+AZO UN Equity
+AutoZone Inc
+UNM UN Equity
+Unum Group
+ANTM UN Equity
+Anthem Inc
+Avery Dennison
+AVY UN Equity
+MRO UN Equity
+Marathon Oil Corp
+CME UW Equity
+CME Group Inc
+Corp
+Varian Medical
+Juniper Networks
+MSCI UN Equity
+MSCI Inc
+VAR UN Equity
+JNPR UN Equity
+Systems Inc
+Inc
+BLL UN Equity
+Ball Corp
+VTR UN Equity
+Ventas Inc
+BLK UN Equity
+BlackRock Inc
+Bank of New
+BK UN Equity
+York Mellon
+VFC UN Equity
+VF Corp
+DTE UN Equity
+DTE Energy Co
+Corp/The
+Baxter
+Vornado Realty
+BAX UN Equity
+VNO UN Equity
+NDAQ UW Equity
+Nasdaq Inc
+International Inc
+Trust
+Becton
+Vulcan Materials
+BDX UN Equity
+Dickinson and
+VMC UN Equity
+CE UN Equity
+Celanese Corp
+Co
+Co
+Berkshire
+Philip Morris
+BRK/B UN Equity
+WY UN Equity
+Weyerhaeuser Co
+PM UN Equity
+Hathaway Inc
+International Inc
+BBY UN Equity
+Best Buy Co Inc
+WHR UN Equity
+Whirlpool Corp
+CRM UN Equity
+salesforce.com Inc
+Williams Cos
+Huntington Ingalls
+HRB UN Equity
+H&R Block Inc
+WMB UN Equity
+HII UN Equity
+Inc/The
+Industries Inc
+Boston Scientific
+WEC Energy Group
+BSX UN Equity
+WEC UN Equity
+MET UN Equity
+MetLife Inc
+Corp
+Inc
+Bristol-Myers
+BMY UN Equity
+XRX UN Equity
+Xerox Corp
+UA UN Equity
+Under Armour Inc
+Squibb Co
+Fortune Brands
+FBHS UN Equity Home & Security
+ADBE UW Equity
+Adobe Inc
+TPR UN Equity
+Tapestry Inc
+Inc
+Brown-Forman
+BF/B UN Equity
+AES UN Equity
+AES Corp/VA
+CSX UW Equity
+CSX Corp
+Corp
+Cabot Oil & Gas
+Edwards
+COG UN Equity
+AMGN UW Equity
+Amgen Inc
+EW UN Equity
+Corp
+Lifesciences Corp
+Campbell Soup
+Ameriprise
+CPB UN Equity
+AAPL UW Equity
+Apple Inc
+AMP UN Equity
+Co
+Financial Inc
+Kansas City
+KSU UN Equity
+ADSK UW Equity
+Autodesk Inc
+FTI UN Equity
+TechnipFMC PLC
+Southern
+Hilton
+Zimmer Biomet
+HLT UN Equity
+Worldwide
+CTAS UW Equity
+Cintas Corp
+ZBH UN Equity
+Holdings Inc
+Holdings Inc
+CCL UN Equity
+Carnival Corp
+CMCSA UW Equity
+Comcast Corp
+CBRE UN Equity
+CBRE Group Inc
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+121

@@ -1,0 +1,94 @@
+áreas de negocio.
+Para el control de las líneas de contrapartida se utiliza el Riesgo Equivalente de Crédito (REC). El REC es la métrica que mide la máxima pérdida,
+dado un nivel de confianza, que se puede producir en una operación, como consecuencia del incumplimiento del contrato por parte de la
+contrapartida. Se trata de una métrica que sirve, por tanto, para estimar la exposición crediticia de una operación o conjunto de ellas mediante
+la ejecución de un proceso de valoración de operaciones por simulación a un nivel de confianza y horizonte temporal determinados. Esta métrica
+puede ser calculada de las siguientes formas:
+REC Bruto: mide la exposición a nivel operación sin considerar los posibles acuerdos de nettingy colateral.
+REC Neto: mide la exposición considerando los posibles acuerdos de netting y colateral y las garantías personales o financieras. Se
+calcula a nivel acuerdo de nettingy también a otros niveles de agregación.
+Adicional al riesgo de contrapartida, existe el riesgo emisor, que se genera por la adquisición y/o enajenación directa de instrumentos públicos
+y privados de títulos autorizados y el riesgo de liquidación o settlement, que se genera en el intercambio de valores cuando una de
+las
+partes
+incumple la entrega de valores/divisas/efectivo, comprometido por contrato, habiendo recibido ya la cantidad de la otra parte.
+El control y gestión de los riesgos de crédito de contrapartida y liquidación se realizan diariamente mediante el sistema Interactive Risk
+Integrated System (IRIS), que permite conocer la línea de crédito disponible con cualquier contrapartida, en cualquier producto y plazo.
+En concreto, para el proceso de control de este riesgo, la Dirección Ejecutiva de Riesgos Financieros diariamente supervisa el cumplimiento de
+los límites de riesgo de crédito por contraparte, por producto, por plazo y demás condiciones establecidas en la autorización para mercados
+financieros. Asimismo, es el área responsable de comunicar en forma diaria, los límites, consumos y cualquier desviación o exceso en el que se
+incurra.
+Adicionalmente, de forma mensual se informa en el Comité de Administración Integral de Riesgos, los límites de riesgos de contrapartida, los
+límites de Riesgo Emisor y los consumos vigentes; en el Comité de Crédito de Banca Corporativa y en el Comité Central de Admisión Banca de
+Empresas e Instituciones mensualmente se presentan los excesos incurridos y las operaciones con clientes no autorizados. También de forma
+mensual en el Comité de Administración Integral de Riesgos se muestra el valor presente de la pérdida esperada por operaciones vigentes en
+mercados
+financieros al cierre de cada mes; así como dos escenarios de estrés de la probabilidad de incumplimiento y severidad de la pérdida.
+Actualmente Banco Santander tiene líneas aprobadas de riesgos de contrapartida para los siguientes sectores: Soberano Mexicano y
+Banca
+de
+Desarrollo local, Instituciones Financieras Extranjeras, Instituciones Financieras Mexicanas, Corporativos, Banca de Empresas-SGC Banca de
+Instituciones, Unidad de Grandes Empresas ! y Project Finance.
+El REC Neto de las líneas de riesgo de crédito de contrapartida de Banco Santander del cuarto trimestre de 2020 es:
+Riesgo Equivalente de Crédito Neto
+Millones de dólares americanos
+Segmento
+oct-20
+nov-20
+dic-20
+Promedio
+Riesgo Soberano, Banca de Desarrollo e
+Instituciones Financieras
+1,214
+1,013
+1,110
+1,112
+Corporativos
+504
+479
+455
+479
+Project Finance
+417
+432
+422
+423
+Empresas
+284
+300
+292
+292
+Mark to Market
+Millones de dólares americanos
+Segmento
+oct-20
+nov-20
+dic-20
+Promedio
+Riesgo Soberano, Banca de Desarrollo e
+Instituciones Financieras
+25,351
+25,865
+27,414
+26,210
+Corporativos
+(342)
+(270)
+(240)
+(284)
+Project Finance
+272
+300
+302
+291
+Empresas
+182
+199
+195
+192
+Rating ponderado
+Millones de dólares americanos
+Reporte de Resultados | 4T.2020
+Santander
+Banco Santander México
+103

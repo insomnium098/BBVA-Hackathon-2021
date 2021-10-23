@@ -1,0 +1,87 @@
+GRUPO FINANCIERO
+V. Anexos
+BANORTE
+El realizar el pago total o parcial del capital al final del plazo original del crédito o durante la vida del mismo, no exime
+al cliente de pagar los intereses diferidos.
+Los créditos que están por concluir tendrán ampliación de plazo de acuerdo a los meses restantes y el pago del capital
+se recorre a la nueva fecha de vencimiento.
+Durante la ampliación del plazo se deberá cubrir el pago de intereses correspondientes según las obligaciones del
+contrato de crédito.
+En virtud de lo anterior, el 27 de marzo de 2020 mediante oficio P285/2020, el 15 de abril de 2020 mediante oficio
+P293/2020 y mediante el comunicado del 26 de junio de 2020, la Comisión Nacional Bancaria y de Valores la "Comisión"),
+emitió Criterios Contables Especiales, aplicables a la Institución por el periodo del 28 de febrero de 2020 y hasta el 31 de
+julio de 2020, mediante los cual autorizó que aquellos créditos vigentes al 28 de febrero de 2020, y los créditos otorgados
+en marzo de 2020, de acuerdo al párrafo 12 del criterio B-6 "cartera de crédito" (criterio B-6) a los cuales se les difirió el
+pago del principal e interés conforme al programa, no se consideren como créditos reestructurados en términos de los
+párrafos 79 y 80, así mismo, en su caso que no les resulte aplicable los requisitos establecidos en los párrafos 82 y 84 del
+Criterio B-6 según corresponda, y para que los mismos permanezcan como cartera vigente durante el plazo pactado en
+dicho programa. Por lo tanto, dichos créditos son contemplados como cartera vigente para la determinación de la
+estimación preventiva.
+Adicionalmente, los créditos por los cuales se diferirán sus pagos, no se considerarán como reestructurados conforme a lo
+establecido en el párrafo 40 del Criterio B-6, ni deberán ser reportados como créditos vencidos ante las sociedades de
+información crediticia.
+Los importes que se hubieran registrado y presentado tanto en el balance general como en el estado de resultados por
+tipo de cartera, de no haberse aplicado el criterio contable especial, así como, el detalle de los conceptos y montos por
+tipo de cartera, por los cuales se haya realizado la afectación contable con motivo de la aplicación del criterio contable
+especial al 31 de diciembre de 2020, se muestran a continuación:
+Concepto
+Saldos con
+Efectos en cartera
+Saldos sin
+apoyo COVID
+y estimación
+apoyo
+COVID
+CARTERA DE CRÉDITO VIGENTE
+Créditos comerciales
+$497,918
+$ (564)
+$497,354
+Créditos al consumo
+116,484
+(773)
+115,711
+Créditos a la vivienda
+187,736
+(1,118)
+186,618
+TOTAL CARTERA DE CRÉDITO VIGENTE
+802,138
+(2,455)
+799,683
+CARTERA DE CRÉDITO VENCIDA
+Créditos comerciales
+2,567
+564
+3,131
+Créditos al consumo
+4,705
+773
+5,478
+Créditos a la vivienda
+1,659
+1,118
+2,777
+TOTAL CARTERA DE CRÉDITO VENCIDA
+8,931
+2,455
+11,386
+CARTERA DE CRÉDITO
+811,069
+-
+811,069
+(Menos) ESTIMACION PREVENTIVA PARA
+RIESGOS CREDITICIOS
+(20,004)
+(731)
+(20,735)
+CARTERA DE CRÉDITO, (NETA)
+791,065
+(731)
+790,334
+TOTAL ACTIVOS
+1,787,904
+(731)
+1,787,173
+Cuarto Trimestre de 2020
+54

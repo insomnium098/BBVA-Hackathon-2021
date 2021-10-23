@@ -1,0 +1,100 @@
+Los factores de riesgo EQ se multiplicaron por 0.75, es decir se disminuyeron 25%.
+Escenario Remoto
+En este escenario, se modificaron los factores de riesgo en 50%. En resumen los movimientos aplicados a cada factor de riesgo fueron los
+siguientes:
+Los factores de riesgo IR, Vol y FX se multiplican por 1.50, es decir se incrementaron 50%.
+Los factores de riesgo EQ se multiplicaron por 0.5, es decir se disminuyeron 50%.
+Impacto en Resultados
+En el siguiente cuadro se muestran las posibles utilidades (pérdidas) para la cartera de negociación de Banco Santander, de acuerdo a cada
+escenario de estrés, al cierre del cuarto trimestre de 2020:
+Resumen Análisis de Stress Test
+Millones de pesos
+Perfil de Riesgo
+Escenario Probable
+Escenario Remoto
+Escenario Posible
+24. Coeficiente de cobertura de liquidez
+fecha 31 de diciembre de 2014, la Comisión y el Banco de México publicaron en el Diario Oficial de la Federación, las Disposiciones de
+Carácter General sobre los Requerimientos de Liquidez para las Instituciones de Banca Múltiple, mismas que establecen los requerimientos de
+liquidez que las instituciones de crédito deberán cumplir en todo momento, de conformidad con las directrices que estableció el Comité de
+Regulación de Liquidez Bancaria en su sesión celebrada el 17 de octubre de 2014.
+Dichas Disposiciones entraron en vigor el 1 de enero de 2015.
+En el cuarto trimestre de 2020, el promedio ponderado del CCL para el Banco es de 312.98%, cumpliendo con el Perfil de Riesgo Deseado
+superando el mínimo regulatorio establecido en la normativa vigente.
+Millones de pesos
+Activos Líquidos Computables
+1
+Total de activos líquidos computables
+Salidas de Efectivo
+2
+Financiamiento minorista no garantizado
+3
+Financiamiento estable
+4
+Financiamiento menos estable
+5
+Financiamiento mayorista no garantizado
+6
+Depósitos operacionales
+7
+Depósitos no operacionales
+8
+Deuda no garantizada
+9
+Financiamiento mayorista garantizado
+10
+Requerimientos adicionales:
+11
+Salidas relacionadas a instrumentos financieros derivados y otros requerimientos de
+garantías
+12
+Salidas relacionadas a pérdidas del financiamiento de instrumentos de deuda
+13
+Líneas de crédito y liquidez
+14
+Otras obligaciones de financiamiento contractuales
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Stress todos los
+factores
+Importe
+ponderado
+(promedio)
+251,759
+165,604
+Santander
+(5)
+(46)
+(154)
+Con
+y
+Importe sin
+ponderar
+(promedio)
+No aplica
+270,001
+232,099
+37,902
+435,545
+224,652
+186,560
+24,333
+No aplica
+222,844
+60,763
+162,081
+85,217
+15,395
+11,605
+3,790
+51,673
+89,598
+24,333
+725
+35,579
+25,928
+0
+9,652
+950
+0
+111

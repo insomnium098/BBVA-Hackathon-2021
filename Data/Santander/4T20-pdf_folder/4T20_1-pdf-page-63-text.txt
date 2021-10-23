@@ -1,0 +1,155 @@
+Futuros
+Compra
+Venta
+Divisas
+1,136
+4,508
+Índices
+0
+148
+Contratos adelantados
+Divisas
+333,250
+14,027
+Acciones
+2,270
+2,292
+Opciones
+Larga
+Corta
+Tasa de interés
+65,150
+82,568
+Divisas
+63,945
+63,870
+Índices
+271
+697
+Acciones
+774
+743
+Total derivados con fines de negociación
+8,632,463
+168,853
+Cobertura
+Flujo de efectivo
+Swaps de tasas
+11,311
+Swaps de divisas
+15,782
+Forward de divisas
+54,767
+Valor razonable
+Swaps de tasas
+3,333
+Swaps de divisas
+34,922
+Total derivados con fines de cobertura
+120,115
+Total de instrumentos financieros derivados
+8,752,578
+168,853
+5. Cartera de crédito vigente
+A continuación se detallan los préstamos otorgados por tipo de crédito y tipo de moneda, al 31 de diciembre de 2020:
+Importe valorizado
+Pesos
+Dólares
+UDIS
+Euros
+Total
+Actividad empresarial o comercial
+265,267
+55,955
+2,250
+1,353
+324,825
+Entidades financieras
+9,266
+816
+0
+0
+10,082
+Entidades gubernamentales
+64,974
+8,060
+0
+0
+73,034
+Créditos comerciales
+339,507
+64,831
+2,250
+1,353
+407,941
+Créditos al consumo
+108,173
+0
+0
+0
+108,173
+Media y residencial
+151,282
+460
+2,011
+0
+153,753
+De interés social
+6
+0
+0
+0
+6
+Créditos adquiridos al Infonavit o el Fovissste
+11,256
+0
+0
+0
+11,256
+Créditos a la vivienda
+162,544
+460
+2,011
+0
+165,015
+Total cartera de crédito vigente
+610,224
+65,291
+4,261
+1,353
+681,129
+6. Cartera vencida
+Importe valorizado
+Pesos
+Dólares
+UDIS
+Total
+Actividad empresarial o comercial
+4,858
+1,387
+0
+6,245
+Entidades financieras
+0
+0
+0
+0
+Créditos comerciales
+4,858
+1,387
+0
+6,245
+Créditos al consumo
+7,539
+0
+0
+7,539
+Media y residencial
+5,732
+64
+283
+6,079
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Santander
+61

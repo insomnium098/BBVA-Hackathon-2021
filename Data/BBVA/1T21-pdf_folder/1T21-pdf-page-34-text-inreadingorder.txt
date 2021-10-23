@@ -1,0 +1,71 @@
+BBVA
+Creando Oportunidades
+Al cierre de marzo de 2021 la sensibilidad de Valor Económico y Sensibilidad de Margen
+Financiero +/- - 100 pb y agregada presentan las siguientes cifras:
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Sensibilidad Valor Económico Estimado
+Balance Estructural
+Marzo 2021
+millones de pesos
+Portafolio
+MN
+ME
+Total
+Nota: Cifras del Balance Estructural sin el portafolio de Compromisos con Empleados
+Valores positivos son ganancias y negativos son pérdidas
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Sensibilidad Margen Financiero Proyectado a 12 meses
+Balance Estructural
+Marzo 2021
+millones de pesos
+Portafolio
+MN
+ME
+Total
+Nota: Cifras del Balance Estructural sin el portafolio de Compromisos con Empleados
+Valores positivos son ganancias ynegativos son pérdidas
+En términos de consumos de Alerta en el trimestre muestran la siguiente exposición:
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Exposición de Riesgo de Balance Estructural
+1T21
+Porcentaje de uso de Mgmt Limit, promedio cierres mensuales
+Sensibilidad Valor Económico
+Portafolio
+Total
+Nota: Cifras del Balance Estructural sin el portafolio de Compromisos con Empleados
+100 pb
++100 pb
+-100 pb
++100 pb
+Sensibilidad Margen Financiero Proyectado a 12 meses
+Uso Mgmt Limit
+Portafolio
+Total
+Agregada
+Uso Mgmt Limit Agregada
+(10,191)
+(1,829)
+(9,026)
+Agregada
+Uso Mgmt Limit Agregada
+(4,368)
+(522)
+(4,609)
+Uso Mgmt Limit
+54.5%
+7,885
+(1,829)
+6,056
+(3,332)
+(518)
+(3,850)
+(7,574)
+4,115
+(3,458)
+3,331
+1,762
+5,093
+34
+75%
+56%
+77.3%

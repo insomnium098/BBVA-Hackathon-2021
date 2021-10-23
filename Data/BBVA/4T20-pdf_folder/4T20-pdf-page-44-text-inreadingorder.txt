@@ -1,0 +1,101 @@
+BBVA
+Creando Oportunidades
+Coeficiente de Cobertura de Liquidez
+Millones de pesos
+ACTIVOS LÍQUIDOS COMPUTABLES
+1 Total de Activos Líquidos Computables
+SALIDAS DE EFECTIVO
+2 Financiamiento Minorista No Garantizado
+3
+Financiamiento Estable
+4
+Financiamiento menos Estable
+5 Financiamiento Mayorista No Garantizado
+6
+Depósitos Operacionales
+7
+Depósitos No Operacionales
+8
+Deuda No Garantizada
+9 Financiamiento Mayorista Garantizado
+10 Requerimientos Adicionales
+11
+Salidas relacionadas a instrumentos financieros derivados y otros requerimientos de
+garantías
+12
+Salidas relacionadas a pérdidas del financiamiento de Instrumentos de deuda
+13
+Líneas de Crédito y Liquidez
+14 Otras Obligaciones de Financiamiento Contractuales
+15 Otras Obligaciones de Financiamiento Contingentes
+16 TOTAL DE SALIDAS DE EFECTIVO
+ENTRADAS DE EFECTIVO
+17 Entradas de Efectivo por Operaciones Garantizadas
+18 Entradas de Efectivo por Operaciones No Garantizadas
+19 Otras entradas de Efectivo
+20 TOTAL DE ENTRADAS DE EFECTIVO
+21 TOTAL DE ACTIVOS LÍQUIDOS COMPUTABLES
+22 TOTAL NETO DE SALIDAS DE EFECTIVO
+23 COEFICIENTE DE COBERTURA DE LIQUIDEZ
+4T20 Promedio de 92 dias
+* Información previa
+Las cifras se encuentran en revisión por la autoridad.
+(a) Los días naturales que contempla el cuarto trimestre de 2020 son 92 días.
+(b) Principales causas de los resultados del CCL y la evolución de sus principales
+componentes:
+El CCL promedio del cuarto trimestre de 2020 incrementa +5.3 puntos porcentuales respecto
+al tercer trimestre de 2020, consecuencia principalmente del aumento de captación.
+4T 2020*
+741,352
+584,447
+156,905
+523,539
+272,601
+245,653
+5,284
+616,825
+36,214
+0
+580,611
+88,373
+0
+70,253
+94,998
+4,371
+169,621
+Importe sin
+Ponderar
+(promedio)
+No Aplica
+No Aplica
+No Aplica
+No Aplica
+No Aplica
+No Aplica
+Importe
+Ponderado
+(promedio)
+439,512
+44,913
+29,222
+15,690
+174,687
+65,673
+103,729
+5,284
+59,975
+24,278
+35,697
+9,195
+289,727
+54,526
+4,371
+58,896
+439,512
+230,830
+190.49%
+958
+0
+O
+0
+44

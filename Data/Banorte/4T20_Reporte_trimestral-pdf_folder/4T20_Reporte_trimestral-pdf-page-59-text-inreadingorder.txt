@@ -1,0 +1,90 @@
+GRUPO FINANCIERO
+BANORTE
+Acreedores por
+Reporto
+VM acreedores por
+reporto
+315,814
+29,966
+7,315
+353,094
+59
+V. Anexos
+Valores gubernamentales
+Valores bancarios
+Valores privados
+Total
+Cuarto Trimestre de 2020
+POSICIONES POR OPERACIONES DE REPORTO 4T20
+(Millones de Pesos)
+Deudores por Reporto
+VM Colaterales
+VM deudores por
+recibidos
+Diferencia
+Diferencia
+reporto
+vendidos en
+deudora
+acreedora
+reporto
+164,014
+159,991
+4,036
+16,725
+16,725
+0
+5,274
+5,274
+0
+186,013
+181,990
+4,036
+OPERACIONES CON INSTRUMENTOS
+DERIVADOS AL 4T20
+(Millones de Pesos)
+Posición Activa
+Instrumento
+Valor Razonable
+Futuros
+Futuros TIE 28
+-
+Forward
+Forward de divisa
+746
+Opciones
+Opciones de tasas
+219
+Opciones de divisa
+499
+Títulos Opcionales
+-
+Swaps
+Swaps de tasas
+41,601
+Swaps de divisas
+5,015
+Swaps de crédito
+153
+Total negociación
+48,233
+Opciones
+Opciones de tasas
+-
+Opciones de divisa
+-
+Swaps
+Swaps de tasas
+1,497
+Swaps de divisas
+546
+Swaps de crédito
+-
+Total cobertura
+2,043
+Total posición
+50,277
+13
+0
+13
+-

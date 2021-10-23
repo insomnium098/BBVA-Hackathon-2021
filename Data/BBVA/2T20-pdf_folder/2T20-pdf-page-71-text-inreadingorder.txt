@@ -1,0 +1,55 @@
+BBVA
+Creando Oportunidades
+Resultaros
+Análisis de Precio Volumen
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Análisis de precio volumen cartera de crédito
+Millones de pesos
+Saldo medio trimestral
+Intereses cobrados
+Tasa
+Volumen
+Tasa
+Días
+TOTAL
+Volumen
+Tasa
+Dias
+TOTAL
+%
+2T
+2019
+2020
+1,293,537
+32,917
+10.09%
+2T20 vs 2T19
+2,524
+(7,946)
+(5,422)
+2T20 vs 1T20
+(6,605)
+(6,171)
+1T
+Var
+Anual
+12.6%
+(14.1%)
+(23.8%)
+2T
+0
+434
+O
+Var
+Trim
+4.3%
+(15.8%)
+(19.3%)
+2020
+1,239,869
+39,088
+12.50%
+1,148,923
+38,339
+13.24%
+71

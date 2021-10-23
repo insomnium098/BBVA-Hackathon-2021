@@ -1,0 +1,154 @@
+Grupo III (ponderados al 150%)
+0
+0
+Grupo III (ponderados al 172.5%)
+0
+0
+Grupo IV (ponderados al 0%)
+0
+0
+Grupo IV (ponderados al 20%)
+9,401
+752
+Grupo V (ponderados al 10%)
+0
+0
+Grupo V (ponderados al 20%)
+9,122
+730
+Grupo V (ponderados al 50%)
+0
+0
+Grupo V (ponderados al 115%)
+0
+0
+Grupo V (ponderados al 150%)
+0
+0
+Grupo VI (ponderados al 20%)
+0
+0
+Grupo VI (ponderados al 50%)
+44,573
+3,566
+Grupo VI (ponderados al 75%)
+31,769
+2,542
+Grupo VI (ponderados al 100%)
+73,391
+5,871
+Grupo VI (ponderados al 120%)
+0
+0
+Grupo VI (ponderados al 150%)
+0
+0
+Grupo VI (ponderados al 172.5%)
+0
+0
+Grupo VII-A (ponderados al 10%)
+0
+0
+Grupo VII-A (ponderados al 11.5%)
+0
+0
+Grupo VII-A (ponderados al 20%)
+4,139
+331
+Grupo VII-A (ponderados al 23%)
+0
+0
+Grupo VII-A (ponderados al 50%)
+1,971
+158
+Grupo VII-A (ponderados al 57.5%)
+0
+0
+Grupo VII-A (ponderados al 100%)
+123,992
+9,919
+Grupo VII-A (ponderados al 115%)
+0
+0
+Grupo VII-A (ponderados al 120%)
+0
+0
+Grupo VII-A (ponderados al 138%)
+0
+0
+Grupo VII-A (ponderados al 150%)
+1
+0
+Grupo VII-A (ponderados al 172.5%)
+0
+0
+Grupo VII-B (ponderados al 0%)
+0
+0
+Grupo VII-B (ponderados al 20%)
+1,682
+135
+Grupo VII-B (ponderados al 23%)
+0
+0
+Grupo VII-B (ponderados al 50%)
+0
+0
+Grupo VII-B (ponderados al 57.5%)
+7,888
+631
+Grupo VII-B (ponderados al 100%)
+37,798
+3,024
+Grupo VII-B (ponderados al 115%)
+66
+5
+Grupo VII-B (ponderados al 120%)
+0
+0
+Grupo VII-B (ponderados al 138%)
+0
+0
+Grupo VII-B (ponderados al 150%)
+0
+0
+Grupo VII-B (ponderados al 172.5%)
+0
+0
+Grupo VIII (ponderados al 115%)
+5,336
+427
+Grupo VIII (ponderados al 150%)
+3,771
+302
+Grupo IX (ponderados al 100%)
+40,583
+3,247
+Grupo IX (ponderados al 115%)
+0
+0
+Grupo IX (ponderados al 150%)
+0
+0
+Grupo X (ponderados al 1250%)
+1,392
+111
+Otros Activos (ponderados al 0%)
+0
+0
+Otros Activos (ponderados al 100%)
+24,407
+1,953
+Ajuste por Valuación Crediticia en Operaciones Derivadas
+21,704
+1,736
+Bursatilizaciones con Grado de Riesgo 1 (ponderados al 20%)
+4,366
+349
+Bursatilizaciones con Grado de Riesgo 2 (ponderados al 50%)
+0
+0
+Reporte de Resultados | 1T.2021
+Banco Santander México
+Santander
+85

@@ -1,0 +1,45 @@
+Se permite excluir la información del mes de marzo para el cálculo de las reservas de liquidez que las Instituciones deben
+mantener para hacer frente a potenciales llamadas de margen o cambios en la valuación del portafolio de operaciones con
+instrumentos derivados (LBA).
+Otorgan excepciones temporales a algunas de las medidas correctivas señaladas en las Disposiciones de Liquidez, así como no
+considerar incumplimiento al CCL el que alguna Institución se clasifique en los escenarios III, IV c V contemplados en las referidas
+Disposiciones.
+Las excepciones antes mencionadas inicialmente estuvieron vigentes por seis meses a partir del 28 de febrero de 2020, sin
+embargo Banxico y la CNBV han determinado extenderlas hasta el momento a octubre de 2021.
+Al aplicar algunas de las excepciones arriba mencionadas, el CCL pasó a 316.00% de acuerdo al formato arriba reportado.
+Datos Generales e Información Bursátil
+los que podrá estar referenciada cada una de las Series podrán ser en su conjunto o de manera individual, conforme a lo dispuesto
+en el cuarto párrafo del artículo 66 de la Ley del Mercado de Valores, cualquiera de los valores que a continuación se detallan, de los cuales a la
+fecha y por los últimos 3 ejercicios no han ocurrido suspensiones significativas en la negociación de los mismos.
+La Emisora publicará de manera mensual en la página de Internet https://www.santander.com.mx/personas/regulacion/titulos.htm) la
+información relativa al comportamiento de los Activos Subyacentes de las Series vigentes.
+Índice
+Clave de pizarra
+Eurostoxx 50
+SX5E
+El Euro Stoxx 50 es una índice accionario de la zona europea diseñado por Stoxx Ltd, un proveedor de índices de Deutsche Börse y SIX Group. Su
+meta es la de proveer una representación "blue chip" de los líderes de la zona europea.
+El universo del índice es definido como todos los componentes de los 19 Euro Stoxx índices del Supersector. Las acciones componentes son
+ordenadas de acuerdo al número de acciones en circulación. Las acciones con mayor flotación son añadidas a lista de selección hasta que la
+cobertura es cerrada, pero sin pasar el 60% de la libre flotación del Índice de Mercado total Euro Stoxx (TMI). Si las siguientes acciones ordenadas
+tienen una cobertura cercana al 60% en términos absolutos, entonces también es añadido a la lista seleccionada.
+Cualquier acción remanente que sea un componente actual del índice es añadida a la lista de selección.
+Las acciones en la lista son ordenadas de mayor a menor en circulación. En casos excepcionales, el Comité de Supervisión puede añadir o quitar
+acciones a la lista de selección.
+Las 40 acciones con más acciones en circulación en la lista de selección son elegidas como componentes.
+Cualquier componente remanente del índice Euro Stoxx 50 ordenado entre el lugar 41 y 60 son añadidos como componentes del índice.
+Si el número de componentes sigue siendo menor a 50, entonces las acciones con mayor número de acciones en circulación son añadidas
+hasta completar 50 acciones.
+Santander
+25. Activos Subyacentes
+Los
+valores
+a
+Índices
+i) Eurosstoxx 50 (SX5E)
+Descripción
+Metodología
+Selección de las acciones
+Reporte de Resultados | 1T.2021
+Banco Santander México
+119

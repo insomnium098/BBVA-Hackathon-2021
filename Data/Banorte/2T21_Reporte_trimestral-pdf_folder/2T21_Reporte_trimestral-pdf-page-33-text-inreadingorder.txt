@@ -1,0 +1,491 @@
+GRUPO FINANCIERO
+BANORTE
+2T21
+31,016
+9,260
+362
+313
+21,806
+8,602
+4,983
+5,777
+19,649
+2,765
+16,883
+530
+491
+3,212
+278
+1,263
+177
+23
+503
+166
+42
+6,685
+1,911
+236
+1,248
+3,396
+3,289
+(453)
+164
+122
+(167)
+838
+(10)
+180
+1,008
+840
+-
+85
+132
+-
+-
+57
+195
+o
+141
+609
+4,739
+21,622
+4,273
+139
+808
+1,914
+2,240
+589
+889
+10,851
+10,771
+675
+11,446
+1,738
+-
+1,017
+2,756
+8,690
+-
+(122)
+8,568
+33
+IV. Estados Financieros
+IV. Estados Financieros
+Grupo Financiero Banorte
+Estado de Resultados-GFNorte
+(Millones de Pesos)
+Ingresos por Intereses
+Gastos por Intereses
+Comisiones cobradas
+Comisiones Pagadas
+Ingresos de Intereses Netos de intereses y
+comisiones
+Ingresos por Primas (Neto)
+Incremento neto de reservas técnicas
+Siniestros, Reclamaciones y Otras Obligaciones
+Ingresos de Intereses Netos antes de Estim.
+Ptva. para Riesgos Cred.
+Provisiones Prev. para Riesgos crediticios
+Ingresos de Intereses Netos Ajustado por
+Riesgos Crediticios
+Transferencia de fondos
+Manejo de cuenta
+Servicios de Banca Electrónica
+Por créditos comerciales y vivienda
+Por créditos de consumo y tarjeta de crédito
+Fiduciario
+Ingresos por Portafolios Inmobiliarios
+Fondos de Inversión
+Asesoría e Intermediación financiera
+Otras comisiones Cobradas
+Comisiones por Servicios Cobrados
+Cuotas de Intercambio
+Comisiones de Seguros
+Otras Comisiones Pagadas
+Comisiones por Servicios Pagados
+Comisiones por Servicios Netas
+Divisas y Metales
+Derivados
+Títulos
+Valuación
+Divisas y Metales
+Derivados
+Títulos
+Compra-venta
+Ingresos por Intermediación
+Recuperación de cartera de crédito
+Portafolios de crédito
+Resultado por bienes adjudicados
+Liberación de Provisiones
+Deterioro de Activos
+Ingresos por Arrendamiento
+Provenientes de Seguros
+Resultado por Valuación en Op. de Bursatilización
+Otros (gastos)
+Total Otros Ingresos (Egresos) de la
+Operación
+Total de Ingresos No Financieros
+Ingreso Total de Operación
+Gasto de Personal
+Participación de los Trabajadores en las Utilidades
+(P.T.U)) causado
+Honorarios Pagados
+Gastos de Administración y Promoción
+Rentas, Depreciaciones y Amortizaciones
+Otros impuestos y Gastos No deducibles
+Aportación al Fobaproa o al IPAB
+Total Gasto No Financiero
+Resultado de la Operación
+Participación en subsidiarias y asociadas no
+consolidadas
+Resultados Antes de Impuestos a la Utilidad
+Impuestos a la utilidad causados
+Impuesto al Activo
+Impuestos a la utilidad diferidos
+Impuestos
+Resultados antes de operaciones
+discontinuadas
+Operaciones discontinuadas
+Participación no controladora
+Utilidad Neta
+Información Financiera 2T21
+1T20
+1T21
+36,519
+14,237
+22,351
+12,155
+7,946
+4,592
+21,968
+4,344
+17,623
+2,336
+1,242
+6,115
+1,226
+2,660
+3,455
+1,235
+(1,238)
+1,742
+1,335
+1,166
+4,949
+22,572
+3,930
+2,382
+1,946
+10,466
+12,106
+12,459
+3,555
+3,228
+9,231
+9,118
+2T20
+32,350
+13,032
+19,395
+8,118
+1,216
+5,613
+20,683
+8,456
+12,227
+2,027
+1,049
+5,406
+1,018
+2,337
+3,069
+1,139
+1,175
+1,703
+1,140
+5,911
+18,139
+3,891
+2,032
+2,047
+10,307
+7,832
+8,480
+1,886
+6,593
+6,518
+3T20
+32,987
+10,149
+22,911
+7,385
+4,262
+5,433
+20,601
+3,138
+17,463
+2,379
+1,148
+5,708
+1,228
+1,066
+2,611
+3,096
+1,128
+4,880
+22,343
+4,037
+2,075
+2,074
+10,627
+11,717
+12,208
+2,477
+3,178
+9,030
+8,906
+4T20
+30,296
+9,324
+21,038
+9,192
+4,368
+6,281
+19,580
+5,993
+13,587
+3,033
+1,292
+6,775
+1,684
+1,264
+3,176
+3,599
+(1,483)
+(1,083)
+1,930
+1,941
+5,315
+18,903
+4,660
+2,141
+2,136
+11,612
+7,290
+7,800
+2,268
+1,757
+6,043
+5,966
+32,142
+9,405
+352
+314
+22,775
+15,340
+11,016
+7,097
+20,002
+3,215
+16,788
+473
+494
+2,916
+296
+1,164
+106
+10
+484
+188
+250
+6,380
+1,625
+339
+1,202
+3,166
+3,214
+575
+111
+(579)
+107
+764
+5
+87
+857
+964
+-
+99
+87
+-
+-
+64
+275
+o
+298
+822
+5,000
+21,788
+4,006
+139
+806
+2,223
+2,243
+553
+912
+10,883
+10,905
+429
+11,334
+1,909
+-
+769
+2,678
+8,656
+-
+(112)
+8,544
+360
+291
+400
+578
+495
+119
+5
+461
+147
+331
+473
+961
+(166)
+(169)
+(862)
+455
+-
+80
+88
+-
+(55)
+100
+211
+31
+(128)
+327
+133
+749
+498
+828
+353
+-
+(328)
+-
+(113)
+346
+270
+476
+508
+394
+102
+11
+486
+126
+226
+353
+966
+(501)
+(111)
+527
+774
+(323)
+724
+-
+63
+132
+-
+-
+77
+322
+6
+541
+133
+801
+483
+919
+648
+947
+-
+939
+-
+(75)
+354
+281
+489
+548
+129
+113
+6
+501
+128
+268
+317
+(309)
+531
+80
+302
+464
+2
+359
+826
+-
+90
+165
+-
+-
+11
+198
+15
+178
+656
+133
+861
+496
+951
+492
+-
+702
+-
+(124)
+380
+314
+513
+529
+366
+153
+19
+504
+142
+223
+227
+309
+92
+(169)
+180
+858
+-
+69
+129
+-
+-
+62
+317
+(36)
+319
+859
+136
+962
+648
+931
+509
+-
+(511)
+-
+(77)

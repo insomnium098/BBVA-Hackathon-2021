@@ -1,0 +1,73 @@
+Cabe señalar que el modelo de Simulación Histórica tiene la limitante de suponer que el pasado reciente representa el futuro inmediato.
+El Valor en Riesgo correspondiente al cierre del segundo trimestre de 2020 (no auditado) ascendía a:
+Banco
+VaR
+(Miles de pesos)
+%
+Mesas de Negociación
+145,620.75
+0.10%
+Market Making
+44,472.62
+0.03%
+Propietary Trading
+24,684.13
+0.02%
+Factor de Riesgo
+Tasa de Interés
+75,902.67
+0.05%
+Tipo de Cambio
+133,208.29
+0.10%
+Renta Variable
+67.92
+0.00%
+* % de VaR respecto del Capital Neto
+El Valor en Riesgo correspondiente al promedio del segundo trimestre de 2020 (no auditado) ascendía a:
+Banco
+VaR
+(Miles de pesos)
+%
+Mesas de Negociación
+212,897.91
+0.16%
+Market Making
+64,775.32
+0.05%
+Propietary Trading
+36,940.94
+0.03%
+Factor de Riesgo
+Tasa de Interés
+133,241.60
+0.10%
+Tipo de Cambio
+178,216.51
+0.13%
+Renta Variable
+771.45
+0.00%
+*
+% de VaR respecto del Capital Neto
+Asimismo, se realizan simulaciones mensuales de las pérdidas o ganancias de las carteras mediante revaluaciones de las mismas
+diferentes escenarios ("Stress Test"). Estas estimaciones se generan de dos formas:
+Aplicando a los factores de riesgo cambios porcentuales observados en determinado periodo de la historia, el cual abarca turbulencias
+significativas del mercado.
+Aplicando a los factores de riesgo cambios que dependen de la volatilidad de cada uno de estos.
+Con frecuencia mensual se realizan pruebas de "backtesting" para comparar las pérdidas y ganancias diarias que se hubieran observado si se
+hubiesen mantenido las mismas posiciones, considerando únicamente el cambio en valor debido a movimientos del mercado, contra el cálculo
+de valor en riesgo y en consecuencia poder calibrar los modelos utilizados. Estos reportes, aunque se hacen mensualmente, incluyen las
+pruebas para todos los días.
+Gestión de Activos y Pasivos
+La actividad de banca comercial de Banco Santander genera importantes saldos de balance. El Comité de Activos y Pasivo ("ALCO") es
+responsable de determinar las directrices de gestión del riesgo de margen financiero, valor patrimonial y liquidez, que deben seguirse en las
+diferentes carteras comerciales. Bajo este enfoque, la Dirección General de Finanzas tiene la responsabilidad de ejecutar las estrategias
+definidas en el Comité de Activos y Pasivos con el fin de modificar el perfil de riesgo del balance comercial mediante el seguimiento de las
+políticas establecidas, para lo que es fundamental atender a los requerimientos de información para los riesgos de tasa de interés, de tipo de
+cambio y de liquidez.
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+bajo
+105

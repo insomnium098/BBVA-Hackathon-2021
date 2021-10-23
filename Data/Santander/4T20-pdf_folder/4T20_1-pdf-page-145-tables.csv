@@ -1,0 +1,34 @@
+Table
+Emisora / Serie ,Tipo de valor ,Total 
+SXE108R DC063 ,Cobertura ,88.334250 
+,Obligación ,(88.334250) 
+XLE110R DC013 ,Cobertura ,"55,881.582940 "
+,Obligación ,"(55,881.582940) "
+FXI106R DC030 ,Cobertura ,"(8,740.200700) "
+,Obligación ,"8,740.200700 "
+FXI107R DC031 ,Cobertura ,"15,030.715580 "
+,Obligación ,"(15,030.715580) "
+KOC107R DC005 ,Cobertura ,"3,774.711780 "
+,Obligación ,"(3,774.711780) "
+AMZ110L DC127 ,Cobertura ,163.412980 
+,Obligación ,(163.412980) 
+FBK111L DC079 ,Cobertura ,755.236080 
+,Obligación ,(755.236080) 
+NFX111L DC133 ,Cobertura ,305.286990 
+,Obligación ,(305.286990) 
+CVS112L[ DC022 ,Cobertura ,"27,462.058840 "
+,Obligación ,"(27,462.058840) "
+INT112R DC006 ,Cobertura ,"9,392.664230 "
+,Obligación ,"(9,392.664230) "
+Total general ,,0 
+
+
+Table
+Emisora ,Delta en títulos ,Beta original ,Error esrándar ,Delta en términos de emisoras ,Delta cobertura en términos de emisoras ,Delta obligaciones en términos de emisoras 
+SXE108R DC063 ,0.0000 ,1.0000 ,0.000000 ,0.0000 ,88.3343 ,(88.3343) 
+XLE110R DC013 ,0.0000 ,1.0000 ,0.000000 ,0.0000 ,"55,881.5829 ","(55,881.5829) "
+FXI106R DC030 ,0.0000 ,1.0000 ,0.000000 ,0.0000 ,"(8,740.2007) ","8,740.2007 "
+FXI107R DC031 ,0.0000 ,1.0000 ,0.000000 ,0.0000 ,"15,030.7156 ","(15,030.7156) "
+KOC107R DC005 ,0.0000 ,1.0000 ,0.000000 ,0.0000 ,"3,774.7118 ","(3,774.7118) "
+
+

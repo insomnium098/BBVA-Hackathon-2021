@@ -1,0 +1,108 @@
+BBVA
+Creando Oportunidades
+presentarse escenarios adversos y los procesos para implantar medidas de
+recuperación. Este plan de igual forma está aprobado por el Consejo de Administración
+a propuesta del Comité de Riesgos y elaborado por el Director General.
+Coeficiente de Cobertura de Liquirez (CCL)
+El CCL cuantifica la capacidad potencial del Banco para hacer frente a sus necesidades de
+liquidez a 30 días ante un escenario de estrés, a partir de sus activos líquidos que tenga
+disponibles.
+De acuerdo con los requerimientos de revelación de información, especificados en el Anexo 5
+de las Disposiciones de Carácter General sobre los Requerimientos de Liquidez para las
+Instituciones de Banca Múltiple, a continuación, se presenta el Formato de Revelación del
+Coeficiente de Cobertura de Liquidez de BBVA México correspondiente al tercer trimestre de
+2020.
+Coeficiente de Cobertura de Liquidez
+Millones de pesos
+ACTIVOS LÍQUIDOS COMPUTABLES
+1 Total de Activos Líquidos Computables
+SALIDAS DE EFECTIVO
+2 Financiamiento Minorista No Garantizado
+3
+Financiamiento Estable
+4
+Financiamiento menos Estable
+5 Financiamiento Mayorista No Garantizado
+6
+Depósitos Operacionales
+7
+Depósitos No Operacionales
+8
+Deuda No Garantizada
+9 Financiamiento Mayorista Garantizado
+10 Requerimientos Adicionales
+11
+Salidas relacionadas a instrumentos financieros derivados y otros requerimientos de
+garantías
+12
+Salidas relacionadas a pérdidas del financiamiento de Instrumentos de deuda
+13
+Líneas de Crédito y Liquidez
+14 Otras Obligaciones de Financiamiento Contractuales
+15 Otras Obligaciones de Financiamiento Contingentes
+16 TOTAL DE SALIDAS DE EFECTIVO
+ENTRADAS DE EFECTIVO
+17 Entradas de Efectivo por Operaciones Garantizadas
+18 Entradas de Efectivo por Operaciones No Garantizadas
+19 Otras entradas de Efectivo
+20 TOTAL DE ENTRADAS DE EFECTIVO
+21 TOTAL DE ACTIVOS LÍQUIDOS COMPUTABLES
+22 TOTAL NETO DE SALIDAS DE EFECTIVO
+23 COEFICIENTE DE COBERTURA DE LIQUIDEZ
+3T20 Promedio de 92 dias
+* Información previa
+Las cifras se encuentran en revisión por la autoridad.
+3T 2020*
+719,045
+570,583
+148,462
+517,816
+272,601
+235,460
+9,756
+612,832
+33,468
+0
+579,364
+88,703
+O
+57,872
+109,682
+3,352
+170,905
+Importe sin
+Ponderar
+(promedio)
+No Aplica
+No Aplica
+No Aplica
+No Aplica
+No Aplica
+No Aplica
+Importe
+Ponderado
+(promedio)
+401,532
+43,375
+28,529
+14,846
+175,014
+65,824
+99,434
+9,756
+1,239
+54,956
+20,256
+34,700
+9,349
+283,933
+63,656
+3,352
+67,008
+401,532
+216,926
+185.24%
+0
+0
+0
+42

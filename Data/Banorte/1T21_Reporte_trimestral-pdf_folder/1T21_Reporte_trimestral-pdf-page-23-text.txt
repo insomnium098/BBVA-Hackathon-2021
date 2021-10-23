@@ -1,0 +1,48 @@
+GRUPO FINANCIERO
+II. Discusión y Análisis de la Administración
+BANORTE
+Al comparar los Activos Sujetos a Riesgo de 1T21 respecto al 4T20 se puede observar:
+Disminución en Activos Sujetos a Riesgo de Crédito (Cartera) guiado por la calibración anual de modelos internos,
+disminución en las carteras de Gobiernos Estados y Municipios, Corporativos y Tarjeta de Crédito al cierre de trimestre.
+Disminución en Activos Sujetos a Riesgo de Crédito (Otros) guiado por el efecto del alza de tasas en el requerimiento
+de Ajuste de Valuación Crediticia para las operaciones de derivados (de manera trimestral, la curva de tasa tuvo alzas
+importantes en medianos y largos plazos de alrededor de 132 pbs).
+Incremento en Activos Sujetos a Riesgo de Mercado por efecto de evolución de balance, volatilidad en el cambiario, e
+impacto de la disminución de APRs de crédito sobre modelos internos de balance.
+Al comparar los Activos Sujetos a Riesgo de 1T21 respecto al 1T20 se puede observar:
+Disminución en Activos Sujetos a Riesgo de Crédito (Cartera) guiado por la calibración anual de modelos internos y
+una disminución en las carteras de Gobiernos Estados y Municipios, Corporativos y Tarjeta de Crédito de cierre de
+trimestre.
+Incremento en Activos Sujetos a Riesgo de Mercado por efecto de evolución de balance, volatilidad en el mercado
+cambiario, e impacto de la disminución de APRs de crédito sobre modelos internos de balance.
+Razón de Apalancamiento (Banco Mercantil del Norte)
+A continuación, se presenta el índice de apalancamiento conforme a la regulación de la CNBV:
+Apalancamiento
+Var. Vs.
+1T20
+4T20
+1T21
+(Millones de Pesos)
+4T20
+1T20
+Capital Básico
+147,558
+179,701
+183,236
+2.0%
+24.2%
+Activos Ajustados
+1,358,673
+1,479,495
+1,527,496
+3.2%
+12.4%
+Razón de Apalancamiento
+10.86%
+12.15%
+12.00%
+(15 pb)
+114 pb
+Los Activos Ajustados se definen conforme a lo establecido en la Circular Única de Bancos.
+Información Financiera 1T21
+23

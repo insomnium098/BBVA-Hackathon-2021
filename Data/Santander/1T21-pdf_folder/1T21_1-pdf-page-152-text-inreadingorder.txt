@@ -1,0 +1,70 @@
+Delta en términos de emisoras
+Tipo de valor
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Total general
+Emisora / Serie
+SXE108R DC063
+XLE110R DC013
+FXI106R DC030
+FXI107R DC031
+KOC107R DC005
+FBK111L DC079
+INT112R DC006
+DIS201L DC028
+XLB202R DC001
+BAB202L DC045
+XLV203R DC010
+PYL109L DC019
+Reporte de Resultados | 1T.2021
+Banco Santander México
+Total
+(30,723.385850)
+(14,136.107570)
+(12,428.360210)
+(12,292.232520)
+103.483060
+(103.483060)
+30,723.385850
+14,136.107570
+12,428.360210
+3,129.299200
+(3,129.299200)
+343.828750
+(343.828750)
+5,044.873790
+(5,044.873790)
+6,680.396450
+(6,680.396450)
+6,884.327270
+(6,884.327270)
+12,292.232520
+4,235.187880
+(4,235.187880)
+2,658.793670
+(2,658.793670)
+0
+Santander
+150

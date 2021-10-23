@@ -1,0 +1,87 @@
+Anexo 2. Indicadores Financieros según CNBV
+Porcentajes
+Índice de morosidad
+Índice de cobertura de cartera de crédito
+vencida
+Eficiencia operativa
+ROE
+ROA
+Índice de capitalización desglosado:
+Riesgo de crédito
+Riesgo de crédito, mercado y operacional
+Liquidez
+MIN
+Nota: Indicadores elaborados con base a las Disposiciones de Carácter General aplicables a la Información Financiera de las Instituciones de Crédito, emitidas
+por la CNBV, según anexo 34 de la CUB.
+ÍNDICE DE MOROSIDAD = Saldo de la cartera de crédito vencida al cierre del trimestre / Saldo de la cartera de crédito total al cierre del trimestre.
+ÍNDICE DE COBERTURA DE CARTERA DE CREDITO VENCIDA = Saldo de la estimación preventiva para riesgos crediticios al cierre del trimestre / Saldo de la cartera
+de crédito vencida al cierre del trimestre.
+EFICIENCIA OPERATIVA = Gastos de administración y promoción del trimestre anualizados / Activo total promedio.
+ROE = Utilidad neta del trimestre anualizada/ Capital contable promedio.
+ROA = Utilidad neta del trimestre anualizada / Activo total promedio.
+ÍNDICE DE CAPITALIZACIÓN DESGLOSADO: (1)=Capital neto / Activos sujetos a riesgo de crédito. (2) )=Capital neto / Activos sujetos a riesgo de crédito, mercado
+LIQUIDEZ = Activos líquidos / Pasivos líquidos.
+Donde: Activos Líquidos = Disponibilidades + Títulos para negociar + Títulos disponibles para la venta.
+Pasivos Líquidos = Depósitos de exigibilidad inmediata + Préstamos bancarios y de otros organismos de exigibilidad inmediata + Préstamos bancarios y de otros
+organismos de corto plazo.
+MIN = Margen financiero del trimestre ajustado por riesgos crediticios anualizado / Activos productivos promedio.
+Dónde: Activos productivos promedio = Disponibilidades, Inversiones en valores, Operaciones con valores y derivadas y Cartera de crédito vigente.
+Datos promedio = ((Saldo del trimestre en estudio + Saldo del trimestre inmediato anterior) /2).
+Datos Anualizados = (Flujo del trimestre en estudio * 4).
+Reporte de Resultados | 4T.2020
+Banco Santander México
+4T20
+4T19
+132.02
+3T20
+Santander
+12M20
+116.87
+12.99
+28.04
+19.01
+122.20
+12M19
+132.02
+15.32
+23.31
+16.37
+93.63
+3.08
+116.87
+2.39
+14.13
+1.18
+28.04
+19.01
+122.20
+3.15
+2.09
+2.28
+167.94
+2.20
+2.71
+13.50
+1.06
+1.49
+26.31
+17.16
+118.03
+2.68
+3.71
+2.28
+2.88
+14.13
+1.37
+23.31
+16.37
+93.63
+3.65
+3.08
+2.20
+1.09
+2.63
+y
+operacional.
+Notas:
+59

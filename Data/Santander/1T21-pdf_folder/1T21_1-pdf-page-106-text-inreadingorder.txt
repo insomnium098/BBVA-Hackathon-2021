@@ -1,0 +1,165 @@
+Balance USD
+GAP
+Escenario
+Utilizando técnicas de simulación, se mide la variación previsible del margen financiero y del valor patrimonial ante distintos escenarios
+de interés, y la sensibilidad de ambos, frente a un movimiento extremo de los mismos, al cierre del primer trimestre de 2021:
+MM Pesos
+Banco
+Balance
+MXN GAP
+Balance
+USD GAP
+El Comité de Activos y Pasivos adopta estrategias de inversión y coberturas para mantener dichas sensibilidades dentro del rango objetivo.
+límites se emplean para controlar el riesgo global de Banco Santander, a partir de cada uno de sus portafolios y libros. La estructura de
+límites se aplica para controlar las exposiciones y establecen el riesgo total otorgado a las unidades de negocio. Estos límites se establecen para
+el VaR, alerta de pérdida, pérdida máxima, volumen equivalente de tipo de interés, delta equivalente de renta variable, posiciones abiertas en
+divisas, sensibilidad del margen financiero y sensibilidad de valor patrimonial.
+Riesgo de Liquidez
+El riesgo de liquidez está asociado a la capacidad que Banco Santander tenga de financiar los compromisos adquiridos, a precios de mercados
+razonables, así como de llevar a cabo sus planes de negocio con fuentes de financiación estables. Los factores que influyen
+carácter externo (crisis de liquidez) e interno por excesiva concentración de vencimientos.
+Banco Santander realiza una gestión coordinada de los vencimientos de activos y pasivos, realizando una vigilancia de perfiles máximos
+desfase temporal. Esta vigilancia se basa en análisis de vencimientos de activos y pasivos tanto contractuales como de gestión. Banco Santander
+realiza un control para el mantenimiento de una cantidad de activos líquidos suficiente para garantizar un horizonte de supervivencia
+de días ante un escenario de estrés de liquidez sin recurrir a fuentes de financiación adicionales. El Riesgo de Liquidez se limita en
+términos de un periodo mínimo de días establecido para monedas locales, extranjeras y en forma consolidado. Cabe agregar que en el trimestre
+que se presenta no se han tenido incidencias en las métricas.
+Total
+Gap Estructural
+172,108
+168,909
+Riesgo de Crédito
+La gestión del riesgo de crédito del Grupo Financiero se desarrolla de forma diferenciada para los distintos segmentos de clientes a lo largo de
+las tres fases del proceso crediticio: admisión, seguimiento y recuperación.
+Bajo una perspectiva global, la gestión del riesgo de crédito en el Grupo Financiero se ocupa de la identificación, medición, integración y
+de
+riesgo
+agregado
+acomodarlos a los límites y a los objetivos establecidos.
+Se identifican y distinguen los riesgos que reciben un tratamiento individualizado (riesgos con empresas, instituciones y entidades financieras)
+de aquellos otros que se gestionan de forma estandarizada (créditos de consumo e hipotecarios de particulares y crédito
+Para los riesgos de tratamiento individualizado la gestión del riesgo se realiza mediante análisis experto complementado por un sistema
+Reporte de Resultados | 1T.2021
+Banco Santander México
+87%
+(100) bp
+Sensibilidad NIM
+Escenario
+y
+rentabilidad
+81%
+(100) bp
+Total
+Derivados
+(398)
+464
+(992)
+(1,006)
+6,638
+(107,296)
+6,638
+(107,221)
+0
+(75)
+81%
+76%
+(100) bp
+(100) bp
+(862)
+14
+(9,555)
+29,175
+(9,484)
+28,878
+(71)
+297
+ajustada
+83%
+71%
+N/A
+(100) bp
+Derivados
+24,589
+24,824
+(235)
+cuyo
+concentración
+75%
+(100) bp
+Sensibilidad MVE
+9M
+32,714
+32,855
+(141)
+los
+74%
+N/A
+pueden
+de
+a
+Santander
+de
+negocios
+tasas
+ser
+de
+de
+durante
+>5A
+(144,573)
+(144,356)
+riesgo
+y
+y
+propio
+No
+Derivados
+1,217
+(3,747)
+niveles
+No
+Derivados
+Escenario
++100 bp
+(100) bp
+1S
+propósito
+Total
+(1,672)
+(3,252)
+vigilar
+(100) bp
+(100) bp
+de
+la
+(2,889)
+495
+5A
+283,554
+279,660
+Límites
+Los
+un
+mínimo
+Millones de
+pesos
+No Derivados
+Derivados
+valoración
+microempresas).
+1D
+1M
+mismo,
+3M
+56,862
+57,115
+(253)
+6M
+es
+1A
+de
+3,199
+3,893
+(217)
+al
+104

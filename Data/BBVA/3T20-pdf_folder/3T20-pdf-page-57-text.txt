@@ -1,0 +1,237 @@
+BBVA
+Creando Oportunidades
+Estado de Resultados
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Estado de Resultados Consolidado
+3T
+4T
+1T
+2T
+3T
+9M
+9M
+Millones de pesos
+2019
+2019
+2020
+2020
+2020
+2019
+2020
+Ingresos por intereses
+53,920
+53,982
+54,302
+43,526
+47,619
+156,601
+145,447
+Ingresos por primas (neto)
+5,085
+6,492
+7,155
+5,043
+5,987
+16,564
+18,185
+Gastos por intereses
+(19,525)
+(17,083)
+(17,546)
+(15,153)
+(11,991)
+(54,584)
+(44,690)
+Incremento neto de reservas técnicas
+1,269
+(114)
+238
+1,859
+(341)
+447
+1,756
+Siniestralidad, reclamaciones y otras obligaciones contractuales (neto)
+(7,363)
+(7,538)
+(7,714)
+(6,186)
+(7,229)
+(17,773)
+(21,129)
+Margen financiero
+33,386
+35,739
+36,435
+29,089
+34,045
+101,255
+99,569
+Estimación preventiva para riesgos crediticios
+(9,443)
+(9,365)
+(16,237)
+(7,613)
+(7,008)
+(26,351)
+(30,858)
+Margen financiero ajustado por riesgos crediticios
+23,943
+26,374
+20,198
+21,476
+27,037
+74,904
+68,711
+Ingreso no financiero
+10,999
+9,977
+9,412
+10,086
+9,469
+30,449
+28,967
+Comisiones y tarifas cobradas
+11,513
+12,252
+11,142
+9,116
+10,572
+33,275
+30,830
+Comisiones y tarifas pagadas
+(4,635)
+(5,032)
+(4,630)
+(3,584)
+(4,073)
+(13,179)
+(12,287)
+Comisiones y tarifas, neto
+6,878
+7,220
+6,512
+5,532
+6,499
+20,096
+18,543
+Resultado por intermediación
+4,121
+2,757
+2,900
+4,554
+2,970
+10,353
+10,424
+Otros ingresos (egresos) de la operación
+398
+867
+(270)
+(631)
+542
+276
+(359)
+Total de ingresos (egresos) de la operación
+35,340
+37,218
+29,340
+30,931
+37,048
+105,629
+97,319
+Gastos de administración y promoción
+(16,246)
+(16,982)
+(16,683)
+(16,237)
+(16,317)
+(47,857)
+(49,237)
+Resultado de la operación
+19,094
+20,236
+12,657
+14,694
+20,731
+57,772
+48,082
+Participación en el resultado de subsidiarias no consolidadas y asociadas
+10
+4
+28
+1
+22
+49
+51
+Resultado antes de impuestos a la utilidad
+19,104
+20,240
+12,685
+14,695
+20,753
+57,821
+48,133
+Impuestos a la utilidad causados
+(4,937)
+(8,216)
+(6,282)
+(701)
+(8,120)
+(17,714)
+(15,103)
+Impuestos a la utilidad diferidos (netos)
+(9)
+2,962
+2,215
+(2,803)
+1,619
+1,910
+1,031
+Impuestos netos
+(4,946)
+(5,254)
+(4,067)
+(3,504)
+(6,501)
+(15,804)
+(14,072)
+Resultado antes de participación no controladora
+14,158
+14,986
+8,618
+11,191
+14,252
+42,017
+34,061
+Participación no controladora
+(1)
+(4)
+2
+(2)
+0
+2
+0
+Resultado neto
+14,157
+14,982
+8,620
+11,189
+14,252
+42,019
+34,061
+"El presente Estado de Resultados consolidado con los de las entidades financieras y demás sociedades que forman parte del Grupo Financiero
+que son susceptibles de consolidarse, se formuló de conformidad con los Criterios de Contabilidad para Sociedades Controladoras de Grupos
+Financieros, emitidos por la CNBV, con fundamento en lo dispuesto por el artículo 30 (SIC) de la Ley para Regular las Agrupaciones Financieras,
+de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los ingresos y egresos derivados de las
+operaciones efectuadas por la sociedad controladora y las entidades financieras y demás sociedades que forman parte del Grupo Financiero
+que son susceptibles de consolidarse, durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas y
+a las disposiciones legales y administrativas aplicables.
+El presente Estado de Resultados consolidado fue aprobado por el Consejo de Administración bajo la responsabilidad de los directivos que lo
+suscriben."
+Eduardo Osuna Osuna
+Luis Ignacio De La Luz Dávalos
+Adolfo Arcos González
+Ana Luisa Ordorica Amezcua
+Director General
+Director General Finanzas
+Director General Auditoría Interna Director Contabilidad Corporativa
+57

@@ -1,0 +1,39 @@
+Table
+Concepto (Millones de pesos) ,Saldo* ,Requerimiento de capital 
+Bursatilizaciones con Grado de Riesgo 1 (ponderados al 20%) ,0 ,0 
+Bursatilizaciones con Grado de Riesgo 2 (ponderados al 50%) ,"1,185 ",47 
+Bursatilizaciones con Grado de Riesgo 3 (ponderados al 100%) ,13 ,1 
+Bursatilizaciones con Grado de Riesgo 4 (ponderados al 350%) ,0 ,0 
+"Bursatilizaciones con grado de Riesgo 5, 6 o No calificados (ponderados al 1250%) ",0 ,0 
+
+
+Table
+Bursatilización ,Banorte ,,Seguros ,,Total ,GFNorte 
+(Millones de pesos) ,Títulos ,Monto ,Títulos ,Monto ,Títulos ,Monto 
+91_BNTECB_07 ,"50,763,776 ","1,185 ","500,000 ",12 ,"51,263,776 ","1,197 "
+91_BNTECB_07-2 ,"563,059 ",13 ,- ,- ,"563,059 ",13 
+97_FCASACB_06U ,- ,- ,- ,- ,- ,- 
+
+
+Table
+Bursatilización (Millones de pesos) ,Títulos emitidos ,Banorte ,Seguros ,Total GFNorte ,Total Clientes 
+91_BNTECB_07 ,"52,313,776 ",97.0% ,1.0% ,98.0% ,2.0% 
+91_BNTECB_07-2 ,"1,113,059 ",50.6% ,0.0% ,50.6% ,49.4% 
+97_FCASACB_06L ,"1,351,386 ",0.0% ,0.0% ,0.0% ,100.0% 
+
+
+Table
+Bursatilización ,,Monto ,
+(Millones de pesos) ,Vigente ,Vencido ,Total 
+91_BNTECB_07 91_BNTECB_07-2 ,"Ps 1,663 ",Ps 0 ,"Ps 1,663 "
+97_FCASACB_06U ,Ps 77 ,Ps 115 ,Ps 192 
+
+
+Table
+Bursatilización ,Standard Poor's ,& ,Fitch Ratings ,Moody' ,S ,HR Ratings ,Verum ,Best ,DBRS 
+,Nacional ,Global ,Nacional Global ,Nacional ,Global ,Nacional Global ,Nacional Global ,Nacional Gobal ,Nacional Global 
+91_BNTECB_07 ,,,,Aa3.mx ,Baa3 ,HR AA+ ,,,
+91_BNTECB_07-2 ,,,,A3.mx ,Ba3 ,HR AA ,,,
+97_FCASACB_06U ,mxCCC ,,CCC (mex) ,,,,,,
+
+

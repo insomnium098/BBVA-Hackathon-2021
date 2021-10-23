@@ -1,0 +1,186 @@
+BBVA
+Creando Oportunidades
+Principales Magnitudes
+Información al cierre de junio de 2021
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Indicadores de Infraestructura (#)
+Sucursales
+Cajeros automáticos
+Empleados
+GFBB
+BBVA México
+Indicadores de Rentabilidad (%)
+a) Margen de interés neto ajustado (activo productivo)
+b) Margen de interés neto (activo total)
+c) Eficiencia operativa
+d) Índice de eficiencia
+e) Índice de productividad
+f) Rendimiento sobre capital (ROE)
+g) Rendimiento sobre activos (ROA)
+Indicadores de Calidad de Activos (%)
+h) Índice de morosidad
+i) Índice de cobertura
+Indicadores de Solvencia (%)
+j) Índice de capital fundamental
+k) Índice de capital básico total
+I) Indice de capital total
+m) Coeficiente de Apalancamiento
+Indicadores de Liquidez (%)
+n) Índice de liquidez (requerimiento CNBV)
+o) Liquidez (Cartera/Captación)
+p) Coeficiente de Cobertura de Liquidez (CCL)
+2T
+2021
+1,866
+13,115
+13,014
+36,248
+33,525
+3.4
+4.2
+2.4
+42.1
+34.1
+18.6
+1.6
+1.91
+167.6
+12.4
+12.4
+16.0
+9.4
+71.1
+99.0
+206.89
+11
+3T
+6M
+2020
+1,814
+1,866
+13,115
+36,683
+33,707
+4.3
+3.6
+5.0
+5.2
+2.4
+2.6
+37.0
+39.1
+39.8
+36.6
+22.3
+16.3
+2.1
+1.6
+2.03
+1.91
+160.2
+167.6
+13.5
+12.4
+13.5
+12.4
+16.8
+16.0
+9.8
+9.4
+78.4
+71.1
+94.6
+99.0
+159.07
+4T
+1,746
+36,111
+3.1
+5.3
+2.5
+37.1
+43.5
+13.2
+1.3
+3.00
+129.0
+14.4
+14.4
+17.5
+10.3
+76.8
+91.3
+1T
+3.9
+5.2
+2.6
+40.4
+38.5
+16.1
+1.6
+2.61
+14.6
+14.6
+17.7
+10.3
+78.5
+90.5
+2T
+1,725
+4.5
+5.0
+2.6
+38.8
+39.5
+21.1
+2.2
+2.38
+141.9
+14.5
+14.5
+17.5
+9.6
+84.3
+90.9
+6M
+2021
+1,725
+13,014
+4.2
+5.0
+2.6
+39.6
+39.0
+18.7
+1.9
+2.38
+141.88
+14.5
+14.5
+17.5
+9.6
+84.3
+90.9
+2020
+36,683
+33,707
+159.07
+2020
+12,923
+36,302
+33,347
+185.24
+2020
+12,950
+33,313
+190.49
+2021
+1,728
+12,957
+36,668
+33,759
+137.7
+203.12
+36,248
+33,525
+206.89

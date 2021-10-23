@@ -1,0 +1,183 @@
+GRUPO FINANCIERO
+V. Anexos
+BANORTE
+OPERACIONES CON INSTRUMENTOS
+DERIVADOS AL 2T21
+(Millones de Pesos)
+Posición Pasiva
+Instrumento
+Valor Razonable
+Futuros
+Futuros TIIE 28
+-
+Forward
+Forward de divisa
+18
+Opciones
+Opciones de tasas
+245
+Opciones de divisa
+221
+Títulos Opcionales
+12
+Swaps
+Swaps de tasas
+12,583
+)
+Swaps de divisas
+6,930
+Swaps de crédito
+-
+Total negociación
+20,011
+Opciones
+Opciones de tasas
+-
+Opciones de divisa
+-
+Swaps
+Swaps de tasas
+534
+Swaps de divisas
+5,089
+Swaps de crédito
+-
+Total cobertura
+5,623
+Total posición
+25,634
+MONTOS NOCIONALES EN OPERACIONES DERIVADAS AL 2T21
+(Millones de Pesos)
+PRODUCTO
+TIPO
+SUBYACENTE
+NOCIONAL
+OPERACIONES
+Forwards de Divisa
+Compras
+Tipo de Cambio (USD/MXN)
+1,651
+202
+Forwards de Divisa
+Ventas
+Tipo de Cambio (USD/MXN)
+3,575
+215
+Forwards de Divisa
+Compras
+Tipo de Cambio (CAD/MXN)
+o
+o
+Forwards de Divisa
+Ventas
+Tipo de Cambio (SEK/MXN)
+o
+o
+Forwards de Divisa
+Compras
+Tipo de Cambio (EUR/MXN)
+66
+9
+Forwards de Divisa
+Ventas
+Tipo de Cambio (EUR/MXN)
+65
+9
+Opciones de Divisa
+Compras
+Tipo de Cambio (Dólar)
+16,948
+12
+Opciones de Divisa
+Ventas
+Tipo de Cambio (Dólar)
+14,201
+8
+Opciones de Tasa
+Compras
+TIIE
+20,439
+59
+Opciones de Tasa
+Ventas
+TIIE
+30,916
+290
+Opciones de Tasa
+Compras
+LIBOR
+5,707
+19
+Opciones de Tasa
+Ventas
+LIBOR
+5,947
+21
+Swaps de Tasa
+USD LIBOR
+LIBOR
+281,537
+3,142
+Swaps de Tasa
+MXN TIIE
+TIIE
+1,120,815
+3,512
+Swaps de Tasa en Casa de
+MXN TIIE M M
+TIIE
+9,371
+4
+Bolsa
+Swaps de Tasa y Divisa
+CS USDMXN
+FIJOIVARIABLE
+143
+2
+Swaps de Tasa y Divisa
+CS USDMXN
+VARIABLE/VARIABLE
+99,929
+113
+Swaps de Tasa y Divisa
+CS USDMXN
+FIJO/FIJO
+22,736
+40
+Swaps de Tasa y Divisa
+CS CHFMXN
+FIJO/FIJO
+9,185
+3
+Swaps de Tasa y Divisa
+CS CHFMXN
+FIJOIVARIABLE
+5,152
+2
+Swaps de Tasa y Divisa
+CS EURMXN
+FIJO/FIJO
+17,515
+75
+Swaps de Tasa y Divisa
+CS UDIMXN
+FIJO/FIJO
+12,285
+3
+Swaps de Tasa y Divisa
+CS GBPMXN
+FIJO/FIJO
+2,900
+12
+Derivados de Crédito
+CDS USD
+D2PEMEX150927
+1,075
+5
+Opciones de Equity
+Compras
+*I_MEXBOL_IND
+457
+4
+Información Financiera 2T21
+59

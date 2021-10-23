@@ -1,0 +1,15 @@
+Table
+5 ,Inversiones del plan de pensiones por beneficios definidos sin acceso irrestricto e ilimitado ,15 ,0 ,
+6 ,Inversiones en acciones de la propia institución ,16 ,0 ,"BG3= 575,371 Menos: Inversiones indirectas en el capital de entidades financieras 35; Inversiones en valores que computan como activos en riesgo 575,336 "
+7 ,Inversiones recíprocas en el capital ordinario ,17 ,0 ,
+8 ,Inversiones directas en el capital de entidades financieras donde la Institución no posea más del 10% del capital social emitido ,18 ,0 ,
+9 ,Inversiones indirectas en el capital de entidades financieras donde la Institución no posea más del 10% del capital social emitido ,18 ,35 ,"BG3= 575,371 Menos: Inversiones en acciones de la propia institución 0.20; Inversiones en valores que computan como activos en riesgo 575,336 "
+10 ,Inversiones directas en el capital de entidades financieras donde la Institución posea más del 10% del capital social emitido ,19 ,0 ,
+11 ,Inversiones indirectas en el capital de entidades financieras donde la Institución posea más del 10% del capital social emitido ,19 ,,
+12 ,Impuesto a la utilidad diferida (a favor) proveniente de diferencias temporales ,21 ,"6,534 ","BG15= 14,501 Menos: monto que computa como activo en riesgo 7,967 "
+13 ,Reservas reconocidas como capital complementario ,50 ,970 ,"BG8= Cartera de crédito (neta) 645,639 "
+14 ,Inversiones en deuda subordinada ,26-B ,0 ,
+15 ,Inversiones en organismos multilaterales ,26-D ,0 ,"BG13= 31,053 Menos: inversiones permanentes en subsidiarias 26,577; inversiones en cámaras de compensación 491; inversiones permanentes en asociadas 1,111; otras inversiones que computan como activo en riesgo 2,873 "
+16 ,Inversiones en empresas relacionadas ,26-E ,"26,577 ","BG13= 31,053 Menos: inversiones en cámaras de compensación 491; "
+
+

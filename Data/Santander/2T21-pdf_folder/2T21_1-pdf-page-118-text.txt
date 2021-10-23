@@ -1,0 +1,59 @@
+e) Concentración de las fuentes de financiamiento.
+Las principales fuentes de financiamiento están diversificadas por su propia naturaleza como: (i) depósitos de exigibilidad
+inmediata; (ii) depósitos a plazo, los cuales incluyen depósitos del público en general y del mercado de dinero (pagarés con
+rendimiento liquidable al vencimiento), y (iii) operaciones de reporto.
+Adicionalmente se cuenta con programas de emisión y deuda en mercados locales y se tiene experiencia en emisiones en
+mercados internacionales.
+f)
+Exposiciones en instrumentos financieros derivados y posibles llamadas de margen.
+El análisis realizado no muestra vulnerabilidades en instrumentos derivados
+g) Descalce en divisas.
+El análisis realizado no muestra vulnerabilidades en descalce de divisas.
+h)
+Descripción del grado de centralización de la administración de la liquidez y la interacción entre las unidades del grupo.
+Banco Santander México es autónomo en materia de liquidez y capital; desarrolla sus planes financieros, proyecciones de
+liquidez y analiza las necesidades de financiación para todas sus subsidiarias. Es responsable de sus "ratings", elabora su propio
+programa de emisiones, "road shows" y demás actividades necesarias para mantener activa su capacidad de acceso a los
+mercados de capitales de forma independiente. Realiza sus emisiones al mercado sin contar con la garantía de la matriz.
+La gestión de la liquidez de todas las subsidiarias del Banco está centralizada.
+i)
+Flujos de efectivo de salida y de entrada que, en su caso, no se capturen en el presente marco, pero que la Institución considera
+relevantes para su perfil de liquidez.
+El Coeficiente de Cobertura de Liquidez considera sólo los flujos de salida y entrada hasta 30 días, sin embargo los flujos de
+efectivo que no están recogidos dentro de la propia métrica, también son gestionados y controlados por el Banco.
+Notas adicionales del trimestre anterior
+I. Información cuantitativa:
+a)
+Límites de concentración respecto de los distintos grupos de garantías recibidas y las fuentes principales de financiamiento.
+Banco Santander México está dentro de los límites de concentración establecidos por los reguladores ya que la mitigación del
+riesgo de operaciones de mercado se ejecuta utilizando títulos de deuda gubernamental o efectivo, que no tienen límites de
+concentración.
+b)
+Exposición al riesgo de liquidez y las necesidades de financiamiento a nivel de la Institución, teniendo en cuenta las limitaciones legales,
+regulatorias y operacionales a la transferibilidad de liquidez.
+El riesgo de liquidez está relacionado con la capacidad de financiar las obligaciones en términos razonables de mercado, así
+como de llevar a cabo los planes de negocios con fuentes de financiamiento estables. Los factores que influyen en el riesgo de
+liquidez pueden ser externos, como crisis de liquidez, o internos, como concentraciones excesivas de vencimientos.
+Las medidas utilizadas para controlar la exposición al riesgo de liquidez en la gestión del balance son el descalce de liquidez,
+las razones de liquidez, pruebas de estrés, y horizontes de liquidez.
+La métrica de horizontes de liquidez establece un plazo de supervivencia en términos de días para diferentes escenarios de
+estrés, en donde los activos líquidos deben ser suficientes para cumplir con los compromisos adquiridos. Se ha establecido un
+límite de 90 días para la moneda local y el balance consolidado y un límite de 30 días para la moneda extranjera. Durante el
+1T21 el saldo se mantuvo por encima de los límites establecidos y siempre con un excedente de liquidez suficiente.
+31/03/2021
+Plazo
+Monto
+Millones de pesos
+Consolidado
+90 días
+278,743
+Moneda Nacional
+90 días
+115,178
+Moneda Extranjera
+30 días
+144,972
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+116

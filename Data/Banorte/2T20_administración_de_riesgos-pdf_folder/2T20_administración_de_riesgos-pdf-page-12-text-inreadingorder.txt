@@ -1,0 +1,148 @@
+GRUPO FINANCIERO
+BANORTE
+Promedio 2T20
+45
+(22)
+0
+(188)
+15,210
+(11,144)
+357
+4,258
+23,607
+19,349
+(17,019)
+0
+(17,019)
+Promedio 2T20
+71
+(22)
+0
+(199)
+(5,191)
+(11,164)
+357
+(16,147)
+Promedio 2T20
+(27)
+11
+20,401
+20
+20,405
+Promedio 2T20
+0
+0
+0
+12
+Posición
+(Millones de pesos)
+*La diferencia entre el valor de mercado positivo (sin considerar el neteo de las posiciones) y el valor de mercado del portafolio.
+No se incluyen operaciones liquidadas en Cámara de Compensación debido a que no tienen riesgo contraparte.
+En la siguiente tabla se presenta los niveles de exposición actual y de exposición potencial futura al cierre del trimestre y
+2T20
+Promedio 2T20
+937
+2,678
+6,950
+3,085
+299
+7,263
+2T20
+Promedio 2T20
+42
+148
+23,967
+21,419
+20
+24,070
+21,530
+Con base en las condiciones que se establecen dentro los contratos de operación de instrumentos financieros derivados
+consideran niveles de tolerancia de exposición, en función a la calificación que mantengan las entidades involucradas en la
+transacción. La siguiente tabla presenta el monto de garantías a entregar en caso de deterioro por baja de calificación de la
+institución. Cabe mencionar que con la mayor parte de las contrapartes se ha migrado a umbral (threshold) cero, por lo que
+las garantías a entregar no dependen de la calificación crediticia sino que obedecen a movimientos de mercado:
+Salida de Efectivo con Downgrade de 1 Escalón
+Salida de Efectivo con Downgrade de 2 Escalones
+Salida de Efectivo con Downgrade de 3 Escalones
+2T20
+80
+(3)
+0
+617
+16,832
+(9,790)
+294
+8,029
+27,775
+19,746
+(15,503)
+0
+(15,503)
+2T20
+112
+(3)
+0
+567
+(6,110)
+(9,810)
+294
+(14,951)
+2T20
+(32)
+50
+22,943
+19
+22,980
+2T20
+0
+0
+0
+Forwards
+FX Swap
+FX
+Opciones
+Swap Tasa de Interés (IRS)
+Cross Currency Swap (CCIRS)
+Credit Default Swaps (CDS)
+Total
+Valor Razonable Positivo
+(Valor de Mercado positivo)
+Efecto del neteo*
+Garantías Entregadas (-) / Recibidas (+)
+Efectivo
+Valores
+Totales
+en promedio durante el trimestre respectivamente.
+(Millones de pesos)
+Contrapartes
+Financieras
+FWD
+FX SWAP
+FX
+OPCIONES
+SWAP TASA
+CCS
+CDS
+Total
+(No Financieras)
+FWD
+OPCIONES
+SWAP TASA
+CCS
+Total
+Administración de Riesgos 2T20
+Riesgo Potencial
+853
+2,722
+5,943
+2,714
+362
+6,683
+52
+132
+22
+Salidas Netas de Efectivo
+(Millones de pesos)
+Riesgo Actual
+Clientes
+se

@@ -1,0 +1,102 @@
+BBVA
+Creando Oportunidades
+Operaciones e Instrumentos
+Operaciones de Reportos
+Operaciones con Instrumentos Financieros Derivaros
+Subyacente
+Divisa OTC
+Acciones OTC
+Indices OTC
+Divisa ORG
+Acciones ORG
+Indices ORG
+Warrant
+CAPS
+Swaption
+Operaciones de reportos
+Junio 2020
+Millones de pesos
+Acreedores por reporto
+Deudores por reporto
+Futuros*
+Subyacente
+USD
+MXN
+Indice
+Bono M10
+Contratos Adelantados
+Subyacente
+USD *
+Otras divisas
+Indice Extranjero
+Ipc
+Opciones **
+Ventas
+39,941
+407
+796
+9,202
+91,592
+750
+74
+Gubernamental
+(215,118)
+13,885
+Compra
+13,001
+155
+O
+536
+Compra
+706,950
+115,253
+24,792
+3,491
+Call
+Compras
+Compras
+38,959
+38,182
+74
+937
+2,612
+O
+O
+O
+83
+312
+O
+38,045
+14,833
+4,000
+6,986
+Total
+(215,118)
+13,885
+7,712
+244
+114
+O
+645,330
+63,816
+24,651
+117
+Put
+41,498
+424
+259
+O
+2
+1,862
+O
+9,789
+2,935
+Venta
+Venta
+Ventas
+0
+79
+42
+0
+88
+O

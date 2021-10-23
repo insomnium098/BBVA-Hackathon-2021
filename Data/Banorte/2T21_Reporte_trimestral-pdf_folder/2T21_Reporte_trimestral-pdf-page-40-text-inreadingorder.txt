@@ -1,0 +1,388 @@
+GRUPO FINANCIERO
+BANORTE
+2T21
+110,407
+8,703
+43,914
+140,484
+42,292
+226,690
+-
+2,928
+-
+24,346
+648
+-
+24,995
+27,923
+47
+290,040
+20,689
+118,317
+196,125
+193,554
+3
+2,567
+-
+150,703
+-
+775,873
+5,163
+-
+3,551
+1,966
+1,709
+0
+258
+-
+182
+10,862
+786,735
+17,741
+768,993
+1,421
+770,414
+-
+45,600
+-
+1,812
+16,588
+734
+-
+-
+25,177
+191
+90,101
+1,234,286
+40
+IV. Estados Financieros
+Banco - Balance General
+(Millones de Pesos)
+ACTIVOS
+Disponibilidades
+Cuentas de Margen
+Títulos para negociar
+Títulos disponibles para la venta
+Títulos conservados a vencimiento
+Inversiones en Valores
+Valores no asignados por liquidar
+Deudores por reporto (saldo deudor)
+Préstamo de Valores
+Con fines de negociación
+Con fines de cobertura
+Operaciones con valores y derivadas
+Operaciones con Derivados
+Operaciones con Valores y Derivadas
+Ajustes de valuación por cobertura de activos
+Créditos Comerciales
+Créditos a Entidades Financieras
+Créditos al Consumo
+Créditos a la Vivienda
+Media y Residencial
+De interés social
+Créditos adquiridos al INFONAVIT o FOVISSSTE
+Remodelación o mejoramiento con garantía
+otorgada por la banca de desarrollo o fideicomisos
+Créditos a Entidades Gubernamentales
+Créditos otorgados en calidad de Agente del
+Gobierno Federal
+Cartera de Crédito Vigente
+Créditos Comerciales
+Créditos a Entidades Financieras
+Créditos al Consumo
+Créditos a la Vivienda
+Media y Residencial
+De interés social
+Créditos adquiridos al INFONAVIT o FOVISSSTE
+Remodelación o mejoramiento con garantía
+otorgada por la banca de desarrollo o fideicomisos
+Créditos a Entidades Gubernamentales
+Cartera de Crédito Vencida
+Cartera de Crédito Total
+Prov. Prev. Riesgos Crediticios
+Cartera de Crédito Neto
+Derechos de cobro adquiridos
+Total de cartera de crédito (neto)
+Beneficios por recibir en operaciones de
+Bursatilización
+Otras Cuentas por cobrar, neto
+Inventario de Mercancías
+Bienes Adjudicados (neto)
+Propiedades, Mobiliario y equipo (Neto)
+Inversiones permanentes
+Activos de larga duración disponibles para la venta
+Impuestos diferidos, neto
+Cargos diferidos, pagos anticipados e intangibles
+Otros activos a corto y largo plazo
+TOTAL ACTIVOS
+Información Financiera 2T21
+1T20
+1T21
+88,668
+115,954
+9,701
+11,012
+79,968
+39,609
+157,021
+142,487
+19,711
+40,044
+256,700
+222,139
+1,930
+48,940
+28,458
+1,292
+50,232
+29,068
+52,162
+31,915
+288,409
+295,257
+24,011
+22,723
+116,200
+116,085
+173,226
+191,220
+170,143
+188,529
+3,075
+161,246
+156,941
+763,091
+782,226
+6,700
+4,018
+2,070
+1,834
+12,827
+10,257
+775,918
+792,483
+17,932
+19,145
+757,986
+773,339
+1,261
+759,247
+774,867
+83,264
+35,643
+15,167
+28,638
+4,351
+22,727
+11,211
+127,103
+78,082
+1,293,647
+1,234,021
+2T20
+105,537
+18,353
+95,379
+184,050
+19,497
+298,926
+1,928
+61,705
+2,384
+64,089
+66,017
+300,483
+23,733
+115,593
+177,282
+174,331
+2,946
+161,457
+778,548
+2,240
+4,229
+2,305
+2,025
+8,885
+787,433
+18,075
+769,358
+1,438
+770,796
+48,306
+26,482
+1,126
+11,470
+88,937
+1,348,628
+3T20
+99,615
+16,312
+36,918
+163,887
+33,379
+234,184
+2,297
+53,819
+1,885
+55,704
+58,000
+299,343
+24,763
+118,314
+182,685
+179,791
+2,889
+161,247
+786,350
+1,864
+2,349
+1,811
+1,612
+6,307
+792,658
+17,169
+775,489
+1,341
+776,830
+53,442
+27,277
+10,111
+92,593
+1,277,593
+4T20
+108,743
+18,099
+41,432
+153,063
+33,277
+227,772
+3,036
+48,233
+2,043
+50,277
+53,313
+297,305
+24,898
+116,477
+187,736
+184,980
+2,752
+156,115
+782,532
+2,183
+4,705
+1,658
+1,429
+8,580
+791,112
+19,464
+771,648
+1,617
+773,264
+40,495
+1,384
+28,289
+9,929
+80,939
+1,262,185
+-
+-
+-
+8
+-
+-
+4
+0
+-
+-
+-
+-
+-
+-
+5
+-
+-
+-
+1
+-
+-
+-
+-
+-
+-
+5
+-
+-
+-
+1
+-
+-
+-
+-
+-
+-
+4
+-
+-
+-
+1
+-
+-
+-
+-
+-
+-
+-
+4
+-
+-
+-
+0
+-
+2
+-
+-
+2,848
+609
+51
+2,687
+3,303
+4,694
+2,071
+1,819
+252
+188
+1,529
+1,406
+552
+422
+208
+65
+235
+35
+161
+818
+468
+146
+62
+279
+111
+156
+800
+491
+106
+58
+198
+284
+151
+722
+564
+214
+112
+54
+228
+33
+110
+519
+213

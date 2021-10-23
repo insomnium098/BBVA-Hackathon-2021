@@ -1,0 +1,56 @@
+3.
+4.
+De acuerdo a lo anterior, se refleja un manejo prudencial de la cartera de negociación de Banco Santander respecto de los factores de riesgo.
+Stress Test de Instrumentos Financieros Derivados
+A continuación se presentan distintos escenarios de stress test considerando diversos escenarios hipotéticos calculados para la cartera de
+negociación de Banco Santander.
+Escenario Probable
+Este escenario se definió con base en movimientos resultantes de una desviación estándar, respecto de los factores de riesgo que influyen en la
+valuación
+resumen los movimientos aplicados a cada factor de riesgo fueron los siguientes:
+los factores de riesgo de tasa ("IR"), volatilidades ("Vol") y tipo de cambio ("FX") se incrementaron en una desviación estándar; y
+los factores de riesgo respecto del mercado accionario (EQ) se disminuyeron en una desviación estándar.
+Escenario Posible
+En este escenario se modificaron los factores de riesgo en 25%. En resumen los movimientos aplicados a cada factor de riesgo fueron los
+siguientes:
+Los factores de riesgo IR, Vol y FX se multiplicaron por 1.25, es decir se incrementaron 25%.
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Sensibilidad a los factores de riesgo de tipo Volatilidad ("Vega")
+La
+sensibilidad Vega es la medida resultante de cambios en la volatilidad del activo subyacente (activo de referencia). El riesgo Vega es
+el riesgo de que haya un cambio en la volatilidad del valor del activo subyacente, que se traduzca en un cambio en el valor del mercado
+del instrumento financiero derivado.
+La sensibilidad Vega calculada, considera la variación absoluta de un 1% en la volatilidad asociada al valor del activo subyacente.
+Sensibilidad a los factores de riesgo de tipo Tasa de Interés ("Rho")
+Esta sensibilidad cuantifica la variación en el valor de los instrumentos financieros de la cartera de negociación ante una subida paralela
+en las curvas de tasa de interés de un punto base.
+En la tabla siguiente se presentan las sensibilidades antes descritas correspondientes a la posición de la cartera de negociación,
+del cuarto trimestre de 2020:
+Análisis de Sensibilidad
+Millones de pesos
+Sensibilidad total de tasa
+Pesos
+Sens. a 1 pb
+(4.03)
+Vega por factor de Riesgo
+EQ
+Total
+0.01
+Delta por factor de Riesgo (EQ y FX)
+EQ
+Total
+(0.01)
+de los instrumentos financieros que ha mantenido la cartera de negociación de Banco Santander en cada uno de los períodos. En
+al
+cierre
+Otras Divisas
+FX
+FX
+Santander
+3.11
+0.61
+3.77
+IR
+(1.25)
+110

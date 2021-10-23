@@ -1,0 +1,77 @@
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+Nota: * El tratamiento mencionado es más conservador que el que establece el Comité de Supervisión Bancaria de Basilea en su documento "Basilea III: Marco
+regulador global para reforzar los bancos y sistemas bancarios" publicado en junio de 2011.
+Renglón 59 dividido por el renglón 60 (expresado como porcentaje).
+Reportar la suma de los porcentajes expresados en los renglones 61, 65, 66 y 67.
+Reportar 2.5%
+Porcentaje correspondiente al Suplemento de Capital Contracíclico al que se refiere el inciso c),
+fracción
+III, del Artículo 2 Bis 5.
+La cantidad SCCS de la fila 64 (expresado como un porcentaje de los activos ponderados por
+riesgo) que se relaciona con el suplemento de capital por carácter sistémico de la institución de
+banca múltiple, en los términos del inciso b), fracción III, del Artículo 2 Bis 5.
+Renglón 61 menos 7%.
+No aplica. El mínimo es el mismo que establece el Comité de Supervisión Bancaria de Basilea en
+su documento "Basilea III: Marco regulador global para reforzar los bancos y sistemas bancarios"
+publicado en junio de 2011.
+No aplica. El mínimo es el mismo que establece el Comité de Supervisión Bancaria de Basilea en
+su documento "Basilea III: Marco regulador global para reforzar los bancos y sistemas bancarios"
+publicado en junio de 2011.
+No aplica. El mínimo es el mismo que establece el Comité de Supervisión Bancaria de Basilea en
+su documento "Basilea III: Marco regulador global para reforzar los bancos y sistemas bancarios"
+publicado en junio de 2011.
+No aplica. El concepto fue deducido del capital en su totalidad. Ver la nota de la referencia 18.
+No aplica. El concepto fue deducido del capital en su totalidad. Ver la nota de la referencia 19.
+No aplica. El concepto fue deducido del capital en su totalidad. Ver la nota de la referencia 20.
+El monto, que no exceda el 10% de la diferencia entre la referencia 6 y suma de las referencias 7
+a 20, de impuestos a la utilidad diferidos a favor provenientes de diferencias temporales menos
+los correspondientes impuestos a la utilidad diferidos a cargo no considerados para compensar
+otros ajustes.
+Estimaciones preventivas para riesgo de crédito correspondientes a las Operaciones en las que se
+utilice el Método Estándar para calcular el requerimiento de capital por riesgo de crédito.
+1.25% de los activos ponderados por riesgo de crédito, correspondientes a las Operaciones en las
+que se utilice el Método Estándar para calcular el requerimiento de capital por riesgo de crédito.
+Diferencia positiva de las Reservas Admisibles Totales menos las Pérdidas Esperadas Totales
+correspondientes a las Operaciones en las que se utilice el método basado en calificaciones
+internas para calcular el requerimiento de capital por riesgo de crédito.
+0.6 por ciento de los activos ponderados por riesgo de crédito, correspondientes a las Operaciones
+en las que se utilice el método basado en calificaciones internas para calcular el requerimiento de
+capital por riesgo de crédito.
+No aplica. No existen instrumentos sujetos a transitoriedad que computen en el capital común de
+nivel 1.
+No aplica. No existen instrumentos sujetos a transitoriedad que computen en el capital común de
+nivel 1.
+Saldo de los instrumentos que computaban como capital en la parte básica al 31 de diciembre de
+2012 por el correspondiente límite del saldo de dichos instrumentos.
+Saldo de los instrumentos que computaban como capital en la parte básica al 31 de diciembre de
+2012 menos el renglón 33.
+Saldo de los instrumentos que computaban como capital en la parte complementaria al 31 de
+diciembre de 2012 por el correspondiente límite del saldo de dichos instrumentos.
+Saldo de los instrumentos que computaban como capital en la parte complementaria al 31 de
+diciembre de 2012 menos el renglón 47.
+Reporte de Resultados | 1T.2021
+Banco Santander México
+Santander
+76

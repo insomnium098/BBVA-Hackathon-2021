@@ -1,0 +1,285 @@
+GRUPO FINANCIERO
+II. Discusión y Análisis de la Administración
+BANORTE
+Banorte Ahorro y Previsión
+Seguros Banorte
+Estado de Resultados y principales cifraslindicadores
+Var. Vs.
+Var. Vs.
+Seguros Banorte
+3T19
+2T20
+3T20
+9M19
+9M20
+(Millones de Pesos)
+2T20
+3T19
+9M19
+Ingresos por Intereses (Neto)
+464
+643
+396
+(38%)
+(15%)
+1,372
+1,556
+13%
+Ingresos por Primas (Neto)
+3,586
+5,772
+3,792
+(34%)
+6%
+17,063
+18,379
+8%
+Incremento neto de reservas técnicas
+(790)
+765
+(875)
+(214%)
+11%
+2,765
+3,195
+16%
+Siniestros, Reclamaciones y Otras obligaciones (neto)
+2,896
+3,674
+3,321
+(10%)
+15%
+8,753
+9,761
+12%
+Resultado Técnico
+1,480
+1,332
+1,346
+1%
+(9%)
+5,545
+5,423
+(2%)
+Ingresos de Intereses Netos
+1,944
+1,976
+1,742
+(12%)
+(10%)
+6,917
+6,979
+1%
+Otras Comisiones (Gastos de Adquisición)
+(817)
+(519)
+(555)
+7%
+(32%)
+(2,168)
+(1,780)
+(18%)
+Intermediación de Valores
+14
+58
+33
+(43%)
+130%
+47
+141
+197%
+Otros Ingresos (Egresos) de la Operación
+228
+160
+182
+13%
+(20%)
+727
+542
+(25%)
+Ingreso Total de Operación
+1,369
+1,675
+1,402
+(16%)
+2%
+5,523
+5,882
+6%
+Gasto No Financiero
+365
+351
+339
+(3%)
+(7%)
+1,032
+1,059
+3%
+Resultado Neto de Operación
+1,004
+1,324
+1,062
+(20%)
+6%
+4,491
+4,822
+7%
+Impuestos
+263
+395
+316
+(20%)
+20%
+1,312
+1,443
+10%
+Participación en el Resultado de Subsidiarias
+423
+630
+463
+(26%)
+9%
+1,273
+1,424
+12%
+Participación no controladora
+(10)
+(13)
+(10)
+23%
+(6%)
+(29)
+(31)
+(6%)
+Utilidad Neta
+1,154
+1,545
+1,200
+(22%)
+4%
+4,422
+4,773
+8%
+Capital Contable
+23,017
+26,184
+27,391
+5%
+19%
+23,017
+27,391
+19%
+Activo Total
+56,296
+65,256
+65,143
+(0%)
+16%
+56,296
+65,143
+16%
+Reservas Técnicas
+27,003
+31,526
+30,257
+(4%)
+12%
+27,003
+30,257
+12%
+Primas Emitidas
+3,978
+7,171
+4,272
+(40%)
+7%
+21,166
+21,807
+3%
+Índice de cobertura de reservas técnicas
+1.17
+1.25
+1.29
+0.03 pp
+0.10 pp
+1.2
+1.3
+0.1 pp
+Índice de cobertura del requerimiento de capital de solvencia
+3.5
+9.7
+8.6
+(1.1 pp)
+5.2 pp
+3.5
+8.6
+5.2 pp
+Índice de cobertura de capital mínimo pagado
+212.9
+236.0
+247.0
+11.0 pp
+34.0 pp
+212.9
+247.0
+34.0 pp
+Indice de siniestralidad
+67%
+74%
+71%
+(2.2 pp)
+4.8 pp
+61%
+65%
+3.4 pp
+Indice combinado
+91%
+84%
+89%
+4.7 pp
+(2.6 pp)
+73%
+76%
+2.2 pp
+ROE
+20.4%
+24.6%
+18.2%
+(6.4 pp)
+(2.2 pp)
+25.4%
+25.6%
+0.2 pp
+ROE sin Afore
+38.6%
+41.0%
+30.3%
+(10.7 pp)
+(8.3 pp)
+52.8%
+51.8%
+(1.0 pp)
+Los ingresos por intereses caen (38%) en la comparación trimestral, mientras que en la comparativa anual acumulada
+tiene un crecimiento de 13% explicado por la valuación de las inversiones.
+En la variación trimestral, las primas retenidas caen (34%) por las renovaciones del 2T20. Las reservas técnicas disminuyen
+de manera importante en el trimestre por la reducción en la emisión con respecto de los trimestres pasados y
+el
+devengamiento de las reservas.
+En el trimestre hay una ligera disminución en la siniestralidad de (10%) principalmente una reducción en el pago de rescates
+de productos de vida con componentes de ahorro con respecto del trimestre anterior y reducción en siniestralidad
+particularmente en el ramo de autos.
+Al cierre del 3T20 el resultado técnico de Seguros Banorte fue de Ps 1,346 millones, un aumento trimestral de 1%,
+derivado de menores ingresos por primas por el efecto de la estacionalidad propia del negocio, compensados con
+liberación de reservas por el devengamiento del negocio y menor siniestralidad contra el trimestre anterior.
+En la comparación anual contra el 9M19 el resultado técnico cae (2%), aunque en ingresos por primas se observa un
+aumento de 8%, también se observa un incremento de reservas técnicas y un crecimiento en la siniestralidad en mayor
+medida en el ramo de vida y gastos médicos.
+Los gastos de adquisición reflejan un aumento secuencial en el período de 7% ubicándose en Ps 555 millones, contra
+las cifras del 9M19 cae (18%) ya que en el 3T19 se registraron Ps 331 millones de costo de cobertura de reaseguro de
+acuerdo a la estimación por desviación en siniestralidad en vida. La variación trimestral se debe a la propia estacionalidad
+de la emisión.
+El Resultado Neto de Operación fue de Ps 1,062 millones en el 3T20, una disminución de (20%) en comparación
+del
+trimestre anterior resultado principalmente de la disminución en los ingresos por intereses netos (12%).
+Tercer Trimestre de 2020
+24

@@ -1,0 +1,35 @@
+BBVA
+Creando Oportunidades
+Mitigación. - Habiendo identificado y cuantificado los factores de riesgo operacional, si éste
+excede los niveles deseados se emprende un proceso de mitigación que consiste en reducir el
+nivel de riesgo mediante la transferencia del mismo, O mediante la implantación de medidas de
+control que disminuyan la frecuencia O el impacto de un evento.
+Seguimiento. - Para analizar la evolución del riesgo operacional se hace un seguimiento
+cualitativo a través de analizar el grado de implantación de las medidas de mitigación y uno
+cuantitativo consistente en medir la evolución de indicadores causales de riesgo operacional,
+así como analizando la evolución de pérdidas contabilizadas por riesgo operacional.
+Adicionalmente, se han establecido esquemas de gestión específicos para los riesgos
+tecnológicos y aquellos derivados de procesos judiciales.
+Para el caso de los primeros, además de la metodología general de riesgos operacionales, la
+Dirección Information Security & CISO evalúa que los riesgos identificados y los planes de
+mitigación en proceso sean uniformes en BBVA México y cumplan con los estándares de
+seguridad lógica.
+Por lo que respecta a los procesos judiciales, además del circuito de gestión de riesgo
+operacional de los procesos legales, se calcula la probabilidad de resolución adversa sobre el
+inventario de procesos administrativos y demandas judiciales en los que BBVA México es parte
+actora O demandada. Con base en lo anterior, BBVA México considera que los principales
+factores que influyen en el riesgo legal son: grado de incumplimiento con la regulación; tipos de
+proceso judicial en los que se involucra; monto demandado y probabilidad de resolución
+desfavorable.
+Existe, en BBVA México, una metodología integrada de control interno y riesgo operacional.
+Esta metodología permite identificar los riesgos en las áreas organizativas, generar análisis en
+los que se priorizan los riesgos de acuerdo con su residual estimado (después de incorporar el
+efecto de los controles), vincular los riesgos a los procesos y establecer para cada riesgo un
+nivel objetivo que, por comparación con el riesgo residual, identifica debilidades que requieran
+ser gestionadas.
+3) Modelo general del riesgo operacional
+El marco de gestión del riesgo operacional definido para BBVA México incluye una estructura
+basada en el modelo de tres líneas de defensa con delimitación clara de las responsabilidades,
+políticas y procedimientos comunes a todo BBVA México. Para su funcionamiento cuenta con
+sistemas para identificar, medir, monitorear, controlar y mitigar los riesgos y pérdidas
+47

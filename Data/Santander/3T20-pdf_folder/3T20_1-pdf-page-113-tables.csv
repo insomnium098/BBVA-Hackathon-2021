@@ -1,0 +1,19 @@
+Table
+,,,,Valor ,Razonable 
+Tipo de Derivado ,Subyacente ,Fines de Negociación o de Cobertura ,Monto Nocional ,Trimestre Actual ,Trimestre Anterior 
+Contratos Adelantados ,Divisas ,Negociación ,"415,601 ",466 ,(767) 
+Contratos Adelantados ,Acciones ,Negociación ,"1,714 ",(33) ,(5) 
+Futuros ,Divisas ,Negociación ,"3,941 ",0 ,0 
+Futuros ,Índices ,Negociación ,"1,708 ",0 ,0 
+Opciones ,Acciones ,Negociación ,"1,853 ",(516) ,(478) 
+Opciones ,Divisas ,Negociación ,"144,418 ","1,246 ","1,308 "
+Opciones ,Índices ,Negociación ,"1,828 ",119 ,156 
+Opciones ,Tasas ,Negociación ,"172,163 ",113 ,213 
+Swaps ,Divisas ,Negociación ,"984,939 ","(1,463) ","(3,337) "
+Swaps ,Tasas ,Negociación ,"7,271,793 ","6,486 ","7,453 "
+Swaps ,Acciones ,Negociación ,640 ,82 ,167 
+Contratos Adelantados ,Divisas ,Cobertura ,"60,507 ","3,313 ","1,057 "
+Swaps ,Divisas ,Cobertura ,"58,554 ","(13,814) ","(14,672) "
+Swaps ,Tasas ,Cobertura ,"65,905 ","(3,897) ","(4,616) "
+
+

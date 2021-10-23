@@ -1,0 +1,200 @@
+BBVA
+Creando Oportunidades
+Indicadores Financieros
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+3T
+4T
+1T
+2T
+3T
+9M
+9M
+2019
+2019
+2020
+2020
+2020
+2019
+2020
+indicadores delnfraestructura(#)
+Sucursales
+1,848
+1,860
+1,864
+1,866
+1,814
+1,848
+1,814
+Cajeros automáticos
+13,005
+13,170
+13,066
+13,115
+12,923
+13,005
+12,923
+Empleados
+GFBB
+36,784
+36,771
+37,167
+36,683
+36,302
+36,784
+36,302
+BBVA México
+33,741
+33,705
+34,118
+33,707
+33,347
+33,741
+33,347
+Indicadores de Rentabilidad (%)
+a) Margen de interés neto ajustado (activo productivo)
+4.5
+4.9
+3.4
+3.4
+4.3
+4.7
+3.9
+b) Margen de interés neto (activo total)
+5.8
+6.1
+5.7
+4.2
+5.0
+5.9
+5.2
+c) Eficiencia operativa
+2.8
+2.9
+2.6
+2.4
+2.4
+2.8
+2.6
+d) Índice de eficiencia
+36.3
+36.5
+36.6
+42.1
+37.0
+36.3
+38.4
+e) Índice de productividad
+42.3
+42.5
+39.0
+34.1
+39.8
+42.0
+37.7
+f) Rendimiento sobre capital (ROE)
+24.5
+25.4
+14.6
+18.6
+22.3
+24.8
+18.1
+g) Rendimiento sobre activos (ROA)
+2.4
+2.6
+1.3
+1.6
+2.1
+2.5
+1.8
+Indicadores de Calidad de Activos (%)
+h) Índice de morosidad
+2.23
+2.20
+2.17
+1.91
+2.03
+2.23
+2.03
+i) Índice de cobertura
+131.1
+129.3
+148.4
+167.6
+160.2
+131.1
+160.2
+Indicadores de Solvencia (%)
+j) Índice de capital fundamental
+12.0
+12.5
+11.5
+12.4
+13.5
+12.0
+13.5
+k) Índice de capital básico total
+12.0
+12.5
+11.5
+12.4
+13.5
+12.0
+13.5
+I) Indice de capital total
+15.2
+15.6
+15.1
+16.0
+16.8
+15.2
+16.8
+m) Coeficiente de Apalancamiento
+10.0
+10.0
+8.6
+9.4
+9.8
+10.0
+9.8
+Indicadores de Liquidez (%)
+n) Índice de liquidez (requerimiento CNBV)
+76.1
+73.1
+71.9
+71.1
+78.4
+76.1
+78.4
+o) Liquidez (Cartera/Captación)
+105.2
+103.6
+102.1
+99.0
+94.6
+105.2
+94.6
+p) Coeficiente de Cobertura de Liquidez (CCL)
+138.25
+145.67
+141.88
+159.07
+185.24
+138.25
+185.24
+INFRAESTRUCTURA
+Cajeros automáticos: Aquellos que tuvieron operación durante el trimestre.
+RENTABILIDAD
+a)
+Margen de interés neto (MIN): Margen financiero ajustado por riesgos crediticios (anualizado) / Activo productivo promedio.
+Activo productivo promedio: Disponibilidades + inversiones en valores + deudores por reporto + prestamos de valores + derivados +
+cartera de crédito vigente + Beneficio por recibir en operaciones de bursatilización + Ajuste valuación por cobertura de activos
+financieros.
+b)
+Margen de interés neto (MIN): Margen financiero (sin ajustar por riesgos crediticios, anualizado) / Activo total promedio.
+c)
+Eficiencia operativa: Gastos (anualizado) / Activo total promedio.
+d)
+Índice de eficiencia: Gastos de administración y promoción / Margen financiero + comisiones y tarifas, neto + resultado por
+intermediación + otros ingresos (egresos) de la operación.
+25

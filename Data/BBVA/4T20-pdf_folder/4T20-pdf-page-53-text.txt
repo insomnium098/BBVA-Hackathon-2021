@@ -1,0 +1,56 @@
+BBVA
+Creando Oportunidades
+Calificación Agencias de Rating
+Calificaciones de BBVA Bancomer, S.A., Institución de
+Largo Plazo Corto Plazo Perspectiva
+Banca Múltiple, Grupo Financiero BBVA Bancomer
+Standard and Poor's
+Calificación de Emisor - Moneda Extranjera
+BBB
+A-2
+Negativa
+Calificación de Emisor - Moneda Local
+BBB
+A-2
+Negativa
+Escala Nacional
+MxAAA
+MxA-1+
+Estable
+Fortaleza del Perfil Crediticio
+bbb+
+Moody's
+Calificación de Depósitos - Moneda Extranjera
+Baal
+P-2
+Negativa
+Calificación de Depósitos - Moneda Local
+Baal
+P-2
+Negativa
+Calificación de Depósitos - Escala Nacional
+Aaa.mx
+MX-1
+Fortaleza Financiera
+baal
+Fitch
+Calificación Internacional - Moneda Extranjera
+BBB
+F2
+Estable
+Calificación Internacional - Moneda Local
+BBB
+F2
+Estable
+Calificación Nacional
+AAA(mex)
+F1 + (mex)
+Estable
+Viabilidad Financiera
+bbb
+Calificaciones Seguros BBVA Bancomer, S.A. de C.V.
+Escala Nacional Perspectiva
+Fitch
+AAA(mex)
+Estable
+53

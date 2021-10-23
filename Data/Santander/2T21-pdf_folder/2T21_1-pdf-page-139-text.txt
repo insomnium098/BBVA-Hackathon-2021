@@ -1,0 +1,158 @@
+90.00%
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+&
+0.00%
+9.
+20
+20
+DEA 1M
+DEA 3M
+DEA 6M
+DEA 12M
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+FBK205L DC094
+Pago de Derechos
+bajo distintos valores del Valor Observado
+$120
+$100
+$80
+$60
+$40
+$20
+$-
+0
+50
+100
+150
+Valor Observado
+Fechas de Observación 1 a 3
+Fechas de Ejercicio a: 3
+Fecha de Ejercicio 4
+Nivel de mercado Valor observado Fechas de Observación 1a3 Fechas de Ejercicio 1 a 3 Fecha de Ejercicio 4
+0.00
+0.00
+0.00
+0.00
+Ps. 70.00
+15.68
+5.00
+0.00
+0.00
+Ps. 70.00
+31.36
+10.00
+0.00
+0.00
+Ps. 70.00
+47.04
+15.00
+0.00
+0.00
+Ps. 70.00
+62.72
+20.00
+0.00
+0.00
+Ps. 70.00
+78.40
+25.00
+0.00
+0.00
+Ps. 70.00
+94.08
+30.00
+0.00
+0.00
+Ps. 70.00
+109.76
+35.00
+0.00
+0.00
+Ps. 70.00
+125.44
+40.00
+0.00
+0.00
+Ps. 70.00
+141.12
+45.00
+0.00
+0.00
+Ps. 70.00
+156.80
+50.00
+0.00
+0.00
+Ps. 70.00
+172.47
+55.00
+0.00
+0.00
+Ps. 70.00
+188.15
+60.00
+0.00
+0.00
+Ps. 70.00
+203.83
+65.00
+0.00
+0.00
+Ps. 75.00
+219.51
+70.00
+0.00
+0.00
+Ps. 80.00
+235.19
+75.00
+0.00
+0.00
+Ps. 85.00
+250.87
+80.00
+0.00
+0.00
+Ps. 90.00
+266.55
+85.00
+0.00
+0.00
+Ps. 95.00
+282.23
+90.00
+2.40
+0.00
+Ps. 102.40
+297.91
+95.00
+2.40
+0.00
+Ps. 102.40
+313.59
+100.00
+0.00
+102.40
+Ps. 102.40
+329.27
+105.00
+0.00
+102.40
+Ps. 102.40
+344.95
+110.00
+0.00
+102.40
+Ps. 102.40
+Reporte de Resultados | 2T.2021
+Santander
+Banco Santander México
+137

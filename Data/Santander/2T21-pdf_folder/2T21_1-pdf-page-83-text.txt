@@ -1,0 +1,92 @@
+que se reconocen en el
+pasivo 1,706
+Participación de los trabajadores en las
+21
+utilidades diferida (neta)
+26-L
+0
+Inversiones del plan de pensiones por
+22
+beneficios definidos
+26- N
+0
+BG13= 34,161 Menos:
+inversiones permanentes
+en subsidiarias 28,617;
+inversiones permanentes
+en asociadas 2,202; otras
+inversiones que computan
+Inversiones en cámaras de
+como activo en riesgo
+23
+compensación
+26-P
+457
+2,884
+Pasivo
+Impuestos a la utilidad diferida (a
+24
+cargo) asociados al crédito mercantil
+8
+Impuestos a la utilidad diferida (a
+25
+cargo) asociados a otros intangibles
+9
+Pasivos del plan de pensiones por
+beneficios definidos sin acceso
+26
+irrestricto e ilimitado
+15
+Impuestos a la utilidad diferida (a
+cargo) asociados al plan de pensiones
+27
+por beneficios definidos
+15
+Impuestos a la utilidad diferida (a
+cargo) asociados a otros distintos a los
+28
+anteriores
+21
+Obligaciones subordinadas monto que
+29
+cumple con el Anexo 1-R
+31
+Obligaciones subordinadas sujetas a
+transitoriedad que computan como
+30
+Capital No Fundamental
+33
+Obligaciones subordinadas monto que
+31
+cumple con el Anexo 1-S
+46
+Obligaciones subordinadas sujetas a
+transitoriedad que computan como
+32
+capital complementario
+47
+Impuestos a la utilidad diferida (a
+cargo) asociados a cargos diferidos y
+33
+pagos anticipados
+26 J
+Capital contable
+Capital contribuido que cumple con el
+34
+Anexo 1-Q
+1
+35,125
+BG29
+BG30= 124,710 Menos:
+otros elementos del
+capital ganado 31,756
+Mas: Efecto acumulado
+35
+Resultado de ejercicios anteriores
+2
+92,945
+por conversión 9
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+81

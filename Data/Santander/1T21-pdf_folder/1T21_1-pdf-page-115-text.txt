@@ -1,0 +1,68 @@
+El monto de las llamadas de margen realizadas durante el trimestre fue el necesario para cubrir tanto las aportaciones en mercados organizados
+como los requeridos en los contratos de colaterales.
+Durante el primer trimestre de 2021 no se dieron incumplimientos por parte de las contrapartes.
+Análisis de Sensibilidad
+Identificación de Riesgos
+Las medidas de sensibilidad de riesgo de mercado, asociadas a valores y a instrumentos financieros derivados, son aquéllas que miden
+la
+variación (sensibilidad) del valor de mercado del instrumento financiero de que se trate, ante variaciones en cada uno de los factores de
+riesgo
+asociados al mismo.
+La sensibilidad del valor de un instrumento financiero ante modificaciones en los factores de mercado, se obtiene mediante la revaluación
+completa del instrumento.
+A
+continuación se detallan las sensibilidades de acuerdo a cada factor de riesgo y los consumos históricos asociados de la cartera de negociación.
+La estrategia de gestión de Banco Santander se integra con posiciones de valores y de instrumentos financieros derivados. Estos últimos se
+contratan en gran medida para mitigar el riesgo de mercado de los primeros. En atención a lo anterior, las sensibilidades o exposiciones
+expuestas a continuación consideran ambos tipos de instrumentos en su conjunto.
+1.
+Sensibilidad a los factores de riesgo de tipo Equity ("Delta EQ")
+La Delta EQ muestra el cambio en el valor del portafolio en relación a cambios en los precios de activos de renta variable.
+La Delta EQ calculada, para el caso de instrumentos financieros derivados considera la variación relativa de 1% en los precios de
+los
+activos
+subyacentes
+de
+renta
+variable,
+para
+el
+caso
+de
+títulos
+de
+renta
+variable
+considera
+la
+variación
+relativa
+del
+1%
+del
+precio
+de
+mercado
+del título.
+2.
+Sensibilidad a los factores de riesgo de tipo Foreign Exchange ("Delta FX")
+La Delta FX muestra el cambio en el valor del portafolio en relación a cambios en los precios de activos de tipo de cambio.
+La Delta FX calculada, para el caso de instrumentos financieros derivados considera la variación relativa de 1% en los precios de los
+activos subyacentes de tipo de cambio, para el caso de posiciones en divisas considera la variación relativa del 1% del tipo de cambio
+correspondiente.
+3.
+Sensibilidad a los factores de riesgo de tipo Volatilidad ("Vega")
+La sensibilidad Vega es la medida resultante de cambios en la volatilidad del activo subyacente (activo de referencia). El riesgo Vega es
+el riesgo de que haya un cambio en la volatilidad del valor del activo subyacente, que se traduzca en un cambio en el valor del mercado
+del instrumento financiero derivado.
+La sensibilidad Vega calculada, considera la variación absoluta de un 1% en la volatilidad asociada al valor del activo subyacente.
+4.
+Sensibilidad a los factores de riesgo de tipo Tasa de Interés ("Rho")
+Esta sensibilidad cuantifica la variación en el valor de los instrumentos financieros de la cartera de negociación ante una subida paralela
+en las curvas de tasa de interés de un punto base.
+En la tabla siguiente se presentan las sensibilidades antes descritas correspondientes a la posición de la cartera de negociación, al cierre
+del primer trimestre de 2021:
+Reporte de Resultados | 1T.2021
+Santander
+Banco Santander México
+113

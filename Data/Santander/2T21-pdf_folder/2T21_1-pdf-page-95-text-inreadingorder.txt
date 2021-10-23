@@ -1,0 +1,85 @@
+Nivel de capital al que corresponde el título que
+cumple con el anexo 1-Q, 1-R, o 1-S de la
+Circular Única de Bancos
+Nivel del instrumento dentro del Grupo
+Tipo de instrumento
+Monto del Instrumento reconocido como capital
+regulatorio
+Valor nominal del instrumento
+Denominación del instrumento
+Clasificación contable del instrumento
+Fecha de emisión
+Tipo de Vencimiento
+Fecha de vencimiento
+Cláusula de pago anticipado
+Primera fecha de amortización anticipada
+voluntaria
+La cláusula de amortización anticipada ¿incluye
+la existencia de una amortización anticipada
+como consecuencia de un evento fiscal o
+regulatorio?
+5
+6
+7
+8
+9
+9A
+10
+11
+12
+13
+14
+15
+15A
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Capital Básico No Fundamental o Capital Básico 2.
+Deuda Subordinada emitida desde la Institución de Crédito del
+Grupo.
+Instrumentos de capital emitidos conforme a legislación extranjera,
+conocidos como obligaciones subordinadas, no preferentes,
+perpetuas y susceptibles de ser convertidas en acciones.
+Ps.9,018,160,682.00
+Ps.9,953,100,000 (USD $500,000,000.00)
+USD.
+El principal se contabiliza como deuda, los cupones que se paguen
+como capital.
+23 de diciembre de 2016.
+Perpetuidad.
+Los Instrumentos de Capital son perpetuos y, por lo tanto, no tienen
+fecha de vencimiento.
+Sujeto a ciertas condiciones, incluyendo, más no limitado a, la
+autorización previa de Banco de México, el Emisor podrá pagar
+anticipadamente el Instrumento a par, más los intereses
+devengados y no pagados a la fecha en que pretenda realizar dicho
+pago, más Pagos Adicionales, en su caso, (i) por el valor total o un
+monto parcial en una Fecha de Pago Anticipado Voluntario, o (ii) en
+su totalidad y en cualquier fecha de presentarse un Evento de
+Amortización Anticipada por Razones Fiscales o un Evento de
+Amortización por Razones Especiales.
+Enero 20, 2022.
+Si.
+Evento de Amortización Anticipada por Razones Fiscales
+El Emisor podrá, en cualquier momento, sujeto al cumplimiento de
+ciertas condiciones, a opción y discreción del Emisor, amortizar los
+Instrumentos en su totalidad (hasta el Monto de Principal Actual en
+ese momento), pero no de forma parcial, al valor nominal más los
+intereses pagaderos, devengados y no pagados (y que no hubieran
+sido cancelados), con respecto a los Instrumentos, más los Intereses
+Adicionales, si los hubiere, hasta, pero excluyendo, la fecha de
+amortización, sí como resultado de que ocurra cualquier
+modificación o cambio en las leyes fiscales en México, que afecten y
+que resulten en una tasa de retención mayor sobre el pago de
+intereses de los Instrumentos.
+Evento de Amortización Anticipada por Razones Especiales
+El Emisor podrá, en cualquier momento, sujeto al cumplimiento de
+ciertas condiciones, a opción y discreción del Emisor, amortizar los
+Instrumentos en su totalidad (hasta el Monto de Principal Actual en
+ese momento), pero no de forma parcial, al valor nominal más los
+intereses pagaderos, devengados y no pagados (y que no hubieran
+sido cancelados), con respecto a los Instrumentos, más los
+Intereses Adicionales, si los hubiere, hasta, pero excluyendo, la
+fecha de amortización, sí; (i) determina razonablemente que, como
+resultado de (a) que ocurra cualquier modificación o cambio en las
+Santander
+93

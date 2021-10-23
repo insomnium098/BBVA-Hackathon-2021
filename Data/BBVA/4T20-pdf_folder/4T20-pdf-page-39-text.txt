@@ -1,0 +1,43 @@
+BBVA
+Creando Oportunidades
+Riesgo de Liquirez
+Información Cuantitativa
+(a) Límites de concentración respecto de los distintos grupos de garantías recibidas y las
+fuentes principales de financiamiento.
+De manera adicional a los ratios regulatorios de liquidez y el esquema de control del
+riesgo de liquidez de BBVA México se basan en el establecimiento de límites en tres ejes
+fundamentales: a) autofinanciación a través del ratio LtSCD O Loan to Stable Customer
+Deposits (relación máxima de la financiación de la inversión crediticia neta con recursos
+estables de clientes); b) diversificación de la estructura de financiación a través de un
+importe máximo de Financiación a Corto Plazo (FCP); y c) capacidad de absorción de
+shocks de liquidez a través de la Capacidad Básica a 30 días (CB 30d - -cociente de buffer
+de liquidez disponible y las salidas netas de liquidez previstas dentro del plazo por vencer
+correspondiente). También se tienen alertas para prevenir que los límites no sean
+vulnerados, incluyendo el seguimiento en otros plazos por vencer. Asimismo, se tienen
+métricas para identificar con carácter anticipatorio posibles amenazas para permitir la
+adopción, en su caso, de las acciones de gestión preventivas necesarias, incluidos
+indicadores de concentración del financiamiento, liquidez en divisas, diversificación de
+la financiación a largo plazo, liquidez intradía, entre otros.
+Trimestral
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Exposición de Riesgo de Liquidez: promedio de cierres mensuales
+Margen absoluto en relación a su límite (positivo sin exceso, negativo con exceso)
+4T20
+LtSCD
+27%
+FCP 12m
+261,408 millones MXP
+CB 30d
+86%
+Anual
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Exposición de Riesgo de Liquidez: promedio de cierres mensuales
+Margen absoluto en relación a su límite (positivo sin exceso, negativo con exceso)
+2020
+LtSCD
+18%
+FCP 12m
+223,727 mill MXP
+CB 30d
+66%
+39

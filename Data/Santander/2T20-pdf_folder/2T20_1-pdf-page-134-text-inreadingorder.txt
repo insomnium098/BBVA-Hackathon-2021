@@ -1,0 +1,83 @@
+Mínimo
+3,019.34
+2,680.35
+3,230.68
+2,937.36
+2,954.66
+2,937.36
+2,954.66
+3,282.78
+2,385.82
+3,640.91
+3,329.49
+2,385.82
+2,662.99
+2,760.23
+3,077.92
+DEA 1M
+DEA 6M
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+Máximo
+3,686.58
+3,290.52
+3,697.40
+3,672.29
+3,782.27
+3,527.18
+3,514.62
+3,782.27
+3,865.18
+3,808.26
+3,865.18
+3,420.56
+2,996.08
+3,094.47
+3,384.29
+(Títulos)
+612,111,448.83
+670,496,806.23
+480,238,812.63
+495,509,098.11
+450,435,611.05
+466,359,582.24
+473,592,625.64
+427,656,156.48
+629,401,790.51
+349,100,554.35
+541,800,121.55
+1,045,078,385.71
+612,640,637.07
+540,372,205.55
+682,953,924.03
+2015
+2016
+2017
+2018
+2019
+2° Sem. 2018
+1° Sem. 2019
+2° Sem. 2019
+1° Sem. 2020
+enero 2020
+febrero 2020
+marzo 2020
+abril 2020
+mayo 2020
+junio 2020
+Volatilidad Histórica:
+Reporte de Resultados | 2T.2020
+Banco Santander México
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+DEA 3M
+DEA 12M
+Santander
+133

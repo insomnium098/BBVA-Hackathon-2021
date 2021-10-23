@@ -1,0 +1,516 @@
+GRUPO FINANCIERO
+BANORTE
+3T20
+4T20
+21
+62
+-
+-
+-
+-
+123
+(30)
+-
+-
+-
+-
+-
+-
+-
+-
+145
+32
+670,163
+669,495
+-
+-
+-
+-
+670,163
+669,495
+240,237
+238,032
+-
+-
+240,237
+238,040
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1,066
+204
+481,539
+476,276
+100,948
+97,374
+1,252,794
+1,243,176
+-
+-
+292,420
+292,701
+308,883
+308,516
+7,786
+7,472
+316,669
+315,988
+677,620
+633,424
+289,443
+282,054
+432,443
+421,090
+-
+-
+2,101
+3,325
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+109
+167
+180
+178
+-
+-
+-
+-
+304,055
+295,069
+2,315,039
+2,243,996
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+2,315,039
+2,243,996
+34
+IV. Estados Financieros
+GFNorte - Cuentas de Orden
+(Millones de Pesos)
+Operaciones por Cuenta de Terceros
+Bancos de clientes
+Dividendos por cobrar de clientes
+Intereses por cobrar de clientes
+Liquidación de operaciones de clientes
+Premios de clientes
+Liquidación con divisas de clientes
+Cuentas margen operaciones con futuros
+Otras cuentas corrientes
+Clientes Cuentas Corrientes
+Valores de clientes recibidos en custodia
+Valores y documentos recibidos en garantía
+Valores de clientes en el extranjero
+Valores de Clientes
+Operaciones de reporto de clientes
+Operac. de préstamo de valores de clientes
+Colaterales recibidos en garantía por cuentas de
+Compra de futs y cont. Adelan. (monto nacional)
+Venta de futs y cont. Adelan. (monto nacional)
+Operac. de compra de opciones de clientes
+Operac. de venta de opciones de clientes
+Operac. de Compra de paquetes de instrumentos
+Operac. de Venta de paquetes de instrumentos
+derivados de clientes
+Fideicomisos administrados
+Operaciones por Cuenta de Clientes
+Op. de Bca de Inv Cta de Terceros (Neto)
+TOTALES POR CUENTA DE TERCEROS
+Avales otorgados
+Compromisos Crediticios
+Fideicomisos
+Bienes en Fideicomiso o Mandato
+Bienes en custodia o administración
+Colaterales recibidos por la entidad
+Colaterales recibidos o vendidos o entregados por la
+Giros en tránsito
+Depósitos de bienes
+Cartas de Créd. a la Soc. entreg en garantía
+Valores a la Sociedad entreg. en custodia
+Valores Gubern. de la sociedad en custodia
+Valores de la sociedad entreg. en garantía
+Valores en el extranjero de la sociedad
+Liquid. con divisas de Soc. en el extranjero
+Adeudo al fondo de contingencias
+Activos y Pasivos Contingentes
+Int.dev. no cob. deriv. de cart. de crédito vencida
+Inver. fondos del sist. de ahorro para retiro
+Integración de la cartera crediticia
+Otras cuentas de registro
+Operaciones por Cuenta Propia
+Títulos a recibir por reporto
+(Menos) Acreedores por reporto
+Títulos a recibir por reporto (Neto)
+Deudores por reporto
+(Menos) Títulos a entregar por reporto
+Títulos a entregar por reporto (Neto)
+TOTALES POR CUENTA PROPIA
+Cuarto Trimestre de 2020
+1T19
+4T19
+709,242
+716,128
+709,242
+716,128
+184,937
+184,063
+184,939
+184,063
+89,878
+83,298
+459,754
+451,424
+82,947
+96,100
+1,252,008
+1,263,851
+316,687
+286,019
+445,853
+452,406
+1,344
+7,615
+447,197
+460,021
+687,330
+631,539
+230,687
+213,885
+327,444
+304,448
+2,658
+3,107
+266,235
+280,016
+2,278,926
+2,179,383
+2,278,926
+2,179,383
+2T19
+726,007
+726,007
+187,339
+187,340
+86,428
+461,107
+101,587
+1,288,600
+284,174
+456,152
+8,039
+464,191
+693,335
+184,929
+287,246
+2,318
+272,258
+2,188,832
+2,188,832
+3T19
+744,672
+744,672
+184,220
+184,239
+88,900
+457,359
+104,928
+1,307,129
+275,096
+457,200
+7,964
+465,164
+694,066
+233,652
+322,840
+1,764
+278,650
+2,271,594
+2,271,594
+1T20
+605,481
+605,481
+179,276
+179,276
+1,036
+359,588
+87,728
+1,053,090
+294,733
+422,525
+7,326
+429,851
+660,642
+163,758
+247,107
+2,766
+292,976
+2,092,207
+2,092,207
+2T20
+641,824
+641,824
+163,653
+163,653
+1,054
+328,360
+88,149
+1,058,087
+293,470
+319,659
+7,645
+327,304
+669,104
+240,920
+307,649
+2,867
+289,983
+2,131,665
+2,131,665
+34
+-
+-
+32
+-
+-
+-
+-
+66
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+54
+633
+-
+-
+-
+-
+-
+-
+-
+-
+35
+-
+-
+(136)
+(270)
+-
+-
+-
+-
+(101)
+(245)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+64
+318
+-
+-
+-
+-
+-
+-
+-
+-
+35
+-
+-
+136
+-
+-
+-
+-
+170
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+39
+323
+-
+-
+-
+-
+-
+-
+-
+-
+56
+-
+-
+143
+-
+-
+-
+-
+199
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+50
+299
+-
+-
+-
+-
+-
+-
+-
+-
+85
+-
+-
+208
+-
+-
+-
+-
+293
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+79
+295
+-
+-
+-
+-
+-
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+79
+289
+-
+-
+-
+-
+-
+-
+-
+-
+clientes
+derivados
+Mandatos
+inst.

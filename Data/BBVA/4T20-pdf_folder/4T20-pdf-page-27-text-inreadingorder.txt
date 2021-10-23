@@ -1,0 +1,33 @@
+BBVA
+Creando Oportunidades
+f)
+Rendimiento sobre capital (ROE): Utilidad neta (anualizada) / Capital contable promedio.
+g)
+Rendimiento sobre activo (ROA): Utilidad neta (anualizada) / Activo total promedio.
+CALIDAD DE ACTIVOS
+h)
+Índice de morosidad: Cartera vencida / Cartera total bruta.
+i)
+Índice de cobertura: Estimación preventiva para riesgos crediticios / Cartera vencida
+SOLVENCIA (Información de BBVA México).
+j)
+Índice de Capital Fundamental: Capital Fundamental / Activos sujetos a riesgo de crédito, mercado y operacional (aplicado en México a
+partir de enero de 2013).
+k)
+Índice de capital básico total: Capital básico total / Activos sujetos a riesgo de crédito, mercado y operacional.
+I)
+Índice de capital total: Capital neto / Activos sujetos a riesgo de crédito, mercado y operacional.
+m)
+Coeficiente de Apalancamiento: Medida del capital / Medida de la exposición.
+LIQUIDEZ
+n)
+Índice de liquidez: Activo líquido / Pasivo líquido.
+Activo líquido: Disponibilidades + títulos para negociar + títulos disponibles para la venta.
+Pasivo líquido: Depósitos de exigibilidad inmediata + préstamos bancarios y de otros organismos de exigibilidad inmediata +
+préstamos bancarios y de otros organismos de corto plazo.
+o)
+Liquidez: Cartera Vigente / Captación bancaria (vista + plazo).
+p)
+Coeficiente de cobertura de liquidez (CCL): Activos Líquidos Computables / Salidas Netas en estrés a 30 días (Información de BBVA
+México).
+27

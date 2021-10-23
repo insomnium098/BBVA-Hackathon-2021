@@ -1,0 +1,34 @@
+Table
+TIPO DE DEUDA ,MONEDA ,FECHA DE EMISIÓN ,MONTO ORIGINAL ,MONTO ORIGINAL VALORIZADO) ,MONTO ACTUAL ,PLAZO ,TASA ,FECHA DE VENCIMIENTO ,PAGO DE INTERESES 
+Obligaciones Q BANORTE 08U ,UDIS ,11-mar-08 ,495 ,"1,749 ","1,829 ",20 años ,4.950% ,15-feb-28 ,182 días 
+Obligaciones DIIs emisión 2016 (BANOC36 311004) ,USD ,04-oct-16 ,500 ,"9,607 ","5,858 ",15 años ,5.750% ,04-oct-26 ,180 días 
+Obligaciones DIIs emisión 2017 (BANOD19_999999) ,USD ,06-jul-17 ,350 ,"6,413 ","6,968 ",Perpetuo ,6.875% ,06-jul-22 ,Trimestral 
+Obligaciones Dlls emisión 2017 (BANOE91 _999999) ,USD ,06-jul-17 ,550 ,"10,077 ","10,950 ",Perpetuo ,7.625% ,10-ene-28 ,Trimestral 
+Eurobono (francos suizos) emisión 2018 (BANO589) ,CHF ,14-jun-18 ,100 ,"1,983 ","2,253 ",3.5 años ,0.875% ,14-dic-21 ,Anual 
+Certificados bursátiles 94 BINTER 16U ,UDIS ,13-oct-16 ,365 ,"2,000 ","2,412 ",10 años ,4.970% ,01-oct-26 ,Semestral 
+Certificados bursátiles 94 BANORTE 18-2 ,MXN ,29-nov-18 ,"2,663 ","2,663 ","2,663 ",4 años ,TIIE+0.28% ,24-nov-22 ,28 días 
+Certificados bursátiles 94 BANORTE 19 ,MXN ,17-may-19 ,"5,400 ","5,400 ","5,400 ",3 años ,TIIE +0.13% ,13-may-22 ,28 días 
+Certificados bursátiles 94 BANORTE 19-2 ,MXN ,17-may-19 ,"1,500 ","1,500 ","1,500 ",5 años ,TIIE +0.17% ,10-may-24 ,28 días 
+Eurobono (francos suizos) emisión 2019 (BANO397) ,CHF ,11-abr-19 ,250 ,"4,694 ","5,632 ",3.5 años ,1.550% ,11-oct-22 ,Anual 
+Obligaciones DIIs emisión 2019 (BANOA64_999999) ,USD ,27-jun-19 ,600 ,"11,501 ","11,945 ",Perpetuo ,6.750% ,27-sep-24 ,Trimestral 
+Obligaciones Dlls emisión 2019 BANOB48_999999) ,USD ,27-jun-19 ,500 ,"9,584 ","9,954 ",Perpetuo ,7.500% ,27-jun-29 ,Trimestral 
+Eurobono (francos suizos) emisión 2019 (BANO343) ,CHF ,18-sep-19 ,160 ,"3,112 ","3,604 ",4.3 años ,0.450% ,18-dic-23 ,Anual 
+Eurobono (francos suizos) emisión 2020 (BANO664) ,CHF ,06-mar-20 ,225 ,"4,826 ","5,069 ",4.8 años ,0.500% ,06-dic-24 ,Anual 
+Certificados bursátiles 94 BANORTE 20 ,MXN ,08-may-20 ,"11,000 ","11,000 ","11,000 ",1 año ,TIIE+0.00% ,10-may-21 ,28 días 
+Obligaciones DIIs emisión 2020 (BANOC21 999999) ,USD ,14-jul-20 ,500 ,"11,309 ","9,954 ",Perpetuo ,8.375% ,14-oct-30 ,Trimestral 
+Certificados bursátiles 94 BANORTE 20U ,UDIS ,30-sep-20 ,107 ,700 ,706 ,10 años ,2.760% ,18-sep-30 ,182 días 
+
+
+Table
+,MONEDA NACIONAL ,MONEDA EXTRANJERA ,TOTAL 
+Préstamos de Bancos del Extranjero concentrados desde el extranjero ,- ,0 ,0 
+Préstamos de Banca de Desarrollo ,"12,922 ","5,706 ","18,628 "
+Préstamos de Banca de Fomento ,"9,775 ","1,261 ","11,037 "
+Call y Préstamos de Bancos ,"19,787 ",- ,"19,787 "
+Préstamos de Fondos Fiduciarios ,56 ,- ,56 
+Provisiones de Intereses ,934 ,- ,934 
+,"43,474 ","6,967 ","50,441 "
+Eliminaciones ,,,"(14,420) "
+Total ,,,"36,021 "
+
+

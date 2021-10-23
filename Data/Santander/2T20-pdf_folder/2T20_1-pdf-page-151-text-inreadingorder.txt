@@ -1,0 +1,201 @@
+Estado de la cobertura de Títulos Opcionales al 30 de junio de 2020
+Emisoras: SXE009R DC058, SXE108R DC063, XLE110R DC013, MSF105L DC019, SPX012R DV008, FXI106R DC030, FXI107R DC031, KOC107R
+Periodo en meses
+Número de
+Coeficiente
+usado para cálculo
+títulos
+Precio de mercado
+Beta
+de Beta
+464,000
+0.00
+1.0000
+12
+808,500
+0.00
+1.0000
+12
+1,360,000
+0.00
+1.0000
+12
+705,000
+0.00
+1.0000
+12
+930,000
+0.00
+1.0000
+12
+500,700
+0.00
+1.0000
+12
+497,000
+0.00
+1.0000
+12
+236,200
+0.00
+1.0000
+12
+464,000
+104.46
+1.0000
+12
+808,500
+90.89
+1.0000
+12
+1,360,000
+93.34
+1.0000
+12
+705,000
+100.44
+1.0000
+12
+930,000
+99.44
+1.0000
+12
+500,700
+95.82
+1.0000
+12
+497,000
+0.00
+1.0000
+12
+236,200
+0.00
+1.0000
+12
+Total
+(55.233840)
+55.233840
+(68.719670)
+68.719670
+(30,216.400550)
+30,216.400550
+(2,221.596810)
+2,221.596810
+482.188100
+(482.188100)
+(19,671.856290)
+Valores en cobertura
+Tipo de valor
+Cobertura
+Cobertura
+Cobertura
+Cobertura
+Cobertura
+Cobertura
+Cobertura
+Cobertura
+Obligación
+Obligación
+Obligación
+Obligación
+Obligación
+Obligación
+Obligación
+Obligación
+Emisora/Serie
+SXE009R DC058
+SXE108R DC063
+XLE110R DC013
+MSF105L DC019
+SPX012R DV008
+FXI106R DC030
+Reporte de Resultados | 2T.2020
+Banco Santander México
+DC005.
+Coefic. Delta (en caso
+de opciones y titulos
+opcionales)
+1.000000
+1.000000
+1.000000
+1.000000
+1.000000
+1.000000
+1.000000
+1.000000
+0.000119
+0.000085
+0.022218
+0.003151
+0.000518
+0.039289
+0.000216
+0.001524
+Delta en
+términos de
+emisoras
+(55.2338)
+(30,216.4006)
+(2,221.5968)
+(19,671.8563)
+(359.9259)
+30,216.4006
+2,221.5968
+(482.1881)
+19,671.8563
+(107.2094)
+Emisora / Serie
+SXE009R DC058
+SXE108R DC063
+XLE110R DC013
+MSF105L DC019
+SPX012R DV008
+FXI106R DC030
+FXI107R DC031
+KOC107R DC005
+SXE009R DC058
+SXE108R DC063
+XLE110R DC013
+MSF105L DC019
+SPX012R DV008
+FXI106R DC030
+FXI107R DC031
+KOC107R DC005
+Delta en terminos de emisoras
+Delta titulos
+464,000.00
+808,500.00
+1,360,000.00
+705,000.00
+930,000.00
+500,700.00
+497,000.0000
+236,200.0000
+55.23
+68.72
+30,216.40
+2,221.60
+482.19
+19,671.86
+107.2094
+359.9259
+(68.7197)
+482.1881
+107.2094
+55.2338
+68.7197
+359.9259
+Tipo de valor
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Obligación
+Cobertura
+Santander
+150

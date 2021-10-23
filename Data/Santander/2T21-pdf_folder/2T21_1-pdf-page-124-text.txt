@@ -1,0 +1,120 @@
+Nivel de mercado
+Valor observado
+Pago de derechos
+206.00
+7903.27
+Ps. 206.00
+211.00
+8095.10
+Ps. 211.00
+216.00
+8286.93
+Ps. 216.00
+221.00
+8478.75
+Ps. 221.00
+226.00
+8670.58
+Ps. 226.00
+231.00
+8862.41
+Ps. 231.00
+ii) EURO STOXX 50 ESG-X (SX5EESGX)
+Descripción
+El índice EURO STOXX 50 ESG-X se basa en el índice EURO STOXX 50. Se aplica un conjunto de criterios de exclusión ESG estandarizados, basadas
+en las políticas responsables de los principales propietarios de activos, con el objetivo de reducir los riesgos idiosincrásicos y de reputación.
+STOXX excluirá a las empresas que están involucradas en armas controvertidas, son productores de tabaco y que obtienen ingresos de la
+extracción o exploración de carbón térmico, o tienen capacidad de generación de energía que utiliza carbón térmico.
+Metodología
+El universo del índice está definido por una selección del conjunto de intersecciones de STOXX Europe 600 e Índice STOXX ESG Leaders. Basado
+en los percentiles de los puntajes de ESG, se calcula la puntuación general media. Los percentiles de los puntajes ESG necesarios
+se
+obtienen
+de
+STOXX Global ESG Leaders Índices. A diferencia de los índices STOXX Global ESG Leaders, solo para los índices blue-chip se lanzará el Índice
+general y no se establecerán índices especializados (Ambiental, Gobernanza, Social). Los índices STOXX ESG Leaders Blue Chip se seleccionan
+en función de la capitalización de mercado de libre flotación. Los 50 primeros componentes se seleccionan dentro de cada región. STOXX
+excluirá
+a
+las
+empresas que están involucradas en armas controvertidas, son productores de tabaco y que obtienen ingresos de la extracción o exploración
+de carbón térmico, o tienen capacidad de generación de energía que utiliza carbón térmico.
+Frecuencia de la Revisión
+Los índices se revisan anualmente en septiembre. La fecha límite de revisión es el último día de difusión del mes anterior al mes de revisión.
+Ponderación
+El índice es ponderado por capitalización de mercado de libre flotación. El peso de cada componente depende de un factor de ponderación
+basado en la Calificación ESG general.
+A continuación, la lista de valores que componen la muestra:
+Ticker
+Nombre
+Ticker
+Nombre
+OR FP Equity
+L'Oreal SA
+ENI IM Equity
+Eni SpA
+DG FP Equity
+Vinci SA
+ENGI FP Equity
+Engie SA
+ASML NA Equity
+ASML Holding NV
+ABI BB Equity
+Anheuser-Busch InBev SA/NV
+SAN SQ Equity
+Banco Santander SA
+ADYEN NA Equity
+Adyen NV
+PHIA NA Equity
+Koninklijke Philips NV
+SAN FP Equity
+Sanofi
+TTE FP Equity
+TotalEnergies SE
+ENEL IM Equity
+Enel SpA
+Al FP Equity
+Air Liquide SA
+SU FP Equity
+Schneider Electric SE
+CS FP Equity
+AXA SA
+ALV GY Equity
+Allianz SE
+BNP FP Equity
+BNP Paribas SA
+BAYN GY Equity
+Bayer AG
+BN FP Equity
+Danone SA
+BMW GY Equity
+Bayerische Motoren Werke AG
+VIV FP Equity
+Vivendi SE
+CRH ID Equity
+CRH PLC
+EL FP Equity
+EssilorLuxottica SA
+BAS GY Equity
+BASF SE
+MC FP Equity
+LVMH Moet Hennessy Louis Vuitton SE
+SIE GY Equity
+Siemens AG
+KER FP Equity
+Kering SA
+VOW3 GY Equity
+Volkswagen AG
+AMS SQ Equity
+Amadeus IT Group SA
+MUV2 GY Equity
+Munich Re
+AD NA Equity
+Koninklijke Ahold Delhaize NV
+SAP GY Equity
+SAP SE
+Reporte de Resultados |
+2T.2021
+Santander
+Banco Santander México
+122

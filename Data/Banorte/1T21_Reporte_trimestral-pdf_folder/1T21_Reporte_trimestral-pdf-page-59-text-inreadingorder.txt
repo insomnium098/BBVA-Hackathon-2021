@@ -1,0 +1,170 @@
+GRUPO FINANCIERO
+BANORTE
+OPERACIONES
+195
+206
+0
+0
+0
+0
+13
+9
+59
+290
+19
+21
+2,829
+3,775
+2
+118
+40
+3
+2
+75
+3
+12
+5
+59
+V. Anexos
+PRODUCTO
+Forwards de Divisa
+Forwards de Divisa
+Forwards de Divisa
+Forwards de Divisa
+Forwards de Divisa
+Forwards de Divisa
+Opciones de Divisa
+Opciones de Divisa
+Opciones de Tasa
+Opciones de Tasa
+Opciones de Tasa
+Opciones de Tasa
+Swaps de Tasa
+Swaps de Tasa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Derivados de Crédito
+Información Financiera 1T21
+OPERACIONES CON INSTRUMENTOS
+DERIVADOS AL 1T21
+(Millones de Pesos)
+Posición Pasiva
+Instrumento
+Valor Razonable
+Futuros TIE 28
+Forward de divisa
+Opciones
+Opciones de tasas
+Opciones de divisa
+Swaps de tasas
+Swaps de divisas
+Swaps de crédito
+Total negociación
+Opciones
+Opciones de tasas
+Opciones de divisa
+Swaps de tasas
+Swaps de divisas
+Swaps de crédito
+Total cobertura
+Total posición
+MONTOS NOCIONALES EN OPERACIONES DERIVADAS AL 1T21
+(Millones de Pesos)
+TIPO
+SUBYACENTE
+NOCIONAL
+Compras
+Tipo de Cambio (USD/MXN)
+1,777
+Ventas
+Tipo de Cambio (USD/MXN)
+3,695
+Compras
+Tipo de Cambio (CAD/MXN)
+Ventas
+Tipo de Cambio (SEK/MXN)
+Compras
+Tipo de Cambio (EUR/USD)
+Ventas
+Tipo de Cambio (EUR/USD)
+Compras
+Tipo de Cambio (Dólar)
+17,582
+Ventas
+Tipo de Cambio (Dólar)
+14,762
+Compras
+TIIE
+20,439
+Ventas
+TIIE
+30,916
+Compras
+LIBOR
+5,707
+Ventas
+LIBOR
+5,947
+USD LIBOR
+LIBOR
+286,080
+MXN TIIE
+TIIE
+1,180,301
+CS USDMXN
+FIJO/VARIABLE
+148
+CS USDMXN
+VARIABLE/VARIABLE
+109,124
+CS USDMXN
+FIJO/FIJO
+22,407
+CS CHFMXN
+FIJO/FIJO
+9,185
+CS CHFMXN
+FIJO/VARIABLE
+5,152
+CS EURMXN
+FIJO/FIJO
+17,515
+CS UDIMXN
+FIJO/FIJO
+12,285
+CS GBPMXN
+FIJO/FIJO
+2,900
+CDS USD
+D2_PEMEX_150927
+1,075
+Futuros
+Forward
+Swaps
+Swaps
+-
+-
+-
+-
+-
+61
+213
+317
+199
+15,948
+7,968
+24,508
+5,367
+5,566
+30,073
+)
+0
+0
+0
+0

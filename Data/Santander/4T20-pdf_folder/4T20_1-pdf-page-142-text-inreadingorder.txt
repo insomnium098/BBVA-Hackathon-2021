@@ -1,0 +1,134 @@
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+Pago de derechos
+bajo distintos valores del valor observado
+o
+Valor observado
+Fechas de observación 1 a Fechas de observación 1a Fecha de observación
+0.00
+Ps. 0.00
+5.00
+Ps. 0.00
+10.00
+Ps. 0.00
+15.00
+Ps. 0.00
+20.00
+Ps. 0.00
+25.00
+Ps. 0.00
+30.00
+Ps. 0.00
+35.00
+Ps. 0.00
+40.00
+Ps. 0.00
+45.00
+Ps. 0.00
+50.00
+Ps. 0.00
+55.00
+Ps. 0.00
+60.00
+Ps. 0.00
+65.00
+Ps. 0.00
+70.00
+Ps. 0.00
+75.00
+Ps. 0.00
+80.00
+Ps. 0.00
+85.00
+Ps. 0.00
+DEA 1M
+Fechas de Ejercicio 1 a 3
+Fecha de Ejercicio 4
+DEA 3M
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps.0.00
+Ps. 0.00
+DEA 6M
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 75.00
+Ps. 80.00
+Ps. 85.00
+Ps. 90.00
+Ps. 95.00
+Santander
+DEA 12M
+150
+3
+NFX111L DC133
+Nivel de mercado
+Reporte de Resultados | 4T.2020
+Banco Santander México
+$120
+$100
+$80
+$60
+$40
+$20
+$-
+Fechas de Observación 1 a 3
+50
+100
+Valor
+observado
+3
+4
+0.00
+24.57
+49.14
+73.70
+98.27
+122.84
+147.41
+171.98
+196.54
+221.11
+245.68
+270.25
+294.82
+319.38
+343.95
+368.52
+393.09
+417.66
+140

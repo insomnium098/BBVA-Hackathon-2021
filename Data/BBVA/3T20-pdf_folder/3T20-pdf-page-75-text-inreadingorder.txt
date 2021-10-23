@@ -1,0 +1,107 @@
+BBVA
+Creando Oportunidades
+Activos en Riesgo BBVA México
+BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer
+Activos en Riesgo
+Septiembre 2020
+Millones de pesos
+Activos en Riesgo Crédito
+Ponderados al 10%
+Ponderados al 11.5%
+Ponderados al 20%
+Ponderados al 23%
+Ponderados al 50%
+Ponderados al 100%
+Ponderados al 115%
+Ponderados al 120%
+Ponderados al 150%
+Ponderados al 1250%
+Metodología Interna
+-CVA (RC06 B)
+-ECC (RC06C)
+-Contraparte
+-Relacionados
+-Reportos y Spot
+Activos en Riesgo Mercado
+Operaciones en moneda nacional con tasa nominal
+Operaciones en moneda nacional con tasa real O denominados en Udis
+Tasa de Rendimineto referida al salario minimo general (SMG)
+Tasa de interés operaciones en moneda extranjera con tasa nominal
+Posiciones en UDIs O con rendimiento referido al INPC
+Operaciones referidas al SMG
+Posiciones en divisas O con rendimiento indizado al tipo de cambio
+Posiciones en acciones O con rendimiento indizado al precio de una acción O
+grupo de acciones
+Sobretasa
+Gamma
+Vega
+Activos en riesgo operativo
+Total con Crédito, Mercado y Operativo
+Activos
+Ponderados
+por Riesgo
+Capital
+Requerido
+1,142,508
+2,055
+1,832
+16,461
+1,359
+419,005
+6,273
+1,272
+328
+858
+635,898
+27,905
+37
+18,833
+10,327
+60
+418,580
+317,046
+19,302
+5,349
+40,609
+12
+376
+17,291
+11,036
+6,557
+669
+333
+116,241
+1,677,328
+91,401
+164
+147
+1,317
+109
+33,520
+502
+102
+26
+69
+50,872
+2,232
+1,507
+826
+33,486
+25,364
+1,544
+428
+3,249
+30
+1,383
+883
+525
+54
+27
+9,299
+134,186
+5
+0
+3
+5
+1
+75

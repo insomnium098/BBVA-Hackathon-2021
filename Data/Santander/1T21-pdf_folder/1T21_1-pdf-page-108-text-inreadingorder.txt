@@ -1,0 +1,71 @@
+El
+riesgo de crédito de contrapartida se define como el riesgo que podría surgir por un incumplimiento total o parcial de las obligaciones
+financieras contraídas con la entidad. Es un riesgo crediticio de carácter bilateral, porque puede afectar a ambas partes de la transacción, y de
+carácter incierto, ya que está condicionado por el comportamiento de los mercados, que tienen carácter volátil.
+Los productos con exposición a este riesgo son los instrumentos derivados, operaciones con compromiso de recompra (reportos) y los préstamos
+de valores. La medición y control de este riesgo está a cargo de una unidad especializada y con estructura organizacional independiente de las
+áreas de negocio.
+Para el control de las líneas de contrapartida se utiliza el Riesgo Equivalente de Crédito (REC). El REC es la métrica que mide la máxima pérdida,
+dado un nivel de confianza, que se puede producir en una operación, como consecuencia del incumplimiento del contrato por parte de la
+contrapartida. Se trata de una métrica que sirve, por tanto, para estimar la exposición crediticia de una operación o conjunto de ellas mediante
+la ejecución de un proceso de valoración de operaciones por simulación a un nivel de confianza y horizonte temporal determinados. Esta métrica
+puede ser calculada de las siguientes formas:
+Adicional al riesgo de contrapartida, existe el riesgo emisor, que se genera por la adquisición y/o enajenación directa de instrumentos públicos
+y privados de títulos autorizados y el riesgo de liquidación o settlement, que se genera en el intercambio de valores cuando una de las partes
+incumple la entrega de valores/divisas/efectivo, comprometido por contrato, habiendo recibido ya la cantidad de la otra parte.
+El control y gestión de los riesgos de crédito de contrapartida y liquidación se realizan diariamente mediante el sistema Interactive Risk
+Integrated System (IRIS), que permite conocer la línea de crédito disponible con cualquier contrapartida, en cualquier producto y plazo.
+En concreto, para el proceso de control de este riesgo, la Dirección Ejecutiva de Riesgos Financieros diariamente supervisa el cumplimiento de
+los límites de riesgo de crédito por contraparte, por producto, por plazo y demás condiciones establecidas en la autorización para mercados
+financieros. Asimismo, es el área responsable de comunicar en forma diaria, los límites, consumos y cualquier desviación o exceso en el que se
+incurra.
+Adicionalmente, de forma mensual se informa en el Comité de Administración Integral de Riesgos, los límites de riesgos de contrapartida,
+límites de Riesgo Emisor y los consumos vigentes; en el Comité de Crédito de Banca Corporativa y en el Comité Central de Admisión Banca de
+Empresas e Instituciones mensualmente se presentan los excesos incurridos y las operaciones con clientes no autorizados. También de forma
+mensual en el Comité de Administración Integral de Riesgos se muestra el valor presente de la pérdida esperada por operaciones
+mercados financieros al cierre de cada mes; así como dos escenarios de estrés de la probabilidad de incumplimiento y severidad de la pérdida.
+Actualmente Banco Santander tiene líneas aprobadas de riesgos de contrapartida para los siguientes sectores: Soberano Mexicano y Banca
+Desarrollo
+Instituciones, Unidad de Grandes Empresas y Project Finance.
+El REC Neto de las líneas de riesgo de crédito de contrapartida de Banco Santander del primer trimestre de 2021 es:
+Reporte de Resultados |
+Banco Santander México
+REC Bruto: mide la exposición a nivel operación sin considerar los posibles acuerdos de nettingy colateral.
+REC Neto: mide la exposición considerando los posibles acuerdos de nettingy colateral y las garantías personales o financieras. Se
+calcula a nivel acuerdo de nettingy también a otros niveles de agregación.
+local, Instituciones Financieras Extranjeras, Instituciones Financieras Mexicanas, Corporativos, Banca de Empresas-SGC, Banca de
+Riesgo Equivalente de Crédito Neto
+Millones de dólares americanos
+Segmento
+ene-21
+feb-21
+mar-21
+Riesgo Soberano, Banca de Desarrollo e
+Instituciones Financieras
+1,051
+1,119
+980
+Corporativos
+430
+400
+390
+Project Finance
+389
+343
+309
+Empresas
+286
+243
+210
+1T.2021
+los
+en
+de
+vigentes
+Santander
+Promedio
+1,050
+407
+347
+247
+106

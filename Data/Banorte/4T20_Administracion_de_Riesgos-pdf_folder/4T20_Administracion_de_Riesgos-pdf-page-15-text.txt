@@ -1,0 +1,123 @@
+GRUPO FINANCIERO
+BANORTE
+En la siguiente tabla se presentará la diferencia entre la pérdida esperada y la observada resultante del Modelo Interno
+Avanzado para Tarjeta de Crédito a partir de 1T20:
+Backtesting
+Diferencia Ps
+Pérdida Esperada
+% Cobertura
+Cartera
+Pérdida Observada*
+(Pérdida Observada
+Modelos Internos*
+PNC
+- Pérdida Esperada)
+Tarjeta de Crédito
+4,413
+4,356
+(56)
+101%
+Cartera Total
+4,413
+4,356
+(56)
+101%
+Pérdida Esperada y Observada es igual al promedio de los últimos 12 meses
+2.5.2.
+Modelo Interno Avanzado para Auto Persona Física
+GF Banorte obtuvo el 25 de Noviembre de 2019 por parte de la Comisión Nacional Bancaria y de Valores la aprobación para
+el uso de Modelos Internos (MI) de calificación de Auto Persona Física (Auto PF) para la constitución de reservas y capital
+regulatorios por riesgo de crédito con un enfoque avanzado (Oficio 111/678/2019). Cada año, los Modelos Internos son
+recalibrados, y se obtiene nuevamente la certificación de la CNBV para poder utilizarlos en el cálculo de los requerimientos
+regulatorios por otro periodo de 12 meses.
+Estos modelos internos mejoran la gestión integral del riesgo de crédito, estimando los parámetros de riesgo a través de la
+experiencia de la Institución, y han sido aplicados a partir de febrero de 2020 (con cifras de enero). Los parámetros antes
+mencionados son:
+Probabilidad de Incumplimiento (PI). Indica la probabilidad de que un acreditado incumpla sus obligaciones
+contractuales en los siguientes doce meses respecto al mes de calificación. Para cada crédito se obtiene una
+puntuación, que es mapeada a una escala Maestra de calificación.
+Severidad de la Pérdida (SP). Mide la intensidad de la pérdida en el incumplimiento expresada como porcentaje de
+la Exposición al Incumplimiento (EI).
+Exposición al Incumplimiento (EI). Es el monto de la deuda al momento del incumplimiento de un crédito,
+considerando un horizonte de los siguientes 12 meses respecto al mes de calificación.
+En la siguiente tabla se observa la Cartera de Auto Persona Física sujeta al Modelo Interno Avanzado clasificado por grados
+de riesgo regulatorios:
+Millones de
+Cartera de Auto Persona Física bajo Modelo Interno Avanzado
+pesos
+Grado de
+Saldo
+Exposición al
+Severidad de
+Incumplimiento
+PI ponderada
+Riesgo
+Contable
+la Pérdida
+El Vigente
+por El
+(EI)
+A1
+22,217
+22,217
+56.90%
+0.98%
+22,217
+A2
+2,978
+2,978
+61.48%
+3.56%
+2,978
+B1
+492
+492
+68.98%
+5.36%
+492
+B2
+0
+0
+0.00%
+0.00%
+0
+B3
+0
+0
+0.00%
+0.00%
+0
+C1
+729
+729
+52.04%
+13.91%
+729
+C2
+1,188
+1,188
+68.98%
+13.91%
+1,187
+D
+231
+231
+52.04%
+53.43%
+18
+E
+413
+413
+68.86%
+69.27%
+7
+Cartera
+28,248
+28,248
+47.70%
+3.63%
+27,629
+Total
+* La escala de grados de riesgo del Modelo Interno Avanzado ha sido mapeada a los niveles de riesgo regulatorios.
+Administración de Riesgos 4T20
+15

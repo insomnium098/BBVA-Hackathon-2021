@@ -1,0 +1,55 @@
+aplicables a las instituciones de crédito, como parte de la administración de los riesgos de crédito, las instituciones de crédito deberán calcular
+la
+probabilidad de incumplimiento. El sistema permite estimar la probabilidad de incumplimiento para las diferentes carteras crediticias:
+a.
+La probabilidad de incumplimiento ("PD") para las carteras "Retail"y "No Retail": se determina a través de la calibración de las calificaciones
+de los clientes en uno o varios momentos determinados, los cuales son elegidos en base a la estabilidad que presentan contra la última
+muestra conocida.
+Posteriormente se hace un tramado de rating/scores sobre estas muestras de calificación. A cada uno de estos tramos se les calcula la tasa
+de morosidad de la muestras de calibración y se determina el promedio, que finalmente se ajusta al ciclo utilizando un periodo histórico
+de 10 años.
+b.
+Una vez determinada la probabilidad de incumplimiento, se toman los parámetros de "Severidad de la Perdida" ("LGD") y de "Exposición
+al momento del Incumplimiento" ("EAD") calculados con modelos internos.
+Para el cálculo de la LGD se utilizan los movimientos recuperatorios y de gastos a partir de momento de entrada en mora (mayor de 90
+días de atraso) y estos movimientos se descuentan o añaden al monto con el que el crédito inició el periodo recuperatorio, para lo cual se
+utilizan datos con una profundidad histórica de 7 años.
+El cálculo de la EAD se realiza únicamente para productos revolventes y también se utilizan datos con una profundidad histórica de 7 años.
+Para la estimación de la EAD se toman los saldos de los12 meses anteriores a la morosidad y se comparan contra el saldo del crédito al
+momento de la entrada en mora.
+Una vez obtenidos los factores anteriores, la Perdida Esperada ("PE") se calcula mediante la siguiente fórmula:
+Perdida Esperada = Probabilidad de Incumplimiento; Severidad de la Perdida X Exposición al momento del Incumplimiento
+Es decir: PE = PD * LGD * EAD
+Riesgo de Contrapartida
+Dentro del conjunto de riesgo de crédito, hay un concepto que, por su particularidad, requiere de una gestión especializada: Riesgo de Crédito
+de Contrapartida.
+El riesgo de crédito de contrapartida se define como el riesgo que podría surgir por un incumplimiento total o parcial de las obligaciones
+financieras contraídas con la entidad. Es un riesgo crediticio de carácter bilateral, porque puede afectar a ambas partes de la transacción, y de
+carácter incierto, ya que está condicionado por el comportamiento de los mercados, que tienen carácter volátil.
+Los productos con exposición a este riesgo son los instrumentos derivados, operaciones con compromiso de recompra (reportos) ylos préstamos
+de valores. La medición y control de este riesgo está a cargo de una unidad especializada y con estructura organizacional independiente
+de
+las
+áreas de negocio.
+Para el control de las líneas de contrapartida se utiliza el Riesgo Equivalente de Crédito (REC). El REC es la métrica que mide la máxima pérdida,
+dado un nivel de confianza, que se puede producir en una operación, como consecuencia del incumplimiento del contrato por parte de la
+contrapartida. Se trata de una métrica que sirve, por tanto, para estimar la exposición crediticia de una operación o conjunto de ellas mediante
+la
+ejecución
+de un proceso de valoración de operaciones por simulación a un nivel de confianza y horizonte temporal determinados. Esta métrica
+puede ser calculada de las siguientes formas:
+REC Bruto: mide la exposición a nivel operación sin considerar los posibles acuerdos de nettingy colateral.
+REC Neto: mide la exposición considerando los posibles acuerdos de nettingy colateral y las garantías personales o financieras. Se
+calcula a nivel acuerdo de nettingy también a otros niveles de agregación.
+Adicional al riesgo de contrapartida, existe el riesgo emisor, que se genera por la adquisición y/o enajenación directa de instrumentos públicos
+y privados de títulos autorizados y el riesgo de liquidación o settlement, que se genera en el intercambio de valores cuando una de las partes
+incumple la entrega de valores/divisas/efectivo, comprometido por contrato, habiendo recibido ya la cantidad de la otra parte.
+El control y gestión de los riesgos de crédito de contrapartida y liquidación se realizan diariamente mediante el sistema Interactive Risk
+Integrated System (IRIS), que permite conocer la línea de crédito disponible con cualquier contrapartida, en cualquier producto y plazo.
+En concreto, para el proceso de control de este riesgo, la Dirección Ejecutiva de Riesgos Financieros diariamente supervisa el cumplimiento de
+los límites de riesgo de crédito por contraparte, por producto, por plazo y demás condiciones establecidas en la autorización para mercados
+financieros. Asimismo, es el área responsable de comunicar en forma diaria, los límites, consumos y cualquier desviación o exceso en el que se
+Reporte de Resultados | 2T.2021
+Santander
+Banco Santander México
+106

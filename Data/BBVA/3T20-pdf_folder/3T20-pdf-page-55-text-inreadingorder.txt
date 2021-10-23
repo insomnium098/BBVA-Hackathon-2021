@@ -1,0 +1,286 @@
+BBVA
+Creando Oportunidades
+Pasivo y Capital
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Millones de pesos
+CAPTACION TRADICIONAL
+Depósitos de exigibilidad inmediata
+Depósitos a plazo
+Del Público en General
+Mercado de Dinero
+Titulos de crédito emitidos
+Cuenta Global de Captación sin Movimientos
+PRESTAMOS INTERBANCARIOS Y DE OTROS ORGANISMOS
+De exigibilidad inmediata
+De corto plazo
+De largo plazo
+Reservas Técnicas
+Acreedores por reporto
+Prestamos de valores
+COLATERALES VENDIDOS O DADOS EN GARANTIA
+Préstamo de Valores
+DERIVADOS
+Con fines de Negociación
+Con fines de Cobertura
+Ajustes de valuación por cobertura de pasivos financieros
+Cuentas por pagar a reaseguradores y reafianzadores (neto)
+OTRAS CUENTAS POR PAGAR
+Impuestos a la utilidad por pagar
+Participación de los Trabajadores en las Utilidades por pagar
+Acreedores por liquidación de operaciones
+Acreedores por colaterales recibidos en efectivo
+Acreedores diversos y otras cuentas por pagar
+Obligaciones subordinadas en circulación
+Créditos diferidos y cobros anticipados
+TOTAL PASIVO
+CAPITAL CONTRIBUIDO
+Capital social
+Prima en venta de acciones
+CAPITAL GANADO
+Reservas de capital
+Resultado de ejercicios anteriores
+Resultado por valuación de títulos disponibles para la venta
+Resultado por valuación de instrumentos de cobertura de flujos de efect
+Efecto acumulado por conversión
+Remediciones por Beneficios Definidos a los Empleados
+Resultado neto
+CAPITAL CONTABLE MAYORITARIO
+Participación no controladora
+TOTAL CAPITAL CONTABLE
+TOTAL PASIVO Y CAPITAL CONTABLE
+Sep
+2019
+2020
+1,413,428
+843,714
+1,047,248
+276,897
+272,245
+265,097
+251,619
+11,800
+20,626
+93,389
+89,006
+3,726
+4,929
+19,685
+19,374
+5,930
+6,815
+7,757
+6,940
+11,617
+204,941
+234,163
+233,595
+240,870
+2
+34,271
+49,932
+34,271
+49,932
+137,865
+244,304
+129,505
+229,061
+8,360
+15,243
+4,646
+9,659
+46
+110,334
+133,830
+1,491
+19
+59,877
+78,298
+14,646
+24,937
+34,301
+30,573
+98,558
+93,446
+7,714
+7,382
+2,446,550
+89,132
+89,132
+9,799
+9,799
+79,333
+79,333
+145,242
+173,613
+204
+109,744
+145,650
+(283)
+(63)
+440
+(6,819)
+(7,799)
+42,019
+34,061
+234,374
+262,745
+36
+262,785
+2,709,335
+Dic
+2019
+231,111
+17,807
+4,507
+22,018
+7,414
+7,040
+7,564
+1
+47,577
+47,577
+8,388
+3,042
+75
+4,116
+224
+67,358
+10,318
+33,857
+95,061
+7,754
+89,132
+9,799
+79,333
+204
+82
+(113)
+440
+57,001
+40
+Mar
+2020
+272,634
+246,531
+26,103
+101,903
+4,577
+18,026
+2,349
+6,374
+9,303
+221,279
+1
+55,304
+55,304
+370,224
+353,793
+16,431
+10,133
+237
+142,450
+0
+22
+81,859
+26,385
+34,184
+117,287
+7,869
+89,132
+9,799
+79,333
+144,385
+204
+145,650
+(2,859)
+292
+440
+(7,962)
+8,620
+233,517
+38
+233,555
+Jun
+2020
+28,121
+89,927
+4,781
+20,358
+0
+9,604
+10,754
+215,118
+2
+55,877
+55,877
+17,143
+10,770
+164
+137,515
+0
+20
+77,516
+26,875
+33,104
+98,793
+7,412
+89,132
+9,799
+79,333
+159,129
+204
+577
+389
+440
+(7,940)
+19,809
+39
+Sep
+0
+1
+161
+0
+22
+204
+774
+283
+440
+40
+1,217,726
+2,069,383
+234,410
+2,303,793
+1,262,023
+922,792
+248,918
+85,806
+211,148
+223,805
+136,301
+127,913
+115,873
+2,124,678
+149,180
+99,568
+(8,002)
+238,312
+238,352
+2,363,030
+1,388,640
+1,009,526
+224,090
+2,555,540
+2,789,095
+1,384,394
+1,016,021
+273,665
+245,544
+226,827
+302,932
+285,789
+2,460,162
+145,650
+248,261
+248,300
+2,708,462
+55

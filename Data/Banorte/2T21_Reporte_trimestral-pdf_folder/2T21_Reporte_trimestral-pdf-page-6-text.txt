@@ -1,0 +1,327 @@
+GRUPO FINANCIERO
+I.
+Resumen Ejecutivo
+BANORTE
+Estado de Resultados - GFNorte
+Var. Vs.
+Var. Vs.
+2T20
+1T21
+2T21
+1S20
+1S21
+(Millones de Pesos)
+1T21
+2T20
+1S20
+Ingresos por Intereses
+32,697
+32,494
+31,379
+(3%)
+(4%)
+69,576
+63,873
+(8%)
+Gastos por Intereses
+13,302
+9,719
+9,572
+(2%)
+(28%)
+27,830
+19,292
+(31%)
+Resultado Técnico (Seguros y Pensiones)
+1,288
+(2,773)
+(2,158)
+22%
+(267%)
+905
+(4,930)
+(645%)
+Ingresos de Intereses Netos
+20,683
+20,002
+19,649
+(2%)
+(5%)
+42,651
+39,651
+(7%)
+Comisiones por Servicios Netas
+3,069
+3,214
+3,289
+2%
+7%
+6,524
+6,503
+(0%)
+Intermediación
+1,703
+964
+840
+(13%)
+(51%)
+2,869
+1,804
+(37%)
+Otros Ingresos (Egresos) de la Operación
+1,140
+822
+609
+(26%)
+(47%)
+1,467
+1,432
+(2%)
+Ingresos No Financieros
+5,911
+5,000
+4,739
+(5%)
+(20%)
+10,860
+9,739
+(10%)
+Ingreso Total
+26,595
+25,003
+24,388
+(2%)
+(8%)
+53,511
+49,390
+(8%)
+Gasto No Financiero
+10,307
+10,883
+10,851
+(0%)
+5%
+20,774
+21,734
+5%
+Provisiones
+8,456
+3,215
+2,765
+(14%)
+(67%)
+12,800
+5,980
+(53%)
+Resultado Neto de Operación
+7,832
+10,905
+10,771
+(1%)
+38%
+19,938
+21,676
+9%
+Impuestos
+1,886
+2,678
+2,756
+3%
+46%
+5,114
+5,434
+6%
+Subsidiarias y participación no controladora
+573
+317
+553
+74%
+(3%)
+813
+870
+7%
+Utilidad Neta
+6,518
+8,544
+8,568
+0%
+31%
+15,636
+17,112
+9%
+Balance General - GFNorte
+Var. Vs.
+2T20
+1T21
+2T21
+(Millones de Pesos)
+1T21
+2T20
+Activos en Administración
+2,878,778
+3,074,928
+3,101,420
+1%
+8%
+Cartera Vigente (a)
+791,637
+800,328
+794,544
+(1%)
+0%
+Cartera Vencida (b)
+9,254
+10,607
+11,202
+6%
+21%
+Cartera de Crédito (a+b)
+800,891
+810,935
+805,746
+(1%)
+1%
+Total de Cartera de Crédito Neto (d)
+782,337
+791,265
+787,571
+(0%)
+1%
+Derechos de Cobro Adquiridos ( e)
+1,438
+1,529
+1,421
+(7%)
+(1%)
+Total de Cartera de Crédito (d+e)
+783,774
+792,794
+788,992
+(0%)
+1%
+Activo Total
+1,783,581
+1,810,207
+1,802,363
+(0%)
+1%
+Depósitos Total
+801,148
+830,531
+810,082
+(2%)
+1%
+Pasivo Total
+1,575,237
+1,580,066
+1,573,041
+(0%)
+(0%)
+Capital Contable
+208,344
+230,142
+229,322
+(0%)
+10%
+Indicadores Financieros GFNorte
+2T20
+1T21
+2T21
+1S20
+1S21
+Rentabilidad:
+MIN (1)
+5.3%
+4.9%
+4.8%
+5.6%
+4.8%
+ROE (2)
+13.0%
+15.2%
+15.1%
+15.8%
+15.2%
+ROA (3)
+1.5%
+1.9%
+1.9%
+1.8%
+1.9%
+Operación:
+Índice de Eficiencia (4)
+38.8%
+43.5%
+44.5%
+38.8%
+44.0%
+Índice de Eficiencia Operativa (5)
+2.3%
+2.4%
+2.4%
+2.4%
+2.4%
+CCL Promedio Banorte y SOFOM - Basilea III (6)
+150.8%
+207.6%
+210.2%
+150.8%
+210.2%
+Calidad de Activos:
+Índice de Cartera Vencida
+1.2%
+1.3%
+1.4%
+1.2%
+1.4%
+Índice de Cobertura
+200.5%
+185.4%
+162.2%
+200.5%
+162.2%
+Costo de Riesgo (7)
+4.2%
+1.6%
+1.4%
+3.2%
+1.5%
+Referencias de Mercado
+Tasa de Referencia Banxico
+5.00%
+4.00%
+4.25%
+5.00%
+4.25%
+TIIE 28 días (Promedio)
+6.07%
+4.37%
+4.29%
+6.72%
+4.33%
+Tipo de Cambio Peso/Dólar (8)
+23.09
+20.44
+19.91
+23.29
+20.17
+1)
+MIN= Ingresos de Intereses Netos del trimestre anualizado / Activos productivos promedio
+2)
+Utilidad Neta del periodo anualizada como porcentaje del promedio trimestral del Capital Contable (sin interés minoritario) del mismo periodo
+3)
+Utilidad Neta del periodo anualizada como porcentaje del promedio trimestral del Activo Total (sin interés minoritario) del mismo periodo
+4)
+Gasto No Financiero / (Ingreso Total)
+5)
+Gasto No Financiero del trimestre anualizado / Activo Total Promedio
+6)
+El cálculo del CCL es preliminar y será actualizado una vez que Banco de México realice su cálculo
+7)
+Costo de Riesgo = Provisiones del periodo anualizadas / Cartera Total Promedio
+8)
+El tipo de cambio del semestre es promedio
+Mayor detalle del Coeficiente de Cobertura de liquidez
+Pág. 25, 26 y 27 del Reporte de Administración de Riesgos
+Información Financiera 2T21
+6

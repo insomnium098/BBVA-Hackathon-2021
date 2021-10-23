@@ -1,0 +1,49 @@
+BBVA
+Creando Oportunidades
+Forwards de cobertura
+Divisa
+Compra
+Venta
+USD
+36,421
+O
+EUR
+365
+0
+* Monto contratado en millones de pesos
+** Monto de referencia en millones de pesos
+Inversiones y Operaciones en Valores
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Composición de inversiones y operaciones con valores
+Diciembre 2020
+Millones de pesos
+Gubernamental
+Bancario
+Otros deuda
+Acciones
+Total
+Títulos para negociar
+373,838
+2,349
+8,485
+1,906
+386,578
+Títulos disponibles para la venta
+222,059
+3,220
+1,663
+819
+227,761
+Títulos conservados a vencimiento
+81,231
+108,790
+0
+0
+190,021
+Total
+677,128
+114,359
+10,148
+2,725
+804,360
+76

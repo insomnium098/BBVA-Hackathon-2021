@@ -1,0 +1,399 @@
+GRUPO FINANCIERO
+BANORTE
+2T21
+110,852
+8,703
+252,901
+231,710
+215,382
+699,992
+-
+2,928
+-
+24,423
+648
+25,072
+28,000
+47
+316,575
+8,873
+118,322
+196,125
+193,554
+3
+2,567
+-
+154,649
+794,544
+5,498
+-
+3,551
+1,966
+1,709
+0
+258
+-
+186
+11,202
+805,746
+18,175
+787,571
+1,421
+788,992
+2,806
+8,638
+7,707
+-
+49,790
+611
+1,953
+20,502
+14,155
+-
+0
+54,416
+5,198
+165,777
+1,802,363
+34
+IV. Estados Financieros
+GFNorte - Balance General
+(Millones de Pesos)
+ACTIVOS
+Disponibilidades
+Cuentas de Margen
+Títulos para negociar
+Títulos disponibles para la venta
+Títulos conservados a vencimiento
+Inversiones en Valores
+Valores no asignados por liquidar
+Deudores por reporto (saldo deudor)
+Préstamo de Valores
+Con fines de negociación
+Con fines de cobertura
+Operaciones con valores y derivadas
+Operaciones con Derivados
+Operaciones con Valores y Derivadas
+Ajustes de valuación por cobertura de activos
+Créditos Comerciales
+Créditos a Entidades Financieras
+Créditos al Consumo
+Créditos a la Vivienda
+Media y Residencial
+De interés social
+Créditos adquiridos al INFONAVIT o FOVISSSTE
+Remodelación o mejoramiento con garantía
+otorgada por la banca de desarrollo o fideicomisos
+públicos
+Créditos a Entidades Gubernamentales
+Cartera de Crédito Vigente
+Créditos Comerciales
+Créditos a Entidades Financieras
+Créditos al Consumo
+Créditos a la Vivienda
+Media y Residencial
+De interés social
+Créditos adquiridos al INFONAVIT o FOVISSSTE
+Remodelación o mejoramiento con garantía
+otorgada por la banca de desarrollo o fideicomisos
+públicos
+Créditos a Entidades Gubernamentales
+Cartera de Crédito Vencida
+Cartera de Crédito Total
+Reservas Prev. Riesgos Crediticios
+Cartera de Crédito Neto
+Derechos de cobro adquiridos
+Total de cartera de crédito (neto)
+Cuentas por cobrar de Instituciones de Seguros y
+Pensiones
+Deudores por Prima (Neto)
+Ctas por cobrar a reaseguradores y reafianzadores
+Beneficios por recibir en operaciones de
+Bursatilización
+Otras Cuentas por cobrar, neto
+Inventario de Mercancías
+Bienes Adjudicados (Neto)
+Propiedades, mobiliario y equipo, neto
+Inversiones permanentes
+Activos de larga duración disponibles para la venta
+Impuestos diferidos, neto
+Cargos diferidos, pagos anticipados e intangibles
+Otros activos a corto y largo plazo
+Otros activos
+TOTAL ACTIVOS
+Información Financiera 2T21
+1T20
+1T21
+90,877
+116,394
+9,701
+11,012
+238,956
+260,030
+204,963
+236,274
+156,631
+207,858
+600,550
+704,162
+2,810
+48,940
+28,458
+1,292
+50,232
+29,068
+53,042
+32,215
+318,439
+324,529
+9,067
+117,537
+116,092
+173,226
+191,220
+170,143
+188,529
+3,075
+161,549
+160,042
+779,818
+800,328
+7,047
+4,052
+2,070
+1,834
+13,212
+10,607
+793,030
+810,935
+18,504
+19,670
+774,525
+791,265
+1,500
+776,025
+792,794
+2,205
+8,003
+8,162
+85,131
+37,992
+1,096
+19,833
+32,806
+13,489
+13,511
+3,742
+51,139
+39,790
+5,300
+199,020
+153,579
+1,729,280
+1,810,207
+2T20
+106,047
+18,353
+243,834
+231,114
+169,514
+644,463
+1,928
+61,705
+2,384
+64,089
+66,017
+326,535
+9,502
+115,601
+177,282
+174,331
+2,946
+162,717
+791,637
+2,604
+4,229
+2,305
+2,025
+9,254
+800,891
+18,555
+782,337
+1,438
+783,774
+2,432
+9,196
+8,872
+50,981
+1,299
+1,075
+31,151
+13,894
+40,257
+5,351
+164,866
+1,783,581
+3T20
+100,081
+16,312
+223,752
+251,225
+189,366
+664,342
+3,797
+53,819
+1,885
+55,704
+59,500
+324,981
+9,882
+118,321
+182,685
+179,791
+2,889
+162,609
+798,478
+2,212
+2,350
+1,811
+1,612
+6,660
+805,138
+17,666
+787,473
+1,341
+788,814
+2,591
+7,032
+7,924
+55,704
+1,053
+31,682
+14,368
+39,203
+5,515
+166,199
+1,795,306
+4T20
+109,306
+18,099
+223,390
+244,823
+193,652
+661,865
+4,036
+48,233
+2,043
+50,277
+54,313
+325,183
+11,172
+116,484
+187,736
+184,980
+2,752
+161,563
+802,138
+2,530
+4,706
+1,658
+1,429
+8,931
+811,070
+20,004
+791,066
+1,617
+792,682
+2,756
+4,353
+7,269
+42,481
+1,553
+32,627
+14,804
+39,439
+5,247
+151,585
+1,787,904
+-
+-
+8
+-
+4
+0
+-
+-
+-
+-
+5
+-
+-
+1
+-
+-
+-
+-
+5
+-
+-
+1
+-
+-
+0
+-
+-
+4
+-
+-
+1
+-
+-
+0
+-
+-
+4
+-
+-
+0
+-
+2
+-
+(0)
+3,148
+609
+51
+8,445
+2,687
+3,649
+4,694
+2,071
+1,819
+252
+192
+1,529
+3,157
+11,144
+7,521
+832
+1,552
+5,272
+65
+235
+40
+161
+758
+62
+279
+115
+156
+201
+58
+198
+288
+151
+976
+54
+228
+38
+110
+945

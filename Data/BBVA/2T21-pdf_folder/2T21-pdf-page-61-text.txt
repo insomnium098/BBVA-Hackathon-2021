@@ -1,0 +1,36 @@
+BBVA
+Creando Oportunidades
+Señala también que la pérdida esperada deberá reconocerse cuando, al haberse incrementado el riesgo
+de crédito, se concluye que una parte de los flujos de efectivo futuros del IFC no se recuperará.
+NIF C-19 "Instrumentos financieros por pagar"-
+Las principales características emitidas para esta NIF, se muestran a continuación:
+Se establece la posibilidad de valuar, subsecuentemente a su reconocimiento inicial, ciertos
+pasivos financieros a su valor razonable, cuando se cumplen ciertas condiciones.
+Valuar los pasivos a largo plazo a su valor presente en su reconocimiento inicial.
+Al reestructurar un pasivo, sin que se modifiquen sustancialmente los flujos de efectivo futuros
+para liquidar el mismo, los costos y comisiones erogados en este proceso afectarán el monto del
+pasivo y se amortizarán sobre una tasa de interés efectiva modificada, en lugar de afectar
+directamente la utilidad O pérdida neta.
+Incorpora lo establecido en la IFRIC 19 "Extinción de Pasivos Financieros con Instrumentos de
+Capital", tema que no estaba incluido en la normativa existente.
+El efecto de extinguir un pasivo financiero debe presentarse como un resultado financiero en el
+estado de resultado integral.
+Introduce los conceptos de costo amortizado para valuar los pasivos financieros y el de método
+de interés efectivo, basado en la tasa de interés efectiva.
+NIF C-20 "Instrumentos financieros para cobrar principal e interés"- Las principales
+características emitidas para esta NIF, se muestran a continuación:
+Se modifica la forma de clasificar los instrumentos financieros en el activo, ya que se descarta el
+concepto de intención de adquisición y tenencia de estos para determinar su clasificación, en su lugar
+se adopta el concepto de modelo de negocios de la administración.
+En esta clasificación se agrupan los instrumentos financieros cuyo objetivo es cobrar los flujos
+de efectivo contractuales y obtener una ganancia por el interés contractual que estos generan,
+teniendo una característica de préstamo.
+Incluyen tanto los instrumentos financieros generados por ventas de bienes O servicios,
+arrendamientos financieros O préstamos, como los adquiridos en el mercado.
+NIF D-1 "Ingresos por contratos con clientes" Las principales características emitidas para esta NIF,
+se muestran a continuación:
+La transferencia de control, base para la oportunidad del reconocimiento de ingresos.
+La identificación de las obligaciones a cumplir en un contrato.
+La asignación del precio de la transacción entre las obligaciones a cumplir con base en los precios
+de venta independientes.
+61

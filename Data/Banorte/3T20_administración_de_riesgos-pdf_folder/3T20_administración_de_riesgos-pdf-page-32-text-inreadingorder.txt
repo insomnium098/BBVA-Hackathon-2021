@@ -1,0 +1,61 @@
+GRUPO FINANCIERO
+BANORTE
+32
+6.1. Políticas contables aplicadas
+Todas las operaciones de bursatilización realizadas por la Institución fueron reconocidas como venta de acuerdo con lo
+establecido por el criterio C-1 Reconocimiento y Baja de Activos Financieros. Esto se debe a que, a pesar de retener los
+derechos contractuales a recibir los flujos de efectivo provenientes de los activos financieros, se asume una obligación
+contractual de pagar dichos flujos de efectivo a un tercero. Además, en el análisis de la transferencia de estos activos, se
+concluyó que la entidad transfiere substancialmente todos los riesgos y beneficios inherentes a la propiedad de los activos
+financieros. El reconocimiento del beneficio sobre ventas se ajusta a lo establecido por el párrafo 31 del criterio C-1, donde
+Dar de baja los activos financieros transferidos al último valor en libros;
+Reconocer las contraprestaciones recibidas en la operación;
+Reconocer en los resultados del ejercicio la ganancia o pérdida, por la diferencia que exista entre el valor en libros
+de los activos financieros dados de baja, y la suma de (i) las contraprestaciones recibidas (reconocidas a valor
+razonable) y (ii) el efecto (ganancia o pérdida) por valuación acumulado que en su caso se haya reconocido en el
+capital contable.
+Los fiduciarios de BORHIS y GEM emitieron instrumentos conocidos como constancias a favor de la Institución, como
+titulares de los derechos en último lugar bajo el contrato del fideicomiso. Estas constancias dan el derecho a recibir un
+porcentaje de las distribuciones y en general a la proporción que corresponda del remanente que pueda haber en el
+patrimonio del fideicomiso después del pago total de los certificados bursátiles. La valuación de las constancias se basa en
+el método de valor presente neto de los flujos de efectivo remanentes esperados durante la vida de la bursatilización. Los
+flujos de efectivo remanentes se determinan de la siguiente manera dependiendo del tipo de bursatilización:
+a) BORHIS: es la suma del flujo de efectivo a recibir de la cartera de créditos bursatilizados, menos el flujo de efectivo
+a pagar de los certificados bursátiles, menos el gasto mensual por administración y más el ingreso proveniente de
+venta de inmuebles adjudicados, en su caso. Al cierre del ejercicio, la constancia generada por la bursatilización
+FCASACB 06U tiene un valor razonable de cero, dado que no se contemplan recibir flujos de efectivos remanentes.
+GEM: es la suma del flujo de efectivo a recibir de la cartera de créditos bursatilizados, menos el flujo de efectivo a
+pagar de los certificados bursátiles, menos el gasto por administración, más o menos el cambio en la reserva de
+intereses.
+Los flujos remanentes son descontados con la curva bancaria B1, la cual toma en consideración el Riesgo de Crédito de los
+fideicomisos. Entre los supuestos más importantes en la valuación de las constancias se tienen los siguientes:
+a) Tasa de incumplimiento: los flujos de efectivos a recibir de la cartera de crédito son ajustados por determinado
+porcentaje sobre el saldo insoluto de cartera que se estima caerá en incumplimiento. Dicho porcentaje se estima
+con información histórica del comportamiento de dicha cartera. Este porcentaje se aplica a los flujos mayores a 12
+meses.
+b) Tasa de prepago: los flujos de efectivo a recibir de la cartera de crédito son ajustados por determinado porcentaje
+sobre el saldo insoluto de la cartera que se estima se prepagará. Dicho porcentaje se estima con información
+histórica del comportamiento de dicha cartera.
+Plazo de la cartera: Se estima a través del WAM (Weighted Average Maturity) de la cartera bursatilizada.
+d) Tasa de interés de la cartera: Se estima a través del WAC (Weighted Average Coupon) de la cartera bursatilizada.
+Fechas de pago de la cartera: Se considera como supuesto que las fechas de pago de los créditos de la cartera son
+iguales a los de los certificados bursátiles.
+Reserva por calificación: El valor presente de los flujos remanentes son disminuidos por el monto de la reserva por
+calificación. Esta reserva corresponde al riesgo por incumplimiento de los flujos de efectivo de los primeros 12
+meses.
+Cuenta general: El valor presente de los flujos remanentes son adicionados con el monto de efectivo O equivalentes
+a efectivo depositados en la cuenta general, cuenta de cobranza y en su caso en la cuenta de reserva de gastos, ya
+que, en caso del pago total de los certificados bursátiles, esto activos serían distribuidos a los tenedores de la
+constancia.
+h) Términos generales de certificados bursátiles: Se estiman conforme a lo publicado por el proveedor de precios PiP-
+Latam.
+Administración de Riesgos 3T20
+se establece:
+a)
+b)
+c)
+b)
+c)
+e)
+f)
+g)

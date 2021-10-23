@@ -1,0 +1,148 @@
+GRUPO FINANCIERO
+BANORTE
+Posición
+2T20
+Promedio 2T20
+(Millones de pesos)
+Forwards
+80
+45
+FX Swap
+(3)
+(22)
+FX
+0
+0
+Opciones
+617
+(188)
+Swap Tasa de Interés (IRS)
+16,832
+15,210
+Cross Currency Swap (CCIRS)
+(9,790)
+(11,144)
+Credit Default Swaps (CDS)
+294
+357
+Total
+8,029
+4,258
+Valor Razonable Positivo
+27,775
+23,607
+(Valor de Mercado positivo)
+Efecto del neteo*
+19,746
+19,349
+Garantías Entregadas (-) / Recibidas (+)
+Efectivo
+(15,503)
+(17,019)
+Valores
+0
+0
+Totales
+(15,503)
+(17,019)
+*La diferencia entre el valor de mercado positivo (sin considerar el neteo de las posiciones) y el valor de mercado del portafolio.
+No se incluyen operaciones liquidadas en Cámara de Compensación debido a que no tienen riesgo contraparte.
+En la siguiente tabla se presenta los niveles de exposición actual y de exposición potencial futura al cierre del trimestre y
+en promedio durante el trimestre respectivamente.
+(Millones de pesos)
+Riesgo Potencial
+Riesgo Actual
+Contrapartes
+2T20
+Promedio 2T20
+2T20
+Promedio 2T20
+Financieras
+FWD
+112
+71
+FX SWAP
+937
+853
+(3)
+(22)
+FX
+0
+0
+OPCIONES
+2,678
+2,722
+567
+(199)
+SWAP TASA
+6,950
+5,943
+(6,110)
+(5,191)
+CCS
+3,085
+2,714
+(9,810)
+(11,164)
+CDS
+299
+362
+294
+357
+Total
+7,263
+6,683
+(14,951)
+(16,147)
+Clientes
+2T20
+Promedio 2T20
+2T20
+Promedio 2T20
+(No Financieras)
+FWD
+42
+52
+(32)
+(27)
+OPCIONES
+148
+132
+50
+11
+SWAP TASA
+23,967
+21,419
+22,943
+20,401
+CCS
+20
+22
+19
+20
+Total
+24,070
+21,530
+22,980
+20,405
+Con base en las condiciones que se establecen dentro los contratos de operación de instrumentos financieros derivados
+se
+consideran niveles de tolerancia de exposición, en función a la calificación que mantengan las entidades involucradas en la
+transacción. La siguiente tabla presenta el monto de garantías a entregar en caso de deterioro por baja de calificación de la
+institución. Cabe mencionar que con la mayor parte de las contrapartes se ha migrado a umbral (threshold) cero, por lo que
+las garantías a entregar no dependen de la calificación crediticia sino que obedecen a movimientos de mercado:
+Salidas Netas de Efectivo
+2T20
+Promedio 2T20
+(Millones de pesos)
+Salida de Efectivo con Downgrade de 1 Escalón
+0
+0
+Salida de Efectivo con Downgrade de 2 Escalones
+0
+0
+Salida de Efectivo con Downgrade de 3 Escalones
+0
+0
+Administración de Riesgos 2T20
+12

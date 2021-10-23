@@ -1,0 +1,98 @@
+Otros
+(70)
+PTU diferida pasivo
+(681)
+Menos - Reserva constituida
+(352)
+PTU diferida activo (neto)
+3,705
+14. Índice de capitalización
+Tabla I.1
+Formato de revelación de la integración de capital sin considerar transitoriedad en la aplicación de los ajustes regulatorios
+Referencia
+Capital Descripción
+Monto
+Capital Común de Nivel 1 (CET 1) Instrumentos y Reservas
+1
+Acciones ordinarias que califican para capital común de nivel 1 más su prima correspondiente
+35,125
+2
+Resultados de ejercicios anteriores
+92,945
+3
+Otros elementos de la utilidad integral (y otras reservas)
+31,756
+Capital sujeto a eliminación gradual del capital común de nivel 1
+4
+(solo aplicable para compañías que no estén vinculadas a acciones)
+Acciones ordinarias emitidas por subsidiarias en tenencia de terceros (monto permitido en el capital común de
+5
+nivel 1)
+6
+Capital común de nivel 1 antes de ajustes regulatorios
+159,826
+Capital común de nivel 1: ajustes regulatorios
+7
+Ajustes por valuación prudencial
+Crédito mercantil
+8
+(neto de sus correspondientes impuestos a la utilidad diferidos a cargo)
+2,404
+Otros intangibles diferentes a los derechos por servicios hipotecarios (neto de sus correspondientes impuestos a
+9
+la utilidad diferidos a cargo)
+6,308
+10
+Impuestos a la utilidad diferidos a favor que dependen de ganancias futuras excluyendo aquellos que se derivan
+(conservador)
+de diferencias temporales (netos de impuestos a la utilidad diferidos a cargo)
+0
+11
+Resultado por valuación de instrumentos de cobertura de flujos de efectivo
+0
+12
+Reservas pendientes de constituir
+0
+13
+Beneficios sobre el remanente en operaciones de bursatilización
+0
+Pérdidas y ganancias ocasionadas por cambios en la calificación crediticia propia sobre los pasivos valuados a
+14
+valor razonable
+15
+Plan de pensiones por beneficios definidos
+0
+16
+(conservador)
+Inversiones en acciones propias
+0
+17
+(conservador)
+Inversiones recíprocas en el capital ordinario
+0
+Inversiones en el capital de bancos, instituciones financieras y aseguradoras fuera del alcance de la
+18
+consolidación regulatoria, netas de las posiciones cortas elegibles, donde la Institución no posea más del 10%
+(conservador)
+del capital social emitido (monto que excede el umbral del 10%)
+90
+Inversiones significativas en acciones ordinarias de bancos, instituciones financieras y aseguradoras fuera del
+19
+alcance de la consolidación regulatoria, netas de las posiciones cortas elegibles, donde la Institución posea más
+(conservador)
+del 10% del capital social emitido (monto que excede el umbral del 10%)
+0
+20
+(conservador)
+Derechos por servicios hipotecarios (monto que excede el umbral del 10%)
+0
+Impuestos a la utilidad diferidos a favor provenientes de diferencias temporales (monto que excede el umbral
+21
+del 10%, neto de impuestos diferidos a cargo)
+6,508
+22
+Monto que excede el umbral del 15%
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+69

@@ -1,0 +1,230 @@
+Ticker
+Nombre
+Ticker
+Nombre
+Ticker
+Nombre
+Huntington
+Mettler-Toledo
+EFX UN Equity
+Equifax Inc
+HBAN UW Equity
+MTD UN Equity
+Bancshares Inc/OH
+International Inc
+IQVIA Holdings
+IQV UN Equity
+WELL UN Equity
+Welltower Inc
+CPRT UW Equity
+Copart Inc
+Inc
+IT UN Equity
+Gartner Inc
+BIIB UW Equity
+Biogen Inc
+ALB UN Equity
+Albemarle Corp
+Northern Trust
+FDX UN Equity
+FedEx Corp
+NTRS UW Equity
+FTNT UW Equity
+Fortinet Inc
+Corp
+Packaging Corp of
+Essex Property
+M UN Equity
+Macy's Inc
+PKG UN Equity
+ESS UN Equity
+America
+Trust Inc
+Realty Income
+FMC UN Equity
+FMC Corp
+PAYX UW Equity
+Paychex Inc
+O UN Equity
+Corp
+People's United
+Seagate
+F UN Equity
+Ford Motor Co
+PBCT UW Equity
+STX UW Equity
+Financial Inc
+Technology PLC
+NextEra Energy
+NEE UN Equity
+QCOM UW Equity
+QUALCOMM Inc
+WRK UN Equity
+Westrock Co
+Inc
+Franklin
+Roper Technologies
+BEN UN Equity
+ROP UN Equity
+INFO UW Equity
+IHS Markit Ltd
+Resources Inc
+Inc
+Freeport-
+FCX UN Equity
+ROST UW Equity
+Ross Stores Inc
+WAB UN Equity
+Wabtec Corp
+McMoRan Inc
+IDEXX Laboratories
+Western Digital
+GPS UN Equity
+Gap Inc/The
+IDXX UW Equity
+WDC UW Equity
+Inc
+Corp
+General
+GD UN Equity
+SBUX UW Equity
+Starbucks Corp
+PEP UW Equity
+PepsiCo Inc
+Dynamics Corp
+Diamondback
+GIS UN Equity
+General Mills Inc
+KEY UN Equity
+KeyCorp
+FANG UW Equity
+Energy Inc
+Genuine Parts
+Nektar
+GPC UN Equity
+FOXA UW Equity
+Fox Corp
+NKTR UW Equity
+Co
+Therapeutics
+Atmos Energy
+Maxim Integrated
+ATO UN Equity
+FOX UW Equity
+Fox Corp
+MXIM UW Equity
+Corp
+Products Inc
+WW Grainger
+Church & Dwight
+GWW UN Equity
+STT UN Equity
+State Street Corp
+CHD UN Equity
+Inc
+Co Inc
+Norwegian Cruise
+HAL UN Equity
+Halliburton Co
+NCLH UN Equity
+DRE UN Equity
+Duke Realty Corp
+Line Holdings Ltd
+Harley-Davidson
+Federal Realty
+HOG UN Equity
+USB UN Equity
+US Bancorp
+FRT UN Equity
+Inc
+Investment Trust
+L3Harris
+MGM Resorts
+LHX UN Equity
+AOS UN Equity
+AO Smith Corp
+MGM UN Equity
+Technologies Inc
+International
+JB Hunt Transport
+HCP UN Equity
+HCP Inc
+SYMC UW Equity
+Symanted Corp
+JBHT UW Equity
+Services Inc
+Helmerich &
+T Rowe Price Group
+Lam Research
+HP UN Equity
+TROW UW Equity
+LRCX UW Equity
+Payne Inc
+Inc
+Corp
+Waste
+Mohawk
+FTV UN Equity
+Fortive Corp
+WM UN Equity
+MHK UN Equity
+Management Inc
+Industries Inc
+HSY UN Equity
+Hershey Co/The
+CBS UN Equity
+CBS Corp
+PNR UN Equity
+Pentair PLC
+Vertex
+Synchrony
+SYF UN Equity
+AGN UN Equity
+Allergan PLC
+VRTX UW Equity
+Pharmaceuticals
+Financial
+Inc
+Hormel Foods
+Constellation
+HRL UN Equity
+STZ UN Equity
+AMCR UN Equity
+Amcor PLC
+Corp
+Brands Inc
+Arthur J
+AJG UN Equity
+XLNX UW Equity
+Xilinx Inc
+FB UW Equity
+Facebook Inc
+Gallagher & Co
+MDLZ UW
+Mondelez
+DENTSPLY SIRONA
+XRAY UW Equity
+URI UN Equity
+United Rentals Inc
+Equity
+International Inc
+Inc
+CenterPoint
+CNP UN Equity
+ZION UW Equity
+Zions Bancorp NA
+ABMD UW Equity
+ABIOMED Inc
+Energy Inc
+Alaska Air Group
+Alexandria Real
+HUM UN Equity
+Humana Inc
+ALK UN Equity
+ARE UN Equity
+Inc
+Estate Equities Inc
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+123

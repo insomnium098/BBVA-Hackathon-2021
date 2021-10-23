@@ -1,0 +1,74 @@
+GRUPO FINANCIERO
+BANORTE
+4.7. Exposición a Instrumentos Derivados y posibles llamadas de Margen
+Banorte aplica el criterio regulatorio para la determinación de salidas potenciales de efectivo por derivados. Al cierre de
+2T21, se observa lo siguiente:
+Salidas de Efectivo por Derivados
+1T21
+2T21
+Var vs. 1T21
+(Millones de pesos)
+Salida neta a valor de mercado y por exposición potencial
+6,744
+6,744
+0.0%
+Salidas de Efectivo por Baja de 3 escalafones en calificación crediticia
+0
+0
+0.0%
+La medición anterior, indica que las salidas potenciales por derivados podrían representar un requerimiento de liquidez de
+hasta Ps 6,744 millones, es decir, sin variación con respecto a 1T21.
+4.8. Brechas de Liquidez
+Como parte del análisis de la liquidez del Banco, se analizan las brechas de liquidez resultante de las obligaciones activas
+y pasivas de la Institución a 30 días. Bajo este esquema se monitorea a nivel Banco, teniéndose los siguientes resultados
+para 2T21.
+Concepto
+1T21
+2T21
+Var vs. 1T21
+(Millones de pesos)
+Brecha Acumulada a un mes
+(107,279)
+(64,120)
+40.2%%
+Activos Líquidos
+101,841
+97,131
+(4.6%)
+El descalce entre las entradas y salidas (brechas) para los próximos 30 días se cubren con activos líquidos. Adicionalmente,
+se presenta una desagregación más granular de las brechas de liquidez, quedando de la siguiente forma para 2T21:
+Concepto
+1 día
+7 días
+1 mes
+3 meses
+6 meses
+12 meses
+(Millones de pesos)
+Brecha Natural
+(128,474)
+64,038
+317
+14,076
+7,871
+26,708
+Brecha Acumulada
+(128,474)
+(64,437)
+(64,120)
+(50,044)
+(42,173)
+(15,465)
+4.9. Pruebas bajo condiciones extremas de liquidez
+Como parte de la gestión de la administración de Riesgo de Liquidez, Banorte realiza pruebas bajo condiciones extremas
+de liquidez con escenarios internos para evaluar la suficiencia de la liquidez del banco bajo condiciones adversas tanto del
+entorno como por condiciones intrínsecas del banco. Para estos efectos, se han considerado un total de 9 escenarios,
+basadas en 3 fuentes de riesgo (sistémico, idiosincrático y combinado) con 3 niveles de severidad cada uno (moderado,
+medio y severo).
+4.10. Plan de financiamiento de contingencia
+Con la finalidad de contar con prácticas integrales en la gestión de la liquidez, y garantizar su operación en situaciones
+adversas en materia de liquidez, Banorte tiene implementado un plan de financiamiento de contingencia que incorpora
+elementos para identificar posibles problemas de liquidez y define las fuentes alternas de fondeo disponibles para hacer
+frente a contingencias.
+Administración de Riesgos 2T21
+27

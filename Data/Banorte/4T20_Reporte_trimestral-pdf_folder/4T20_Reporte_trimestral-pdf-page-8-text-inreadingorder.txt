@@ -1,0 +1,208 @@
+GRUPO FINANCIERO
+BANORTE
+Var. Vs.
+2020
+2019
+119,479
+(14%)
+46,741
+(31%)
+1,440
+2%
+1,156
+(0%)
+73,022
+2%
+36,849
+13%
+17,793
+19%
+21,920
+17%
+(2,863)
+(130%)
+12,673
+22%
+9,810
+8%
+82,832
+3%
+21,931
+43%
+60,901
+(7%)
+1,564,112
+9%
+5.3%
+3.9%
+5.3%
+8.0%
+8
+II. Discusión y Análisis de la Administración
+II. Discusión y Análisis de la Administración
+En este reporte se hace referencia a cifras recurrentes que se refieren a la actividad usual sin el efecto del movimiento
+extraordinario del 1T19 como ingreso relacionado al reconocimiento de la liquidación de Banorte USA, así como los
+movimientos correspondientes al reconocimiento de reservas adicionales y castigos anticipados relacionados a COVID-19,
+durante el segundo y cuarto trimestre 2020.
+Para efectos de comparación, es importante considerar que GFNorte tiene el 98.2618% de las acciones del Banco, por lo
+que en algunos casos ciertas cifras pueden variar al hacer referencia a ellas, tanto en Grupo como en Banco.
+Ingresos de Intereses Netos (IIN)
+(Millones de Pesos)
+Ingresos por Intereses
+Gastos por Intereses
+Comisiones Cobradas
+Comisiones Pagadas
+IIN sin Seguros y Pensiones
+Ingresos por Primas (Neto)
+Reservas Técnicas
+Siniestros, Reclamaciones y Otras Obligaciones
+Resultado Técnico
+Ingresos (Egresos) por Intereses Netos
+IIN de Seguros y Pensiones
+IIN GFNORTE
+Provisiones para Crédito
+IIN Ajustado por Riesgos Crediticios
+Activos Productivos Promedio
+MIN ajustado por Provisiones de Crédito (2)
+MIN ajustado sin Seguros y Pensiones
+MIN de Cartera Crediticia (3)
+1) MIN (Margen de Interés Neto) = Ingresos de Intereses Netos del trimestre Anualizado/ Activos productivos promedio.
+MIN = Ingresos de Intereses Netos del trimestre ajustado por Riesgos de Crédito anualizado / Activos productivos promedio.
+MIN = Ingresos de Intereses Netos proveniente de cartera crediticia del trimestre anualizado / Cartera vigente promedio.
+Ingresos de Intereses Netos
+Los ingresos de intereses netos (IIN) sin seguros y pensiones decrecen (3%) en el trimestre, en línea con la baja en IIN
+de cartera. Por lo que corresponde a gastos por intereses decrecen (8%) por reducción en préstamos interbancarios, aunado
+al aumento de 5% en depósitos vista y reducción de (1%) en plazo; que en suma contribuyen a la mejora en el costo de
+fondeo. El MIN de la cartera crediticia se contrae (31pb) para cerrar en 7.6% de 7.9% del trimestre previo; mientras que
+el MIN ajustado sin seguros y pensiones disminuyó (18pb) para situarse en 5.0% al cierre del 4T20.
+En la comparativa anual acumulada, los ingresos por intereses netos sin seguros y pensiones crecen 2%, derivado en
+mayor medida por las eficiencias en el costo de fondeo gracias a la reducción de (31%) en gastos por intereses y un
+alza de 1% en ingresos por intereses de cartera, mientras que la cartera total creció 5% en el año. Los productos a tasa
+variable reflejan el ajuste en precio derivado de la fuerte reducción de (259pb) en la tasa promedio de referencia TIIE 28d
+durante el año, que pasó de 8.3% a 5.7%, lo que a su vez se traduce en un impacto a la baja de (14pb) en el MIN de cartera
+crediticia para quedar en 8.0%; por otro lado, el MIN ajustado sin seguros y pensiones decrece (28pb) para ubicarse en
+5.3% al cierre de 2020.
+Por lo que respecta a los IIN de seguros y pensiones se observa una disminución trimestral de (18%), explicado por
+una contracción de (28%) en los ingresos por intereses netos pese al incremento de 37% en el resultado técnico. A detalle,
+el resultado técnico se vio favorecido por un incremento de 24% en la colocación de las primas, lo cual contrarrestó el
+aumento del 16% en la siniestralidad principalmente en el ramo de vida y en menor medida el aumento en la constitución
+de reservas.
+En la comparativa anual, IIN de seguros y pensiones crece el 8% derivado de un crecimiento de 22% en ingresos por
+intereses netos a pesar de la afectación en el resultado técnico, el cual refleja un incremento de Ps 4,312 millones en
+Cuarto Trimestre de 2020
+Var. Vs.
+(5%)
+(8%)
+7%
+12%
+(3%)
+24%
+2%
+16%
+37%
+(28%)
+(18%)
+(5%)
+91%
+(22%)
+1%
+4T19
+3T20
+33,395
+14,858
+18,604
+7,747
+5,086
+4,967
+(2,305)
+3,889
+1,584
+20,188
+3,765
+16,423
+1,419,439
+3T20
+2019
+28,508
+138,752
+10,149
+67,533
+1,406
+1,160
+18,432
+71,465
+7,385
+32,537
+4,262
+15,003
+5,433
+18,779
+(2,310)
+(1,244)
+4,479
+10,356
+2,169
+9,112
+20,601
+80,577
+3,138
+15,347
+17,463
+65,230
+1,615,282
+1,434,764
+4T20
+27,068
+9,324
+17,810
+9,192
+4,368
+6,281
+(1,458)
+3,228
+1,770
+19,580
+5,993
+13,587
+1,625,011
+4T19
+(19%)
+(37%)
+(1%)
+(1%)
+(4%)
+19%
+(14%)
+26%
+37%
+(17%)
+12%
+(3%)
+59%
+(17%)
+14%
+382
+316
+5.7%
+4.6%
+5.9%
+8.7%
+354
+281
+5.1%
+5.6%
+4.3%
+4.5%
+5.2%
+5.6%
+7.9%
+8.2%
+380
+314
+4.8%
+3.3%
+5.0%
+7.6%
+MIN (1)
+2)
+3)

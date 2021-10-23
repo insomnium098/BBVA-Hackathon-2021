@@ -1,0 +1,69 @@
+BBVA
+Creando Oportunidades
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Valor en riesgo de títulos para negociar
+Millones de pesos
+VaR 1 día
+VaR 10 días
+Asimismo, se realizan simulaciones diarias de las pérdidas O ganancias de las carteras
+mediante reevaluaciones de las mismas bajo escenarios catastróficos (stress test). Estas
+estimaciones se generan aplicando a los factores de riesgo, cambios porcentuales
+observados en determinado período de la historia, el cual abarca turbulencias significativas
+del mercado. Con frecuencia mensual se realizan pruebas de "backtesting" para comparar
+las pérdidas y ganancias diarias que se hubieran observado si se hubiesen mantenido las
+mismas posiciones, considerando únicamente el cambio en valor debido a movimientos del
+mercado contra el cálculo de valor en riesgo y en consecuencia poder calibrar los modelos
+utilizados.
+Riesgo de Liquirez
+Información Cuantitativa
+(a) Límites de concentración respecto de los distintos grupos de garantías recibidas y las
+fuentes principales de financiamiento.
+De manera adicional a los ratios regulatorios de liquidez y el esquema de control del
+riesgo de liquidez de BBVA México se basan en el establecimiento de límites en tres
+ejes fundamentales: a) autofinanciación a través del ratio LtSCD O Loan to Stable
+Customer Deposits (relación máxima de la financiación de la inversión crediticia neta
+con recursos estables de clientes); b) diversificación de la estructura de financiación a
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Valor en riesgo de títulos para negociar
+2T 2020
+Millones de pesos
+Renta fija
+Renta variable
+Cambios
+Vega
+Total
+2T
+3T
+2019
+2019
+81
+108
+258
+334
+38
+VaR
+1 Día
+193
+15
+33
+24
+175
+VaR
+10 Días
+605
+51
+106
+77
+549
+4T
+2019
+119
+379
+1T
+121
+381
+2T
+175
+549
+2020
+2020

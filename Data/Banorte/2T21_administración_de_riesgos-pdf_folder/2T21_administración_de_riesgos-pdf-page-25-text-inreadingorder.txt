@@ -1,0 +1,94 @@
+GRUPO FINANCIERO
+BANORTE
+Banco y Sofomes
+Importe
+Ponderado
+(Promedio)
+No aplica
+138,335
+441,119
+28,582
+310,591
+15,530
+130,528
+13,053
+278,317
+75,624
+242,107
+55,134
+35,071
+19,351
+1,139
+1,139
+357,789
+9,446
+280,511
+23,330
+19,414
+8,685
+0
+0
+261,098
+14,645
+899
+93
+0
+0
+No aplica
+137,074
+280,602
+13,068
+77,354
+54,752
+2,820
+2,820
+360,776
+70,641
+Importe Ajustado
+No aplica
+138,335
+No aplica
+66,434
+No aplica
+210.15%
+25
+4.3. Coeficiente de Cobertura de Liquidez
+El CCL permite cuantificar el Riesgo de Liquidez a través de la relación entre Activos Líquidos y Salidas Netas de Efectivo,
+en los próximos 30 días, bajo supuestos de un escenario de estrés regulatorio.
+El CCL es un indicador que debe interpretarse como la suficiencia de liquidez de la Institución para cubrir sus obligaciones
+de corto plazo, bajo un escenario extremo, haciendo uso únicamente de sus Activos Líquidos de mayor calidad.
+La siguiente tabla presenta la evolución promedio de los componentes del CCL en 2T21.
+Componentes del CCL
+(Millones de pesos)
+ACTIVOS LÍQUIDOS COMPUTABLES
+1 Total de Activos Líquidos Computables
+SALIDAS DE EFECTIVO
+2 Financiamiento minorista no garantizado
+3 Financiamiento estable
+4 Financiamiento menos estable
+5 Financiamiento mayorista no garantizado
+6 Depósitos operacionales
+7 Depósitos no operacionales
+8 Deuda no garantizada
+9 Financiamiento mayorista garantizado
+10 Requerimientos adicionales:
+Salidas relacionadas a instrumentos financieros derivados y otros
+11
+requerimientos de garantías
+12 Salidas relacionadas a pérdidas del financiamiento de instrumentos de deuda
+13 Líneas de crédito y liquidez
+14 Otras obligaciones de financiamiento contractuales
+15 Otras obligaciones de financiamiento contingentes
+16 TOTAL DE SALIDAS DE EFECTIVO
+ENTRADAS DE EFECTIVO
+17 Entradas de efectivo por operaciones garantizadas
+18 Entradas de efectivo por operaciones no garantizadas
+19 Otras entradas de efectivo
+20 TOTAL DE ENTRADAS DE EFECTIVO
+21 TOTAL DE ACTIVOS LIQUIDOS COMPUTABLES
+22 TOTAL NETO DE SALIDAS DE EFECTIVO
+23 COEFICIENTE DE COBERTURA DE LIQUIDEZ
+Administración de Riesgos 2T21
+Importe Sin
+Ponderar
+(Promedio)

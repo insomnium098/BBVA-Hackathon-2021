@@ -1,0 +1,95 @@
+Capital y exposiciones totales
+20
+Capital de Nivel 1
+123,462
+21
+Exposiciones totales (suma de las lineas 3, 11, 16 y 19)
+1,552,618
+Coeficiente de apalancamiento
+22
+Coeficiente de apalancamiento de Basilea III
+7.95%
+Tabla II.1
+Comparativo de los activos totales y los activos ajustados
+Referencia
+Descripción
+jun-21
+1
+Activos totales
+1,628,630
+Ajuste por inversiones en el capital de entidades bancarias, financieras, aseguradoras o comerciales
+2
+que se consolidan a efectos contables, pero quedan fuera del ámbito de consolidación regulatoria
+0
+Ajuste relativo a activos fiduciarios reconocidos en el balance conforme al marco contable, pero
+3
+excluidos de la medida de la exposición del coeficiente de apalancamiento
+(46,315)
+4
+Ajuste por instrumentos financieros derivados
+(129,027)
+5
+Ajuste por operaciones de reporto y préstamo de valores[¹]
+1,096
+6
+Ajuste por partidas reconocidas en cuentas de orden
+98,234
+7
+Otros ajustes
+Exposición del coeficiente de apalancamiento
+1,552,618
+Tabla III.1
+Conciliación entre activo total y la exposición dentro del balance
+Referencia
+Concepto
+jun-21
+1
+Activos totales
+1,628,630
+2
+Operaciones en instrumentos financieros derivados
+(200,890)
+3
+Operaciones en reporto y prestamos de valores
+(39,506)
+Activos fiduciarios reconocidos en el balance conforme al marco contable, pero
+4
+excluidos de la medida de la exposición del coeficiente de apalancamiento
+0
+5
+Exposiciones dentro del Balance
+1,388,234
+Tabla IV.1
+Variación de los elementos
+mar-21
+jun-21
+Concepto/Trimestre
+T-1
+T
+Variación (%)
+Capital Básico 1/
+124,927
+123,462
+(1)
+Activos Ajustados 2/
+1,640,656
+1,552,618
+(5)
+Razón de Apalancamiento 3/
+7.61%
+7.95%
+* La información referente al Anexo 1-0 de la Razón de Apalancamiento se encuentra disponible en la página de internet www.santander.com.mx/ir
+15. Diversificación de riesgos
+De conformidad con las reglas generales para la diversificación de riesgos en la realización de operaciones activas y pasivas aplicables a las
+instituciones de crédito, publicadas en el diario oficial de la federación de fecha 30 de abril de 2003; se informa que al 30 de junio de 2021
+se mantienen las siguientes operaciones de riesgo crediticio:
+-
+No se tienen financiamientos otorgados a deudores o grupos de personas que representan riesgo común cuyo importe individual sea
+mayor del capital básico del Banco.
+-
+Créditos concedidos a los tres mayores deudores o grupos de personas que representan riesgo común por la cantidad agregada de
+Ps.47,246 millones que representa el 37.82% del capital básico del Banco.
+Reporte de Resultados | 2T.2021
+Santander
+Banco Santander México
+98

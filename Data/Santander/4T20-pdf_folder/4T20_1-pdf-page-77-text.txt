@@ -1,0 +1,105 @@
+Cuentas de orden
+3,848,818
+BG31
+Avales otorgados
+BG32
+Activos y pasivos contingentes
+63
+BG33
+Compromisos crediticios
+155,431
+BG34
+Bienes en fideicomiso o mandato
+204,365
+BG35
+Agente financiero del gobierno federal
+BG36
+Bienes en custodia o en administración
+1,730,422
+BG37
+Colaterales recibidos por la entidad
+90,897
+Colaterales recibidos y vendidos o entregados en garantía por
+BG38
+la entidad
+9,508
+Operaciones de banca de inversión por cuenta de terceros
+BG39
+(neto)
+0
+Intereses devengados no cobrados derivados de cartera de
+BG40
+crédito vencida
+691
+BG41
+Otras cuentas de registro
+1,657,442
+Tabla II.2
+Conceptos regulatorios considerados para el cálculo de los componentes del Capital Neto
+Referencia(s) del rubro
+Monto de conformidad con
+del balance general y
+Referencia del formato
+Conceptos regulatorios
+las notas a la tabla Conceptos
+monto relacionado con
+de revelación de la
+considerados para el cálculo
+regulatorios considerados
+el concepto regulatorio
+Identificador
+integración de capital del
+de los componentes del
+para el cálculo de los
+considerado para el
+apartado I del presente
+Capital Neto
+componentes del Capital
+cálculo del Capital Neto
+anexo
+Neto
+proveniente de la
+referencia mencionada.
+Activo
+BG16= 10,081 Menos:
+cargos diferidos y pagos
+anticipados 1,629;
+intangibles 6,648; otros
+activos que computan
+como activos en riesgo
+1,328; Más: Intangibles
+que se reconocen en el
+1
+Crédito mercantil
+8
+2,404
+pasivo 1,928
+BG16= = 10,081 Menos:
+cargos diferidos y pagos
+anticipados 1,629;
+intangibles 2,404; otros
+activos que computan
+como activos en riesgo
+1,328; Más: Intangibles
+que se reconocen en el
+2
+Otros Intangibles
+9
+6,648
+pasivo 1,928
+Impuesto a la utilidad diferida (a
+favor) proveniente de pérdidas y
+3
+créditos fiscales
+10
+0
+Beneficios sobre el remanente
+en operaciones de
+4
+burzatilización
+13
+0
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Santander
+75

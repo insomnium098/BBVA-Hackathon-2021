@@ -1,0 +1,53 @@
+gestión diferenciada que permita un tratamiento eficaz y un empleo eficiente de recursos. La gestión de estos riesgos se basa en modelos
+internos de valoración y decisión automática, complementados cuando es necesario con el juicio experto de equipos de analistas.
+El tratamiento de los créditos a empresas se complementa, además, en su fase de seguimiento, con el denominado "sistema de vigilancia
+especial" que determina la política a seguir en la gestión del riesgo con las empresas o grupos que se califiquen en dicha categoría. Se distinguen
+varias situaciones o grados de vigilancia especial del que se derivan actuaciones distintas. A la calificación de vigilancia especial se llega, bien a
+través de señales de alerta, de revisiones sistemáticas, o a través de iniciativas específicas promovidas por Riesgos o por la Auditoria Interna.
+Las unidades de Recuperación constituyen una pieza básica en la gestión del riesgo irregular, con el objetivo de minimizar la pérdida final para
+el Grupo Financiero. Estas unidades se ocupan de la gestión especializada del riesgo a partir de su calificación como riesgo irregular
+(incumplimiento oportuno de pago).
+El
+Grupo Financiero ha llevado a cabo una política de crecimiento selectivo del riesgo y de rigor en el tratamiento de la morosidad y sus
+provisiones, basada en los criterios de prudencia definidos por el Grupo Financiero.
+Probabilidad de incumplimiento y pérdidas esperadas
+Según
+se
+establece en los lineamientos en materia de Administración Integral de Riesgos, contenidos en las Disposiciones de carácter general
+aplicables a las instituciones de crédito, como parte de la administración de los riesgos de crédito, las instituciones de crédito deberán calcular
+la probabilidad de incumplimiento. El sistema permite estimar la probabilidad de incumplimiento para las diferentes carteras crediticias:
+a.
+La probabilidad de incumplimiento ("PD") para las carteras "Retail"y "No Retail" se determina a través de la calibración de las calificaciones
+de los clientes en uno o varios momentos determinados, los cuales son elegidos en base a la estabilidad que presentan contra la última
+muestra conocida.
+Posteriormente se hace un tramado de rating/scores sobre estas muestras de calificación. A cada uno de estos tramos se les calcula la tasa
+de morosidad de la muestras de calibración y se determina el promedio, que finalmente se ajusta al ciclo utilizando un periodo histórico
+de 10 años.
+b.
+Una vez determinada la probabilidad de incumplimiento, se toman los parámetros de "Severidad de la Perdida" ("LGD") y de "Exposición
+al momento del Incumplimiento" ("EAD") calculados con modelos internos.
+Para el cálculo de la LGD se utilizan los movimientos recuperatorios y de gastos a partir de momento de entrada en mora (mayor de 90
+días de atraso) y estos movimientos se descuentan o añaden al monto con el que el crédito inició el periodo recuperatorio, para lo cual se
+utilizan datos con una profundidad histórica de 7 años.
+El cálculo de la EAD se realiza únicamente para productos revolventes y también se utilizan datos con una profundidad histórica de 7 años.
+Para la estimación de la EAD se toman los saldos de los12 meses anteriores a la morosidad y se comparan contra el saldo del crédito al
+momento de la entrada en mora.
+Una vez obtenidos los factores anteriores, la Perdida Esperada ("PE") se calcula mediante la siguiente fórmula:
+Perdida Esperada = Probabilidad de Incumplimiento x Severidad de la Perdida X Exposición al momento del Incumplimiento
+Es decir: PE = PD * LGD * EAD
+Riesgo de Contrapartida
+Dentro del conjunto de riesgo de crédito, hay un concepto que, por su particularidad, requiere de una gestión especializada: Riesgo de Crédito
+de Contrapartida.
+El riesgo de crédito de contrapartida se define como el riesgo que podría surgir por un incumplimiento total o parcial de las obligaciones
+financieras contraídas con la entidad. Es un riesgo crediticio de carácter bilateral, porque puede afectar a ambas partes de la transacción, y de
+carácter incierto, ya que está condicionado por el comportamiento de los mercados, que tienen carácter volátil.
+Los productos con exposición a este riesgo son los instrumentos derivados, operaciones con compromiso de recompra (reportos) los préstamos
+de valores. La medición y control de este riesgo está a cargo de una unidad especializada y con estructura organizacional independiente de las
+áreas de negocio.
+Para el control de las líneas de contrapartida se utiliza el Riesgo Equivalente de Crédito (REC). El REC es la métrica que mide la máxima pérdida,
+dado un nivel de confianza, que se puede producir en una operación, como consecuencia del incumplimiento del contrato por parte de la
+contrapartida. Se trata de una métrica que sirve, por tanto, para estimar la exposición crediticia de una operación o conjunto de ellas mediante
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+105

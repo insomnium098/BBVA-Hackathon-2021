@@ -1,0 +1,83 @@
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Reporte de Resultados |
+Banco Santander México
+Cláusula de cancelación de dividendos
+Discrecionalidad en el pago de intereses
+¿Existe alguna cláusula que genere incentivos
+a que el Emisor pague anticipadamente el
+Instrumento?
+¿Los intereses son acumulables?
+Convertibilidad del instrumento
+Evento de Actualización del Supuesto de N.A.
+Conversión
+Monto de la Conversión
+Precio de Conversión
+Tipo de Conversión del Instrumento
+Tipo de instrumento financiero en los que se
+convertiría el Instrumento de Capital
+Emisor de dicho instrumento financiero.
+Cláusula de Pérdida de Valor (Write-Down)
+Evento de Actualización del Supuesto de
+Pérdida de Valor
+1T.2021
+Sujeto a ciertas excepciones, el Emisor no podrá realizar ciertas
+distribuciones durante la existencia y permanencia de un Período de
+Suspensión, incluyendo: (i) el pago de dividendos o distribuciones del
+capital social de Banco Santander México, (ii) realizar cualquier pago
+relacionado con instrumentos de deuda que tengan una prelación
+igual o inferior en derecho de pago o liquidación al de los
+Instrumentos, o (iii) realizar cualquier pago de garantías respecto de
+cualquier garantía que haya otorgado sobre instrumentos de sus
+subsidiarias si dicha garantía tiene una prelación igual o menor en
+derecho de pago o liquidación al de los Instrumentos.
+Obligatorio.
+No.
+Son Acumulables.
+El Emisor tendrá el derecho y diferirá, pero no cancelará (excepto por
+motivo de un Evento de Actualización del Supuesto de Pérdida de
+Valor), el pago de intereses y de principal del Instrumento, si la CNBV
+instituye ciertas medidas correctivas sobre el Emisor si el mismo es
+clasificado como Clase III o menor (o una clasificación equivalente en
+provisiones sucesorias) bajo las reglas de capitalización en México. El
+pago de intereses devengados y no pagados será acumulado. Sujeto a
+la no existencia de uno o varios Eventos de Actualización del Supuesto
+de Pérdida de Valor, al terminar un Período de Suspensión, el pago de
+intereses devengados y no pagados y de principal del Instrumento se
+realizará de nueva cuenta.
+No.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+Sí.
+Ocurrirá un "Evento de Actualización del Supuesto de Pérdida de
+Valor":
+(i) Si la CNBV publica una determinación, en la publicación oficial que
+realice respecto de los niveles de capitalización de las instituciones de
+banca múltiple, que el Coeficiente de Capital Fundamental de Banco
+Santander México, calculado de conformidad con los Requerimientos
+de Capitalización aplicables, se ubique en 4.5% o menos; o (ii) En caso
+que (A) la CNBV notifique a Banco Santander México su
+determinación, de conformidad con el Artículo 29 Bis de la Ley de
+Instituciones de Crédito, que ha incurrido en alguna de las siguientes
+causales de revocación de la autorización para operar como institución
+de banca múltiple (x) que Banco Santander México no cumpla con las
+medidas correctivas impuestas por la CNBV conforme a la Ley de
+Instituciones de Crédito, o (y) que Banco Santander México no cumpla
+con el Índice de Capitalización requerido conforme a los
+Requerimientos de Capitalización y (B) que Banco Santander México
+Santander
+90

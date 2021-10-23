@@ -1,0 +1,111 @@
+Nivel de mercado Valor observado Fechas de Observación 1a6 Fechas de Ejercicio 1 a 6 Fecha de Ejercicio 7
+315.23
+125.00
+0.00
+100.55
+Ps. 100.55
+327.83
+130.00
+0.00
+100.55
+Ps. 100.55
+340.44
+135.00
+0.00
+100.55
+Ps. 100.55
+353.05
+140.00
+0.00
+100.55
+Ps. 100.55
+(xiv)
+NVIDIA Corporation (NVDA*)
+Mercado donde cotiza:
+Nasdaq
+Descripción:
+NVIDIA Corporation diseña, desarrolla y comercializa procesadores de gráficos 3D y Software relacionado. Ofrece productos que proveen
+gráficos interactivos 3D al mercado convencional de ordenadores personales.
+Evolución Histórica
+1830%
+1630%
+1430%
+1230%
+1030%
+830%
+630%
+430%
+230%
+30%
+IPC
+NVDA
+Base de comparación: 30 de junio de 2016
+Periodo
+Precio mínimo
+Precio máximo
+Volumen promedio (títulos)
+2016
+46.66
+117.32
+12,665,639.85
+2017
+95.49
+216.96
+17,314,079.33
+2018
+127.08
+289.36
+13,847,115.19
+2019
+127.99
+239.37
+11,733,670.29
+2020
+196.40
+582.48
+12,287,167.36
+2° Sem. 2019
+148.77
+239.37
+9,232,658.71
+1° Sem. 2020
+196.40
+381.07
+13,780,116.23
+2° Sem. 2020
+381.20
+582.48
+10,810,446.18
+1° Sem. 2021
+463.73
+801.07
+8,996,548.49
+enero 2021
+504.58
+554.70
+7,409,544.42
+febrero 2021
+529.48
+613.21
+8,651,220.32
+marzo 2021
+463.73
+553.67
+8,507,605.81
+abril 2021
+552.47
+645.49
+7,633,492.27
+mayo 2021
+546.61
+649.78
+9,446,770.45
+junio 2021
+650.58
+801.07
+12,361,826.60
+Volatilidad Histórica
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+159

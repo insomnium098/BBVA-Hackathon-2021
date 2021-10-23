@@ -1,0 +1,145 @@
+GRUPO FINANCIERO
+BANORTE
+En la siguiente tabla se presentará la diferencia entre la pérdida esperada y la observada resultante del Modelo Interno
+Avanzado para Tarjeta de Crédito a partir de 1T19:
+Backtesting
+Diferencia Ps
+Pérdida Esperada
+% Cobertura
+Cartera
+Pérdida Observada*
+(Pérdida Observada
+Modelos Internos*
+PNC
+- Pérdida Esperada)
+Tarjeta de Crédito
+4,646
+4,637
+(9)
+100%
+Cartera Total
+4,646
+4,637
+(9)
+100%
+*
+Pérdida Esperada y Observada es igual al promedio de los últimos 12 meses
+2.5.2.
+Modelo Interno Avanzado para Auto Persona Física
+GF Banorte obtuvo el 25 de Noviembre de 2019 por parte de la Comisión Nacional Bancaria y de Valores la aprobación para
+el uso de Modelos Internos (MI) de calificación de Auto Persona Física (Auto PF) para la constitución de reservas y capital
+regulatorios por riesgo de crédito con un enfoque avanzado (Oficio 111/678/2019).
+Estos modelos internos mejoran la gestión integral del riesgo de crédito, estimando los parámetros de riesgo a través de la
+experiencia de la Institución, y han sido aplicados a partir de febrero de 2020 (con cifras de enero). Los parámetros antes
+mencionados son:
+Probabilidad de Incumplimiento. Indica la probabilidad de que un acreditado incumpla sus obligaciones
+contractuales en los siguientes doce meses respecto al mes de calificación. Para cada crédito se obtiene una
+puntuación, que es mapeada a una escala Maestra de calificación.
+Severidad de la Pérdida. Mide la intensidad de la pérdida en el incumplimiento expresada como porcentaje de la
+Exposición al Incumplimiento (EI).
+Exposición al Incumplimiento. Es el monto de la deuda al momento del incumplimiento de un crédito.
+En la siguiente tabla se observa la Cartera de Auto Persona Física sujeta al Modelo Interno Avanzado clasificado por grados
+de riesgo regulatorios:
+Millones de
+Cartera de Auto Persona Física bajo Modelo Interno Avanzado
+pesos
+Grado de
+Exposición al
+Severidad
+Saldo
+Riesgo*
+Contable
+Incumplimiento
+de la
+PI ponderada
+El Vigente
+(EI)
+Pérdida
+por El
+A1
+22,356
+22,356
+72.47%
+0.81%
+22,356
+A2
+1,236
+1,236
+88.06%
+2.50%
+1,236
+B1
+0
+0
+0.00%
+0.00%
+0
+B2
+0
+0
+0.00%
+0.00%
+0
+B3
+714
+714
+65.99%
+8.71%
+699
+C1
+1,440
+1,440
+82.94%
+8.71%
+1,408
+C2
+2
+2
+65.99%
+20.39%
+2
+D
+843
+843
+72.61%
+33.52%
+528
+E
+318
+318
+72.98%
+100.00%
+0
+Cartera
+26,910
+26,910
+87.46%
+8.74%
+26,230
+Total
+* La escala de grados de riesgo del Modelo Interno Avanzado ha sido mapeada a los niveles de riesgo regulatorios.
+En la siguiente tabla se presentará la diferencia entre la pérdida esperada y la observada resultante del Modelo Interno
+Avanzado para Autos Persona Física a partir de 1T19:
+Backtesting
+Diferencia Ps
+Cartera
+Pérdida Esperada
+% Cobertura
+Pérdida Observada
+Modelos Internos*
+(Pérdida Observada
+PNC
+- Pérdida Esperada)
+Auto Persona Física
+667
+662
+(5)
+101%
+Cartera Total
+667
+662
+(5)
+101%
+* Información a Marzo 2019
+Administración de Riesgos 2T20
+15

@@ -1,0 +1,35 @@
+BBVA
+Creando Oportunidades
+a) El riesgo tecnológico se define como la pérdida potencial por daños, interrupción,
+alteración O fallas derivadas del uso del hardware, software, sistemas, aplicaciones,
+redes y cualquier otro canal de transmisión de información en la prestación de servicios
+bancarios a los clientes de BBVA México.
+b) El riesgo legal se define como la pérdida potencial por el incumplimiento de las
+disposiciones legales y administrativas aplicables, la emisión de resoluciones
+administrativas y judiciales desfavorables y la aplicación de sanciones, en relación con
+las operaciones que BBVA México lleva a cabo".
+El riesgo operacional tiene su origen en la probabilidad de que existan errores humanos,
+procesos internos inadecuados O defectuosos, fallos en los sistemas y como consecuencia
+de acontecimientos externos que pudieran representar una pérdida para BBVA México. Esta
+definición incluye el riesgo legal y excluye el riesgo estratégico O de negocio y el riesgo
+reputacional.
+La gestión del riesgo operacional está integrada en la estructura de gestión global de riesgos
+de BBVA México, el cual ha establecido y mantiene modelos internos robustos que permiten
+conocer oportunamente la materialización de los eventos de riesgo operacional.
+La medición del riesgo operacional está a cargo de la Unidad de Portafolio Management,
+Data & Reporting, que es independiente de las unidades de Riesgo de Mercado y Riesgo de
+Crédito, asícomo de las unidades de Auditoría, Regulación y Control Interno.
+El promedio mensual de las pérdidas derivadas del riesgo operacional registradas en el
+4T20, fue de $263.85 mdp, principalmente por partidas operacionales relacionadas con
+pagos fiscales (actualizaciones, recargos y multas) y gastos por pandemia (covid-19).
+2) Modelo general del riesgo operacional
+La gestión del riesgo operacional se basa en un modelo causa-efecto en el que se identifica
+el riesgo operacional asociado a los procesos del Grupo a través de un circuito de mejora
+continua:
+Identificación. - Consiste en determinar cuáles son los factores de riesgo (circunstancias
+que pueden transformarse en eventos de riesgo operacional), que residen en los procesos
+de cada unidad de negocio / apoyo.
+Cuantificación. - Se determina el costo que puede generar un factor de riesgo. Puede
+realizarse con datos históricos (base de datos de pérdidas operacionales) O de forma
+estimada si se trata de riesgos que no se han manifestado en forma de eventos en el
+48

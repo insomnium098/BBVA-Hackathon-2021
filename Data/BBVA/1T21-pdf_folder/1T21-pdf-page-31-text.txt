@@ -1,0 +1,47 @@
+BBVA
+Creando Oportunidades
+Riesgo de Crédito
+Información metorológica
+La medición de los riesgos de crédito está asociada a la volatilidad de los ingresos esperados
+y se cuenta con dos medidas básicas: Pérdida Esperada (PE) y Pérdida No Esperada (PNE).
+La PE de un portafolio representa el promedio del saldo de crédito que no fue pagado, más el
+neto de los costos incurridos por su recuperación y se le considera como una pérdida
+inevitable del negocio de otorgamiento de crédito a través del tiempo. El cálculo de la PE global
+de cada portafolio requiere se determine primero la PE para cada acreditado, por ello,
+el
+modelo se centra inicialmente en un ámbito individual.
+Pérdida Esperada = Probabilidad de Incumplimiento X Severidad de la Pérdida X Exposición
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Pérdida esperada vs cartera vigente
+Marzo 2021
+Millones de pesos
+PE
+Comercial
+0.7%
+Consumo
+4.4%
+Hipotecario
+0.4%
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Parámetros de riesgos (cartera vigente)
+Marzo 2021
+Millones de pesos
+PD
+Severidad
+Comercial
+1.6%
+34.9%
+Consumo
+5.8%
+79.3%
+Hipotecario
+2.1%
+20.7%
+Los parámetros son ponderados, sobre la cartera vigente de cada uno de los portafolios y se
+calculan bajo modelos internos de BBVA México, para las carteras para las cuales han sido
+aprobados estos modelos (TDC, Empresas, Grandes Empresas e Hipotecas) y bajo método
+estándar para el resto.
+Probabilidad de Incumplimiento es aquella de que un cliente incumpla sus obligaciones. Los
+elementos que permiten determinar este factor son calificación de riesgo por cliente,
+migración de la calidad crediticia y situación de la cartera vencida.
+31

@@ -1,0 +1,64 @@
+BBVA
+Creando Oportunidades
+Importe Ponderado
+Variación
+Componente
+(Promedio)
+$
+1T21 *
+2T21 *
+N1 Efectivo y Bancos
+216,936
+261,889
+44,953
+N1 Títulos
+221,355
+165,985
+-55,370
+N2 A
+4,825
+5,190
+365
+N2 B
+1,195
+909
+-286
+Total
+444,312
+433,973
+(10,339)
+Millones de pesos.
+* Información previa
+Los activos líquidos registraron un aumento en el saldo respecto al trimestre anterior, además de
+una mejora en la composición, al aumentar el saldo de activos líquidos nivel 1y disminuyendo la
+posición de títulos nivel 2A.
+(e) Concentración de sus fuentes de financiamiento
+Una de las principales fortalezas de BBVA México se sitúa en la calidad de su fondeo, el cual se
+encuentra diversificado por tipo de clientes, instrumentos y mercados. Por el lado de la
+captación, se cuenta con una amplia red de clientes, tanto minoristas como mayoristas. Esta
+captación se complementa y fortalece con emisiones locales e internacionales a diferentes
+plazos que permite mantener el acceso a los mercados de deuda. En la siguiente tabla se
+muestra la estructura de fondeo del BBVA México al cierre de junio de 2021:
+Fuentes de Financiamiento
+% Estructura
+(junio 2021)
+de Fondeo
+Captación clientes
+73.01%
+Financiación colateralizada
+16.60%
+Títulos de crédito
+4.71%
+Obligaciones subordinadas
+3.75%
+Mercado de dinero
+0.30%
+Interbancario
+1.63%
+Total
+100%
+(f) Exposiciones en instrumentos financieros derivados y posibles llamadas de margen
+La exposición, de acuerdo a los lineamientos vigentes en derivados para el CCL, corresponde a la
+salida contingente por operaciones con instrumentos financieros derivados, también
+conocida como Look Back Approach (LBA).
+43

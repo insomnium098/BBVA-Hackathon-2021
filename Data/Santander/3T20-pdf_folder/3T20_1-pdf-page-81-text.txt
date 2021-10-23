@@ -1,0 +1,99 @@
+financieras 14; Inversiones
+en valores que computan
+como activos en riesgo
+552,325
+Inversiones recíprocas en el
+7
+capital ordinario
+17
+0
+Inversiones directas en el capital
+de entidades financieras donde
+la Institución no posea más del
+8
+10% del capital social emitido
+18
+0
+BG3= 552,339 Menos:
+Inversiones indirectas en el
+Inversiones en acciones de
+capital de entidades financieras
+la propia institución 0.14;
+donde la Institución no posea
+Inversiones en valores que
+más del 10% del capital social
+computan como activos en
+9 emitido
+18
+14
+riesgo 552,325
+Inversiones directas en el capital
+de entidades financieras donde
+la Institución posea más del 10%
+10
+del capital social emitido
+19
+0
+Inversiones indirectas en el
+capital de entidades financieras
+donde la Institución posea más
+11
+del 10% del capital social emitido
+19
+Impuesto a la utilidad diferida (a
+BG15= 15,173 Menos:
+favor) proveniente de diferencias
+monto que computa como
+12 temporales
+21
+6,490
+activo en riesgo 8,684
+Reservas reconocidas como
+BG8= Cartera de crédito
+13
+capital complementario
+50
+575
+(neta) 664,975
+Inversiones en deuda
+14
+subordinada
+26-B
+0
+BG13= 38,060 Menos:
+inversiones permanentes
+en subsidiarias 33,464;
+inversiones en cámaras de
+compensación
+528;
+inversiones permanentes
+en asociadas 1,032; otras
+inversiones que computan
+Inversiones en organismos
+como activo en riesgo
+15
+multilaterales
+26-D
+3,036
+3,036
+BG13= 38,060 Menos:
+inversiones en cámaras de
+compensación
+528;
+inversiones permanentes
+en asociadas 1,032; otras
+inversiones que computan
+Inversiones en empresas
+como activo en riesgo
+16 relacionadas
+26 E
+33,464
+3,036
+17
+Inversiones en capital de riesgo
+26 F
+0
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+79

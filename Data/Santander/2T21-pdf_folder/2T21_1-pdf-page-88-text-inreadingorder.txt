@@ -1,0 +1,142 @@
+Grupo VI (ponderados al 172.5%)
+Grupo VII-A (ponderados al 10%)
+Grupo VII-A (ponderados al 11.5%)
+Grupo VII-A (ponderados al 20%)
+Grupo VII-A (ponderados al 23%)
+Grupo VII-A (ponderados al 50%)
+Grupo VII-A (ponderados al 57.5%)
+Grupo VII-A (ponderados al 100%)
+Grupo VII-A (ponderados al 115%)
+Grupo VII-A (ponderados al 120%)
+Grupo VII-A (ponderados al 138%)
+Grupo VII-A (ponderados al 150%)
+Grupo VII-A (ponderados al 172.5%)
+Grupo VII-B (ponderados al 0%)
+Grupo VII-B (ponderados al 20%)
+Grupo VII-B (ponderados al 23%)
+Grupo VII-B (ponderados al 50%)
+Grupo VII-B (ponderados al 57.5%)
+Grupo VII-B (ponderados al 100%)
+Grupo VII-B (ponderados al 115%)
+Grupo VII-B (ponderados al 120%)
+Grupo VII-B (ponderados al 138%)
+Grupo VII-B (ponderados al 150%)
+Grupo VII-B (ponderados al 172.5%)
+Grupo VIII (ponderados al 115%)
+Grupo VIII (ponderados al 150%)
+Grupo IX (ponderados al 100%)
+Grupo IX (ponderados al 115%)
+Grupo IX (ponderados al 150%)
+Grupo X (ponderados al 1250%)
+Otros Activos (ponderados al 0%)
+Otros Activos (ponderados al 100%)
+Ajuste por Valuación Crediticia en Operaciones Derivadas
+Bursatilizaciones con Grado de Riesgo 1 (ponderados al 20%)
+Bursatilizaciones con Grado de Riesgo 2 (ponderados al 50%)
+Bursatilizaciones con Grado de Riesgo 3 (ponderados al 100%)
+Bursatilizaciones con Grado de Riesgo 4 (ponderados al 350%)
+Bursatilizaciones con grado de Riesgo 4, o 5 o No calificados (ponderados al 1250%)
+Rebursatilizaciones con Grado de Riesgo 1 (ponderados al 40%)
+Rebursatilizaciones con Grado de Riesgo 2 (ponderados al 100%)
+Rebursatilizaciones con Grado de Riesgo 3 (ponderados al 225%)
+Rebursatilizaciones con Grado de Riesgo 4 (ponderados al 650%)
+Rebursatilizaciones con grado de Riesgo 4, 5 o No Calificados (ponderados al 1250%)
+Método empleado
+Método estándar alternativo
+Reporte de Resultados | 2T.2021
+Banco Santander México
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.6
+0.0
+0.0
+0.0
+0.0
+48.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+413.9
+0.0
+130.7
+0.0
+0.0
+0.0
+0.0
+0.1
+0.0
+0.0
+126.2
+0.0
+0.0
+665.0
+3.8
+0.0
+0.0
+0.0
+0.0
+457.7
+261.7
+0.0
+0.0
+106.2
+0.0
+457.8
+0.0
+0.0
+0.0
+90.4
+0.0
+0.0
+0.0
+0.0
+0.0
+5,663
+5,173.1
+1,634.1
+130,103.1
+1,577.4
+8,313.0
+37,425.3
+5,721.5
+3,271.4
+40,255.4
+1,327.5
+25,572.3
+20,512.1
+5,723.0
+1,129.8
+10,408.2
+2,994.0
+3,220.4
+2,045.8
+1,641.0
+Tabla III.3
+Activos ponderados sujetos a riesgo de operacional
+Activos ponderados por riesgo
+Requerimiento
+de capital
+Santander
+70,787
+86

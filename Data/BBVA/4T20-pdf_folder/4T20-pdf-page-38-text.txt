@@ -1,0 +1,67 @@
+BBVA
+Creando Oportunidades
+metodología aplicada sobre las Carteras de Negociación y sobre el Balance Estructural.
+Actualmente, la metodología oficial utilizada para el cálculo de VaR es Simulación Histórica sin
+alisado.
+Carteras de Negociación
+En el caso particular de BBVA México, el VaR se calcula por Simulación Histórica y bajo la visión
+de que no se perderá en el horizonte de un día más de dicho VaR en el 99% de las veces. Se
+utilizan dos metodologías con y sin "Alisado Exponencial", una que pondere muy fuerte los
+últimos datos del mercado y otra que le da el mismo peso a la información de todo un año de
+tendencias.
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Valor en riesgo de títulos para negociar
+VaR
+VaR
+Millones de pesos
+1 Día 10 Días
+4T 2020
+Renta fija
+171
+546
+Renta variable
+15
+46
+Cambios
+37
+123
+Vega
+31
+98
+Total
+159
+501
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Valor en riesgo de títulos para negociar
+4T
+1T
+2T
+3T
+4T
+Millones de pesos
+2019
+2020
+2020
+2020
+2020
+VaR 1 día
+119
+121
+175
+148
+159
+VaR 10 días
+379
+381
+549
+482
+501
+Asimismo, se realizan simulaciones diarias de las pérdidas O ganancias de las carteras
+mediante reevaluaciones de las mismas bajo escenarios catastróficos (stress test). Estas
+estimaciones se generan aplicando a los factores de riesgo, cambios porcentuales observados
+en determinado período de la historia, el cual abarca turbulencias significativas del mercado.
+Con frecuencia mensual se realizan pruebas de "backtesting" para comparar las pérdidas y
+ganancias diarias que se hubieran observado sise hubiesen mantenido las mismas posiciones,
+considerando únicamente el cambio en valor debido a movimientos del mercado contra el
+cálculo de valor en riesgo y en consecuencia poder calibrar los modelos utilizados.
+38

@@ -1,0 +1,46 @@
+BBVA
+Creando Oportunidades
+En términos de consumos de Alerta anuales muestran la siguiente exposición:
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Exposición de Riesgo de Balance Estructural
+2020
+Porcentaje de uso de Mgmt Limit, promedio cierres mensuales
+Sensibilidad Valor Económico
+Sensibilidad Margen Financiero Proyectado a 12 meses
+Portafolio
+Uso Mgmt Limit
+Portafolio
+Uso Mgmt Limit
+Total
+69.8%
+Total
+53.1%
+Nota: Cifras del Balance Estructural sin el portafolio de Compromisos con Empleados
+Riesgos de Mercado, Liquirez y Operacional
+Riesgo de Mercado
+En cuanto al proceso para la medición de riesgos de mercado y en relación a los portafolios de
+operación e inversión, la medición diaria del riesgo mercado se realiza mediante técnicas
+estadísticas de Valor en Riesgo (VaR) como la medida central. A manera de ilustración, el VaR
+consiste en:
+1)
+Definir el grado de sensibilidad en la valuación de las posiciones ante cambios en precios,
+tasas, tipos O índices.
+2)
+Estimar de forma razonable el cambio esperado para un horizonte de tiempo específico
+con determinados precios, tasas, tipos O índices, considerando en ello el grado en que los
+mismos se pueden mover de forma conjunta.
+3)
+Reevaluar el portafolio ante tales cambios esperados conjuntos y con ello determinar la
+pérdida potencial máxima en términos de valor.
+En resumen, el VaR se ha fijado bajo la visión de que no se perderá en un día de operación más
+del monto calculado en el 99% de las veces.
+Riesgos de Mercado, Estructurales y No Bancarios (RMEyNB) tiene la responsabilidad de
+establecer y dar seguimiento a las directrices, metodologías y límites de riesgo de mercado,
+riesgo de contraparte, riesgo estructural y riesgo de liquidez de BBVA México, estableciendo
+los parámetros de medición de riesgo, y proporcionando informes, análisis y evaluaciones a la
+Alta Dirección, al Comité de Riesgos y al Consejo de Administración.
+La medición del riesgo de mercado cuantifica el cambio potencial en el valor de las posiciones
+asumidas como consecuencia de cambios en los factores de riesgo de mercado. Cuando se
+identifican riesgos significativos, se miden y se asignan límites con el fin de asegurar un
+adecuado control. La medición global del riesgo se hace a través de una combinación de la
+37

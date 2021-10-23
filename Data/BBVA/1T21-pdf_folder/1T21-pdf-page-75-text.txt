@@ -1,0 +1,69 @@
+BBVA
+Creando Oportunidades
+Solvencia
+Ohligaciones Suhordinaras
+Obligaciones Subordinadas
+Millones de pesos
+Saldo
+Fecha
+Fecha
+Tasa
+mar-21
+Emisión
+Vencimiento
+Notas Subordinadas Preferentes (USD)
+30,660
+28-sep-12
+30-sep-22
+6.75
+Notas Subordinadas Preferentes (USD)
+4,088
+12-nov-14
+12-nov-29
+5.35
+Notas Subordinadas Preferentes (USD)
+20,440
+17-ene-18
+18-ene-33
+5.13
+Notas Subordinadas Preferentes (USD)
+15,330
+13-sep-19
+13-sep-34
+5.87
+Intereses devengados no pagados
+351
+Total
+70,869
+Saldos valorizados al tipo de cambio de 20.44 MXN/USD.
+Capital Neto en BBVA México
+BBVA México
+Capital Neto
+Marzo 2021
+Millones de pesos
+Capital Básico
+238,420
+Capital contable
+246,401
+Deducción de inversiones en instrumentos subordinados
+(129)
+Deducción de inversiones en acciones de entidades financieras
+(691)
+Gastos de organización y otros intangibles
+(6,572)
+Pérdidas Fiscales
+(589)
+Capital Complementario
+51,123
+Obligaciones e instrumentos de capitalización
+5,029
+Emisiones posteriores al 31 diciembre 2012 que cumplen con el anexo 1-S
+39,858
+Reservas preventivas por riesgos crediticios generales
+2,671
+Reservas preventivas por riesgos Met Interna
+3,565
+Capital Neto
+289,543
+*Información previa. Las cifras se encuentran en revisión por la autoridad.
+75

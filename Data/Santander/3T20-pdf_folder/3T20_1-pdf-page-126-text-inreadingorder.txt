@@ -1,0 +1,207 @@
+Ticker
+Nombre
+WLTW UW
+Willis Towers
+Equity
+Watson PLC
+Illinois Tool
+ITW UN Equity
+Works Inc
+Ingersoll-Rand
+IR UN Equity
+FL UN Equity
+Foot Locker Inc
+Interpublic
+IPG UN Equity
+Group of Cos
+Inc/The
+International
+IFF UN Equity
+Flavors &
+Fragrances Inc
+Jacobs
+JEC UN Equity
+Engineering
+Group Inc
+HBI UN Equity
+Hanesbrands Inc
+K UN Equity
+Kellogg Co
+Broadridge
+BR UN Equity
+Financial
+Solutions Inc
+PRGO UN Equity
+Perrigo Co PLC
+Kimberly-Clark
+KMB UN Equity
+Corp
+Kimco Realty
+KIM UN Equity
+Corp
+KSS UN Equity
+Kohl's Corp
+ORCL UN Equity
+Oracle Corp
+KR UN Equity
+Kroger Co/The
+Leggett & Platt
+LEG UN Equity
+LEN UN Equity
+Lennar Corp
+Jefferies
+JEF UN Equity
+Financial Group
+LLY UN Equity
+Eli Lilly & Co
+LB UN Equity
+L Brands Inc
+Charter
+CHTR UW Equity
+Communications
+Lincoln National
+LNC UN Equity
+Corp
+LUN Equity
+Loews Corp
+LOW UN Equity
+Lowe's Cos Inc
+Ticker
+IVZ UN Equity
+LIN UN Equity
+INTU UW Equity
+MS UN Equity
+MCHP UW Equity
+CB UN Equity
+HOLX UW Equity
+CFG UN Equity
+ORLY UW Equity
+ALL UN Equity
+FLIR UW Equity
+EQR UN Equity
+BWA UN Equity
+INCY UW Equity
+SPG UN Equity
+EMN UN Equity
+TWTR UN Equity
+AVB UN Equity
+PRU UN Equity
+UPS UN Equity
+AIV UN Equity
+WBA UW Equity
+MCK UN Equity
+LMT UN Equity
+ABC UN Equity
+Nombre
+Nombre
+Invesco Ltd
+Delta Air Lines Inc
+United Airlines
+Linde PLC
+Holdings Inc
+Intuit Inc
+News Corp
+Morgan Stanley
+Centene Corp
+Microchip
+Macerich Co/The
+Technology Inc
+Martin Marietta
+Chubb Ltd
+Materials Inc
+PayPal Holdings
+Hologic Inc
+Inc
+Citizens Financial
+Coty Inc
+Group Inc
+O 'Reilly
+DISH Network
+Automotive Inc
+Corp
+Allstate Corp/The
+Dow Inc
+Alexion
+FLIR Systems Inc
+Pharmaceuticals
+Inc
+Everest Re Group
+Equity Residential
+Ltd
+WellCare Health
+BorgWarner Inc
+Plans Inc
+Incyte Corp
+News Corp
+Simon Property
+Global Payments
+Group Inc
+Inc
+Eastman Chemical
+Crown Castle
+Co
+International Corp
+Twitter Inc
+Aptiv PLC
+AvalonBay
+Advance Auto
+Communities Inc
+Parts Inc
+Prudential
+Capri Holdings Ltd
+Financial Inc
+United Parcel
+Align Technology
+Service Inc
+Inc
+Apartment
+Investment &
+Illumina Inc
+Management Co
+Walgreens Boots
+Alliance Data
+Alliance Inc
+Systems Corp
+McKesson Corp
+LKQ Corp
+Lockheed Martin
+Nielsen Holdings
+Corp
+PLC
+AmerisourceBergen
+Garmin Ltd
+Corp
+Ticker
+DAL UN Equity
+UAL UW Equity
+NWS UW Equity
+CNC UN Equity
+MAC UN Equity
+MLM UN Equity
+PYPL UW Equity
+COTY UN Equity
+DISH UW Equity
+DOW UN Equity
+ALXN UW Equity
+RE UN Equity
+WCG UN Equity
+NWSA UW Equity
+GPN UN Equity
+CCI UN Equity
+APTV UN Equity
+AAP UN Equity
+CPRI UN Equity
+ALGN UW Equity
+ILMN UW Equity
+ADS UN Equity
+LKQ UW Equity
+NLSN UN Equity
+GRMN UW Equity
+124
+PLC
+Inc
+Inc
+Inc
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander

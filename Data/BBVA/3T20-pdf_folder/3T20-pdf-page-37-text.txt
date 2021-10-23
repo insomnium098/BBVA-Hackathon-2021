@@ -1,0 +1,72 @@
+BBVA
+Creando Oportunidades
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Valor en riesgo de títulos para negociar
+VaR
+VaR
+Millones de pesos
+1 Día
+10 Días
+3T 2020
+Renta fija
+165
+537
+Renta variable
+23
+75
+Cambios
+35
+117
+Vega
+24
+76
+Total
+148
+482
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Valor en riesgo de títulos para negociar
+3T
+4T
+1T
+2T
+3T
+Millones de pesos
+2019
+2019
+2020
+2020
+2020
+VaR 1 día
+108
+119
+121
+175
+148
+VaR 10 días
+334
+379
+381
+549
+482
+Asimismo, se realizan simulaciones diarias de las pérdidas O ganancias de las carteras
+mediante reevaluaciones de las mismas bajo escenarios catastróficos (stress test). Estas
+estimaciones se generan aplicando a los factores de riesgo, cambios porcentuales observados
+en determinado período de la historia, el cual abarca turbulencias significativas del mercado.
+Con frecuencia mensual se realizan pruebas de "backtesting" para comparar las pérdidas y
+ganancias diarias que se hubieran observado sise hubiesen mantenido las mismas posiciones,
+considerando únicamente el cambio en valor debido a movimientos del mercado contra el
+cálculo de valor en riesgo y en consecuencia poder calibrar los modelos utilizados.
+Riesgo de Liquidez
+Información Cuantitativa
+(a) Límites de concentración respecto de los distintos grupos de garantías recibidas y las
+fuentes principales de financiamiento.
+De manera adicional a los ratios regulatorios de liquidez y el esquema de control del
+riesgo de liquidez de BBVA México se basan en el establecimiento de límites en tres ejes
+fundamentales: a) autofinanciación a través del ratio LtSCD O Loan to Stable Customer
+Deposits (relación máxima de la financiación de la inversión crediticia neta con recursos
+estables de clientes); b) diversificación de la estructura de financiación a través de un
+importe máximo de Financiación a Corto Plazo (FCP); y c) capacidad de absorción de
+shocks de liquidez a través de la Capacidad Básica a 30 días (CB 30d - -cociente de buffer
+de liquidez disponible; y las salidas netas de liquidez previstas dentro del plazo por vencer
+correspondiente). También se tienen alertas para prevenir que los límites no sean
+37

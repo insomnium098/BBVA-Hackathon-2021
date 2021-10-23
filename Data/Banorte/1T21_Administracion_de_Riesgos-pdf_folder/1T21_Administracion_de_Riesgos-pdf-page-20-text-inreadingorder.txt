@@ -1,0 +1,76 @@
+GRUPO FINANCIERO
+BANORTE
+20
+El resultado mostrado representa que la pérdida potencial del Banco, con un nivel de confianza de 97.5%, es en promedio
+Ps 46.1 millones.
+Pérdida Potencial
+Promedio
+(Millones de pesos)
+1T21
+Pérdida Potencial Total
+46.1
+Capital Neto
+191,359
+Pérdida Potencial/Capital Neto
+0.02%
+La pérdida potencial por factor de riesgo se comportó durante el 1T21 de la siguiente manera:
+Factor de Riesgo
+Promedio
+1T21
+(Millones de pesos)
+1T21
+Tasas
+58.0
+39.6
+FX
+8.8
+5.6
+Renta Variable
+16.8
+23.7
+Efecto Diversificación
+(26.5)
+(22.7)
+Pérdida Potencial Total del Banco
+57.2
+46.1
+La pérdida potencial al cierre del 1T21 corresponde a Ps 57.2 millones. La aportación a la pérdida potencial por cada factor
+de Riesgo es:
+Factor de Riesgo
+Promedio
+1T21
+(Millones de pesos)
+1T21
+Tasas Domésticas
+24.2
+18.8
+Tasas Extranjeras
+23.9
+9.1
+FX
+2.5
+3.3
+Renta Variable
+6.6
+14.9
+Pérdida Potencial Total del Banco
+57.2
+46.1
+La pérdida potencial por factor de riesgo se determina simulando 500 escenarios históricos y realizando una agrupación
+de instrumentos por su factor de riesgo principal. Es importante destacar que se tomaron en cuenta todas las posiciones
+clasificadas como de negociación, excluyendo la posición de conservados al vencimiento y disponibles para la venta.
+La concentración promedio por factor de riesgo mercado sin considerar efecto diversificación es:
+Factor de Riesgo
+1T21
+Tasas
+84%
+FX
+4%
+Renta Variable
+12%
+3.2.1. Análisis de Sensibilidad y Pruebas bajo condiciones Extremas.
+De manera complementaria a la pérdida potencial y con objeto de robustecer el análisis de riesgo, Banorte realiza pruebas
+bajo condiciones extremas, también denominadas Stress Testing. Lo anterior, presentado de manera mensual al CPR y tiene
+como objetivo principal, obtener el impacto en las posiciones de la institución dado movimientos importantes en los
+factores de riesgo.
+Administración de Riesgos 1T21

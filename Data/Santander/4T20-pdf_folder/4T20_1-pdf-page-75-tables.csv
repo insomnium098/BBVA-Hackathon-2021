@@ -1,0 +1,30 @@
+Table
+,Ajustes nacionales considerados: 
+56 ,Ajuste por reconocimiento del Capital Neto. El monto que se muestra corresponde al importe registrado en la celda C4 del formato incluido en el apartado II de este anexo. 
+57 ,Suma de los renglones 52 a 56. 
+58 ,"Renglón 51, menos renglón 57. "
+59 ,"Renglón 45, más renglón 58. "
+60 ,Activos Ponderados Sujetos a Riesgo Totales. 
+61 ,Renglón 29 dividido por el renglón 60 (expresado como porcentaje). 
+62 ,Renglón 45 dividido por el renglón 60 (expresado como porcentaje). 
+63 ,Renglón 59 dividido por el renglón 60 (expresado como porcentaje). 
+64 ,"Reportar la suma de los porcentajes expresados en los renglones 61, 65, 66 y 67. "
+65 ,Reportar 2.5% 
+66 ,"Porcentaje correspondiente al Suplemento de Capital Contracíclico al que se refiere el inciso c), fracción III, del Artículo 2 Bis 5. "
+67 ,"La cantidad SCCS de la fila 64 (expresado como un porcentaje de los activos ponderados por riesgo) que se relaciona con el suplemento de capital por carácter sistémico de la institución de banca múltiple, en los términos del inciso b), fracción III, del Artículo 2 Bis 5. "
+68 ,Renglón 61 menos 7%. 
+69 ,"No aplica. El mínimo es el mismo que establece el Comité de Supervisión Bancaria de Basilea en su documento ""Basilea III: Marco regulador global para reforzar los bancos y sistemas bancarios"" publicado en junio de 2011. "
+70 ,"No aplica. El mínimo es el mismo que establece el Comité de Supervisión Bancaria de Basilea en su documento ""Basilea III: Marco regulador global para reforzar los bancos y sistemas bancarios"" publicado en junio de 2011. "
+71 ,"No aplica. El mínimo es el mismo que establece el Comité de Supervisión Bancaria de Basilea en su documento ""Basilea III: Marco regulador global para reforzar los bancos y sistemas bancarios"" publicado en junio de 2011. "
+72 ,No aplica. El concepto fue deducido del capital en su totalidad. Ver la nota de la referencia 18. 
+73 ,No aplica. El concepto fue deducido del capital en su totalidad. Ver la nota de la referencia 19. 
+74 ,No aplica. El concepto fue deducido del capital en su totalidad. Ver la nota de la referencia 20. 
+75 ,"El monto, que no exceda el 10% de la diferencia entre la referencia 6 y suma de las referencias 7 a 20, de impuestos a la utilidad diferidos a favor provenientes de diferencias temporales menos los correspondientes impuestos a la utilidad diferidos a cargo no considerados para compensar otros ajustes. "
+76 ,Estimaciones preventivas para riesgo de crédito correspondientes a las Operaciones en las que se utilice el Método Estándar para calcular el requerimiento de capital por riesgo de crédito. 
+77 ,"1.25% de los activos ponderados por riesgo de crédito, correspondientes a las Operaciones en las que se utilice el Método Estándar para calcular el requerimiento de capital por riesgo de crédito. "
+78 ,Diferencia positiva de las Reservas Admisibles Totales menos las Pérdidas Esperadas Totales correspondientes a las Operaciones en las que se utilice el método basado en calificaciones internas para calcular el requerimiento de capital por riesgo de crédito. 
+79 ,"0.6 por ciento de los activos ponderados por riesgo de crédito, correspondientes a las Operaciones en las que se utilice el método basado en calificaciones internas para calcular el requerimiento de capital por riesgo de crédito. "
+80 ,No aplica. No existen instrumentos sujetos a transitoriedad que computen en el capital común de nivel 1. 
+81 ,No aplica. No existen instrumentos sujetos a transitoriedad que computen en el capital común de nivel 1. 
+
+

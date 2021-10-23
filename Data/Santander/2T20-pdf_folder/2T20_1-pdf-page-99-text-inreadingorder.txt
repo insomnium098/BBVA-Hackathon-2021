@@ -1,0 +1,90 @@
+Tipo de instrumento financiero en los que se
+convertiría el Instrumento de Capital
+Emisor de dicho instrumento financiero
+Cláusula de Pérdida de Valor (Write-Down)
+Evento de Actualización del Supuesto de Pérdida
+de Valor
+Profundidad de la pérdida de valor del
+Instrumento
+Temporalidad de la baja de valor del
+Instrumento como consecuencia de una
+actualización del supuesto de pérdida de valor
+Mecanismo de disminución temporal de valor
+Prelación del Instrumento
+Existen características que no cumplan con los
+anexos 1-Q, 1-R y 1-S
+Si afirmativo, ¿cuáles?
+* La información referente al Anexo 1-0 del Índice de Capitalización de las Subsidiarias Santander Hipotecario y Santander Consumo se encuentra
+disponible en la página de internet www.santander.com.mx/ir
+Integración de las principales fuentes de apalancamiento
+Partidas dentro del balance (excluidos instrumentos financieros derivados y operaciones
+de reporto y préstamo de valores -SFT por sus siglas en inglés- pero incluidos los
+colaterales recibidos en garantía y registrados en el balance)
+(Importes de los activos deducidos para determinar el capital de nivel 1 de Basilea III)
+Exposiciones dentro del balance (Netas) (excluidos instrumentos financieros derivados y
+SFT, suma de las líneas 1 y 2)
+Exposiciones a instrumentos financieros derivados
+Costo actual de reemplazo asociado a todas las operaciones con instrumentos financieros
+derivados (neto del margen de variación en efectivo admisible)
+Importes de los factores adicionales por exposición potencial futura, asociados a todas
+operaciones con instrumentos financieros derivados
+Incremento por Colaterales aportados en operaciones con instrumentos financieros
+derivados cuando dichos colaterales sean dados de baja del balance conforme al marco
+contable operativo
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+Razón de apalancamiento
+Referencia
+1
+2
+3
+4
+5
+6
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Acciones Ordinarias Serie F.
+Banco Santander México, S.A., Institución de Banca Múltiple, Grupo
+Financiero Santander México.
+No.
+N.A.
+N.A.
+N.A.
+N.A.
+Los
+Instrumentos
+quirografarias y subordinadas de Banco Santander México. Los
+Instrumentos constituyen Obligaciones Subordinadas No
+Preferentes y están (i) subordinados y supeditados en derecho de
+pago y liquidación a toda la Deuda Senior y Obligaciones
+Subordinadas Preferentes presentes o futuras de Banco Santander
+México, (ii) tienen la misma prioridad de pago y no habrá preferencia
+entre los mismos y con todas las demás Obligaciones Subordinadas
+No Preferentes, quirografarias presentes o futuras de Banco
+Santander México y (iii) tienen prioridad de pago únicamente
+respecto de todas las clases de capital social de Banco Santander
+México.
+No.
+N.A.
+jun-2020
+Santander
+representan
+obligaciones
+generales,
+1,488,559
+(49,230)
+1,439,329
+41,442
+48,306
+Tabla I.1
+Rubro
+las
+98

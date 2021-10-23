@@ -1,0 +1,41 @@
+BBVA
+Creando Oportunidades
+Por el lado de la captación, se cuenta con una amplia red de clientes tanto minoristas
+como mayoristas. Esta captación se complementa y fortalece con emisiones locales
+e
+internacionales, manteniendo un acceso constante a los mercados de deuda.
+En caso de detonaciones de límites O alertas de riesgo de liquidez, se tienen establecidos
+procedimientos específicos de actuación y de comunicación dentro de BBVA México con
+una clara definición de roles por las distintas áreas y órganos de decisión, distinguiendo
+el nivel de comunicación según si se detonó un límite O una alerta. Asimismo, se cuenta
+con un Plan de Contingencia de Liquidez, el cual en caso de activación cuenta con un
+inventario de medidas de actuación clasificadas por su tipología con base en si están
+relacionadas con el Banco de México, el mercado mayorista O la actividad comercial.
+(d) Una explicación de cómo se utilizan las pruebas de estrés
+Las pruebas de estrés de riesgo de liquidez se realizan en diversos escenarios de tensión,
+evaluando en cada uno el estado de cobertura del buffer de liquidez disponible con las
+necesidades de liquidez del escenario en cuestión bajo distintos horizontes temporales
+y
+delimitando el horizonte de supervivencia bajo distintas situaciones.
+Los resultados de estas pruebas son parte integral del Plan de Contingencia de Liquidez,
+dado que forman parte de su esquema de activación.
+(e)
+Descripción de planes de financiamiento contingentes
+El Plan de Contingencia de Liquidez O Plan de Financiamiento de Contingencia se
+configura como un elemento fundamental de la gestión del riesgo de liquidez en
+momentos de tensión de liquidez. Contiene procedimientos nítidos para facilitar la toma
+de decisiones, una adopción rápida de medidas contingentes y una comunicación eficaz,
+especificando las funciones y responsabilidades en estas situaciones, así como la
+autoridad para activarlo. Se define sobre la base de cuatro principios: coordinación entre
+las unidades intervinientes, eficaz nivel de información, confidencialidad de las
+actuaciones e informaciones y ejecutividad. Éste Plan y asícomo sus modificaciones, son
+aprobados por el Consejo de Administración de BBVA México, a propuesta del Director
+General. Su activación la llevaría a cabo el Comité de Activos y Pasivos, bajo un enfoque
+"traffic light approach" para los indicadores que integran el Plan, permitiendo distinguir
+la severidad de la situación.
+Asimismo, BBVA México cuenta con un Plan de Contingencia O Plan de Recuperación
+que prevé las posibles acciones a llevar a cabo para restablecer su situación financiera
+ante escenarios adversos que pudieran afectar la solvencia y/o liquidez. En este plan se
+describe la situación de BBVA México detallando líneas clave de negocio, indicadores de
+recuperación, gobierno corporativo para su elaboración, así como en caso de
+40

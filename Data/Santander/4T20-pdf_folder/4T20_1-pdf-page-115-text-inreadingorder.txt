@@ -1,0 +1,184 @@
+i)
+Flujos de efectivo de salida y de entrada que, en su caso, no se capturen en el presente marco, pero que la Institución considera
+relevantes para su perfil de liquidez.
+Notas adicionales del trimestre anterior
+I. Información cuantitativa:
+Límites de concentración respecto de los distintos grupos de garantías recibidas y las fuentes principales de financiamiento.
+Exposición al riesgo de liquidez y las necesidades de financiamiento a nivel de la Institución, teniendo en cuenta las limitaciones legales,
+regulatorias y operacionales a la transferibilidad de liquidez.
+c)
+Operaciones del balance desglosadas por plazos de vencimiento y las brechas de liquidez resultantes, incluyendo las operaciones
+registradas en cuentas de orden.
+Millones de pesos
+Mercado de Dinero
+Préstamos
+Financiamiento de Comercio
+Intragrupo
+Otros Activos dentro de Balance
+Total de Activos Dentro de
+Mercado de Dinero
+Depósitos
+Financiamiento de Comercio
+Intragrupo
+Reporte de Resultados | 4T.2020
+Banco Santander México
+El Coeficiente de Cobertura de Liquidez considera sólo los flujos de salida y entrada hasta 30 días, sin embargo los flujos de efectivo
+que no están recogidos dentro de la propia métrica, también son gestionados y controlados por el Banco.
+Banco Santander México está dentro de los límites de concentración establecidos por los reguladores ya que la mitigación del
+riesgo de operaciones de mercado se ejecuta utilizando títulos de deuda gubernamental o efectivo, que no tienen límites de
+concentración.
+El riesgo de liquidez está relacionado con la capacidad de financiar las obligaciones en términos razonables de mercado, así
+como de llevar a cabo los planes de negocios con fuentes de financiamiento estables. Los factores que influyen en el riesgo de
+liquidez pueden ser externos, como crisis de liquidez, o internos, como concentraciones excesivas de vencimientos.
+Las medidas utilizadas para controlar la exposición al riesgo de liquidez en la gestión del balance son el descalce de liquidez,
+las razones de liquidez, pruebas de estrés, y horizontes de liquidez.
+La métrica de horizontes de liquidez establece un plazo de supervivencia en términos de días para diferentes escenarios de
+estrés, en donde los activos líquidos deben ser suficientes para cumplir con los compromisos adquiridos. Se ha establecido un
+límite de 90 días para la moneda local y el balance consolidado y un límite de 30 días para la moneda extranjera. Durante el
+3T20 el saldo se mantuvo por encima de los límites establecidos y siempre con un excedente de liquidez suficiente.
+30/09/2020
+Plazo
+Monto
+Millones de pesos
+Consolidado
+90 días
+283,483
+Moneda Nacional
+90 días
+91,867
+Moneda Extranjera
+30 días
+183,686
+La tabla siguiente muestra el descalce de liquidez de nuestros activos y pasivos con distintos vencimientos al 30 de septiembre
+de 2020. Las cantidades reportadas incluyen flujo de efectivo de intereses de instrumentos a tasa fija y variable. El interés de
+los instrumentos a tasa variable es determinado utilizando las tasas de interés forwardpara cada periodo presentado.
+0-1
+1-3
+>5
+No
+Total
+1-3 meses
+3-6 meses
+6-12 meses
+3-5 años
+mes
+años
+años
+sensible
+111,467
+35,926
+0
+0
+23
+0
+0
+0
+75,518
+918,357
+64,898
+107,373
+76,072
+101,597
+274,190
+121,863
+177,044
+(4,679)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+931
+0
+0
+0
+0
+0
+0
+0
+931
+599,480
+91,370
+7,385
+8,941
+27,736
+116,970
+54,775
+109,659
+182,643
+16,390
+0
+0
+0
+0
+0
+0
+0
+16,390
+2,503,023
+0
+0
+0
+0
+0
+0
+0
+2,503,023
+4,149,649
+192,195
+114,758
+85,013
+129,356
+391,160
+176,638
+286,703
+2,773,827
+(298,118)
+(117,552)
+(2,041)
+0
+0
+0
+0
+0
+(178,526)
+(766,201)
+(306,455)
+(31,611)
+(22,625)
+(24,480)
+(63,506)
+(41,935)
+(275,590)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Santander
+a)
+b)
+Permanentes
+Exterior
+Valores
+Balance
+Exterior
+113

@@ -1,0 +1,76 @@
+BBVA
+Creando Oportunidades
+revisión y validación de la adecuación de los modelos y sistemas que integran las métricas de
+riesgos del Balance Estructural.
+Para dar seguimiento al riesgo del Balance Estructural de tasas de interés y tipo de cambio,
+el Comité de Activos y Pasivos es el órgano ejecutivo encargado de gestionarlo. Este comité
+no es un órgano delegado del Consejo de Administración. Adopta estrategias de inversión y
+cobertura dentro de las políticas y límites de riesgos aprobados por el Consejo de
+Administración y Comité de Riesgos delegado del Consejo.
+Al cierre de junio de 2020 la sensibilidad de Valor Económico y Sensibilidad de Margen
+Financiero +/- - 100 pb y agregada presentan las siguientes cifras:
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Sensibilidad Valor Económico Estimado
+Balance Estructural (millones de pesos)
+Junio 2020
+Portafolio
+MN
+ME
+Total
+Nota: Cifras del Balance Estructural sine portafolio de Compromisos con Empleados
+Valores positivos son pérdidas y negativos onganancias
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Sensibilidad Margen Financiero Proyectado a 12 meses
+Balance Estructural (millones de pesos)
+Junio 2020
+Portafolio
+MN
+ME
+Total
+Nota: Cifras del Balance Estructural sinel portafolio de Compromisos con Empleados
+Valores positivos son pérdidas y negativos son ganancias
+En términos de consumos de Alerta en el trimestre muestran la siguiente exposición:
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Exposición de Riesgo de Balance Estructural
+2T20
+Porcentaje de uso de Mgmt Limit, promedio cierres mensuales
+Sensibilidad Valor Económico
+Portafolio
+Total
+Nota: Cifras del Balance Estructural sinel portafolio de Compromisos con Empleados
+-100 pb
+(6,103)
+1,908
+(4,195)
+-100 pb
+2,826
+342
+3,168
+Sensibilidad Margen Financiero Proyectado a 12 meses
++100 pb
+Uso Mgmt Limit Agregada
+5,860
+(4,373)
+1,487
++100 pb
+Uso Mgmt Limit Agregada
+(2,824)
+(1,534)
+(4,358)
+Portafolio
+Uso Mgmt Limit
+Total
+54.5%
+36
+Agregada
+7,887
+3,319
+7,108
+Agregada
+3,915
+499
+4,152
+71%
+53%
+Uso Mgmt Limit
+69.0%

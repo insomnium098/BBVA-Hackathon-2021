@@ -1,0 +1,73 @@
+Estado de Resultados Consolidado
+Millones de pesos
+Criterios
+Criterio
+Contables
+Contable
+Especiales
+B-6
+Ingresos por intereses
+50,198
+49,664
+De los cuales:
+Intereses de cartera de crédito:
+Créditos comerciales
+Actividad empresarial o comercial
+14,474
+14,306
+Créditos de consumo
+13,161
+13,089
+Créditos a la vivienda
+Media y residencial
+7,569
+7,275
+De interés social
+1
+1
+Créditos adquiridos al Infonavit o el Fovissste
+678
+678
+Total de ingresos por intereses de cartera de crédito
+35,883
+35,349
+Estimación preventiva para riesgos crediticios
+Créditos comerciales
+Actividad empresarial o comercial
+(8,447)
+(8,118)
+Créditos de consumo
+(3,811)
+(3,807)
+Créditos a la vivienda
+Media y residencial
+108
+(195)
+De interés social
+7
+7
+Créditos adquiridos al Infonavit o el Fovissste
+0
+0
+Total de estimación preventiva para riesgos crediticios
+(12,143)
+(12,113)
+A continuación, se presenta el cálculo del índice de capitalización de Banco Santander México al 30 de junio de 2021
+considerando el efecto por la aplicación de los Criterios Contables Especiales, así como aquel que se hubiera
+obtenido considerando el Criterio Contable B-6 "Cartera de Crédito" emitido por la CNBV:
+Índice de capitalización
+Criterios Contables Especiales
+18.91%
+Criterio Contable B-6
+18.84%
+(7) pb
+Nota: la información antes mostrada representa información financiera consolidada de Banco Santander México al 30 de junio de 2021. En el
+anexo XIII se detalla la información correspondiente a sus subsidiarias a la misma fecha.
+Constitución de estimaciones adicionales y prudenciales
+Al 30 de junio de 2021, Banco Santander México registró Ps. 1,233 millones de estimaciones adicionales reconocidas
+ante la CNBV. Estas estimaciones adicionales son aquellas que se constituyen para cubrir riesgos que no se
+encuentran previstos en las diferentes metodologías de calificación de cartera crediticia.
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+54

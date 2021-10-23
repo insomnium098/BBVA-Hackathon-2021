@@ -1,0 +1,104 @@
+Los límites se emplean para controlar el riesgo global de Banco Santander, a partir de cada uno de sus portafolios y libros.
+límites se aplica para controlar las exposiciones y establecen el riesgo total otorgado a las unidades de negocio. Estos límites se
+el VaR, alerta de pérdida, pérdida máxima, volumen equivalente de tipo de interés, delta equivalente de renta variable, posiciones abiertas en
+divisas, sensibilidad del margen financiero y sensibilidad de valor patrimonial.
+Riesgo de Liquidez
+El riesgo de liquidez está asociado a la capacidad que Banco Santander tenga de financiar los compromisos adquiridos, a precios de mercados
+razonables, así como de llevar a cabo sus planes de negocio con fuentes de financiación estables. Los factores que influyen pueden
+carácter externo (crisis de liquidez) e interno por excesiva concentración de vencimientos.
+Banco Santander realiza una gestión coordinada de los vencimientos de activos y pasivos, realizando una vigilancia de perfiles máximos de
+desfase temporal. Esta vigilancia se basa en análisis de vencimientos de activos y pasivos tanto contractuales como de gestión. Banco Santander
+realiza un control para el mantenimiento de una cantidad de activos líquidos suficiente para garantizar un horizonte de supervivencia durante
+un
+mínimo de días ante un escenario de estrés de liquidez sin recurrir a fuentes de financiación adicionales. El Riesgo de Liquidez se limita en
+términos de un periodo mínimo de días establecido para monedas locales, extranjeras y en forma consolidado. Cabe agregar que en el trimestre
+que se presenta no se han tenido incidencias en las métricas.
+Millones de
+Total
+1D
+1S
+1M
+3M
+6M
+9M
+1A
+pesos
+Gap Estructural
+443,102
+(87,103)
+(55,975)
+(42,175)
+51,035
+50,247
+35,688
+91,212
+No Derivados
+431,177
+(87,257)
+(55,901)
+(42,284)
+50,968
+50,252
+35,732
+91,054
+Derivados
+11,925
+154
+(74)
+109
+66
+(5)
+(44)
+159
+Riesgo de Crédito
+La gestión del riesgo de crédito del Grupo Financiero se desarrolla de forma diferenciada para los distintos segmentos de clientes a lo largo de
+las tres fases del proceso crediticio: admisión, seguimiento y recuperación.
+Bajo una perspectiva global, la gestión del riesgo de crédito en el Grupo Financiero se ocupa de la identificación, medición, integración y
+valoración de riesgo agregado y de la rentabilidad ajustada al mismo, cuyo propósito es vigilar los niveles de concentración de riesgo y
+acomodarlos a los límites y a los objetivos establecidos.
+Se identifican y distinguen los riesgos que reciben un tratamiento individualizado (riesgos con empresas, instituciones y entidades financieras)
+de aquellos otros que se gestionan de forma estandarizada (créditos de consumo e hipotecarios de particulares y crédito a negocios
+microempresas).
+Para los riesgos de tratamiento individualizado la gestión del riesgo se realiza mediante análisis experto complementado por un sistema propio
+de calificación de solvencia o "rating", con probabilidad de incumplimiento asociada, que permite medir el riesgo de cada cliente en cada etapa
+del ciclo de crédito.
+Los riesgos estandarizados requieren, por sus características especiales (gran número de operaciones de cuantía relativamente reducida), una
+gestión diferenciada que permita un tratamiento eficaz y un empleo eficiente de recursos. La gestión de estos riesgos se basa en modelos
+internos de valoración y decisión automática, complementados cuando es necesario con el juicio experto de equipos de analistas.
+El tratamiento de los créditos a empresas se complementa, además, en su fase de seguimiento, con el denominado "sistema de vigilancia
+especial" que determina la política a seguir er la gestión del riesgo con las empresas o grupos que se califiquen en dicha categoría. Se distinguen
+varias situaciones o grados de vigilancia especial del que se derivan actuaciones distintas. A la calificación de vigilancia especial se llega, bien a
+través de señales de alerta, de revisiones sistemáticas, o a través de iniciativas específicas promovidas por Riesgos o por la Auditoria Interna.
+Las
+unidades
+de
+Recuperación constituyen una pieza básica en la gestión del riesgo irregular, con el objetivo de minimizar la pérdida final para
+el
+Grupo Financiero. Estas unidades se ocupan de la gestión especializada del riesgo a partir de su calificación como riesgo irregular
+(incumplimiento oportuno de pago).
+El Grupo Financiero ha llevado a cabo una política de crecimiento selectivo del riesgo y de rigor en el tratamiento de la morosidad
+provisiones, basada en los criterios de prudencia definidos por el Grupo Financiero.
+Probabilidad de incumplimientoy pérdidas esperadas
+Según se establece en los lineamientos en materia de Administración Integral de Riesgos, contenidos en las Disposiciones de carácter general
+Reporte de Resultados | 2T.2021
+Banco Santander México
+La
+5A
+374,658
+366,110
+estructura
+establecen
+ser
+8,549
+y
+Santander
+de
+para
+de
+>5A
+25,515
+y
+sus
+22,505
+3,010
+105

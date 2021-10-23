@@ -1,0 +1,37 @@
+BBVA
+Creando Oportunidades
+Las estrategias se delinean dentro de los límites de riesgos aprobados por el Consejo de
+Administración y Comité de Riesgos delegado del Consejo y son consensuadas en el
+Comité de Activos y Pasivos, siempre dentro de la tolerancia de riesgo de liquidez
+aprobada. Asimismo, se da un seguimiento de la evolución del riesgo de liquidez y
+detonaciones de límites en estos órganos.
+(b) Estrategia de financiamiento, incluyendo las políticas de diversificación, y si la estrategia
+de financiamiento es centralizada O descentralizada
+Anualmente, BBVA México elabora un plan de crecimiento de su actividad, considerando
+las proyecciones de crecimiento del negocio, el perfil de vencimientos de los activos y
+pasivos, el apetito al riesgo y las condiciones proyectadas de mercado.
+A partir de esto, se elabora el plan de financiamiento en los mercados mayoristas,
+buscando mantener diversificación en la financiación y garantizando que no exista una
+elevada dependencia de la Financiación a Corto Plazo.
+(c)
+Técnicas de mitigación del riesgo de liquidez utilizadas por BBVA México.
+El modelo de riesgo de liquidez de BBVA México, basado en los principios citados en el
+inciso (a) de esta sección, toma en cuenta en todo momento las limitaciones legales,
+regulatorias y operacionales a la transferibilidad de liquidez.
+En específico, una de las fortalezas de BBVA México se sitúa en la calidad de su fondeo,
+el cual se encuentra diversificado por tipo de clientes, instrumentos y mercados.
+Por el lado de la captación, se cuenta con una amplia red de clientes tanto minoristas
+como mayoristas. Esta captación se complementa y fortalece con emisiones locales e
+internacionales, manteniendo un acceso constante a los mercados de deuda.
+En caso de detonaciones de límites O alertas de riesgo de liquidez, se tienen establecidos
+procedimientos específicos de actuación y de comunicación dentro de BBVA México con
+una clara definición de roles por las distintas áreas y órganos de decisión, distinguiendo
+el nivel de comunicación según si se detonó un límite O una alerta. Asimismo, se cuenta
+con un Plan de Contingencia de Liquidez, el cual en caso de activación cuenta con un
+inventario de medidas de actuación clasificadas por su tipología con base en si están
+relacionadas con el Banco de México, el mercado mayorista O la actividad comercial.
+(d) Una explicación de cómo se utilizan las pruebas de estrés
+Las pruebas de estrés de riesgo de liquidez se realizan en diversos escenarios de tensión,
+evaluando en cada uno el estado de cobertura del buffer de liquidez disponible con las
+necesidades de liquidez del escenario en cuestión bajo distintos horizontes temporales
+42

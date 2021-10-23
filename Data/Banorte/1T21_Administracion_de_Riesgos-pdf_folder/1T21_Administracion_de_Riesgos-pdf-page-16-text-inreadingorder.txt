@@ -1,0 +1,101 @@
+GRUPO FINANCIERO
+BANORTE
+% Cobertura
+PNC
+122%
+122%
+Millones de pesos
+0.23%
+0.51%
+0.88%
+1.19%
+2.04%
+5.59%
+12.07%
+15.78%
+65.09%
+100.00%
+1.37%
+16
+En la siguiente tabla se presenta la diferencia entre la pérdida esperada y la observada resultante del Modelo Interno
+Avanzado para Autos Persona Física a partir de 1T20:
+Backtesting
+Diferencia Ps
+Pérdida Esperada
+Cartera
+Pérdida Observada
+(Pérdida Observada
+Modelos Internos*
+- Pérdida Esperada)
+Auto Persona Física
+682
+561
+(122)
+Cartera Total
+682
+561
+(122)
+*
+Información a Diciembre 2019
+2.5.3.
+Modelo Interno Básico para Empresas
+GF Banorte obtuvo el 30 de Noviembre de 2018 por parte de la Comisión Nacional Bancaria y de Valores la aprobación
+para el uso del Modelo Interno de Empresas para la constitución de reservas y requerimiento de capital regulatorios por
+riesgo de crédito con un enfoque básico (Oficio 111-3/1472/2018) en Banco Mercantil del Norte, y el 1 de Marzo de 2019
+para Arrendadora y Factor Banorte (Oficios 111-1/160/2019 y 111-1/161/2019). Cada año, los Modelos Internos son
+recalibrados, y se obtiene nuevamente la certificación de la CNBV para poder utilizarlos en el cálculo de los requerimientos
+regulatorios por otro periodo de 12 meses.
+Las posiciones sujetas a dicha calificación son aquellas de clientes personas morales (distintas a entidades federativas,
+municipios y entidades financieras) y personas físicas con actividad empresarial, ambos con ventas anuales mayores o
+iguales a 14 millones de UDIs.
+El Modelo Interno mejora la gestión integral del riesgo de crédito, estimando los parámetros de riesgo a través de la
+experiencia de la Institución, y han sido aplicados a partir de febrero 2019 (con cifras a enero) en Banco Mercantil del Norte;
+y a partir de marzo 2019 (con cifras a febrero) en Arrendadora y Factor Banorte. El parámetro autorizado bajo el Modelo
+Interno Básico de Empresas es:
+Probabilidad de Incumplimiento (PI). Indica la probabilidad de que un acreditado incumpla sus obligaciones
+contractuales en los siguientes doce meses respecto al mes de calificación. Para cada acreditado se obtiene una
+puntuación, que es mapeada a una escala maestra de calificación.
+En la siguiente tabla se observa la cartera sujeta al Modelo Interno de Empresas clasificada por grado de riesgo:
+Cartera Comercial de Empresas bajo Modelo Interno Básico
+Grupo Financiero Banorte
+Exposición al
+PI ponderada
+Nivel de Riesgo
+Saldo Contable
+Incumplimiento (EI)*
+por El
+1
+61,500
+61,513
+2
+55,663
+55,824
+3
+49,722
+49,763
+4
+13,421
+13,604
+5
+3,500
+3,500
+6
+1,720
+1,720
+7
+1,485
+1,485
+8
+1,150
+1,150
+9
+222
+222
+Incumplimiento
+906
+906
+Total
+189,289
+189,686
+* Los saldos de la El incluyen tanto el riesgo potencial como el saldo dispuesto.
+Administración de Riesgos 1T21

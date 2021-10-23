@@ -1,0 +1,98 @@
+Periodo
+Precio mínimo
+2016
+2017
+2018
+2019
+2020
+1° Sem. 2019
+2° Sem. 2019
+1° Sem. 2020
+2° Sem. 2020
+octubre 2020
+noviembre 2020
+diciembre 2020
+enero 2021
+febrero 2021
+marzo 2021
+120.00%
+100.00%
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+$120
+$100
+Precio máximo
+Volumen promedio (títulos)
+106.60
+7,708,051.45
+115.84
+7,435,943.98
+118.90
+8,073,258.28
+151.64
+10,296,793.99
+181.18
+14,799,072.92
+142.02
+11,572,531.51
+151.64
+9,041,856.54
+148.20
+18,100,339.09
+181.18
+11,533,690.08
+128.96
+8,407,424.32
+151.49
+11,456,340.10
+181.18
+17,878,175.35
+181.18
+9,731,191.52
+197.51
+14,302,056.46
+201.91
+13,203,457.39
+DEA 3M DEA 6M DEA 12M
+Pago de derechos
+bajo distintos valores del valor observado
+100
+Valor observado
+90.83
+96.93
+98.54
+106.33
+85.76
+106.33
+128.15
+85.76
+112.18
+118.47
+120.13
+149.44
+163.03
+170.97
+184.52
+Fechas de Ejercicio 1 a 3
+Fecha de Ejercicio 4
+Volatilidad Histórica
+DIS201LDC028
+Reporte de Resultados | 1T.2021
+Banco Santander México
+80.00%
+60.00%
+40.00%
+20.00%
+0.00%
+$80
+$60
+$40
+$20
+$-
+o
+DEA 1M
+50
+Fechas de Observación 1 a 3
+150
+Santander
+141

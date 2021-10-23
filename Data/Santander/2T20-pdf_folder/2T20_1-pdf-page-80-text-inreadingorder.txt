@@ -1,0 +1,123 @@
+BG19
+BG20
+BG21
+BG22
+BG23
+BG24
+BG25
+BG26
+BG27
+BG28
+BG29
+BG30
+BG31
+BG32
+BG33
+BG34
+BG35
+BG36
+BG37
+BG38
+BG39
+BG40
+BG41
+Identificador
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Acreedores por reporto
+Préstamo de valores
+Colaterales vendidos o dados en garantía
+Derivados
+Ajustes de valuación por cobertura de pasivos financieros
+Obligaciones en operaciones de bursatilización
+Otras cuentas por pagar
+Obligaciones subordinadas en circulación
+Impuestos y PTU diferidos (neto)
+Créditos diferidos y cobros anticipados
+Capital Contable
+Capital contribuido
+Capital ganado
+Cuentas de orden
+Avales otorgados
+Activos y pasivos contingentes
+Compromisos crediticios
+Bienes en fideicomiso o mandato
+Agente financiero del gobierno federal
+Bienes en custodia o en administración
+Colaterales recibidos por la entidad
+Colaterales recibidos y vendidos o entregados en garantía por la
+entidad
+Operaciones de banca de inversión por cuenta de terceros (neto)
+Intereses devengados no cobrados derivados de cartera de crédito
+vencida
+Otras cuentas de registro
+Tabla II.2
+Conceptos regulatorios considerados para el cálculo de los componentes del Capital Neto
+Conceptos
+Referencia del
+regulatorios
+considerados para el
+revelación de la
+cálculo de los
+integración de capital
+componentes del
+del apartado I del
+Capital Neto
+presente anexo
+268,006
+0
+15,411
+399,025
+4
+101,392
+41,957
+0
+163
+146,155
+34,989
+111,166
+3,715,421
+59
+151,030
+202,650
+1,736,180
+89,120
+33,734
+0
+545
+1,502,103
+Santander
+Monto de conformidad
+Referencia(s) del rubro del balance
+con las notas a la tabla
+general y monto relacionado con el
+Conceptos regulatorios
+concepto regulatorio considerado
+considerados para el
+para el cálculo del Capital Neto
+cálculo de los
+proveniente de la referencia
+componentes del Capital
+Neto
+BG16=9,083 Menos: cargos diferidos y
+pagos anticipados 978; intangibles
+6,359; otros activos que computan
+como activos en riesgo 1,103; Más:
+Intangibles que se reconocen en el
+2,365
+BG16=9,083 Menos: cargos diferidos y
+pagos anticipados 978; intangibles
+2,365; otros activos que computan
+6,359
+como activos en riesgo 1,103; Más:
+formato de
+8
+9
+mencionada.
+Activo
+1
+Crédito mercantil
+2
+Otros Intangibles
+pasivo 1,722
+79

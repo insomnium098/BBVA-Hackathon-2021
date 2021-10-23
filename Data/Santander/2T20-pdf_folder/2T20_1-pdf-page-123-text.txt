@@ -1,0 +1,162 @@
+Fi: Factor de ajuste por entrada y salida de valores en la muestra, derechos decretados de las emisoras, recompra de acciones y nuevas
+emisiones, y desincorporaciones.
+i= 1, 2, 3
+n
+Ponderación:
+La ponderación se determina en función del valor de capitalización.
+Criterios de selección:
+Empresas en Estados Unidos.
+valor de capitalización mayor a 5 mil millones de dólares.
+Viabilidad financiera
+Bursatilidad
+Compañías en operación.
+Tamaño de la muestra:
+El Índice S&P 500 incluye a las 500 empresas líderes dentro de las industrias líderes de la economía de Estados Unidos. A continuación se
+presentan las claves de pizarra de los valores que integran la muestra:
+Ticker
+Nombre
+Ticker
+Nombre
+Ticker
+Nombre
+LyondellBasell
+Micron Technology
+LYB UN Equity
+MU UW Equity
+DVA UN Equity
+DaVita Inc
+Industries NV
+Inc
+Hartford Financial
+American
+Motorola Solutions
+AXP UN Equity
+MSI UN Equity
+HIG UN Equity
+Services Group
+Express Co
+Inc
+Inc/Th
+Verizon
+Cboe Global
+VZ UN Equity
+Communications
+CBOE UF Equity
+IRM UN Equity
+Iron Mountain Inc
+Markets Inc
+Inc
+AVGO UW
+Estee Lauder Cos
+Broadcom Inc
+MYL UW Equity
+Mylan NV
+EL UN Equity
+Equity
+Inc/The
+Laboratory Corp of
+Cadence Design
+BA UN Equity
+Boeing Co/The
+LH UN Equity
+CDNS UW Equity
+America Holdings
+Systems Inc
+Newmont Goldcorp
+Universal Health
+CAT UN Equity
+Caterpillar Inc
+NEM UN Equity
+UHS UN Equity
+Corp
+Services Inc
+JPMorgan Chase
+E*TRADE Financial
+JPM UN Equity
+NKE UN Equity
+NIKE Inc
+ETFC UW Equity
+& Co
+Corp
+Skyworks
+CVX UN Equity
+Chevron Corp
+NI UN Equity
+NiSource Inc
+SWKS UW Equity
+Solutions Inc
+Coca-Cola
+National Oilwell
+KO UN Equity
+NBL UN Equity
+Noble Energy Inc
+NOV UN Equity
+Co/The
+Varco Inc
+Norfolk Southern
+Quest Diagnostics
+ABBV UN Equity
+AbbVie Inc
+NSC UN Equity
+DGX UN Equity
+Corp
+Inc
+Walt Disney
+Principal Financial
+Activision Blizzard
+DIS UN Equity
+PFG UW Equity
+ATVI UW Equity
+Co/The
+Group Inc
+Inc
+FleetCor
+Rockwell
+FLT UN Equity
+ES UN Equity
+Eversource Energy
+ROK UN Equity
+Technologies Inc
+Automation Inc
+Extra Space
+Northrop Grumman
+EXR UN Equity
+NOC UN Equity
+KHC UW Equity
+Kraft Heinz Co/The
+Storage Inc
+Corp
+Exxon Mobil
+American Tower
+XOM UN Equity
+WFC UN Equity
+Wells Fargo & Co
+AMT UN Equity
+Corp
+Corp
+PSX UN Equity
+Phillips 66
+NUE UN Equity
+Nucor Corp
+HFC UN Equity
+HollyFrontier Corp
+Regeneron
+General Electric
+GE UN Equity
+PVH UN Equity
+PVH Corp
+REGN UW Equity
+Pharmaceuticals
+Co
+Inc
+Occidental
+HPQ UN Equity
+HP Inc
+OXY UN Equity
+AMZN UW Equity
+Amazon.com Inc
+Petroleum Corp
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+122

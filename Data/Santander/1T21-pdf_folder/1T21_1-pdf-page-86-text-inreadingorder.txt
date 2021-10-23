@@ -1,0 +1,132 @@
+Tabla III.1
+Posiciones expuestas a riesgo de mercado por factor de riesgo
+Importe de posiciones
+equivalentes
+Tabla III.2
+Activos ponderados sujetos a riesgo de crédito por grupo de riesgo
+Activos ponderados por
+Requerimiento de
+capital
+7,796
+123
+671
+560
+22
+4,766
+154
+428
+0.04
+0.074
+Requerimiento de
+capital
+15
+232
+2,121
+1,948
+1,927
+Santander
+Concepto
+Operaciones con títulos de deuda en moneda nacional con sobretasa y una tasa
+Operaciones en moneda nacional con tasa real o denominados en UDI's
+Operaciones en moneda nacional con tasa de rendimiento referida al crecimiento del
+Posiciones en moneda nacional con tasa de rendimiento referida al crecimiento del
+Posiciones en acciones o con rendimiento indizado al precio de una acción o grupo de
+Concepto
+Operaciones en moneda nacional con tasa nominal
+revisable
+Salario Mínimo General
+Posiciones en UDI's o con rendimiento referido al INPC
+salario mínimo general
+Operaciones en moneda extranjera con tasa nominal
+Posiciones en divisas o con rendimiento indizado al tipo de cambio
+acciones
+Posiciones en Mercancías
+Requerimiento de Capital por Impacto de Gamma y Vega
+Grupo I-A (ponderados al 0%)
+Grupo I-A (ponderados al 10%)
+Grupo I-A (ponderados al 20%)
+Grupo I-B (ponderados al 2%)
+Grupo I-B (ponderados al 4.0%)
+Grupo Il (ponderados al 0%)
+Grupo Il (ponderados al 20%)
+Grupo Il (ponderados al 50%)
+Grupo Il (ponderados al 100%)
+Grupo II (ponderados al 120%)
+Grupo II (ponderados al 150%)
+Grupo III (ponderados al 2.5%)
+Grupo III (ponderados al 10%)
+Grupo III (ponderados al 11.50%)
+Grupo III (ponderados al 20%)
+Grupo III (ponderados al 23%)
+Grupo III (ponderados al 25%)
+Grupo III (ponderados al 28.75%)
+Grupo III (ponderados al 50%)
+Grupo III (ponderados al 57.5%)
+Grupo III (ponderados al 60%)
+Grupo III (ponderados al 75%)
+Grupo III (ponderados al 100%)
+Grupo III (ponderados al 115%)
+Grupo III (ponderados al 120%)
+Grupo III (ponderados al 138%)
+Reporte de Resultados | 1T.2021
+Banco Santander México
+97,447
+1,537
+8,393
+7,001
+26
+278
+59,577
+1,927
+5,349
+0.5
+0.927
+0
+0
+0
+192
+0
+0
+2,906
+0
+26,507
+0
+0
+0
+0
+0
+24,353
+27
+0
+0
+0
+0
+0
+0
+24,086
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+riesgo
+84

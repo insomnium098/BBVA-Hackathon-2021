@@ -1,0 +1,95 @@
+1 30%
+20%
+10%
+100%
+90%
+80%
+70%
+IPC
+5X5E
+Base de comporación: 31 de diciembre de 2015
+Periodo
+Precio mínimo
+Precio máximo
+Volumen promedio (títulos)
+2016
+2,680.35
+3,290.52
+670,496,806.23
+2017
+3,230.68
+3,697.40
+480,238,812.63
+2018
+2,937.36
+3,672.29
+495,509,098.11
+2019
+2,954.66
+3,782.27
+450,435,611.05
+2020
+2,385.82
+3,865.18
+518,941,433.31
+1° Sem. 2019
+2,954.66
+3,514.62
+473,592,625.64
+2° Sem. 2019
+3,282.78
+3,782.27
+427,656,156.48
+1° Sem. 2020
+2,385.82
+3,865.18
+629,402,342.08
+2° Sem. 2020
+2,958.21
+3,581.37
+409,681,186.58
+julio 2020
+3,174.32
+3,405.35
+391,246,245.45
+agosto 2020
+3,174.32
+3,363.18
+373,461,644.61
+septiembre 2020
+3,137.06
+3,338.84
+503,474,651.70
+octubre 2020
+2,958.21
+3,298.12
+349,443,229.32
+noviembre 2020
+2,958.21
+3,527.79
+490,008,182.83
+diciembre 2020
+3,448.68
+3,581.37
+356,069,954.65
+Volatilidad Histórica:
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+DEA 1M
+DEA 3M
+DEA GM
+DEA 12M
+Fuante de información sobre Evolución y Histónica:
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+SXE108R DC063
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Santander
+117

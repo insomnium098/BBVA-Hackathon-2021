@@ -1,0 +1,136 @@
+Volatilidad Histórica
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+PYL210L DC020
+Reporte de Resultados | 2T.2021
+Banco Santander México
+120.00%
+100.00%
+80.00%
+60.00%
+40.00%
+20.00%
+0.00%
+DEA 6M
+Fuente de información sobre Evolución y Volatilidad Histórica. www.bloomberg.com.mx
+bajo distintos valores del Valor Observado
+$120
+$100
+$80
+$60
+$40
+$20
+$-
+Valor Observado
+Fechas de Observación 1 a 3 - Fechas de Ejercicio 1 a 3
+Nivel de mercado Valor observado Fechas de observación 1a3 Fechas de ejercicio 1a3 Fecha de ejercicio 4
+0.00
+Ps. 0.00
+5.00
+Ps. 0.00
+10.00
+Ps. 0.00
+15.00
+Ps. 0.00
+20.00
+Ps. 0.00
+25.00
+Ps. 0.00
+30.00
+Ps. 0.00
+35.00
+Ps. 0.00
+40.00
+Ps. 0.00
+45.00
+Ps.0.00
+50.00
+Ps. 0.00
+55.00
+Ps.0.00
+60.00
+Ps. 0.00
+65.00
+Ps. 0.00
+70.00
+Ps. 0.00
+75.00
+Ps. 0.00
+80.00
+Ps.0.00
+85.00
+Ps.0.00
+90.00
+Ps. 1.95
+95.00
+Ps. 1.95
+DEA 1M
+DEA 12M
+DEA 3M
+Pago de Derechos
+100
+o
+150
+50
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Fecha de Ejercicio 4
+0.00
+13.45
+26.90
+40.35
+53.81
+67.26
+80.71
+94.16
+107.61
+121.06
+134.52
+147.97
+161.42
+174.87
+188.32
+201.77
+215.22
+228.68
+242.13
+255.58
+Ps. 10.00
+Ps. 15.00
+Ps. 20.00
+Ps. 25.00
+Ps. 30.00
+Ps. 35.00
+Ps. 40.00
+Ps. 45.00
+Ps. 50.00
+Ps. 55.00
+Ps. 60.00
+Ps. .65.00
+Ps. 70.00
+Ps. 75.00
+Ps. 80.00
+Ps. 85.00
+Ps. 90.00
+Ps. 95.00
+Ps. 101.95
+Ps. 101.95
+Santander
+163

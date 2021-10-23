@@ -1,0 +1,51 @@
+GRUPO FINANCIERO
+BANORTE
+5.7. Riesgo Legal
+Riesgo Legal se define como la pérdida potencial por el incumplimiento de las disposiciones legales y administrativas
+aplicables, la emisión de resoluciones administrativas y judiciales desfavorables y la aplicación de sanciones, en relación con
+las operaciones que la institución lleva a cabo.
+Es fundamental medir el Riesgo Legal como parte inherente del Riesgo Operacional para entender y estimar su impacto. Por
+lo anterior, los asuntos legales que derivan en pérdidas operativas reales del sistema SMARL son posteriormente registrados
+en la base de datos de eventos operacionales, de acuerdo a una taxonomía predefinida.
+Con base en las estadísticas de los asuntos legales en curso y los eventos de pérdida reales, es posible identificar riesgos
+legales u operacionales específicos, los cuales son analizados a fin de eliminarlos o mitigarlos, buscando reducir o limitar su
+futura ocurrencia o impacto.
+6. BURSATILIZACIONES REALIZADAS POR GFNORTE
+El objetivo principal de las operaciones de bursatilización realizadas por la Institución es transferir los riesgos y beneficios
+de determinados activos financieros en posición propia a terceros.
+GFNorte ha realizado las siguientes bursatilizaciones:
+El 11 de octubre de 2006, Fincasa Hipotecaria (Fincasa), actualmente fusionada con Banorte, celebró el contrato de
+fideicomiso irrevocable para la emisión de certificados bursátiles No. 563, con clave de emisora FCASACB, cuyo
+activo subyacente son créditos hipotecarios originados y cedidos por Fincasa.
+El 5 de noviembre de 2007, Banorte celebró el contrato de fideicomiso irrevocable para la emisión de certificados
+bursátiles No. 477, con clave de emisora BNTECB, cuyo activo subyacente son créditos a entidades federativas,
+municipios, entidades paraestatales o paramunicipales, así como fideicomisos en los que cualquiera de dichas
+entidades actúen como fideicomitentes, originados y cedidos por Banorte.
+Conforme al criterio C-1 Reconocimiento y baja de activos financieros, estos activos fueron dados de baja del balance de la
+institución como una venta, dado que se cumplían los requisitos de transferencia de riesgos y beneficios inherentes a la
+propiedad del activo financiero. La institución no es responsable de los riesgos asumidos o retenidos con respecto al
+patrimonio de los fideicomisos, su única responsabilidad es en relación al cumplimiento de las obligaciones que estén
+expresamente previstas en el contrato de fideicomiso y en el contrato de administración.
+La Institución es responsable de que cada uno de los créditos cedidos cumpla con los criterios de elegibilidad, al momento
+de la cesión respectiva. Si el fiduciario, el representante común, el garante financiero, identifican algún crédito no elegible,
+se le podrá exigir a Banorte que reemplace dicho crédito o si dicho reemplazo no es posible, el pago de "crédito no elegible
+no reemplazado" en cuestión. Si Banorte identifica algún crédito no elegible, deberá notificarlo y reemplazarlo o realizar el
+pago correspondiente.
+Particularmente en el Fideicomiso 477 se tienen celebradas operaciones con derivados, específicamente contratos de swaps,
+con la finalidad de reducir su exposición a los riesgos de tasa de interés y de tipo de cambio. La Institución asume el riesgo
+de contraparte generado por estas operaciones, sin embargo, las operaciones solo se realizan con instituciones de
+reconocida solvencia. La política del Fideicomiso es no realizar operaciones con instrumentos derivados con propósitos de
+especulación, solo de cobertura.
+No se cuenta con políticas predeterminadas para la emisión de bursatilizaciones por parte del Consejo de Administración
+de la Institución, la autorización para originar alguna nueva emisión se solicitaría cuando se requiera.
+La Institución no participa en bursatilización de posiciones de terceras personas.
+Existen diversos factores de riesgo que pueden afectar el patrimonio de los fideicomisos de las bursatilizaciones. En caso de
+materializarse estos riesgos, el pago a los tenedores de los certificados bursátiles podría verse afectado en forma adversa.
+Los principales riesgos a los que se encuentran expuestos estos instrumentos financieros son: Riesgo Crédito, Riesgo
+Mercado, Riesgo Liquidez y Riesgo Operacional, los cuales han sido detallados en secciones anteriores.
+Para vigilar la calidad crediticia de la exposición al Riesgo Crédito de los instrumentos financieros originados por activos
+bursatilizados, la Institución calcula la pérdida esperada con un horizonte de tiempo de un año, mientras que para dar
+seguimiento a la exposición de Riesgo de Mercado calcula el valor en riesgo a un horizonte de tiempo de un día y con un
+nivel de confianza al 99%, para dichos instrumentos.
+Administración de Riesgos 4T20
+30

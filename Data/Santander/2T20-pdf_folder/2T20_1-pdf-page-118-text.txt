@@ -1,0 +1,126 @@
+En el siguiente cuadro se muestran las posibles utilidades (pérdidas) para la cartera de negociación de Banco Santander, de acuerdo a cada
+escenario de estrés, al cierre del segundo trimestre de 2020:
+Resumen Análisis de Stress Test
+Millones de pesos
+Stress todos los
+Perfil de Riesgo
+factores
+Escenario Probable
+(41)
+Escenario Remoto
+(883)
+Escenario Posible
+(545)
+24. Coeficiente de cobertura de liquidez
+Con fecha 31 de diciembre de 2014, la Comisión y el Banco de México publicaron en el Diario Oficial de la Federación, las Disposiciones de
+Carácter General sobre los Requerimientos de Liquidez para las Instituciones de Banca Múltiple, mismas que establecen los requerimientos
+de liquidez que las instituciones de crédito deberán cumplir en todo momento, de conformidad con las directrices que estableció el Comité de
+Regulación de Liquidez Bancaria en su sesión celebrada el 17 de octubre de 2014.
+Dichas Disposiciones entraron en vigor el 1 de enero de 2015.
+En el segundo trimestre de 2020, el promedio ponderado del CCL para el Banco es de 211.33%, cumpliendo con el Perfil de Riesgo Deseado y
+superando el mínimo regulatorio establecido en la normativa vigente.
+Importe sin
+Importe
+Millones de pesos
+ponderar
+ponderado
+(promedio)
+(promedio)
+Activos Líquidos Computables
+1
+Total de activos líquidos computables
+No aplica
+239,309
+Salidas de Efectivo
+2
+Financiamiento minorista no garantizado
+266,000
+16,122
+3
+Financiamiento estable
+209,565
+10,478
+4
+Financiamiento menos estable
+56,435
+5,643
+5
+Financiamiento mayorista no garantizado
+458,106
+177,524
+6
+Depósitos operacionales
+237,151
+54,805
+7
+Depósitos no operacionales
+198,777
+100,541
+8
+Deuda no garantizada
+22,178
+22,178
+9
+Financiamiento mayorista garantizado
+No aplica
+284
+10
+Requerimientos adicionales:
+263,208
+55,316
+11
+Salidas relacionadas a instrumentos financieros derivados y otros
+requerimientos de garantías
+120,836
+46,860
+12
+Salidas relacionadas a pérdidas del financiamiento de instrumentos de deuda
+0
+0
+13
+Líneas de crédito y liquidez
+142,373
+8,456
+14
+Otras obligaciones de financiamiento contractuales
+98,404
+993
+15
+Otras obligaciones de financiamiento contingentes
+9,053
+9,053
+16 Total de Salidas de Efectivo
+No aplica
+259,292
+Entradas de Efectivo
+17 Entradas de efectivo por operaciones garantizadas
+85,339
+1,622
+18 Entradas de efectivo por operaciones no garantizadas
+146,230
+116,093
+19
+Otras entradas de efectivo
+18,366
+18,366
+20 Total de Entradas de Efectivo
+249,936
+136,081
+Importe ajustado
+21
+Total de Activos Líquidos Computables
+No aplica
+239,309
+22
+Total Neto de Salidas de Efectivo
+No aplica
+123,211
+23
+Coeficiente de Coberturas de Liquidez
+No aplica
+211.33%
+Las cifras presentadas están sujetas a revisión y por lo tanto podrían sufrir cambios.
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+117

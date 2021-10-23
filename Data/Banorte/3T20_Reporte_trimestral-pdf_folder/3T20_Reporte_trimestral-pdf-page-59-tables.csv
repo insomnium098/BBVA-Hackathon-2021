@@ -1,0 +1,52 @@
+Table
+PRODUCTO ,TIPO ,SUBYACENTE ,NOCIONAL ,OPERACIONES 
+Forwards de Divisa ,Compras ,Tipo de Cambio (USD/MXN). ,"2,571 ",143 
+Forwards de Divisa ,Ventas ,Tipo de Cambio (USD/MXN). ,"8,584 ",171 
+Forwards de Divisa ,Compras ,Tipo de Cambio (CAD/MXN). ,o ,o 
+Forwards de Divisa ,Ventas ,Tipo de Cambio (SEK/MXN). ,o ,o 
+Forwards de Divisa ,Compras ,Tipo de Cambio (EUR/USD). ,o ,o 
+Forwards de Divisa ,Ventas ,Tipo de Cambio (EUR/USD). ,o ,o 
+Opciones de Divisa ,Compras ,Tipo de Cambio (Dólar) ,"24,060 ",17 
+Opciones de Divisa ,Ventas ,Tipo de Cambio (Dólar) ,"27,169 ",16 
+Opciones de Tasa ,Compras ,TIIE ,"25,117 ",64 
+Opciones de Tasa ,Ventas ,TIIE ,"29,434 ",321 
+Opciones de Tasa ,Compras ,LIBOR ,"5,969 ",20 
+Opciones de Tasa ,Ventas ,LIBOR ,"6,031 ",21 
+Swaps de Tasa ,USD LIBOR ,LIBOR ,"387,449 ","3,583 "
+Swaps de Tasa ,MXN TIIE ,TIIE ,"1,015,086 ","3,305 "
+Swaps de Tasa y Divisa ,CS USDMXN ,FIJOIVARIABLE ,158 ,2 
+Swaps de Tasa y Divisa ,CS USDMXN ,VARIABLE/VARIABLE ,"106,015 ",115 
+Swaps de Tasa y Divisa ,CS USDMXN ,FIJO/FIJO ,"22,736 ",40 
+Swaps de Tasa y Divisa ,CS CHFMXN ,FIJO/FIJO ,"9,185 ",3 
+Swaps de Tasa y Divisa ,CS CHFMXN ,FIJO/VARIABLE ,"5,152 ",2 
+Swaps de Tasa y Divisa ,CS EURMXN ,FIJO/FIJO ,"13,788 ",66 
+Swaps de Tasa y Divisa ,CS UDIMXN ,FIJO/FIJO ,700 ,1 
+Swaps de Tasa y Divisa ,CS GBPMXN ,FIJO/FIJO ,"2,900 ",12 
+Derivados de Crédito ,CDS USD ,D2_PEMEX_150927 ,"1,196 ",5 
+
+
+Table
+Instrumento ,Valor Razonable 
+Futuros ,
+Futuros TIIE 28 ,- 
+Forward ,
+Forward de divisa ,75 
+Opciones ,
+Opciones de tasas ,189 
+Opciones de divisa ,879 
+Swaps ,
+Swaps de tasas ,"36,533 "
+Swaps de divisas ,"12,445 "
+Swaps de crédito ,- 
+Total negociación ,"50,121 "
+Opciones ,
+Opciones de tasas ,- 
+Opciones de divisa ,- 
+Swaps ,
+Swaps de tasas ,- 
+Swaps de divisas ,"7,189 "
+Swaps de crédito ,- 
+Total cobertura ,"7,189 "
+Total posición ,"57,310 "
+
+

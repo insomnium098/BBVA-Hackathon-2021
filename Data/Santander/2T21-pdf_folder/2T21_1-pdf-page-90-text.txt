@@ -1,0 +1,136 @@
+Tabla IV.1.2
+Principales características de los títulos que forman parte del Capital Neto
+Referencia
+Característica
+Opciones
+1
+Emisor
+Banco Santander México, S. A.
+2
+Identificador ISIN, CUSIP o Bloomberg
+MX41BS060005
+3
+Marco legal
+Ley del Mercado de Valores
+Tratamiento regulatorio
+4
+Nivel de capital con transitoriedad
+N.A
+5
+Nivel de capital sin transitoriedad
+Básico I
+6
+Nivel del instrumento
+Institución de Crédito sin consolidar Subsidiarias
+7
+Tipo de instrumento
+Acciones Serie B
+8
+Monto reconocido en el capital regulatorio
+$14,588,587,852.93
+9
+Valor nominal del instrumento
+$3.78
+9A
+Moneda del instrumento
+Pesos Mexicanos
+10
+Clasificación contable
+Capital
+11
+Fecha de emisión
+N.A
+12
+Plazo del instrumento
+Perpetuidad
+13
+Fecha de vencimiento
+Sin vencimiento
+14
+Cláusula de pago anticipado
+No
+15
+Primera fecha de pago anticipado
+N.A
+15A
+Eventos regulatorios o fiscales
+No
+15B
+Precio de liquidación de la cláusula de pago anticipado
+N.A
+16
+Fechas subsecuentes de pago anticipado
+N.A
+Rendimientos / dividendos
+17
+Tipo de rendimiento / dividendo
+Variable
+18
+Tasa de interés / dividendo
+Variable
+19
+Cláusula de cancelación de dividendos
+No
+20
+Discrecionalidad en el pago
+Obligatorio
+21
+Cláusula de aumento de intereses
+No
+22
+Rendimiento/dividendos
+No Acumulable
+23
+Convertibilidad del instrumento
+N.A
+24
+Condiciones de convertibilidad
+N.A
+25
+Grado de convertibilidad
+N.A
+26
+Tasa de conversión
+N.A
+27
+Tipo de convertibilidad del instrumento
+N.A
+28
+Tipo de instrumento financiero de la convertibilidad
+N.A
+29
+Emisor del instrumento
+N.A
+30
+Cláusula de disminución de valor (Write-Down)
+No
+31
+Condiciones para disminución de valor
+N.A
+32
+Grado de baja de valor
+N.A
+33
+Temporalidad de la baja de valor
+N.A
+34
+Mecanismo de disminución de valor temporal
+N.A
+35
+Posición de subordinación en caso de liquidación
+Acreedores en general
+36
+Características de incumplimiento
+No
+37
+Descripción de características de incumplimiento
+N.A
+Tabla IV.1.3
+Principales características de los títulos que forman parte del Capital Neto
+Referencia
+Característica
+Opciones
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+88

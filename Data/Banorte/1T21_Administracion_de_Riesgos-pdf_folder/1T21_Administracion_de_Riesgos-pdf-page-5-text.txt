@@ -1,0 +1,54 @@
+GRUPO FINANCIERO
+BANORTE
+2. RIESGO CRÉDITO
+Se refiere al riesgo de que clientes, emisores o contrapartes no cumplan con sus obligaciones de pago. Es por ello que la
+correcta administración del mismo es esencial para mantener la calidad crediticia del portafolio.
+Los objetivos de la Administración de Riesgo de Crédito en GFNorte son:
+Cumplir con el Perfil de Riesgo Deseado definido por el Consejo de Administración del Grupo.
+Mejorar la calidad, diversificación y composición del portafolio de financiamientos para optimizar la relación
+riesgo-rendimiento.
+Proveer a la Alta Dirección información confiable y oportuna para apoyar la toma de decisiones en materia de
+financiamientos.
+Otorgar a las Áreas de Negocio herramientas claras y suficientes para apoyar la colocación y seguimiento del
+financiamiento.
+Apoyar la creación de valor económico para los accionistas mediante una eficiente Administración de Riesgo de
+Crédito.
+Definir y mantener actualizado el marco normativo para la Administración de Riesgo de Crédito.
+Cumplir ante las autoridades con los requerimientos de información en materia de Administración de Riesgo de
+Crédito.
+Realizar una Administración de Riesgos de acuerdo a las mejores prácticas, implementando modelos,
+metodologías, procedimientos y sistemas basados en los principales avances a nivel internacional.
+Medir la vulnerabilidad de la Institución a condiciones extremas, y considerar dichos resultados para la toma de
+decisiones.
+Las políticas de la Administración de Riesgo de Crédito en GFNorte son aplicables a:
+Otorgamiento y Administración del Crédito al Consumo de acuerdo a mejores prácticas del mercado a través de
+Modelos Paramétricos que permitan identificar el riesgo, minimizar las pérdidas e incrementar la colocación de
+crédito con calidad.
+Otorgamiento y Administración del Crédito a Empresas y otras entidades, de acuerdo a mejores prácticas del
+mercado, por medio de una estrategia de crédito que incluya Mercados Objetivo y Criterios de Aceptación de
+Riesgo, identificando y administrando el riesgo por medio de metodologías de Calificación de Cartera y Alertas
+Tempranas.
+Seguimiento y control de la calidad de los créditos por medio de un Sistema de Clasificación Crediticia que indique
+el tratamiento y acciones generales que se derivan de situaciones definidas, así como las áreas o funcionarios
+responsables de dichas acciones.
+Vigilancia y control del Riesgo Crédito por medio de Límites Globales y Específicos, políticas de clasificación de
+cartera y modelos de Riesgo de Crédito a nivel portafolio que permitan identificar la pérdida esperada y pérdida
+no esperada a un nivel de confianza específico.
+Información y revelación del Riesgo de Crédito a las áreas tomadoras de riesgos, al CPR, al Consejo de
+Administración, a las Autoridades Financieras y al Público Inversionista.
+Definición de facultades en la toma de Riesgos de Crédito para la institución.
+Para el cumplimiento de los objetivos y políticas se tienen definidas una serie de estrategias y procedimientos que abarcan
+la originación, análisis, aprobación, administración, seguimiento, recuperación y cobranza.
+2.1. Alcance y Metodologías de Riesgo Crédito
+2.1.1. Riesgo de Crédito Individual
+GFNorte segmenta el Riesgo de Crédito en dos grandes grupos: Minorista y Mayorista.
+El Riesgo de Crédito individual para la cartera Minorista es identificado, medido y controlado mediante un sistema
+paramétrico (scoring) que incluye modelos para cada uno de los productos de PyMEs y Consumo (hipotecario, automotriz,
+crédito de nómina, personal y tarjeta de crédito).
+El riesgo individual para la cartera Mayorista es identificado, medido y controlado mediante los Mercados Objetivo, los
+Criterios de Aceptación de Riesgo, las Alertas Tempranas y la Calificación Interna de Riesgo Banorte (CIR Banorte).
+Los Mercados Objetivo, los Criterios de Aceptación de Riesgo y las Alertas Tempranas son herramientas que, junto con la
+Calificación Interna de Riesgo, forman parte de la Estrategia de Crédito de GFNorte y apoyan la estimación del nivel de
+Riesgo de Crédito.
+Administración de Riesgos 1T21
+5

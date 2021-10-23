@@ -1,0 +1,250 @@
+15
+2T20
+2,861
+-
+26,497
+596
+(0)
+27,094
+851
+-
+-
+851
+-
+-
+346
+8,937
+8,872
+-
+-
+-
+342
+13,241
+-
+298
+2,322
+93
+34,450
+65,256
+GRUPO FINANCIERO
+BANORTE
+3T20
+4T20
+3,014
+2,973
+-
+-
+27,705
+29,869
+600
+602
+(0)
+(0)
+28,306
+30,471
+2,157
+2,000
+-
+-
+-
+-
+2,157
+2,000
+-
+-
+-
+-
+405
+448
+6,392
+3,986
+7,924
+7,269
+-
+-
+-
+-
+-
+-
+416
+413
+13,620
+14,104
+-
+-
+298
+335
+2,517
+2,943
+94
+95
+31,666
+29,594
+65,143
+65,038
+44
+IV. Estados Financieros
+Seguros Banorte - Balance General
+(Millones de Pesos)
+Disponibilidades
+Cuentas de Margen
+Títulos para negociar
+Títulos disponibles para la venta
+Títulos conservados a vencimiento
+Inversiones en Valores
+Deudores por reporto (saldo deudor)
+Préstamo de Valores
+Operaciones con Derivados
+Operaciones con Valores y Derivadas
+Ajustes de valuación por cobertura de activos
+Derechos de cobro adquiridos
+Cuentas por cobrar
+Deudores por Prima (Neto)
+Ctas por cobrar a reaseguradores y reafianzadores
+Beneficios por recibir en operaciones de Busatilización
+Otras Cuentas por cobrar, neto
+Inventario de Mercancías
+Propiedades, Mobiliario y equipo (Neto)
+Inversiones permanentes
+Activos de larga duración disponibles para la venta
+Impuestos diferidos, neto
+Cargos diferidos, pagos anticipados e intangibles
+Otros activos a corto y largo plazo
+TOTAL ACTIVOS
+Cuarto Trimestre de 2020
+1T19
+1T20
+1,765
+19,031
+24,424
+861
+19,893
+24,978
+3,200
+1,654
+3,200
+1,654
+164
+10,970
+7,581
+11,532
+8,162
+371
+12,840
+12,849
+250
+1,858
+1,710
+38,078
+31,326
+61,233
+59,723
+2T19
+423
+19,624
+552
+20,176
+545
+545
+281
+8,611
+10,884
+365
+13,273
+250
+2,253
+36,004
+57,148
+3T19
+965
+20,118
+562
+20,680
+491
+491
+355
+5,972
+10,920
+357
+13,696
+297
+2,472
+34,159
+56,296
+4T19
+303
+21,105
+560
+21,664
+1,892
+1,892
+443
+4,059
+7,787
+356
+14,062
+298
+2,655
+29,751
+53,610
+ACTIVOS
+63
+-
+-
+554
+(0)
+(0)
+-
+-
+-
+-
+-
+-
+-
+-
+289
+-
+-
+-
+-
+-
+-
+346
+-
+-
+298
+91
+91
+-
+(0)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(0)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(0)
+-
+-
+-
+-
+-
+-
+-
+-
+87
+90
+91

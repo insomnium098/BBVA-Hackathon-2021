@@ -1,0 +1,71 @@
+T
+GRUPO FINANCIERO
+BANORTE
+Durante 4T20, se observó un CCL promedio de los 92 días del trimestre para Banco y Sofomes de 192.52%, con CCL al cierre
+de 4T20 de 207.76%, situándose por arriba del Perfil de Riesgo Deseado y el mínimo regulatorio establecido en la normativa
+vigente. Los resultados anteriores indican que Banorte se encuentra en posición de hacer frente a la totalidad de sus
+obligaciones de corto plazo ante un escenario de crisis¹.
+4.4. Evolución de los Componentes del CCL
+La evolución de los componentes del Coeficiente de Cobertura de Liquidez entre el cierre del 3T20 y el cierre del 4T20 se
+presenta en la siguiente tabla.
+Componente CCL
+3T20
+4T20
+Var vs. 3T20
+(Millones de pesos)
+Activos Líquidos
+130,857
+142,015
+8.5%
+Entradas de Efectivo
+79,080
+77,100
+(2.5%)
+Salidas de Efectivo
+148,584
+145,456
+(2.1%)
+Los Activos Líquidos que computan para el CCL del Banco y Sofomes entre el cierre del 3T20 y el cierre del 4T20 presentan
+la siguiente distribución:
+Tipo de Activo
+3T20
+4T20
+Var vs. 3T20
+(Millones de pesos)
+Total
+130,857
+142,015
+8.5%
+Nivel I
+121,192
+132,921
+9.7%
+Nivel Il
+9,666
+9,095
+(5.9%)
+Nivel Il A
+5,652
+5,030
+(11.0%)
+Nivel Il B
+4,013
+4,065
+1.3%
+Las variaciones en el Coeficiente de Cobertura de Liquidez entre el 3T20 y el 4T20, principalmente en lo que respecta al
+aumento de Activos Líquidos, son consecuencia de diversas iniciativas orientadas a fortalecer la liquidez de la Institución.
+4.5. Riesgo de Liquidez en moneda extranjera
+Para la cuantificación y el seguimiento del Riesgo de Liquidez se utilizan, para el portafolio de dólares, los criterios
+establecidos por Banco de México para la elaboración del Coeficiente de Liquidez, en moneda extranjera.
+El Coeficiente de Liquidez en moneda extranjera debe interpretarse como la capacidad que tiene la institución de cubrir sus
+descalces de liquidez con activos líquidos, ambos en moneda extranjera.
+4.6. Principales iniciativas que incidieron sobre la liquidez de Banorte durante 4T20
+La estrategia de liquidez de Banorte está orientada a sostener niveles adecuados en función a las circunstancias
+prevalecientes; en este sentido, durante el 4T20 se decidió gestionar los niveles de liquidez a través de la estructura de
+fondeo tradicional reforzando la calidad, estabilidad y costo de la captación con clientes y tomando ventaja de la ciclicidad
+histórica del último trimestre del año que genera volúmenes altos de captación tradicional.
+Cabe destacar que Banorte no ha usado las Facilidades Ordinarias ni las Facilidades Extraordinarias de Banco de México
+durante el 4T20.
+La información del Coeficiente de Cobertura de Liquidez es preliminar y está sujeto a la validación de Banco de México.
+Administración de Riesgos 4T20
+24

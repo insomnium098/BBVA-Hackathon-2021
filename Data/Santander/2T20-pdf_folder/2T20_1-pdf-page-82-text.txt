@@ -1,0 +1,112 @@
+Impuesto a la utilidad
+diferida (a favor)
+proveniente
+de
+BG15= 15,983 Menos: monto que
+12
+diferencias temporales
+21
+6,478
+computa como activo en riesgo 9,505
+Reservas reconocidas
+como capital
+BG8= Cartera de crédito (neta)
+13
+complementario
+50
+86
+680,149
+Inversiones en deuda
+14
+subordinada
+26-B
+0
+BG13= 36,498 Menos: inversiones
+permanentes en subsidiarias 32,190;
+inversiones
+en
+cámaras
+de
+compensación
+457;
+inversiones
+Inversiones en
+permanentes en asociadas 933; otras
+organismos
+inversiones que computan como activo
+15
+multilaterales
+26- D
+0
+en riesgo 2,918
+BG13= = 36,498 Menos: inversiones en
+cámaras de compensación 457;
+Inversiones en
+inversiones permanentes en asociadas
+empresas
+933; otras inversiones que computan
+16 relacionadas
+26-E
+32,190
+como activo en riesgo 2,918
+Inversiones en capital
+17
+de riesgo
+26-F
+0
+Inversiones en fondos
+18
+de inversión
+26 G
+0
+Financiamiento para la
+adquisición de
+19
+acciones propias
+26-H
+0
+BG16= 9,083 Menos: intangibles
+8,724; otros activos que computan
+como activos en riesgo 1,103; Más:
+Cargos diferidos y
+Intangibles que se reconocen en el
+20
+pagos anticipados
+26-J
+978
+pasivo 1,722
+Participación de los
+trabajadores en las
+utilidades diferida
+21
+(neta)
+26 L
+0
+Inversiones del plan
+de pensiones por
+22
+beneficios definidos
+26-N
+0
+BG13= 36,498 Menos: inversiones
+permanentes en subsidiarias 32,190;
+Inversiones en
+inversiones permanentes en asociadas
+cámaras de
+933; otras inversiones que computan
+23
+compensación
+26-P
+457
+como activo en riesgo 2,918
+Pasivo
+Impuestos a la utilidad
+diferida (a cargo)
+asociados al crédito
+24
+mercantil
+8
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+81

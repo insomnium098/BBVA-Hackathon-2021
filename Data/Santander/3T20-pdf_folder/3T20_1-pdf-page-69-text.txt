@@ -1,0 +1,86 @@
+Total
+43,425
+Préstamos en divisas
+Préstamos concertados con bancos del extranjero
+23
+1.50
+De 2 días a 6 meses
+Call money
+111
+0.05
+De 1a2 días
+Fiduciarios públicos
+1,533
+1.37
+De 1 día a 5 años
+Banca de desarrollo
+48
+5.02
+De 1a4 meses
+Total
+1,715
+Total de financiamientos
+45,140
+Intereses devengados
+112
+Total préstamos bancarios y de otros organismos
+45,252
+12. Impuestos causados e impuestos diferidos
+Impuestos causados al 30 de septiembre de 2020 se integran como sigue:
+Impuesto sobre la renta
+5,277
+Impuestos diferidos
+(1,391) (1)
+Total Banco
+3,886
+Impuesto causado-diferido otras subsidiarias
+1,121
+Total Banco consolidado
+5,007
+(1) Se integran como sigue:
+Reserva preventiva global
+(654)
+Propiedades, mobiliario y equipo y cargos diferidos
+28
+Efecto neto instrumentos financieros
+(1,358)
+Pasivos acumulados
+258
+Otros
+335
+Total Banco
+(1,391) (1)
+Efecto neto reserva incobrables (subsidiarias)
+(155)
+Otros subsidiarias
+122
+Total impuesto diferido Banco consolidado
+(1,424)
+Al 30 de septiembre de 2020, el activo y pasivo diferido se encuentran registrados al 100%
+Remanente reservas preventivas globales e incobrables
+10,305
+Otros
+10,461
+Total impuesto diferido (neto)
+20,766
+Impuesto diferido registrado en cuentas de balance
+20,766
+Impuesto diferido registrado en cuentas de orden
+0
+13. Participación de los empleados en las utilidades (PTU)
+Al 30 de septiembre de 2020, la PTU diferida se integra como sigue:
+Activo por PTU diferida:
+Estimación preventiva para riesgos crediticios pendientes de deducir
+1,779
+Propiedades, mobiliario y equipo y cargos diferidos
+724
+Pasivos acumulados
+528
+Pérdidas fiscales por amortizar de acciones
+899
+Comisiones e intereses cobrados por anticipado
+(388)
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+67

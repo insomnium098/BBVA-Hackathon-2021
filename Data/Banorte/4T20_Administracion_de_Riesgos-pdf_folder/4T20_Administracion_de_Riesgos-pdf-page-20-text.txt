@@ -1,0 +1,78 @@
+T
+GRUPO FINANCIERO
+BANORTE
+El resultado mostrado representa que la pérdida potencial del Banco, con un nivel de confianza de 97.5%, es en promedio
+Ps 42.7 millones.
+Pérdida Potencial
+Promedio
+(Millones de pesos)
+4T20
+Pérdida Potencial Total
+42.7
+Capital Neto
+188,595
+Pérdida Potencial/Capital Neto
+0.02%
+La pérdida potencial por factor de riesgo se comportó durante el 4T20 de la siguiente manera:
+Factor de Riesgo
+Promedio
+4T20
+(Millones de pesos)
+4T20
+Tasas
+32.3
+35.9
+FX
+20.3
+13.5
+Renta Variable
+29.6
+27.4
+Efecto Diversificación
+(38.7)
+(34.1)
+Pérdida Potencial Total del Banco
+43.5
+42.7
+La pérdida potencial al cierre del 4T20 corresponde a Ps 43.5 millones. La aportación a la pérdida potencial por cada factor
+de Riesgo es:
+Factor de Riesgo
+Promedio
+4T20
+(Millones de pesos)
+4T20
+Tasas Domésticas
+8.6
+12.8
+Tasas Extranjeras
+2.3
+2.4
+FX
+7.2
+4.8
+Renta Variable
+25.3
+22.7
+Pérdida Potencial Total del Banco
+43.5
+42.7
+La pérdida potencial por factor de riesgo se determina simulando 500 escenarios históricos y realizando una agrupación de
+instrumentos por su factor de riesgo principal. Es importante destacar que se tomaron en cuenta todas las posiciones
+clasificadas como de negociación, excluyendo la posición de conservados al vencimiento y disponibles para la venta.
+La concentración promedio por factor de riesgo mercado sin considerar efecto diversificación es:
+Factor de Riesgo
+4T20
+Tasas
+25%
+FX
+17%
+Renta Variable
+58%
+3.2.1.
+Análisis de Sensibilidad y Pruebas bajo condiciones Extremas.
+De manera complementaria a la pérdida potencial y con objeto de robustecer el análisis de riesgo, Banorte realiza pruebas
+bajo condiciones extremas, también denominadas Stress Testing. Lo anterior, presentado de manera mensual al CPR y tiene
+como objetivo principal, obtener el impacto en las posiciones de la institución dado movimientos importantes en los factores
+de riesgo.
+Administración de Riesgos 4T20
+20

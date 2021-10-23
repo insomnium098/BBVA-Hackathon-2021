@@ -1,0 +1,87 @@
+Precio
+Precio
+Volumen Promedio
+Periodo
+Mínimo
+Máximo
+(Títulos)
+2015
+37.99
+43.84
+14,771,602.37
+2016
+40.17
+46.89
+13,537,007.51
+2017
+40.44
+47.43
+11,442,184.21
+2018
+41.55
+50.51
+12,795,458.74
+2019
+44.69
+55.77
+12,958,030.36
+2° Sem. 2018
+43.75
+50.51
+12,600,155.84
+1° Sem. 2019
+44.69
+51.92
+14,742,370.71
+2° Sem. 2019
+51.22
+55.77
+11,202,782.52
+1° Sem. 2020
+37.56
+60.13
+19,636,099.53
+enero 2020
+54.25
+58.86
+13,004,120.94
+febrero 2020
+53.49
+60.13
+13,481,599.45
+marzo 2020
+37.56
+58.92
+32,131,285.13
+abril 2020
+42.12
+49.00
+18,372,606.73
+mayo 2020
+43.26
+47.09
+20,767,425.06
+junio 2020
+43.57
+49.85
+19,621,258.77
+Volatilidad Histórica
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+DEA 1M
+DEA 3M
+DEA 6M
+DEA 12M
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+147

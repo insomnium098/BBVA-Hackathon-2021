@@ -1,0 +1,24 @@
+Table
+,,Sensibilidad ,NIM ,,,Sensibilidad ,MVE ,
+Banco ,abr-21 ,may-21 ,jun-21 ,Promedio ,abr-21 ,may-21 ,jun-21 ,Promedio 
+Balance MXN GAP ,36% ,38% ,28% ,34% ,29% ,25% ,16% ,23% 
+Escenario ,(100) bp ,(100) bp ,(100) bp ,N/A ,+100 bp ,+100 bp ,+100 bp ,N/A 
+Balance USD ,,,,,,,,
+GAP ,23% ,26% ,23% ,24% ,26% ,29% ,29% ,28% 
+Escenario ,(25) bp ,(25) bp ,(25) bp ,N/A ,(25) bp ,(25) bp ,(25) bp ,N/A 
+
+
+Table
+MM Pesos ,,Sensibilidad ,NIM ,,,Sensibilidad ,MVE ,
+Banco ,Escenario ,Total ,Derivados ,No Derivados ,Escenario ,Total ,Derivados ,No Derivados 
+Balance MXN GAP ,(100) bp ,(425) ,(805) ,380 ,+100 bp ,(661) ,"1,100 ","(1,761) "
+Balance ,,,,,,,,
+USD GAP ,(25) bp ,(227) ,8 ,(235) ,(25) bp ,(876) ,(780) ,(96) 
+
+
+Table
+Tasa de Interés ,"76,787.33 ",0.05 
+Tipo de Cambio ,"9,215.32 ",0.01 
+Renta Variable ,"2,628.66 ",0.00 
+
+

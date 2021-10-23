@@ -1,0 +1,99 @@
+GRUPO FINANCIERO
+BANORTE
+35
+IV. Estados Financieros
+Resultado Neto
+Ajustes por partidas que no implican flujo de efectivo
+Depreciación de Inmuebles, mobiliario y equipo
+Reservas Técnicas
+Provisiones
+Impuestos a la utilidad causados diferidos
+Participación en el resultado de subsidiarias no consolidadas, asociadas y
+negocios conjuntos
+Actividades de operación
+Cambio en cuentas de margen
+Cambio en inversiones en valores
+Cambio en deudores por reporto
+Cambio en derivados (activo)
+Cambio en cartera de crédito (neto)
+Cambio en derecho de cobro adquiridos (neto)
+Cambio en cuentas por cobrar de instituciones de seguros y fianzas (neto)
+Cambio en deudores por primas (neto)
+Cambio en reaseguradores yreafianzadores (neto)
+Cambio en beneficios por recibir en operaciones de bursatilización
+Cambio en bienes adjudicados (neto)
+Cambio en otros activos operativos (neto)
+Cambio en captación tradicional
+Cambio en préstamos interbancarios yde otros organismos
+Cambio en acreedores por reporto
+Cambio en colaterales vendidos o dados en garantía
+Cambio en derivados (pasivo)
+Cambio en reservas técnicas (neto)
+Cambio en reaseguradores yreafianzadores (neto) (pasivo)
+Cambio en obligaciones subordinadas con características de pasivo
+Cambio en otros pasivos operativos
+Cambio en instrumentos de cobertura (de partidas cubiertas relacionadas
+con actividades de operación)
+Pago de Impuestos a la utilidad
+Flujos netos de efectivo de actividades de operación
+Actividades de inversión
+Cobros por disposición de inmuebles, mobiliario y equipo
+Pagos por adquisición de inmuebles, mobiliario yequipo
+Pagos por adquisición de subsidiarias, asociadas yacuerdos con control
+conjunto
+Cobros de dividendos en efectivo
+Flujos netos de efectivo de actividades de inversión
+Actividades de financiamiento
+Pagos de intereses de obligaciones subordinadas
+Flujos netos de efectivo de actividades de financiamiento
+Incremento o disminución neta de efectivo y equivalentes de efectivo
+Efectos por cambios en el valor del efectivo y equivalentes de efectivo
+Efectivo y equivalentes al inicio del período
+Efectivo y equivalentes al final del período
+Información Financiera 1T21
+GFNORTE- - ESTADO DE PLUJO DE EFECTIVO
+CONSOLIDADO DEL 1 DE ENERO AL 31 DE MARZO DE 2021
+(Millones de Pesos)
+8,544
+1,311
+11,016
+(836)
+2,678
+(317)
+13,852
+22,396
+7,087
+(42,297)
+888
+19,779
+(199)
+88
+(401)
+(6,791)
+(251)
+108
+1
+1,420
+8,819
+(2,005)
+18,319
+10
+(19,590)
+1,617
+876
+1,607
+(108)
+2,010
+(5,635)
+7,748
+72
+(1,558)
+(9)
+1,723
+228
+(918)
+(918)
+7,058
+30
+109,306
+116,394

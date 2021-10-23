@@ -1,0 +1,86 @@
+GRUPO FINANCIERO
+BANORTE
+40
+IV. Estados Financieros
+Resultado Neto
+Ajustes por partidas que no implican flujo de efectivo
+Depreciación de Inmuebles, mobiliario eeupo
+Provisiones
+Impuestos a la utilidad causados ydiferidos
+Participación en el resultado de subsidiarias no consolidadas,
+Actividades de operación
+Cambio en cuentas de margen
+Cambio en inversiones en valores
+Cambio en deudores por reporto
+Cambio en derivados (activo)
+Cambio en cartera de crédito (neto)
+Cambio en derecho de cobro adquiridos (neto)
+Cambio en beneficios por recibir en operaciones de bursatilización
+Cambio en bienes adjudicados (neto)
+Cambio en otros activos operativos (neto)
+Cambio en captación tradicional
+Cambio en préstamos interbancarios yde otros organismos
+Cambio en acreedores por reporto
+Cambio en colaterales vendidos o dados en garantía
+Cambio en derivados (pasivo)
+Cambio en obligaciones subordinadas con características de pasivo
+Cambio en otros pasivos operativos
+Cambio en instrumentos de cobertura (de partidas cubiertas
+relacionadas con actividades de operación)
+Pago de Impuestos a la utilidad
+Flujos netos de efectivo de actividades de operación
+Actividades de inversión
+Cobros por disposición de inmuebles, mobiliario yequipo
+Pagos por adquisición de inmuebles, mobiliario yequipo
+Pagos por disposición de subsidiarias, asociadas y acuerdos con
+control conjunto
+Cobros de dividendos en efectivo
+Flujos netos de efectivo de actividades de inversión
+Actividades de financiamiento
+Pagos de intereses de obligaciones subordinadas
+Flujos netos de efectivo de actividades de financiamiento
+Incremento o disminución neta de efectivo y equivalentes de efectivo
+Efectos por cambios en el valor del efectivo y equivalentes de efectivo
+Efectivo y equivalentes al inicio del período
+Efectivo y equivalentes al final del período
+Tercer Trimestre de 2020
+BANORTE- ESTADO DE FLUJO DE EFECTIVO
+CONSOLIDADO DEL 1 DE ENERO AL 30 DE SEPTIEMBRE DE 2020
+(Millones de Pesos)
+16,483
+1,545
+(402)
+5,568
+(75)
+6,636
+23,119
+(10,385)
+13,119
+(281)
+(31,513)
+(36,673)
+17
+(12)
+138
+(23,235)
+89,865
+6,115
+(49,647)
+(104)
+29,369
+18,191
+16,720
+1,824
+(4,486)
+42,141
+591
+(3,013)
+(107)
+32
+(2,497)
+(2,433)
+(2,433)
+37,211
+122
+62,282
+99,615

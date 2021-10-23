@@ -1,0 +1,148 @@
+GRUPO FINANCIERO
+BANORTE
+Promedio 4T20
+620
+99
+0
+224
+15,660
+(6,846)
+207
+9,963
+25,778
+15,815
+(11,732)
+0
+(11,732)
+se
+12
+Posición
+(Millones de pesos)
+*La diferencia entre el valor de mercado positivo (sin considerar el neteo de las posiciones) y el valor de mercado del portafolio.
+No se incluyen operaciones liquidadas en Cámara de Compensación debido a que no tienen riesgo contraparte.
+En la siguiente tabla se presenta los niveles de exposición actual y de exposición potencial futura al cierre del trimestre y
+4T20
+Promedio 4T20
+9,673
+6,301
+6,502
+9,733
+152
+5,588
+4T20
+Promedio 4T20
+117
+97
+22,649
+28
+22,886
+21,520
+Con base en las condiciones que se establecen dentro los contratos de operación de instrumentos financieros derivados
+consideran niveles de tolerancia de exposición, en función a la calificación que mantengan las entidades involucradas en la
+transacción. La siguiente tabla presenta el monto de garantías a entregar en caso de deterioro por baja de calificación de la
+institución. Cabe mencionar que con la mayor parte de las contrapartes se ha migrado a umbral (threshold) cero, por lo que
+las garantías a entregar no dependen de la calificación crediticia sino que obedecen a movimientos de mercado:
+Salida de Efectivo con Downgrade de 1 Escalón
+Salida de Efectivo con Downgrade de 2 Escalones
+Salida de Efectivo con Downgrade de 3 Escalones
+4T20
+744
+(100)
+0
+127
+16,615
+(6,394)
+152
+11,144
+27,650
+16,506
+(11,887)
+0
+(11,887)
+4T20
+639
+(100)
+0
+78
+(5,686)
+(6,408)
+152
+(11,324)
+4T20
+105
+49
+22,301
+14
+22,469
+4T20
+0
+0
+0
+Forwards
+FX Swap
+FX
+Opciones
+Swap Tasa de Interés (IRS)
+Cross Currency Swap (CCIRS)
+Credit Default Swaps (CDS)
+Total
+Valor Razonable Positivo
+(Valor de Mercado positivo)
+Efecto del neteo*
+Garantías Entregadas (-) / Recibidas (+)
+Efectivo
+Valores
+Totales
+en promedio durante el trimestre respectivamente.
+(Millones de pesos)
+Contrapartes
+Financieras
+FWD
+FX SWAP
+FX
+OPCIONES
+SWAP TASA
+CCS
+CDS
+Total
+Clientes
+(No Financieras)
+FWD
+OPCIONES
+SWAP TASA
+CCS
+Total
+Administración de Riesgos 4T20
+Riesgo Potencial
+9,064
+5,512
+7,398
+9,049
+208
+5,512
+94
+90
+21,307
+32
+Salidas Netas de Efectivo
+(Millones de pesos)
+Riesgo Actual
+Promedio 4T20
+0
+0
+0
+Promedio 4T20
+545
+99
+0
+188
+(5,313)
+(6,863)
+207
+(11,137)
+Promedio 4T20
+74
+36
+20,973
+16
+21,100

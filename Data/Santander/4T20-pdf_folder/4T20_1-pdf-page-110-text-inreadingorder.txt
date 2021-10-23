@@ -1,0 +1,123 @@
+B. Variables de referencia
+Las variables de referencia más relevantes son:
+Tipos de Cambio
+Tasas de Interés
+Acciones
+Canastas e índices accionarios.
+C. Frecuencia de Valuación
+La frecuencia con la cual se valoran los productos financieros derivados con fines de negociación y de cobertura es diaria.
+Administración sobre las fuentes internas y externas de liquidez que pudieran ser utilizadas para atender requerimientos relacionados
+con instrumentos financieros derivados.
+Los recursos se obtienen a través de las áreas de Tesorería Nacional e Internacional.
+Cambios en la exposición a los riesgos identificados, contingencias y eventos conocidos o esperados en instrumentos financieros
+derivados.
+Al cierre del cuarto trimestre de 2020 Banco Santander no tiene ninguna situación o eventualidad, tales como cambios en el valor del activo
+subyacente o las variables de referencia, que implique que el uso de los instrumentos financieros derivados difieran de aquellos con que
+originalmente fueron concebidos, que modifiquen significativamente el esquema de los mismos o que impliquen la pérdida parcial o total de la
+cobertura, y que requieran que la Emisora asuma nuevas obligaciones, compromisos o variaciones en su flujo de efectivo de forma que vea
+afectada su liquidez; ni contingencias y eventos conocidos o esperados por la administración, que puedan afectarla en futuros reportes.
+Durante el cuarto trimestre de 2020, el número de instrumentos financieros derivados vencidos y posiciones cerradas fue el siguiente (no
+auditado):
+Tipo de Derivado
+Contratos Adelantados
+Contratos Adelantados
+Futuros
+Futuros
+Opciones
+Opciones
+Opciones
+Opciones
+Swaps
+Swaps
+Swaps
+Contratos Adelantados
+Swaps
+Swaps
+Banco Santander México, en la celebración de operaciones con instrumentos financieros derivados OTC, tiene formalizados contratos Colaterales
+con muchas de sus contrapartes, que sirven de garantía del valor de mercado de las operaciones de derivados y se determina en función a la
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Resumen de Instrumentos Financieros Derivados
+Cifras en millones de pesos al 31 de diciembre de 2020
+Fines de
+Negociación o
+Subyacente
+de Cobertura
+Monto Nocional
+Divisas
+Negociación
+347,277
+Acciones
+Negociación
+4,562
+Divisas
+Negociación
+5,644
+Índices
+Negociación
+148
+Acciones
+Negociación
+2,065
+Divisas
+Negociación
+127,815
+Índices
+Negociación
+420
+Tasas
+Negociación
+147,718
+Divisas
+Negociación
+924,109
+Tasas
+Negociación
+7,193,807
+Acciones
+Negociación
+704
+Divisas
+Cobertura
+54,767
+Divisas
+Cobertura
+50,704
+Tasas
+Cobertura
+61,691
+Valor Razonable
+1,301
+14
+0
+0
+(531)
+1,132
+13
+9
+1,550
+6,538
+(157)
+3,444
+(9,430)
+(4,662)
+Trimestre
+Actual
+Trimestre
+Anterior
+(1,463)
+(13,814)
+(3,897)
+Santander
+466
+(33)
+0
+0
+(516)
+1,246
+119
+113
+6,486
+82
+3,313
+108

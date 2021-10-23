@@ -1,0 +1,28 @@
+NIF C-20, Instrumentos financieros por cobrar principal e interés
+Al igual que la NIF C-19, la NIF C-20 menciona que cuando un instrumento financiero tiene una tasa de interés
+variable, la tasa de interés efectiva debe recalcularse periódicamente por el resto de la vida del instrumento, en
+consistencia con el cambio efectuado por el CINIF a la NIF C-19, también se modifica la NIF C-20.
+NIF D-2, Costos por contratos con clientes
+En la sección de convergencia con las Normas Internacionales de Información Financiera (NIIF o IFRS por sus siglas
+en inglés), dentro de la sección de Introducción de la NIF D-2, se mencionaba que esta NIF era totalmente
+convergente con dichas normas internacionales; sin embargo, se detectó una diferencia, por lo que el CINIF modificó
+la NIF D-2 para mencionarla.
+NIF D-3, Beneficios a los empleados
+Establece las bases para reconocer los tratamientos fiscales inciertos en la Participación de los Trabajadores en las
+Utilidades (PTU) tanto causada como diferida, así como los requerimientos de revelaciones al respecto. La PTU al
+determinarse sobre la misma sobre la misma ley y básicamente sobre la misma base con la que se determina el
+impuesto a la utilidad, también podría estar basada en determinaciones fiscales inciertas, establecidas en la NIF D-
+4 Impuestos a la Utilidaden cuanto a los tratamientos fiscales inciertos.
+NIF D-4, Impuestos a la Utilidad
+Indica las bases para reconocer los tratamientos fiscales inciertos en los impuestos a la utilidad tanto causados como
+diferidos así como los requerimientos de revelación al respecto. Asimismo, incluye normas para el reconocimiento
+de los impuestos a la utilidad generados por una distribución de dividendos.
+NIF D-5, Arrendamientos
+Incorpora la posibilidad de utilizar una tasa libre de riesgo para descontar los pagos futuros por arrendamiento y
+reconocer así el pasivo por arrendamiento de un arrendatario y restringe el uso de la solución práctica para evitar
+que, componentes importantes e identificables que no son de arrendamiento se incluyan en la medición de los
+activos por derecho de uso y los pasivos por arrendamientos.
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+57

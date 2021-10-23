@@ -1,0 +1,37 @@
+Table
+Referencia ,Descripción ,jun-21 
+1 ,Activos totales ,"1,628,630 "
+2 ,"Ajuste por inversiones en el capital de entidades bancarias, financieras, aseguradoras o comerciales que se consolidan a efectos contables, pero quedan fuera del ámbito de consolidación regulatoria ",0 
+3 ,"Ajuste relativo a activos fiduciarios reconocidos en el balance conforme al marco contable, pero excluidos de la medida de la exposición del coeficiente de apalancamiento ","(46,315) "
+4 ,Ajuste por instrumentos financieros derivados ,"(129,027) "
+5 ,Ajuste por operaciones de reporto y préstamo de valores[¹] ,"1,096 "
+6 ,Ajuste por partidas reconocidas en cuentas de orden ,"98,234 "
+7 ,Otros ajustes ,
+,Exposición del coeficiente de apalancamiento ,"1,552,618 "
+
+
+Table
+Referencia ,Concepto ,jun-21 
+1 ,Activos totales ,"1,628,630 "
+2 ,Operaciones en instrumentos financieros derivados ,"(200,890) "
+3 ,Operaciones en reporto y prestamos de valores ,"(39,506) "
+4 ,"Activos fiduciarios reconocidos en el balance conforme al marco contable, pero excluidos de la medida de la exposición del coeficiente de apalancamiento ",0 
+5 ,Exposiciones dentro del Balance ,"1,388,234 "
+
+
+Table
+,mar-21 ,jun-21 ,
+Concepto/Trimestre ,T-1 ,T ,Variación (%) 
+Capital Básico 1/ ,"124,927 ","123,462 ",(1) 
+Activos Ajustados 2/ ,"1,640,656 ","1,552,618 ",(5) 
+Razón de Apalancamiento 3/ ,7.61% ,7.95% ,
+
+
+Table
+,Capital y exposiciones totales ,
+20 ,Capital de Nivel 1 ,"123,462 "
+21 ,"Exposiciones totales (suma de las lineas 3, 11, 16 y 19) ","1,552,618 "
+,Coeficiente de apalancamiento ,
+22 ,Coeficiente de apalancamiento de Basilea III ,7.95% 
+
+

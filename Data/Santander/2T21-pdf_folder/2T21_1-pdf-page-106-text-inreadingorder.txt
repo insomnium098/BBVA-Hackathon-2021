@@ -1,0 +1,127 @@
+Factor de Riesgo
+Tasa de Interés
+Tipo de Cambio
+Renta Variable
+* % de VaR respecto del Capital Neto
+Asimismo, se realizan simulaciones mensuales de las pérdidas o ganancias de las carteras mediante revaluaciones de las mismas bajo
+escenarios 'Stress Test"). Estas estimaciones se generan de dos formas:
+Aplicando a los factores de riesgo cambios porcentuales observados en determinado periodo de la historia, el cual abarca turbulencias
+Aplicando a los factores de riesgo cambios que dependen de la volatilidad de cada uno de estos.
+Con frecuencia mensual se realizan pruebas de "backtesting" para comparar las pérdidas y ganancias diarias que se hubieran observado si se
+mantenido las mismas posiciones, considerando únicamente el cambio en valor debido a movimientos del mercado, contra el cálculo
+de valor en riesgo y en consecuencia poder calibrar los modelos utilizados. Estos reportes, aunque se hacen mensualmente, incluyen las pruebas
+La actividad de banca comercial de Banco Santander genera importantes saldos de balance. El Comité de Activos y Pasivo ("ALCO") es
+responsable de determinar las directrices de gestión del riesgo de margen financiero, valor patrimonial y liquidez, que deben seguirse en las
+diferentes carteras comerciales. Bajo este enfoque, la Dirección General de Finanzas tiene la responsabilidad de ejecutar las estrategias definidas
+en el Comité de Activos y Pasivos con el fin de modificar el perfil de riesgo del balance comercial mediante el seguimiento de las políticas
+establecidas, para lo que es fundamental atender a los requerimientos de información para los riesgos de tasa de interés, de tipo de cambio y
+Como parte de la gestión financiera de Banco Santander, se analiza la sensibilidad del margen financiero ("NIM") y del valor patrimonial ("MVE")
+de los distintos rubros del balance, frente a variaciones de las tasas de interés. Esta sensibilidad se deriva de los desfases en las fechas de
+vencimiento y de modificación de las tasas de interés que se producen en los distintos rubros de activo y pasivo. El análisis se realiza a partir de
+clasificación de cada rubro sensible a tasas de interés a lo largo del tiempo, conforme a sus fechas de amortización, vencimiento, o
+modificación contractual de tasa de interés aplicable.
+Sensibilidad NIM
+abr-21
+36%
+38%
+(100) bp
+(100) bp
+23%
+26%
+(25) bp
+(25) bp
+Utilizando técnicas de simulación, se mide la variación previsible del margen financiero y del valor patrimonial ante distintos escenarios de
+de interés, y la sensibilidad de ambos, frente a un movimiento extremo de los mismos, al cierre del segundo trimestre de 2021:
+Sensibilidad NIM
+Escenario
+(100) bp
+(425)
+(25) bp
+(227)
+El Comité de Activos y Pasivos adopta estrategias de inversión y coberturas para mantener dichas sensibilidades dentro del rango objetivo.
+76,787.33
+9,215.32
+2,628.66
+may-21
+25%
++100 bp
+29%
+(25) bp
+Total
+(661)
+(876)
+104
+0.05
+0.01
+0.00
+16%
+29%
+diferentes
+tasas
+significativas del mercado.
+para todos los días.
+Gestión de Activos) y Pasivos
+Banco
+Balance
+MXN GAP
+Escenario
+Balance USD
+GAP
+Escenario
+MM Pesos
+Banco
+Balance
+MXN GAP
+Balance
+USD GAP
+Reporte de Resultados | 2T.2021
+Banco Santander México
+hubiesen
+de liquidez.
+la
+Límites
+Sensibilidad MVE
+jun-21
++100 bp
+(25) bp
+Sensibilidad MVE
+Derivados
+1,100
+(780)
+may-21
+Promedio
+Total
+Derivados
+jun-21
+abr-21
+28%
+(100) bp
++100 bp
+23%
+(25) bp
+(25) bp
+Derivados
+Escenario
++100 bp
+(25) bp
+Promedio
+23%
+28%
+No
+Derivados
+(1,761)
+(96)
+Santander
+34%
+N/A
+24%
+N/A
+380
+29%
+26%
+N/A
+N/A
+No
+(805)
+8
+(235)

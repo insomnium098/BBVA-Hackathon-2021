@@ -1,0 +1,147 @@
+GRUPO FINANCIERO
+BANORTE
+Promedio 1T21
+491
+(14)
+4
+181
+12,359
+(7,138)
+167
+6,050
+20,107
+14,051
+(10,784)
+(45)
+(10,829)
+Promedio 1T21
+475
+(14)
+4
+197
+(3,880)
+(7,150)
+167
+(10,201)
+Promedio 1T21
+16
+(16)
+16,239
+12
+8,472
+12
+Posición
+(Millones de pesos)
+*La diferencia entre el valor de mercado positivo (sin considerar el neteo de las posiciones) y el valor de mercado del portafolio.
+No se incluyen operaciones liquidadas en Cámara de Compensación debido a que no tienen riesgo contraparte.
+En la siguiente tabla se presenta los niveles de exposición actual y de exposición potencial futura al cierre del trimestre y
+1T21
+Promedio 1T21
+4,717
+5,604
+7,273
+5,173
+168
+5,760
+1T21
+Promedio 1T21
+53
+61
+12,043
+220
+9,013
+Con base en las condiciones que se establecen dentro los contratos de operación de instrumentos financieros derivados
+se consideran niveles de tolerancia de exposición, en función a la calificación que mantengan las entidades involucradas
+en la transacción. La siguiente tabla presenta el monto de garantías a entregar en caso de deterioro por baja de calificación
+de la institución. Cabe mencionar que con la mayor parte de las contrapartes se ha migrado a umbral (threshold) cero, por
+lo que las garantías a entregar no dependen de la calificación crediticia sino que obedecen a movimientos de mercado:
+Salida de Efectivo con Downgrade de 1 Escalón
+Salida de Efectivo con Downgrade de 2 Escalones
+Salida de Efectivo con Downgrade de 3 Escalones
+1T21
+330
+(7)
+1
+231
+8,638
+(7,054)
+167
+2,307
+13,401
+11,078
+(9,142)
+(13)
+(9,155)
+1T21
+307
+(7)
+1
+303
+(2,247)
+(7,053)
+167
+(8,529)
+1T21
+23
+(71)
+10,885
+(1)
+7,996
+1T21
+0
+0
+0
+Forwards
+FX Swap
+FX
+Opciones
+Swap Tasa de Interés (IRS)
+Cross Currency Swap (CCIRS)
+Credit Default Swaps (CDS)
+Total
+Valor Razonable Positivo
+(Valor de Mercado positivo)
+Efecto del neteo*
+Garantías Entregadas (-) / Recibidas (+)
+Efectivo
+Valores
+Totales
+en promedio durante el trimestre respectivamente.
+(Millones de pesos)
+Contrapartes
+Financieras
+FWD
+FX SWAP
+FX
+OPCIONES
+SWAP TASA
+CCS
+CDS
+Total
+Clientes
+(No Financieras)
+FWD
+OPCIONES
+SWAP TASA
+CCS
+Total
+Administración de Riesgos 1T21
+Riesgo Potencial
+7,455
+5,513
+7,215
+7,413
+168
+5,634
+60
+78
+16,911
+93
+9,459
+Salidas Netas de Efectivo
+(Millones de pesos)
+Riesgo Actual
+Promedio 1T21
+0
+0
+0

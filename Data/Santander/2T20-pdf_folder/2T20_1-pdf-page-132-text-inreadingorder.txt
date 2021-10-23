@@ -1,0 +1,93 @@
+3,013.87
+3,105.20
+3,196.53
+3,287.85
+3,379.18
+3,470.51
+3,561.84
+3,653.17
+3,744.50
+3,835.83
+3,927.16
+4,018.49
+4,109.82
+4,201.15
+El Euro Stoxx 50 es una índice accionario de la zona europea diseñado por Stoxx Ltd, un proveedor de índices de Deutsche Börse y SIX Group.
+Su meta es la de proveer una representación "blue chip" de los líderes de la zona europea.
+El universo del índice es definido como todos los componentes de los 19 Euro Stoxx índices del Supersector. Las acciones componentes son
+ordenadas de acuerdo al número de acciones en circulación. Las acciones con mayor flotación son añadidas a lista de selección hasta que la
+cobertura es cerrada, pero sin pasar el 60% de la libre flotación del Índice de Mercado total Euro Stoxx (TMI). Si las siguientes acciones
+ordenadas tienen una cobertura cercana al 60% en términos absolutos, entonces también es añadido a la lista seleccionada.
+Cualquier acción remanente que sea un componente actual del índice es añadida a la lista de selección.
+Las acciones en la lista son ordenadas de mayor a menor en circulación. En casos excepcionales, el Comité de Supervisión puede añadir o
+Las 40 acciones con más acciones en circulación en la lista de selección son elegidas como componentes.
+Cualquier componente remanente del índice Euro Stoxx 50 ordenado entre el lugar 41 y 60 son añadidos como componentes del índice.
+Siel número de componentes sigue siendo menor a 50, entonces las acciones con mayor número de acciones en circulación son añadidas
+La composición del índice es revisada anualmente en septiembre. Los componentes son monitoreados mensualmente.
+El índice es ponderado por capitalización de mercado de libre flotación. El peso de cada componente está topado al 10% del mercado de libre
+Nombre
+Ticker
+L'Oreal SA
+ISP IM Equity
+Vinci SA
+ENI IM Equity
+Banco Bilbao Vizcaya Argentaria SA
+ENGI FP Equity
+Banco Santander SA
+ORA FP Equity
+ASML Holding NV
+ABI BB Equity
+99.00
+102.00
+105.00
+108.00
+111.00
+114.00
+117.00
+120.00
+123.00
+126.00
+129.00
+132.00
+135.00
+138.00
+Intesa Sanpaolo SpA
+Orange SA
+Anheuser-Busch InBev SA/NV
+Ps.102.80
+Ps.99.00
+Ps.96.00
+Ps.95.00
+Ps.95.00
+Ps.95.00
+Ps.95.00
+Ps.95.00
+Ps.95.00
+Ps.95.00
+Ps.95.00
+Ps.95.00
+Ps.95.00
+Ps.95.00
+Santander
+ii) Eurostoxx 50 (SX5E)
+Descripción
+Metodología
+quitar acciones a la lista de selección.
+Selección de las acciones
+hasta completar 50 acciones.
+Frecuencia de la Revisión
+Ponderación
+flotación. Los pesos de libre flotación son revisados trimestralmente.
+A continuación la lista de valores que componen la muestra:
+BBVA SQ Equity
+ASML NA Equity
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Ticker
+OR FP Equity
+DG FP Equity
+SAN SQ Equity
+Nombre
+Eni SpA
+Engie SA
+131

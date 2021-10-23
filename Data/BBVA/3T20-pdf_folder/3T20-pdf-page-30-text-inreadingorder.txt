@@ -1,0 +1,35 @@
+BBVA
+Creando Oportunidades
+Se lleva a cabo el establecimiento de procesos periódicos de análisis de sensibilidad, pruebas
+bajo condiciones extremas, así como revisión y calibración de modelos.
+Igualmente se realiza el establecimiento de metodologías para el monitoreo y control de riesgos
+operacionales y legales de acuerdo a estándares internacionales.
+Información:
+La información es un pilar esencial en la gestión del riesgo y es utilizada para realizar una
+gestión anticipada a través de la definición y establecimiento de indicadores y métricas de
+alerta temprana que permitan prever movimientos - positivos y negativos - en el perfil de
+riesgo (clientes, carteras, productos, asset classes), evitar el deterioro y señalar desviaciones y
+potenciales amenazas, en todos los riesgos, por todos los ejes definidos, en todas sus fases
+(vigentes, deteriorados y en recuperación), a todos los niveles organizativos de la función de
+riesgos (unidades de riesgo en las áreas de negocio, área corporativa y áreas especialistas) y a
+los órganos sociales, asegurando el cumplimiento y coherencia con los requerimientos
+regulatorios en esta materia.
+Se asegura que los datos utilizados en la elaboración de los reportes, procedan de fuentes
+unificadas por tipo de riesgo, conciliadas, sean trazables, automatizados en mayor medida (o
+si son manuales, que cuenten con controles), con definición única, garantizando la frecuencia,
+distribución y confidencialidad del "reporting" entre otros aspectos.
+Plataforma Tecnológica:
+Periódicamente se revisan los sistemas fuente y de cálculo para las mediciones de riesgo y se
+realiza un proceso de mejora continua con el fin de garantizar la calidad y suficiencia de datos
+y teniendo como objetivo, en la medida de lo posible la automatización de procesos.
+Auditoría:
+Anualmente Auditoría Interna en cumplimiento a las obligaciones señaladas en la CUB, realiza
+una Auditoría de Administración Integral de Riesgos apegada a las disposiciones legales
+aplicables a la materia, la que es enviada a la CNBV. Las recomendaciones en cada una de las
+auditorías que se realizan se les da seguimiento periódicamente en el Comité de Auditoría
+delegado del Consejo de Administración.
+De la misma manera se realizan auditorías al cumplimiento de la Ley de Instituciones de
+Crédito, la CUB y demás disposiciones legales aplicables a BBVA México, por parte de expertos
+independientes, mediante lo que se ha concluido que los modelos, sistemas, metodologías,
+supuestos, parámetros y procedimientos de medición de riesgos cumplen con su funcionalidad
+30

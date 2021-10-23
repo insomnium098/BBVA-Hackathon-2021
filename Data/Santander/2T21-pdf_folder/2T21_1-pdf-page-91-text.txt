@@ -1,0 +1,97 @@
+1
+Emisor
+Banco Santander México, S.A., Institución de Banca Múltiple, Grupo
+Financiero Santander México.
+2
+Identificador ISIN y CUSIP
+ISIN
+CUSIP
+144A
+US05969BAC72
+05969BAC7
+Reg S
+USP1507SAG23
+P1507SAG2
+3
+Ley Aplicable
+Los Instrumentos se emitieron, y se rigen, conforme a las leyes
+aplicables del estado de Nueva York, Estados Unidos de América, en el
+entendido que todas las disposiciones relacionadas con la
+determinación de los períodos de suspensión, eventos de
+actualización del supuesto de cancelación, la cancelación del pago de
+intereses, si ha ocurrido cualquier evento que permita una
+amortización anticipada, o la propia prelación y subordinación de los
+Instrumentos, entre otros eventos relevantes, se regirán de
+conformidad con las leyes de México, conforme a lo previsto en el Acta
+de Emisión.
+Tratamiento Regulatorio
+4
+Nivel de capital al que corresponde el N.A.
+Instrumento, sujeto a la transitoriedad
+establecida en el Artículo Tercero Transitorio,
+de la Resolución 50A
+5
+Nivel de capital al que corresponde el título que
+Capital Complementario.
+cumple con el anexo 1-Q, 1-R, o 1-S de la
+Circular Única de Bancos
+6
+Nivel del Instrumento dentro del Grupo
+Deuda subordinada preferente emitida desde la Institución de Crédito
+del Grupo.
+7
+Tipo de instrumento
+Instrumentos de capital emitidos conforme a legislación extranjera,
+conocidos como obligaciones subordinadas preferentes.
+8
+Monto del Instrumento reconocido como
+Ps.25,145,225,839.39
+capital regulatorio
+9
+Valor nominal del Instrumento
+Ps.25,878,060,000 (USD$1,300,000,000.00)
+9A
+Denominación del instrumento
+USD.
+10
+Clasificación contable del Instrumento
+El Instrumento se contabiliza como deuda subordinada.
+11
+Fecha de emisión
+Octubre 1, 2018.
+12
+Tipo de Vencimiento
+Un solo pago en la Fecha de Vencimiento.
+13
+Fecha de vencimiento
+Octubre 1, 2028.
+14
+Cláusula de pago anticipado
+Sujeto a ciertas condiciones, el Emisor podrá pagar anticipadamente
+el Instrumento a par, más los intereses devengados y no pagados a la
+fecha en que pretenda realizar dicho pago, más Pagos Adicionales, en
+su caso, (i) por el valor total o un monto parcial en la Fecha de Pago
+Anticipado Voluntario, o (ii) en su totalidad, pero no de manera parcial
+y en cualquier fecha, de presentarse un Evento de Amortización
+Anticipada por Razones Fiscales o un Evento de Amortización por
+Razones Especiales.
+15
+Primera y única fecha de pago anticipado
+Octubre 1, 2023.
+voluntario
+15A
+La cláusula de amortización anticipada
+Si.
+¿incluye la existencia de una amortización
+Evento de Amortización Anticipada por Razones Fiscales
+anticipada como consecuencia de un evento
+El Emisor podrá, en cualquier momento, sujeto al cumplimiento de
+fiscal o regulatorio?
+ciertas condiciones, a opción y discreción del Emisor, amortizar los
+Instrumentos en su totalidad (hasta el Monto de Principal vigente en
+ese momento), pero no de forma parcial, al valor nominal más los
+intereses devengados y no pagados (y que no hubieran sido
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+89

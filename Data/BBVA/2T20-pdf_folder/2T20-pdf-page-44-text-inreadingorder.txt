@@ -1,0 +1,109 @@
+BBVA
+Creando Oportunidades
+Coeficiente de Cobertura de Liquidez
+Millones de pesos
+ACTIVOS LÍQUIDOS COMPUTABLES
+1 Total de Activos Líquidos Computables
+SALIDAS DE EFECTIVO
+2 Financiamiento Minorista No Garantizado
+3
+4
+5 Financiamiento Mayorista No Garantizado
+6
+7
+8
+9 Financiamiento Mayorista Garantizado
+10 Requerimientos Adicionales
+11 Salidas relacionadas a instrumentos financieros derivados y otros requerimientos de
+garantías
+12
+13
+14 Otras Obligaciones de Financiamiento Contractuales
+15 Otras Obligaciones de Financiamiento Contingentes
+16 TOTAL DE SALIDAS DE EFECTIVO
+ENTRADAS DE EFECTIVO
+17 Entradas de Efectivo por Operaciones Garantizadas
+18 Entradas de Efectivo por Operaciones No Garantizadas
+19 Otras entradas de Efectivo
+20 TOTAL DE ENTRADAS DE EFECTIVO
+21 TOTAL DE ACTIVOS LÍQUIDOS COMPUTABLES
+22 TOTAL NETO DE SALIDAS DE EFECTIVO
+23 COEFICIENTE DE COBERTURA DE LIQUIDEZ
+2T20 Promedio de 91 dias
+*
+Información previa
+Las cifras se encuentran en revisión por la autoridad.
+(a)
+Los días naturales que contempla el segundo trimestre de 2020 son 91 días.
+Importante destacar que, durante todo este periodo, la pandemia de COVID-19 ha
+estado presente a diferencia del primer trimestre de 2020, donde sólo ocurrió en las
+últimas dos semanas.
+(b) Principales causas de los resultados del CCL y la evolución de sus principales
+componentes;
+El CCL promedio del segundo trimestre de 2020 incrementa +17.2% respecto al primer
+trimestre de 2020, consecuencia de la disminución en el gap promedio dado por mayor
+crecimiento de los depósitos de clientes (captación) que, de la cartera de crédito, en
+parte, derivado de los programas de apoyo a los clientes por la pandemia de COVID-19.
+Lo anterior se ve reflejado en la evolución incremental del flujo promedio de salidas a 30
+días, que durante el trimestre incrementan en promedio +MXN 40,759 Mn,
+2T 2020*
+687,617
+549,651
+137,966
+548,705
+272,601
+266,129
+9,975
+664,745
+81,941
+O
+582,804
+89,213
+O
+43,427
+100,317
+7,508
+151,251
+Importe sin
+Ponderar
+(promedio)
+No Aplica
+No Aplica
+No Aplica
+No Aplica
+No Aplica
+No Aplica
+Importe
+Ponderado
+(promedio)
+365,715
+41,279
+27,483
+13,797
+189,987
+65,767
+114,245
+9,975
+54,211
+20,071
+34,140
+9,320
+295,725
+57,857
+7,508
+65,365
+365,715
+230,361
+159.07%
+Financiamiento Estable
+Financiamiento menos Estable
+Depósitos Operacionales
+Depósitos No Operacionales
+Deuda No Garantizada
+Salidas relacionadas a pérdidas del financiamiento de Instrumentos de deuda
+Líneas de Crédito y Liquidez
+928
+O
+O
+O
+44

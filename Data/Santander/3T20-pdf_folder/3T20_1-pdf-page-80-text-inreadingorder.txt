@@ -1,0 +1,109 @@
+BG36
+BG37
+BG38
+BG39
+BG40
+BG41
+Identificador
+1
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Bienes en custodia o en administración
+Colaterales recibidos por la entidad
+Colaterales recibidos y vendidos o entregados en garantía por
+la entidad
+Operaciones de banca de inversión por cuenta de terceros
+(neto)
+Intereses devengados no cobrados derivados de cartera de
+crédito vencida
+Otras cuentas de registro
+Tabla II.2
+Conceptos regulatorios considerados para el cálculo de los componentes del Capital Neto
+Monto de conformidad con
+Referencia del formato
+las notas a la tabla Conceptos
+de revelación de la
+regulatorios considerados
+integración de capital del
+para el cálculo de los
+apartado I del presente
+componentes del Capital
+anexo
+8
+9
+10
+13
+plan
+de
+beneficios
+15
+16
+1,719,688
+88,352
+47,932
+0
+482
+1,476,830
+987;
+987;
+Santander
+Referencia(s) del rubro
+del balance general y
+monto relacionado con
+el concepto regulatorio
+considerado para el
+cálculo del Capital Neto
+proveniente de la
+referencia mencionada.
+BG16= 9,213 Menos:
+cargos diferidos y pagos
+anticipados
+intangibles 6,260; otros
+activos que computan
+como activos en riesgo
+1,227; Más: Intangibles
+que se reconocen en el
+pasivo 1,666
+BG16= 9,213 Menos:
+cargos diferidos y pagos
+anticipados
+intangibles 2,404; otros
+activos que computan
+como activos en riesgo
+1,227; Más: Intangibles
+que se reconocen en el
+pasivo 1,666
+BG3= 552,339 Menos:
+Inversiones indirectas en
+0.14 el capital de entidades
+Conceptos regulatorios
+considerados para el cálculo
+de los componentes del
+Capital Neto
+Crédito mercantil
+Otros Intangibles
+Impuesto a la utilidad diferida (a
+favor) proveniente de pérdidas y
+créditos fiscales
+Beneficios sobre el remanente
+en operaciones de
+4 burzatilización
+Inversiones
+del
+pensiones
+por
+definidos sin acceso irrestricto e
+Inversiones en acciones de la
+propia institución
+Neto
+Activo
+5 ilimitado
+2,404
+6,260
+0
+0
+0
+2
+3
+6
+78

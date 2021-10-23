@@ -1,0 +1,42 @@
+Table
+,Opciones Call ,** ,Put ,
+Subyacente ,Ventas ,Compras ,Ventas ,Compras 
+Divisa OTC ,"36,153 ","32,013 ","18,329 ","23,742 "
+Acciones OTC ,155 ,937 ,510 ,32 
+Indices OTC ,362 ,938 ,289 ,115 
+Divisa ORG ,19.5 ,89 ,O ,126 
+Acciones ORG ,O ,O ,2 ,15 
+Indices ORG ,"1,550 ","2,619 ","5,273 ",158 
+Warrant ,"10,690 ",O ,O ,0 
+CAPS ,"90,048 ","37,553 ","9,224 ","14,380 "
+Swaption ,0 ,"3,700 ","2,152 ","6,653 "
+
+
+Table
+Divisa ,Por recibir ,A entregar 
+MXN ,"127,853 ","139,413 "
+USD ,"227,128 ","160,865 "
+UDI ,"59,291 ","65,479 "
+JPY ,O ,185 
+Euro ,"47,851 ","97,439 "
+COP ,"2,161 ",O 
+CHF ,O ,"4,820 "
+GBP ,"1,432 ","1,432 "
+CLP ,"3,342 ",O 
+
+
+Table
+Swaps de Tasa de Interés ** ,Por Recibir 
+MXN ,"4,422,902 "
+USD ,"1,721,556 "
+EUR ,"162,495 "
+GBP ,573 
+COP ,700 
+
+
+Table
+Swaps de Acciones ,Por Recibir 
+Acciones USD/Eur ,117 
+Acciones MXN ,"3,410 "
+
+

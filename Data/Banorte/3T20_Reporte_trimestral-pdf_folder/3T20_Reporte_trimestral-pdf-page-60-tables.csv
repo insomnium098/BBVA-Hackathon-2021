@@ -1,0 +1,56 @@
+Table
+,Moneda ,Nacional ,UDIS ,,Moneda ,Extranjera ,Total ,
+,3T19 ,3T20 ,3T19 ,3T20 ,3T19 ,3T20 ,3T19 ,3T20 
+Cartera Vigente ,,,,,,,,
+Créditos Comerciales ,"225,367 ","254,661 ",0 ,- ,"60,455 ","70,320 ","285,822 ","324,981 "
+Créditos a Entidades Financieras ,"5,784 ","9,882 ",0 ,- ,0 ,0 ,"5,784 ","9,882 "
+Créditos al Consumo ,"117,013 ","118,321 ",0 ,- ,0 ,- ,"117,013 ","118,321 "
+Créditos a la Vivienda ,"166,178 ","182,598 ",108 ,86 ,0 ,- ,"166,286 ","182,685 "
+Créditos a Entidades Gubernamentales ,"146,009 ","147,112 ","6,378 ","2,470 ","5,434 ","13,027 ","157,821 ","162,609 "
+Total ,"660,351 ","712,575 ","6,486 ","2,556 ","65,889 ","83,346 ","732,726 ","798,478 "
+Cartera Vencida ,,,,,,,,
+Créditos Comerciales ,"6,308 ","2,006 ",0 ,0 ,"1,657 ",206 ,"7,965 ","2,212 "
+Créditos a Entidades Financieras ,4 ,0 ,0 ,- ,0 ,- ,4 ,- 
+Créditos al Consumo ,"4,577 ","2,350 ",0 ,- ,0 ,- ,"4,577 ","2,350 "
+Créditos a la Vivienda ,"1,793 ","1,799 ",14 ,12 ,0 ,0 ,"1,807 ","1,811 "
+Créditos a Entidades Gubernamentales ,4 ,288 ,- ,- ,- ,- ,4 ,288 
+Total ,"12,686 ","6,443 ",14 ,12 ,"1,657 ",206 ,"14,357 ","6,660 "
+Cartera de Crédito ,"673,037 ","719,018 ","6,500 ","2,569 ","67,546 ","83,552 ","747,084 ","805,138 "
+
+
+Table
+DIFERENCIAS TEMPORALES ACTIVAS ,ISR ,Neto 
+Reservas Preventivas Globales de Cartera Crediticia ,"5,151 ","5,151 "
+Provisiones no deducibles ,"1,563 ","1,563 "
+Exceso del valor contable sobre el fiscal del bienes adjudicados y activo fijo ,377 ,377 
+PTU disminuible ,175 ,175 
+Comisiones cobrada por anticipado ,761 ,761 
+Efecto por valuación de instrumentos financieros ,- ,- 
+Pérdidas fiscales por amortizar ,894 ,894 
+Provisiones para posibles pérdidas de créditos ,381 ,381 
+Pérdida en venta de creditos y bienes adjudicados ,- ,- 
+Disminución del valor de bienes inmuebles ,- ,- 
+Intereses en prestamos ,- ,- 
+Otras partidas ,287 ,287 
+Total Activo ,"9,590 ","9,590 "
+Diferencias Temporales Pasivas ,,
+Aportación fondo de pensiones ,(99) ,(99) 
+Adquisición de portafolios de cartera ,(389) ,(389) 
+Proyectos capitalizables. pagos e ingresos anticipados ,"(5,986) ","(5,986) "
+Activos Intangibles distintos del Fondo de Comercio ,- ,- 
+Efecto por valuación de instrumentos financieros ,"(3,645) ","(3,645) "
+Activos Intangibles con relacion con clientes ,(356) ,(356) 
+Efecto por otras partidas ,(12) ,(12) 
+Total Pasivo ,"(10,487) ","(10,487) "
+Activo (Pasivo) neto acumulado ,(897) ,(897) 
+
+
+Table
+,COSTO DEL PERIODO ,TOTAL SALDO DE CARTERA 
+FINAPE ,- ,- 
+FOPYME ,- ,- 
+Hipotecario UDIS ,(1.2) ,0.0 
+Hipotecario tipo FOVI ,- ,- 
+,(1.2) ,0.0 
+
+

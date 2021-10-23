@@ -1,0 +1,71 @@
+BBVA
+Creando Oportunidades
+Al cierre de diciembre de 2020 la sensibilidad de Valor Económico y Sensibilidad de Margen
+Financiero +/ - 100 pb y agregada presentan las siguientes cifras:
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Sensibilidad Valor Económico Estimado
+Balance Estructural
+Diciembre 2020
+millones de pesos
+Portafolio
+Nota: Cifras del Balance Estructural sin el portafolio de Compromisos con Empleados
+Valores positivos son pérdidas y negativos son ganancias
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Sensibilidad Margen Financiero Proyectado a 12 meses
+Balance Estructural
+Diciembre 2020
+millones de pesos
+Portafolio
+Nota: Cifras del Balance Estructural sin el portafolio de Compromisos con Empleados
+Valores positivos son pérdidas y negativos son ganancias
+En términos de consumos de Alerta en el trimestre muestran la siguiente exposición:
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Exposición de Riesgo de Balance Estructural
+4T20
+Porcentaje de uso de Mgmt Limit, promedio cierres mensuales
+Sensibilidad Valor Económico Sensibilidad Margen Financiero Proyectado a 12 meses
+Portafolio
+Total
+Nota: Cifras del Balance Estructural sin el portafolio de Compromisos con Empleados
+Uso Mgmt Limit
+Agregada
+80%
+Uso Mgmt Limit
+Agregada
+59%
+-100 pb
++ 100 pb
+6,857
+(4,464)
+2,393
+-100 pb
+100 pb
+(3,500)
+(1,525)
+(5,025)
+Uso Mgmt Limit Portafolio
+Agregada
+9,177
+1,629
+8,002
+Agregada
+4,580
+401
+4,749
+Uso Mgmt Limit
+56.9%
+MN
+ME
+Total
+MN
+ME
+Total
+(7,143)
+1,629
+(5,514)
+3,497
+399
+3,895
+Total
+75.9%
+36

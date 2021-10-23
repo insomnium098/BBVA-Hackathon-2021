@@ -1,0 +1,115 @@
+BBVA
+Creando Oportunidades
+Estado de Flujos de Efectivo
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Estado de flujos de efectivo
+Del de Enero al 31 de Marzo de 2021
+Millones de pesos
+Resultado neto
+11,087
+Ajustes por partidas que no implican flujo de efectivo:
+Depreciaciones de inmuebles, mobiliario y equipo
+596
+Amortizaciones de gastos de instalación
+451
+Amortizaciones de activos intangibles
+439
+Reservas técnicas
+2,617
+Provisiones
+380
+Impuestos a la utilidad causados y diferidos
+4,283
+Participación en el resultado de subsidiarias no consolidadas y asociadas
+(29)
+8,737
+19,824
+Actividades de operaci ión
+Cambio en cuentas de margen
+13,129
+Cambio en inversiones en valores
+(22,951)
+Cambio en deudores por reporto
+18,171
+Cambio en derivados (activo)
+54,309
+Cambio en cartera de crédito (neto)
+(11,795)
+Cambio en deudores por primas (neto)
+(1,670)
+Cambio en reaseguradores y reafianzadores (neto) (activo)
+(88)
+Cambio en bienes adjudicados (neto)
+75
+Cambio en otros activos operativos (neto)
+(3,644)
+Cambio en captación tradiciona
+27,254
+Cambio en préstamos interbancarios y de otros organismos
+12,938
+Cambio en reservas técnicas
+9,232
+Cambio en acreedores por reporto
+(8,200)
+Cambio en préstamo de valores (pasivo)
+(2)
+Cambio en colaterales vendidos o dados en garantía
+584
+Cambio en derivados (pasivo)
+(55,698)
+Cambio en reaseguradores y reafianzadores (neto) (pasivo)
+462
+Cambio en obligaciones subordinadas con características de pasivo
+(16,155)
+Cambio en otros pasivos operativos
+4,630
+Cambio en instrumentos de cobertura (de partidas cubiertas relacionadas con actividades de operación)
+(5,194)
+Pagos de impuestos a la utilidad
+(5,492)
+Flujos netos de efectivo de actividades de operación
+9,895
+Actividades de inversión
+Cobros por disposic ión de inmuebles, mobiliario equipo
+19
+Pagos por adquisición de inmuebles, mobiliario y equipo
+(321)
+Cobros de dividendos en efectivo
+1
+Cobros por disposic ión de activos de larga duración disponibles para la venta
+107
+Pagos por adquisición de activos intangibles
+(192)
+Flujos netos de efectivo de actividades de inversión
+(386)
+Actividades de financiamiento
+Pagos de dividendos en efectivo
+0
+Flujos netos de efectivo de activ idades de financiamiento
+0
+Incremento o disminución neta de efectivo y equivalentes de efectivo
+29,333
+Efectos por cambios en el valor del efectivo y equivalentes de efectivo
+3,232
+Efectivo y equivalentes de efectivo alinicio del periodo
+223,687
+Efectivo y equivalentes de efectivo al final delperiodo
+256,252
+"El presente Estado de Flujos de efectivo consolidado con los de las entidades financieras y demás sociedades que forman parte del Grupo
+Financiero que son susceptibles de consolidarse, se formuló de conformidad con los Criterios de Contabilidad para Sociedades Controladoras
+de Grupos Financieros, emitidos por la CNBV, con fundamento en lo dispuesto por el artículo 30 (SIC) de la Ley para Regular las Agrupaciones
+Financieras, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los ingresos y egresos
+derivados de las operaciones efectuadas por la sociedad controladora y las entidades financieras y demás sociedades que forman parte del
+Grupo Financiero que son susceptibles de consolidarse, durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a
+sanas prácticas y a las disposiciones legales y administrativas aplicables..
+El presente Estado de Flujos de Efectivo consolidado fue aprobado por el Consejo de Administración bajo la responsabilidad de los directivos
+que lo suscriben."
+Ana Luisa Miriam Ordorica
+Eduardo Osuna Osuna
+Luis Ignacio De La Luz Dávalos
+Adolfo Arcos González
+Amezcua
+Director General
+Director General Finanzas
+Director General Auditoría Interna Director Contabilidad Corporativa
+57

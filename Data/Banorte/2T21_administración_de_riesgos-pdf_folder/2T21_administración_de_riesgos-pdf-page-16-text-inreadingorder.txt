@@ -1,0 +1,155 @@
+GRUPO FINANCIERO
+BANORTE
+Millones de pesos
+El media
+ponderada
+El Vigente
+por
+posición
+23%
+20%
+18%
+19%
+17%
+19%
+16%
+8%
+0%
+20%
+% Cobertura
+PNC
+100%
+100%
+16
+Severidad de la Pérdida (SP). Mide la intensidad de la pérdida en el incumplimiento expresada como porcentaje
+de la Exposición al Incumplimiento (EI).
+Exposición al Incumplimiento (EI). Es el monto de la deuda al momento del incumplimiento de un crédito,
+considerando un horizonte de los siguientes 12 meses respecto al mes de calificación.
+En la siguiente tabla se observa la Cartera de Tarjeta de Crédito sujeta al Modelo Interno Avanzado clasificado por grados
+de riesgo regulatorios:
+Cartera de Consumo Revolvente bajo Modelo Interno Avanzado
+Saldo
+Exposición al
+Severidad
+de la
+PI ponderada
+Compromisos
+Incumplimiento
+No
+Contable
+(EI)**
+Pérdida
+por El
+Dispuestos
+17,150
+22,275
+74.44%
+1.35%
+60,407
+4,707
+5,871
+76.72%
+4.01%
+4,747
+2,893
+3,540
+79.00%
+5.46%
+1,554
+2,337
+2,878
+77.60%
+7.69%
+1,727
+1,503
+1,816
+78.28%
+8.48%
+866
+3,301
+4,071
+80.31%
+11.99%
+1,276
+4,263
+5,091
+84.44%
+23.75%
+608
+1,080
+1,177
+83.75%
+63.89%
+384
+977
+977
+88.66%
+100.00%
+129
+38,213
+47,697
+77.66%
+9.50%
+71,697
+* La escala de grados de riesgo del Modelo Interno Avanzado ha sido mapeada a los niveles de riesgo regulatorios.
+** Los saldos de la El incluyen tanto el riesgo potencial como el saldo dispuesto.
+En la siguiente tabla se presentará la diferencia entre la pérdida esperada y la observada resultante del Modelo Interno
+Avanzado para Tarjeta de Crédito a partir de 2T20:
+Backtesting
+Diferencia Ps
+Pérdida Esperada
+Cartera
+Pérdida Observada*
+(Pérdida Observada
+Modelos Internos*
+- Pérdida Esperada)
+Tarjeta de Crédito
+4,606
+4,630
+23
+4,606
+4,630
+23
+Pérdida Esperada y Observada es igual al promedio de los últimos 12 meses
+Modelo Interno Avanzado para Auto Persona Física
+GF Banorte obtuvo el 25 de noviembre de 2019 por parte de la Comisión Nacional Bancaria y de Valores la aprobación para
+el uso de Modelos Internos (MI) de calificación de Auto Persona Física (Auto PF) para la constitución de reservas y capital
+regulatorios por riesgo de crédito con un enfoque avanzado (Oficio 111/678/2019). Cada año, los Modelos Internos son
+recalibrados, y se obtiene nuevamente la certificación de la CNBV para poder utilizarlos en el cálculo de los requerimientos
+regulatorios por otro periodo de 12 meses.
+Estos modelos internos mejoran la gestión integral del riesgo de crédito, estimando los parámetros de riesgo a través de
+la experiencia de la Institución, y han sido aplicados a partir de febrero de 2020 (con cifras de enero). Los parámetros antes
+mencionados son:
+Probabilidad de Incumplimiento (PI). Indica la probabilidad de que un acreditado incumpla sus obligaciones
+contractuales en los siguientes doce meses respecto al mes de calificación. Para cada crédito se obtiene una
+puntuación, que es mapeada a una escala Maestra de calificación.
+Severidad de la Pérdida (SP). Mide la intensidad de la pérdida en el incumplimiento expresada como porcentaje
+de la Exposición al Incumplimiento (EI).
+Exposición al Incumplimiento (EI). Es el monto de la deuda al momento del incumplimiento de un crédito,
+considerando un horizonte de los siguientes 12 meses respecto al mes de calificación.
+Administración de Riesgos 2T21
+Grado de
+Riesgo*
+A1
+A2
+B1
+B2
+B3
+C1
+C2
+D
+E
+Cartera
+Total
+Cartera Total
+2.5.2.
+22,235
+5,830
+3,500
+2,850
+1,786
+3,981
+4,575
+198
+24
+44,979

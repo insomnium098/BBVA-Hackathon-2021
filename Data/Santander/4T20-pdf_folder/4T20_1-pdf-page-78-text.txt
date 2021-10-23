@@ -1,0 +1,111 @@
+Inversiones
+del
+plan
+de
+pensiones
+por
+beneficios
+definidos sin acceso irrestricto e
+5 ilimitado
+15
+0
+BG3= 575,371 Menos:
+Inversiones indirectas en
+el capital de entidades
+financieras 35; Inversiones
+en valores que computan
+Inversiones en acciones de la
+como activos en riesgo
+6
+propia institución
+16
+0
+575,336
+Inversiones recíprocas en el
+7
+capital ordinario
+17
+0
+Inversiones directas en el capital
+de entidades financieras donde
+la Institución no posea más del
+8
+10% del capital social emitido
+18
+0
+BG3= 575,371 Menos:
+Inversiones indirectas en el
+Inversiones en acciones de
+capital de entidades financieras
+la propia institución 0.20;
+donde la Institución no posea
+Inversiones en valores que
+más del 10% del capital social
+computan como activos en
+9 emitido
+18
+35
+riesgo 575,336
+Inversiones directas en el capital
+de entidades financieras donde
+la Institución posea más del 10%
+10
+del capital social emitido
+19
+0
+Inversiones indirectas en el
+capital de entidades financieras
+donde la Institución posea más
+11
+del 10% del capital social emitido
+19
+Impuesto a la utilidad diferida (a
+BG15= 14,501 Menos:
+favor) proveniente de diferencias
+monto que computa como
+12
+temporales
+21
+6,534
+activo en riesgo 7,967
+Reservas reconocidas como
+BG8= Cartera de crédito
+13
+capital complementario
+50
+970
+(neta) 645,639
+Inversiones en deuda
+14
+subordinada
+26-B
+0
+BG13= 31,053 Menos:
+inversiones permanentes
+en subsidiarias 26,577;
+inversiones en cámaras de
+compensación
+491;
+inversiones permanentes
+en asociadas 1,111; otras
+inversiones que computan
+Inversiones en organismos
+como activo en riesgo
+15
+multilaterales
+26-D
+0
+2,873
+BG13= 31,053 Menos:
+Inversiones en empresas
+inversiones en cámaras de
+16
+relacionadas
+26-E
+26,577
+compensación
+491;
+Reporte de Resultados | 4T.2020
+Santander
+Banco Santander México
+76

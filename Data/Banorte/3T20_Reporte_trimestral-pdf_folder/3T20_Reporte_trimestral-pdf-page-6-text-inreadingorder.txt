@@ -1,0 +1,342 @@
+T
+9M19
+112,847
+53,520
+1,062
+60,390
+9,781
+4,417
+3,518
+17,716
+78,106
+30,106
+11,582
+36,418
+9,844
+1,328
+(383)
+944
+27,518
+9M19
+5.62%
+20.5%
+2.3%
+38.5%
+2.5%
+140.7%
+1.9%
+126.6%
+2.00%
+7.75%
+8.47%
+19.44
+GRUPO FINANCIERO
+BANORTE
+Var. Vs.
+9M20
+9M19
+102,941
+(9%)
+38,284
+(28%)
+(1,405)
+(232%)
+63,252
+5%
+9,620
+(2%)
+3,996
+(10%)
+2,124
+(40%)
+15,741
+(11%)
+78,992
+1%
+31,400
+4%
+15,938
+38%
+31,654
+(13%)
+8,293
+(16%)
+1,493
+12%
+(313)
+18%
+1,180
+25%
+24,542
+(11%)
+9M20
+5.45%
+16.2%
+1.9%
+39.8%
+2.4%
+193.6%
+0.8%
+265.2%
+2.68%
+4.25%
+6.14%
+22.91
+6
+I.
+Resumen Ejecutivo
+Estado de Resultados - GFNorte
+(Millones de Pesos)
+Ingresos por Intereses
+Gastos por Intereses
+Resultado Técnico (Seguros y Pensiones)
+Ingresos de Intereses Netos
+Comisiones por Servicios Netas
+Otros Ingresos (Egresos) de la Operación
+Ingresos No Financieros
+Ingreso Total
+Gasto No Financiero
+Resultado Neto de Operación
+Participación en el Resultado de Subsidiarias
+Participación no controladora
+Subsidiarias y participación no controladora
+Utilidad Neta
+Balance General GFNorte
+(Millones de Pesos)
+Activos en Administración
+Cartera Vigente (a)
+Cartera Vencida (b)
+Cartera de Crédito (a+b)
+Total de Cartera de Crédito Neto (d)
+Derechos de Cobro Adquiridos ( e)
+Total de Cartera de Crédito (d+e)
+Indicadores Financieros GFNorte
+Rentabilidad:
+Índice de Eficiencia (4)
+Índice de Eficiencia Operativa (5)
+CCL Promedio Banorte y SOFOM - Basilea III (6)
+Calidad de Activos:
+Índice de Cartera Vencida
+Referencias de Mercado
+Tasa de Referencia Banxico
+TIIE 28 días (Promedio)
+Tipo de Cambio Peso/Dólar
+MIN= Ingresos de Intereses Netos del trimestre anualizado / Activos productivos promedio
+Utilidad Neta del periodo anualizada como porcentaje del promedio trimestral del Capital Contable (sin interés minoritario) del mismo periodo
+Utilidad Neta del periodo anualizada como porcentaje del promedio trimestral del Activo Total (sin interés minoritario) del mismo periodo
+Gasto No Financiero / (Ingreso Total)
+Gasto No Financiero del trimestre anualizado / Activo Total Promedio
+El cálculo del CCL es preliminar y será actualizado una vez que Banco de México realice su cálculo
+Costo de Riesgo = Provisiones del periodo anualizadas / Cartera Total Promedio
+Tercer Trimestre de 2020
+Var. Vs.
+2%
+(22%)
+(279%)
+(0%)
+1%
+(34%)
+(42%)
+(17%)
+(4%)
+3%
+(63%)
+50%
+69%
+(24%)
+(65%)
+(36%)
+37%
+Var. Vs.
+4%
+1%
+(28%)
+1%
+1%
+(7%)
+1%
+1%
+1%
+0%
+4%
+3T19
+2T20
+37,161
+16,796
+20,114
+3,183
+2,303
+6,208
+26,322
+10,578
+4,118
+11,626
+3,094
+8,858
+3T19
+2T20
+2,815,927
+732,726
+14,357
+747,084
+728,913
+1,905
+730,818
+1,583,651
+722,039
+1,395,973
+187,678
+3T19
+140.7%
+126.6%
+19.73
+2T20
+32,684
+13,289
+1,288
+20,683
+3,069
+1,703
+1,140
+5,911
+26,595
+10,307
+8,456
+7,832
+1,886
+6,518
+2T20
+2,878,778
+791,637
+9,254
+800,891
+782,337
+1,438
+783,774
+1,783,581
+801,148
+1,575,237
+208,344
+2T20
+150.8%
+200.5%
+4.24%
+23.09
+3T20
+33,249
+10,338
+(2,310)
+20,601
+3,096
+1,128
+4,880
+25,481
+10,627
+3,138
+11,717
+3,178
+8,906
+3T20
+2,981,568
+798,478
+6,660
+805,138
+787,473
+1,341
+788,814
+1,795,306
+813,104
+1,577,935
+217,371
+3T20
+193.6%
+265.2%
+22.14
+3T19
+(11%)
+(38%)
+(821%)
+(3%)
+(51%)
+(9%)
+(21%)
+(3%)
+(24%)
+3T19
+(54%)
+(30%)
+(251)
+722
+451
+(125)
+326
+5.7%
+19.6%
+2.2%
+40.2%
+2.7%
+1.9%
+2.15%
+7.75%
+8.35%
+2%
+0%
+1%
+3%
+9%
+1%
+13%
+1%
+6%
+9%
+8%
+8%
+8%
+13%
+13%
+13%
+16%
+Intermediación
+Provisiones
+Impuestos
+Activo Total
+Depósitos Total
+Pasivo Total
+Capital Contable
+MIN (1)
+ROE (2)
+ROA (3)
+Operación:
+Índice de Cobertura
+Costo de Riesgo (7)
+656
+492
+(124)
+368
+5.1%
+16.9%
+2.0%
+41.7%
+2.4%
+0.8%
+1.56%
+4.25%
+4.99%
+648
+(75)
+573
+5.3%
+13.0%
+1.5%
+38.8%
+2.3%
+1.2%
+5.00%
+6.07%
+1)
+2)
+3)
+4)
+5)
+6)
+7)

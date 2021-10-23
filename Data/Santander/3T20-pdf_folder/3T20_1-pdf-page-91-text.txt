@@ -1,0 +1,74 @@
+10
+Clasificación contable del Instrumento
+El Instrumento se contabiliza como deuda subordinada.
+11
+Fecha de emisión
+Octubre 1, 2018.
+12
+Tipo de Vencimiento
+Un solo pago en la Fecha de Vencimiento.
+13
+Fecha de vencimiento
+Octubre 1, 2028.
+14
+Cláusula de pago anticipado
+Sujeto a ciertas condiciones, el Emisor podrá pagar anticipadamente
+el Instrumento a par, más los intereses devengados y no pagados a la
+fecha en que pretenda realizar dicho pago, más Pagos Adicionales, en
+su caso, (i) por el valor total o un monto parcial en la Fecha de Pago
+Anticipado Voluntario, o (ii) en su totalidad, pero no de manera parcial
+y en cualquier fecha, de presentarse un Evento de Amortización
+Anticipada por Razones Fiscales o un Evento de Amortización por
+Razones Especiales.
+15
+Primera y única fecha de pago anticipado
+Octubre 1, 2023.
+voluntario
+15A
+La cláusula de amortización anticipada
+Si.
+¿incluye la existencia de una amortización
+Evento de Amortización Anticipada por Razones Fiscales
+anticipada como consecuencia de un evento
+El Emisor podrá, en cualquier momento, sujeto al cumplimiento de
+fiscal o regulatorio?
+ciertas condiciones, a opción y discreción del Emisor, amortizar los
+Instrumentos en su totalidad (hasta el Monto de Principal vigente en
+ese momento), pero no de forma parcial, al valor nominal más los
+intereses devengados y no pagados (y que no hubieran sido
+cancelados), con respecto a los Instrumentos, más los Pagos
+Adicionales, si los hubiere, hasta, pero excluyendo, la fecha de
+amortización, sí como resultado de que ocurra cualquier modificación
+o cambio en las leyes fiscales en México, que afecten y que resulten
+en una tasa de retención mayor sobre el pago de intereses de los
+Instrumentos.
+Evento de Amortización Anticipada por Razones Especiales
+El Emisor podrá, en cualquier momento, sujeto al cumplimiento de
+ciertas condiciones, a opción y discreción del Emisor, amortizar los
+Instrumentos en su totalidad (hasta el Monto de Principal vigente en
+ese momento), pero no de forma parcial, al valor nominal más los
+intereses devengados y no pagados (y que no hubieran sido
+cancelados), con respecto a los Instrumentos, más los Pagos
+Adicionales, si los hubiere, hasta, pero excluyendo, la fecha de
+amortización, sí ocurriese una Razón Especial (razón que se
+presentaría si se determina razonablemente que, como resultado de
+que ocurra cualquier modificación o cambio en las leyes de México
+exista más que un riesgo insustancial de que el Emisor no estará
+facultado a clasificar los Instrumentos como Capital Complementario
+o que como consecuencia de un Cambio en el Tratamiento Fiscal,
+existe más que un riesgo insustancial de que los intereses pagaderos
+por el Emisor sobre los Instrumentos no serán deducibles total o
+parcialmente por el Emisor para efectos del impuesto sobre la renta
+aplicable en México, sujeto a ciertas condiciones).
+15B
+Monto total de pago si se realiza una
+De realizarse una amortización anticipada, la misma se realizará a
+amortización anticipada del Instrumento
+valor nominal más los intereses, devengados y no pagados (y que no
+hubieran sido cancelados), con respecto a los Instrumentos, más los
+Pagos Adicionales, si los hubiere, hasta, pero excluyendo, la fecha de
+amortización.
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+89

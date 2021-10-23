@@ -1,0 +1,114 @@
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+Característica
+Emisor
+Identificador ISIN y CUSIP
+Ley Aplicable
+Tratamiento Regulatorio
+Nivel de capital al que corresponde el N.A.
+Instrumento, sujeto a la transitoriedad
+establecida en el Artículo Tercero Transitorio,
+de la Resolución 50A
+Nivel de capital al que corresponde el título que
+cumple con el anexo 1-Q, 1-R, o 1-S de la
+Circular Única de Bancos
+Nivel del Instrumento dentro del Grupo
+Tipo de instrumento
+Monto del Instrumento reconocido como
+capital regulatorio
+Valor nominal del Instrumento
+Denominación del instrumento
+Clasificación contable del Instrumento
+Fecha de emisión
+Tipo de Vencimiento
+Fecha de vencimiento
+Cláusula de pago anticipado
+1T.2021
+Tipo de convertibilidad del instrumento
+Tipo de instrumento financiero de la convertibilidad
+Emisor del instrumento
+Cláusula de disminución de valor (Write-Down)
+Condiciones para disminución de valor
+Grado de baja de valor
+Temporalidad de la baja de valor
+Mecanismo de disminución de valor temporal
+Posición de subordinación en caso de liquidación
+Características de incumplimiento
+Descripción de características de incumplimiento
+Tabla IV.1.3
+Principales características de los títulos que forman parte del Capital Neto
+N.A
+N.A
+N.A
+No
+N.A
+N.A
+N.A
+N.A
+No
+N.A
+Banco Santander México, S.A., Institución de Banca Múltiple, Grupo
+Financiero Santander México.
+ISIN
+Los Instrumentos se emitieron, y se rigen, conforme a las leyes
+aplicables del estado de Nueva York, Estados Unidos de América, en el
+entendido que todas las disposiciones relacionadas con la
+determinación de los períodos de suspensión, eventos de
+actualización del supuesto de cancelación, la cancelación del pago de
+intereses, si ha ocurrido cualquier evento que permita una
+amortización anticipada, o la propia prelación y subordinación de los
+Instrumentos, entre otros eventos relevantes, se regirán de
+conformidad con las leyes de México, conforme a lo previsto en el Acta
+Capital Complementario.
+Deuda subordinada preferente emitida desde la Institución de Crédito
+Instrumentos de capital emitidos conforme a legislación extranjera,
+Ps.25,145,225,839.39
+Sujeto a ciertas condiciones, el Emisor podrá pagar anticipadamente
+el Instrumento a par, más los intereses devengados y no pagados a la
+Santander
+Acreedores en general
+US05969BAC72
+USP1507SAG23
+conocidos como obligaciones subordinadas preferentes.
+Ps.26,572,000,000 (USD$1,300,000,000.00)
+El Instrumento se contabiliza como deuda subordinada.
+Un solo pago en la Fecha de Vencimiento.
+Referencia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+9A
+10
+11
+12
+13
+14
+Reporte de Resultados |
+Banco Santander México
+Opciones
+144A
+Reg S
+de Emisión.
+del Grupo.
+USD.
+Octubre 1, 2018.
+Octubre 1, 2028.
+CUSIP
+05969BAC7
+P1507SAG2
+88

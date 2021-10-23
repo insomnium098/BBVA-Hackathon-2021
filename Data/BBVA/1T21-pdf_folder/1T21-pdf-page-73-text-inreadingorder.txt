@@ -1,0 +1,107 @@
+BBVA
+Creando Oportunidades
+Subyacente
+Divisa OTC
+Acciones OTC
+Indices OTC
+Divisa ORG
+Acciones ORG
+Indices ORG
+Warrant
+CAPS
+Swaption
+Opciones
+Call
+Ventas
+Ventas
+54,743
+20,379
+135
+97
+O
+1
+544
+14,509
+10,996
+81,730
+4,445
+O
+1,309
+Swaps de Divisas *
+A entregar
+138,425
+156,329
+59,415
+65,749
+1,410
+A entregar
+73
+Put
+14
+O
+0
+O
+Compras
+Compras
+41,198
+31,916
+10,137
+570
+3,073
+1,096
+199
+24
+13,720
+29,870
+10,850
+3,700
+7,015
+Por recibir
+135,725
+184,295
+58,343
+40,866
+2,094
+1,410
+3,376
+Porrecibir
+102
+212
+764
+42
+152
+204
+46
+O
+O
+4
+1
+O
+Divisa
+MXN
+USD
+UDI
+JPY
+Euro
+COP
+GBP
+CLP
+Swaps de Tasa de Interés **
+Swaps de Acciones
+Acciones USD/Eur
+Acciones MXN
+Swaps de Crédito
+México
+Por Recibir
+4,565,739
+1,410,764
+134,421
+678
+Por Recibir
+1,130
+3,617
+MXN
+USD
+EUR
+COP
+SUBYACENTE

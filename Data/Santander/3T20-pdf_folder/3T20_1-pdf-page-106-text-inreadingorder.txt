@@ -1,0 +1,133 @@
+Escenario
+Utilizando técnicas de simulación, se mide la variación previsible del margen financiero y del valor patrimonial ante distintos escenarios de tasas
+de interés, y la sensibilidad de ambos, frente a un movimiento extremo de los mismos, al cierre del tercer trimestre de 2020:
+MM Pesos
+Banco
+Balance
+MXN GAP
+Balance
+USD GAP
+El Comité de Activos y Pasivos adopta estrategias de inversión y coberturas para mantener dichas sensibilidades dentro del rango objetivo.
+Los límites se emplean para controlar el riesgo global de Banco Santander, a partir de cada uno de sus portafolios y libros. La estructura de
+límites se aplica para controlar las exposiciones y establecen el riesgo total otorgado a las unidades de negocio. Estos límites se establecen para
+el VaR, alerta de pérdida, pérdida máxima, volumen equivalente de tipo de interés, delta equivalente de renta variable, posiciones abiertas en
+divisas, sensibilidad del margen financiero y sensibilidad de valor patrimonial.
+Riesgo de Liquidez
+El riesgo de liquidez está asociado a la capacidad que Banco Santander tenga de financiar los compromisos adquiridos, a precios de
+razonables, así como de llevar a cabo sus planes de negocio con fuentes de financiación estables. Los factores que influyen pueden ser de
+carácter externo (crisis de liquidez) e interno por excesiva concentración de vencimientos.
+Banco Santander realiza una gestión coordinada de los vencimientos de activos y pasivos, realizando una vigilancia de perfiles máximos
+desfase temporal. Esta vigilancia se basa en análisis de vencimientos de activos y pasivos tanto contractuales como de gestión. Banco Santander
+control para el mantenimiento de una cantidad de activos líquidos suficiente para garantizar un horizonte de supervivencia durante
+un mínimo de días ante un escenario de estrés de liquidez sin recurrir a fuentes de financiación adicionales. El Riesgo de Liquidez se limita en
+términos de un periodo mínimo de días establecido para monedas locales, extranjeras y en forma consolidado. Cabe agregar que en el trimestre
+que se presenta no se han tenido incidencias en las métricas.
+Gap Estructural
+Riesgo de Crédito
+La gestión del riesgo de crédito del Grupo Financiero se desarrolla de forma diferenciada para los distintos segmentos de clientes a lo largo de
+las tres fases del proceso crediticio: admisión, seguimiento y recuperación.
+perspectiva global, la gestión del riesgo de crédito en el Grupo Financiero se ocupa de la identificación, medición, integración y
+valoración de riesgo agregado y de la rentabilidad ajustada al mismo, cuyo propósito es vigilar los niveles de concentración de riesgo y
+acomodarlos a los límites y a los objetivos establecidos.
+Se identifican y distinguen los riesgos que reciben un tratamiento individualizado (riesgos con empresas, instituciones y entidades financieras)
+de aquellos otros que se gestionan de forma estandarizada (créditos de consumo e hipotecarios de particulares y crédito a negocios y
+Para los riesgos de tratamiento individualizado la gestión del riesgo se realiza mediante análisis experto complementado por un
+de calificación de solvencia o "rating", con probabilidad de incumplimiento asociada, que permite medir el riesgo de cada cliente
+del ciclo de crédito.
+Los riesgos estandarizados requieren, por sus características especiales (gran número de operaciones de cuantía relativamente reducida), una
+Reporte de Resultados | 3T.2020
+Banco Santander México
+(100) bp
+(50) bp
+Sensibilidad NIM
+Escenario
+Total
+(49)
+(391)
+Total
+167,824
+(141,665)
+169,279
+(141,664)
+(1,455)
+(1)
+(50) bp
+(50) bp
+Derivados
+Escenario
+(991)
++100 bp
+26
+(50) bp (1,146)
+1S
+6M
+(44,149)
+43,700
+(44,118)
+43,452
+(31)
+N/A
+Derivados
+941
+23,645
+358
+Santander
+(50) bp
+Sensibilidad MVE
+9M
+42,033
+42,308
+(275)
+(50) bp
+1,544
+(1,115)
+1A
+24,003
+N/A
+sistema
+No
+Derivados
+Derivados
+(43,514)
+115
+No
+Total
+(1,896)
+(100) bp
+(50) bp
+(3,440)
+(31)
+5A
+320,118
+317,942
+(417)
+Límites
+realiza
+un
+Millones de
+pesos
+No Derivados
+Derivados
+Bajo
+una
+microempresas).
+mercados
+de
+>5A
+(90,905)
+(87,502)
+propio
+cada
+etapa
+1D
+1M
+(43,399)
+3M
+58,087
+58,729
+(643)
+248
+(3,403)
+2,176
+en
+104

@@ -1,0 +1,85 @@
+GRUPO FINANCIERO
+IV. Estados Financieros
+BANORTE
+BANORTE ESTADO DE FLUJO DE EFECTIVO
+CONSOLIDADO DEL 1 DE ENERO AL 31 DE MARZO DE 2021
+(Millones de Pesos)
+Resultado Neto
+5,974
+Ajustes por partidas que no implican flujo de efectivo
+Depreciación de Inmuebles, mobiliario equipo
+587
+Provisiones
+(798)
+Impuestos a la utilidad causados y diferidos
+1,878
+Participación en el resultado de subsidiarias no consolidadas,
+(28)
+asociadas ynegocios conjuntos
+1,639
+7,613
+Actividades de operación
+Cambio en cuentas de margen
+7,087
+Cambio en inversiones en valores
+3,975
+Cambio en deudores por reporto
+188
+Cambio en derivados (activo)
+19,779
+Cambio en cartera de crédito (neto)
+(1,691)
+Cambio en derecho de cobro adquiridos (neto)
+88
+Cambio en beneficios por recibir en operaciones de bursatilización
+108
+Cambio en bienes adjudicados (neto)
+(22)
+Cambio en otros activos operativos (neto)
+3,603
+Cambio en captación tradicional
+(7,711)
+Cambio en préstamos interbancarios y de otros organismos
+191
+Cambio en acreedores por reporto
+(2,915)
+Cambio en colaterales vendidos o dados en garantía
+5
+Cambio en derivados (pasivo)
+(19,590)
+Cambio en obligaciones subordinadas con características de pasivo
+1,608
+Cambio en otros pasivos operativos
+(177)
+Cambio en instrumentos de cobertura (de partidas cubiertas
+660
+relacionadas con actividades de operación)
+Pago de Impuestos a la utilidad
+(3,743)
+Flujos netos de efectivo de actividades de operación
+9,056
+Actividades de inversión
+Cobros por disposición de inmuebles, mobiliario yequipo
+403
+Pagos por adquisición de inmuebles, mobiliario yequipo
+(1,335)
+Pagos por disposición de subsidiarias, asociadas y acuerdos con
+(9)
+control conjunto
+Flujos netos de efectivo de actividades de inversión
+(941)
+Actividades de financiamiento
+Pagos de intereses de obligaciones subordinadas
+(934)
+Flujos netos de efectivo de actividades de financiamiento
+(934)
+Incremento o disminución neta de efectivo y equivalentes de efectivo
+7,181
+Efectos por cambios en el valor del efectivo y equivalentes de efectivo
+30
+Efectivo y equivalentes al inicio del período
+108,743
+Efectivo y equivalentes al final del período
+115,954
+Información Financiera 1T21
+41

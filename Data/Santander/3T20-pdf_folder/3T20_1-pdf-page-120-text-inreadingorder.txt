@@ -1,0 +1,66 @@
+en el cuarto párrafo del artículo 66 de la Ley del Mercado de Valores, cualquiera de los valores que a continuación se detallan, de los
+fecha y por los últimos 3 ejercicios no han ocurrido suspensiones significativas en la negociación de los mismos.
+La Emisora publicará de manera mensual en la página de Internet https://www.santander.com.mx/ceb/titulos opcionales.html, la información
+relativa al comportamiento de los Activos Subyacentes de las Series vigentes.
+Índices
+Índice
+Clave de pizarra
+S&P 500
+SPX
+Eurostoxx 50
+SX5E
+i) S&P 500 (SPX)
+El índice Standard and Poor's 500 es un índice ponderado por capitalización y está compuesto por 500 acciones. El índice está diseñado para
+medir
+el
+desempeño de la economía en Estados Unidos a través de los cambios del valor agregado de mercado de 500 acciones representativas
+de los principales sectores industriales.
+Fórmula:
+La fórmula empleada para determinar el valor del SPX mide el cambio diario del valor de capitalización de una muestra de valores. Esta fórmula
+evalúa
+la trayectoria del mercado, y facilita su reproducción en portafolios, sociedades de inversión y carteras de valores que pretendan obtener
+el rendimiento promedio que ofrece el mercado.
+P. it * 2
+I = I t-l
+p
+* 0 *F.
+it-1 it-l it-1
+It: Índice en el tiempo t
+Pit: Precio de la emisora i en el tiempo t
+Qit: Acciones de la emisora i en el tiempo t
+Fi: Factor de ajuste por entrada y salida de valores en la muestra, derechos decretados de las emisoras, recompra de acciones y nuevas emisiones,
+y desincorporaciones.
+i= 1, 2, 3
+n
+Ponderación:
+La ponderación se determina en función del valor de capitalización.
+Criterios de selección:
+Empresas en Estados Unidos.
+valor de capitalización mayor a 5 mil millones de dólares.
+Viabilidad financiera
+Bursatilidad
+Compañías en operación.
+Tamaño de la muestra:
+El Índice S&P 500 incluye a las 500 empresas líderes dentro de las industrias líderes de la economía de Estados Unidos. A continuación se
+presentan las claves de pizarra de los valores que integran la muestra:
+Ticker
+Nombre
+Ticker
+Nombre
+Ticker
+Nombre
+LyondellBasell
+Micron Technology
+LYB UN Equity
+MU UW Equity
+DVA UN Equity
+DaVita Inc
+Industries NV
+Inc
+Reporte de Resultados | 3T.2020
+Banco Santander México
+cuales
+a
+la
+Santander
+118

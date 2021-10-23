@@ -1,0 +1,24 @@
+Table
+,(Miles de pesos) ,,% 
+Mesas de Negociación ,,"51,402.62 ",0.03 
+Market Making ,,"38,615.95 ",0.03 
+Propietary Trading ,,"22,970.32 ",0.01 
+Factor de Riesgo ,,,
+Tasa de Interés ,,"60,075.29 ",0.04 
+Tipo de Cambio ,,"15,093.27 ",0.01 
+Renta Variable ,,823.62 ,0.00 
+
+
+Table
+,,Sensibilidad ,NIM ,,,Sensibilidad ,MVE ,
+Banco ,ene-21 ,feb-21 ,mar-21 ,Promedio ,ene-21 ,feb-21 ,mar-21 ,Promedio 
+Balance MXN GAP ,17% ,19% ,27% ,21% ,22% ,36% ,39% ,32% 
+Escenario ,(100) bp ,(100) bp ,(100) bp ,N/A ,+100 bp ,+100 bp ,+100 bp ,N/A 
+
+
+Table
+Tasa de Interés ,"57,953.93 ",0.04 
+Tipo de Cambio ,"16,872.20 ",0.01 
+Renta Variable ,339.54 ,0.00 
+
+

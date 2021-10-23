@@ -1,0 +1,55 @@
+sesiona
+mensualmente y vigila que las operaciones se ajusten a los objetivos, políticas y procedimientos aprobados por el Consejo de
+Administración para la Administración Integral de Riesgos.
+El Comité de Administración Integral de Riesgos a su vez delega en la Unidad de Administración Integral de Riesgos la responsabilidad de
+implementar los procedimientos para la medición, administración y control de riesgos, conforme a las políticas establecidas; asimismo le
+otorga
+facultades para autorizar excesos a los límites establecidos, debiendo en este caso de informar al propio Consejo de Administración sobre dichas
+desviaciones.
+Riesgo de Mercado
+El área de Administración de Riesgos de Mercado, dentro de la Unidad Integral de Riesgos, tiene la responsabilidad de recomendar las políticas
+de gestión del riesgo de mercado de Banco Santander, estableciendo los parámetros de medición de riesgo, y proporcionando informes, análisis
+y evaluaciones a la Alta Dirección, al Comité de Administración Integral de Riesgos y al Consejo de Administración.
+La administración del riesgo de mercado consiste en identificar, medir, monitorear y controlar los riesgos derivados de fluctuaciones de las tasas
+de interés, tipos de cambio, de los precios de mercado y otros factores de riesgo en los mercados de divisas, dinero, capitales y productos
+derivados a los que están expuestas las posiciones que pertenecen a la Institución.
+La medición del riesgo de mercado cuantifica el cambio potencial en el valor de las posiciones asumidas como consecuencia de cambios en los
+factores de riesgo de mercado.
+Dependiendo de la naturaleza de la actividad de las unidades de negocio, los títulos de deuda y accionarios son registrados como títulos de
+negociación, títulos disponibles para la venta y/o títulos conservados a vencimiento. En particular, detrás del concepto de títulos disponibles
+para la venta, lo que subyace y los identifica como tales es su carácter de permanencia, y son gestionados como parte estructural del balance.
+Banco Santander ha establecido lineamientos que deben seguir los títulos disponibles para la venta, así como los controles adecuados que
+aseguran su cumplimiento.
+Cuando se identifican riesgos significativos, se miden y se asignan límites con el fin de asegurar un adecuado control. La medición
+global
+del
+riesgo se hace a través de una combinación de la metodología aplicada sobre las Carteras de Negociación y la de Gestión de Activos y Pasivos.
+Carteras de Negociación
+Para medir el riesgo dentro de un enfoque global, se sigue la metodología de Valor en Riesgo ("VaR"). El VaR se define como la estimación
+estadística de la pérdida potencial de valor de una determinada posición, en un determinado período de tiempo y con un determinado nivel de
+confianza. El VaR proporciona una medida universal del nivel de exposición de las diversas carteras de riesgo, permite la comparación del nivel
+de riesgo asumido entre diferentes instrumentos y mercados, expresando el nivel de cada cartera mediante una cifra única en unidades
+económicas.
+Se calcula el VaR por Simulación Histórica con una ventana de 521 días hábiles (520 cambios porcentuales) y un horizonte de un día. El cálculo
+se realiza a partir de la serie de pérdidas y ganancias simuladas como el percentil del 1% con pesos constantes y con pesos decrecientes
+exponencialmente con un factor de decaimiento que se revisa anualmente, reportándose la medida que resulte más conservadora. Se presume
+un nivel de confianza de 99%.
+Cabe señalar que el modelo de Simulación Histórica tiene la limitante de suponer que el pasado reciente representa el futuro inmediato.
+El Valor en Riesgo correspondiente al primer trimestre de 2021 (no auditado) ascendía a:
+Banco
+VaR
+(Miles de pesos)
+%
+Mesas de Negociación
+50,452.18
+0.03
+Market Making
+30,020.03
+0.02
+Propietary Trading
+18,693.47
+0.01
+Reporte de Resultados | 1T.2021
+Santander
+Banco Santander México
+102

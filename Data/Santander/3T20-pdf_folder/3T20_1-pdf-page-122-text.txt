@@ -1,0 +1,206 @@
+Ticker
+Nombre
+Ticker
+Nombre
+Ticker
+Nombre
+PNC Financial
+PFE UN Equity
+Pfizer Inc
+PNC UN Equity
+Services Group
+ACN UN Equity
+Accenture PLC
+Inc/The
+Procter &
+TransDigm Group
+PG UN Equity
+PPG UN Equity
+PPG Industries Inc
+TDG UN Equity
+Gamble Co/The
+Inc
+Progressive
+T UN Equity
+AT&T Inc
+PGR UN Equity
+YUM UN Equity
+Yum! Brands Inc
+Corp/The
+Public Service
+Travelers Cos
+TRV UN Equity
+PEG UN Equity
+Enterprise Group
+PLD UN Equity
+Prologis Inc
+Inc/The
+Inc
+United
+UTX UN Equity
+Technologies
+RTN UN Equity
+Raytheon Co
+FE UN Equity
+FirstEnergy Corp
+Corp
+Analog Devices
+Robert Half
+ADI UW Equity
+RHI UN Equity
+VRSN UW Equity
+VeriSign Inc
+Inc
+International Inc
+Edison
+Quanta Services
+WMT UN Equity
+Walmart Inc
+EIX UN Equity
+PWR UN Equity
+International
+Inc
+Cisco Systems
+CSCO UW Equity
+SLB UN Equity
+Schlumberger Ltd
+HSIC UW Equity
+Henry Schein Inc
+Inc
+Charles Schwab
+INTC UW Equity
+Intel Corp
+SCHW UN Equity
+AEE UN Equity
+Ameren Corp
+Corp/The
+General Motors
+Sherwin-Williams
+GM UN Equity
+SHW UN Equity
+ANSS UW Equity
+ANSYS Inc
+Co
+Co/The
+MSFT UW Equity
+Microsoft Corp
+SJM UN Equity
+JM Smucker Co/The
+NVDA UW Equity
+NVIDIA Corp
+Dollar General
+DG UN Equity
+SNA UN Equity
+Snap-on Inc
+SEE UN Equity
+Sealed Air Corp
+Corp
+Cognizant
+CI UN Equity
+Cigna Corp
+AME UN Equity
+AMETEK Inc
+CTSH UW Equity
+Technology
+Solutions Corp
+Kinder Morgan
+SVB Financial
+KMI UN Equity
+so UN Equity
+Southern Co/The
+SIVB UW Equity
+Inc/DE
+Group
+Intuitive Surgical
+CUN Equity
+Citigroup Inc
+BBT UN Equity
+BB&T Corp
+ISRG UW Equity
+Inc
+American
+Affiliated
+Southwest Airlines
+AIG UN Equity
+International
+LUV UN Equity
+AMG UN Equity
+Managers Group
+Co
+Group Inc
+Inc
+Take-Two
+Honeywell
+Stanley Black &
+HON UN Equity
+SWK UN Equity
+TTWO UW Equity
+Interactive
+International Inc
+Decker Inc
+Software Inc
+Republic Services
+MO UN Equity
+Altria Group Inc
+PSA UN Equity
+Public Storage
+RSG UN Equity
+Inc
+HCA Healthcare
+HCA UN Equity
+ANET UN Equity
+Arista Networks Inc
+EBAY UW Equity
+eBay Inc
+Inc
+Under Armour
+Goldman Sachs
+UAA UN Equity
+STI UN Equity
+SunTrust Banks Inc
+GS UN Equity
+Inc
+Group Inc/The
+International
+IP UN Equity
+SYY UN Equity
+Sysco Corp
+SRE UN Equity
+Sempra Energy
+Paper Co
+SBA
+Hewlett Packard
+HPE UN Equity
+CTVA UN Equity
+Corteva Inc
+SBAC UW Equity
+Communications
+Enterprise Co
+Corp
+Abbott
+Texas Instruments
+ABT UN Equity
+TXN UW Equity
+MCO UN Equity
+Moody's Corp
+Laboratories
+Inc
+Booking Holdings
+AFL UN Equity
+Aflac Inc
+TXT UN Equity
+Textron Inc
+BKNG UW Equity
+Inc
+Air Products &
+Thermo Fisher
+APD UN Equity
+TMO UN Equity
+FFIV UW Equity
+F5 Networks Inc
+Chemicals Inc
+Scientific Inc
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+120

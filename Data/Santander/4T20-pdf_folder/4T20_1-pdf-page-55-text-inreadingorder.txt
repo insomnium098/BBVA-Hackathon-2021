@@ -1,0 +1,42 @@
+Finalmente, el 8 de abril de 2020, la Comisión decidió diferir hasta el 1 de enero de 2022 la entrada en vigor los
+criterios de contabilidad aplicables a las instituciones de crédito con motivo de la contingencia derivada de la
+pandemia por el virus SARS-CoV-2 (COVID-19).
+El Banco se encuentra analizando los efectos que tendrán estas modificaciones a los criterios de contabilidad
+aplicables a las instituciones de crédito en su información financiera.
+Cambios en las NIF
+Mejoras a las NIF 2020
+A partir del 1 de enero de 2020, el Banco adoptó las siguientes Mejoras a las NIF emitidas por el CINIF. Estas Mejoras
+a las NIF no tuvieron una afectación importante en la información financiera que presenta el Banco.
+NIF B-1, Cambios contables y correcciones de errores
+La NIF B-1 establece las normas de la aplicación retrospectiva en el reconocimiento de los cambios contables, las
+correcciones de errores y las reclasificaciones. No obstante, el CINIF consideró conveniente introducir el concepto
+de aplicación retrospectiva parcial, para poder dar un sentido práctico al reconocimiento de ciertos cambios
+contables derivados de modificaciones a las NIF o la incorporación de nuevas NIF. El CINIF evaluará en cada caso,
+cuando es posible aplicar esta solución práctica y así se establecerá en cada NIF.
+NIF B-8, Estados financieros consolidados o combinados
+Presentación del crédito mercantil de subsidiarias en estados financieros no consolidados
+La NIF B-8 establece la posibilidad de que una entidad controladora presente estados financieros no consolidados.
+En dichos estados financieros, las participaciones en subsidiarias deben presentarse como inversiones permanentes
+valuadas con base en el método de participación, para lo cual debe observarse lo establecido en la NIF C-7,
+Inversiones en asociadas, negocios conjuntos e inversiones permanentes, no obstante, la NIF B-8 no menciona
+claramente cómo debe presentarse el crédito mercantil de las subsidiarias.
+Se modifica la NIF B-8 para mencionar puntualmente la forma de presentación del crédito mercantil asociado a una
+subsidiaria.
+NIF B-11, Disposición de activos de larga duración y operaciones discontinuadas
+El CINIF modificó la NIF B-11 para aclarar que un activo para disposición no es lo mismo que un activo mantenido
+para la venta; esto es, los activos para disposición incluyen activos: mantenidos para la venta, para distribuir a
+accionistas, para abandono y para donación.
+Los activos para disposición clasificados como no circulantes de acuerdo con la NIF B-6, Estado de situación
+financiera, deben clasificarse como activos circulantes cuando cumplan los criterios para ser clasificados como
+mantenidos para su venta de acuerdo con esta NIF. Los activos de una entidad que normalmente se considerarían
+como no circulantes, pero dicha entidad desde su adquisición los ha destinado exclusivamente a ser vendidos, no
+deben clasificarse como circulantes a menos que cumplan los criterios para ser clasificados como mantenidos para
+su disposición de acuerdo con esta NIF.
+NIF C-2, Inversión en instrumentos financieros
+La NIF C-2 establece que una entidad puede, en el reconocimiento inicial de un instrumento financiero, designarlo
+irrevocablemente como valuado a su valor razonable con efecto en la utilidad o pérdida neta. No obstante, la
+redacción de la NIF no era clara, por lo que se modificó para hacer la precisión.
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Santander
+53

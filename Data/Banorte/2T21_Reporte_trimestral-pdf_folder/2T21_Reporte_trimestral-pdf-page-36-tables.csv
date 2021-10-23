@@ -1,0 +1,61 @@
+Table
+GFNorte Cuentas de Orden (Millones de Pesos) ,1T20 ,2T20 ,3T20 ,4T20 ,1T21 ,2T21 
+Operaciones por Cuenta de Terceros ,,,,,,
+Bancos de clientes ,85 ,24 ,21 ,62 ,49 ,18 
+Dividendos por cobrar de clientes ,- ,- ,- ,- ,- ,- 
+Intereses por cobrar de clientes ,- ,- ,- ,- ,- ,- 
+Liquidación de operaciones de clientes ,208 ,(270) ,123 ,(30) ,47 ,"12,022 "
+Premios de clientes ,- ,- ,- ,- ,- ,- 
+Liquidación con divisas de clientes ,- ,- ,- ,- ,- ,- 
+Cuentas margen operaciones con futuros ,- ,- ,- ,- ,- ,- 
+Otras cuentas corrientes ,- ,- ,- ,- ,- ,- 
+Clientes Cuentas Corrientes ,293 ,(245) ,145 ,32 ,97 ,"12,039 "
+Valores de clientes recibidos en custodia ,"605,481 ","641,824 ","670,163 ","669,495 ","720,880 ","740,294 "
+Valores y documentos recibidos en garantía ,- ,- ,- ,- ,- ,- 
+Valores de clientes en el extranjero ,- ,- ,- ,- ,- ,- 
+Valores de Clientes ,"605,481 ","641,824 ","670,163 ","669,495 ","720,880 ","740,294 "
+Operaciones de reporto de clientes ,"179,276 ","163,653 ","240,237 ","238,032 ","277,305 ","261,799 "
+Operac. de préstamo de valores de clientes ,- ,- ,- ,- ,- ,- 
+Colaterales recibidos en garantía por cuentas de clientes ,"179,276 ","163,653 ","240,237 ","238,040 ","277,318 ","261,821 "
+Compra de futs y cont. Adelan. (monto nacional) ,- ,- ,- ,- ,- ,"9,345 "
+Venta de futs y cont. Adelan. (monto nacional) ,- ,- ,- ,- ,- ,- 
+Operac. de compra de opciones de clientes ,- ,- ,- ,- ,- ,- 
+Operac. de venta de opciones de clientes ,,,,,,
+Operac. de Compra de paquetes de instrumentos derivados ,- ,- ,- ,- ,- ,"9,345 "
+Operac. de Venta de paquetes de instrumentos derivados de clientes ,- ,- ,- ,- ,- ,- 
+Fideicomisos administrados ,"1,036 ","1,054 ","1,066 ",204 ,187 ,129 
+Operaciones por Cuenta de Clientes ,"359,588 ","328,360 ","481,539 ","476,276 ","554,810 ","533,094 "
+Op. de Bca de Inv Cta de Terceros (Neto) ,"87,728 ","88,149 ","100,948 ","97,374 ","127,770 ","127,426 "
+TOTALES POR CUENTA DETERCEROS ,"1,053,090 ","1,058,087 ","1,252,794 ","1,243,176 ","1,403,556 ","1,412,853 "
+Avales otorgados ,- ,- ,- ,- ,- ,- 
+Compromisos Crediticios ,"294,733 ","293,470 ","292,420 ","292,701 ","276,976 ","282,098 "
+Fideicomisos ,"422,525 ","319,659 ","308,883 ","308,516 ","309,954 ","319,065 "
+Mandatos ,"7,326 ","7,645 ","7,786 ","7,472 ","7,024 ","6,860 "
+Bienes en Fideicomiso o Mandato ,"429,851 ","327,304 ","316,669 ","315,988 ","316,978 ","325,925 "
+Bienes en custodia o administración ,"660,642 ","669,104 ","677,620 ","633,424 ","632,974 ","635,708 "
+Colaterales recibidos por la entidad ,"163,758 ","240,920 ","289,443 ","282,054 ","384,942 ","398,517 "
+Colaterales recibidos o vendidos o entregados por la inst. ,"247,107 ","307,649 ","432,443 ","421,090 ","543,789 ","548,764 "
+Giros en tránsito ,- ,- ,- ,- ,- ,- 
+Depósitos de bienes ,"2,766 ","2,867 ","2,101 ","3,325 ","2,482 ","2,150 "
+Cartas de Créd. a la Soc. entreg en garantía ,- ,- ,- ,- ,- ,- 
+Valores a la Sociedad entreg. en custodia ,- ,- ,- ,- ,- ,- 
+Valores Gubern. de la sociedad en custodia ,- ,- ,- ,- ,- ,- 
+Valores de la sociedad entreg. en garantía ,- ,- ,- ,- ,- ,- 
+Valores en el extranjero de la sociedad ,- ,- ,- ,- ,- ,- 
+Liquid. con divisas de Soc. en el extranjero ,- ,- ,- ,- ,- ,- 
+Adeudo al fondo de contingencias ,- ,- ,- ,- ,- ,- 
+Activos y Pasivos Contingentes ,79 ,79 ,109 ,167 ,122 ,155 
+Int.dev. no cob. deriv. de cart. de crédito vencida ,295 ,289 ,180 ,178 ,286 ,242 
+Inver. fondos del sist. de ahorro para retiro ,- ,- ,- ,- ,- ,- 
+Integración de la cartera crediticia ,- ,- ,- ,- ,- ,- 
+Otras cuentas de registro ,"292,976 ","289,983 ","304,055 ","295,069 ","324,592 ","323,288 "
+Operaciones por Cuenta Propia ,"2,092,207 ","2,131,665 ","2,315,039 ","2,243,996 ","2,483,140 ","2,516,847 "
+Títulos a recibir por reporto ,- ,- ,- ,- ,- ,- 
+(Menos) Acreedores por reporto ,- ,- ,- ,- ,- ,- 
+Títulos a recibir por reporto (Neto) ,- ,- ,- ,- ,- ,- 
+Deudores por reporto ,- ,- ,- ,- ,- ,- 
+(Menos) Títulos a entregar por reporto ,- ,- ,- ,- ,- ,- 
+Títulos a entregar por reporto (Neto) ,- ,- ,- ,- ,- ,- 
+TOTALES POR CUENTA PROPIA ,"2,092,207 ","2,131,665 ","2,315,039 ","2,243,996 ","2,483,140 ","2,516,847 "
+
+

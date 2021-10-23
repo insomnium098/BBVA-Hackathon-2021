@@ -1,0 +1,93 @@
+320%
+270%
+220%
+170%
+120%
+70%
+IPC
+FB
+Base de comparación: 31 de diciembre de 2015
+Periodo
+Precio mínimo
+Precio máximo
+Volumen promedio (títulos)
+2016
+94.16
+133.28
+25,385,708.73
+2017
+115.05
+183.03
+16,674,596.54
+2018
+124.06
+217.50
+27,262,166.58
+2019
+131.09
+208.10
+16,094,515.08
+2020
+146.01
+303.91
+22,624,224.43
+1° Sem. 2019
+131.09
+195.47
+18,274,490.02
+2° Sem. 2019
+174.60
+208.10
+13,950,083.22
+1° Sem. 2020
+146.01
+242.24
+23,485,350.38
+2° Sem. 2020
+230.12
+303.91
+21,772,458.53
+julio 2020
+230.12
+253.67
+23,499,770.10
+agosto 2020
+249.12
+303.91
+29,706,917.06
+septiembre 2020
+248.15
+302.50
+24,032,417.70
+octubre 2020
+258.12
+284.79
+20,346,506.65
+noviembre 2020
+261.36
+294.68
+17,233,754.97
+diciembre 2020
+267.09
+287.52
+15,741,876.84
+Volatilidad Histórica:
+90.00%
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+DEA 1M
+DEA 3M
+DEA 6M
+DEA 12M
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Santander
+120

@@ -1,0 +1,41 @@
+Table
+Tabla III.2 ,,
+Activos ponderados sujetos a riesgo de crédito por ,grupo de riesgo ,
+Concepto ,Activos ponderados por riesgo ,Requerimiento de capital 
+Grupo I-A (ponderados al 0%) ,0 ,0 
+Grupo I-A (ponderados al 10%) ,0 ,0 
+Grupo I-A (ponderados al 20%) ,0 ,0 
+Grupo I-B (ponderados al 2%) ,187 ,15 
+Grupo I-B (ponderados al 4.0%) ,0 ,0 
+Grupo Il (ponderados al 0%) ,0 ,0 
+Grupo II (ponderados al 20%) ,"4,514 ",361 
+Grupo II (ponderados al 50%) ,0 ,0 
+Grupo Il (ponderados al 100%) ,"23,870 ","1,910 "
+Grupo Il (ponderados al 120%) ,0 ,0 
+Grupo Il (ponderados al 150%) ,0 ,0 
+Grupo III (ponderados al 2.5%) ,0 ,0 
+Grupo III (ponderados al 10%) ,0 ,0 
+Grupo III (ponderados al 11.50%) ,0 ,0 
+Grupo III (ponderados al 20%) ,"25,442 ","2,035 "
+Grupo III (ponderados al 23%) ,23 ,2 
+Grupo III (ponderados al 25%) ,0 ,0 
+
+
+Table
+Tabla III.1 ,,
+Posiciones expuestas a riesgo de mercado por ,factor de riesgo ,
+,,
+Concepto ,Importe de posiciones equivalentes ,Requerimiento de capital 
+Operaciones en moneda nacional con tasa nominal ,"92,657 ","7,413 "
+Operaciones con títulos de deuda en moneda nacional con sobretasa y una tasa revisable ,"2,494 ",199 
+Operaciones en moneda nacional con tasa real o denominados en UDI's ,"6,435 ",515 
+Operaciones en moneda nacional con tasa de rendimiento referida al crecimiento del Salario Mínimo General ,"7,307 ",585 
+Posiciones en UDI's o con rendimiento referido al INPC ,25 ,2 
+Posiciones en moneda nacional con tasa de rendimiento referida al crecimiento del salario mínimo general ,376 ,30 
+Operaciones en moneda extranjera con tasa nominal ,"70,043 ","5,603 "
+Posiciones en divisas o con rendimiento indizado al tipo de cambio ,"6,383 ",511 
+Posiciones en acciones o con rendimiento indizado al precio de una acción o grupo de acciones ,"6,758 ",541 
+Posiciones en Mercancías ,0 ,0 
+Requerimiento de Capital por Impacto de Gamma y Vega ,1 ,0 
+
+

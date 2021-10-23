@@ -1,0 +1,165 @@
+Valor
+Fechas de observación 1a
+Fecha de observación
+Nivel de mercado
+observado
+3
+Fechas de observación 1a3
+4
+0.00
+0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+3.49
+5.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+6.99
+10.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+10.48
+15.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+13.98
+20.00
+Ps.0.00
+Ps. 0.00
+Ps. 70.00
+17.47
+25.00
+Ps.0.00
+Ps. 0.00
+Ps. 70.00
+20.97
+30.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+24.46
+35.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+27.96
+40.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+31.45
+45.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+34.95
+50.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+38.44
+55.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+41.93
+60.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+45.43
+65.00
+Ps. 0.00
+Ps. 0.00
+Ps. 75.00
+48.92
+70.00
+Ps. 0.00
+Ps. 0.00
+Ps.80.00
+52.42
+75.00
+Ps. .0.00
+Ps. .0.00
+Ps.85.00
+55.91
+80.00
+Ps. 0.00
+Ps. 0.00
+Ps. 90.00
+59.41
+85.00
+Ps. 0.00
+Ps. 0.00
+Ps. 95.00
+62.90
+90.00
+Ps. 2.45
+Ps. 0.00
+Ps. 102.45
+66.40
+95.00
+Ps. 2.45
+Ps. 0.00
+Ps. 102.45
+69.89
+100.00
+Ps. 0.00
+Ps. 102.45
+Ps. 102.45
+73.38
+105.00
+Ps. 0.00
+Ps. 102.45
+Ps. 102.45
+76.88
+110.00
+Ps. .0.00
+Ps. 102.45
+Ps. 102.45
+80.37
+115.00
+Ps. 0.00
+Ps. 102.45
+Ps. 102.45
+83.87
+120.00
+Ps. 0.00
+Ps. 102.45
+Ps. 102.45
+87.36
+125.00
+Ps. 0.00
+Ps. 102.45
+Ps. 102.45
+90.86
+130.00
+Ps. 0.00
+Ps. 102.45
+Ps. 102.45
+94.35
+135.00
+Ps. 0.00
+Ps. 102.45
+Ps. 102.45
+97.85
+140.00
+Ps. 0.00
+Ps. 102.45
+Ps. 102.45
+(viii) Netflix, Inc. (NFLX*)
+Mercado donde cotiza:
+Nasdaq
+Descripción:
+Netflix Inc. es un servicio de suscripción por Internet que permite ver programas de televisión y películas. Los abonados ven al instante un
+número ilimitado de programas de televisión y películas retransmitidos por secuencias a sus televisores, equipos o dispositivos móviles. En
+EE.UU., pueden recibir además DVD y Blu-ray de definición estándar en su domicilio.
+Evolución Histórica:
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Santander
+138

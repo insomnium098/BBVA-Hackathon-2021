@@ -1,0 +1,61 @@
+en las curvas de tasa de interés de un punto base.
+En la tabla siguiente se presentan las sensibilidades antes descritas correspondientes a la posición de la cartera de negociación, al cierre
+del tercer trimestre de 2020:
+Análisis de Sensibilidad
+Millones de pesos
+Sensibilidad total de tasa
+Sens. a 1 pb
+Vega por factor de Riesgo
+Total
+Delta por factor de Riesgo (EQ y FX)
+Total
+De acuerdo a lo anterior, se refleja un manejo prudencial de la cartera de negociación de Banco Santander respecto de los factores de
+Stress Test de Instrumentos Financieros Derivados
+continuación se presentan distintos escenarios de stress test considerando diversos escenarios hipotéticos calculados para la cartera de
+negociación de Banco Santander.
+Escenario Probable
+escenario se definió con base en movimientos resultantes de una desviación estándar, respecto de los factores de riesgo que influyen en la
+valuación de los instrumentos financieros que ha mantenido la cartera de negociación de Banco Santander en cada uno de los períodos.
+resumen los movimientos aplicados a cada factor de riesgo fueron los siguientes:
+los factores de riesgo de tasa ("IR"), volatilidades ("Vol") y tipo de cambio ("FX") se incrementaron en una desviación estándar; y
+los factores de riesgo respecto del mercado accionario (EQ) se disminuyeron en una desviación estándar.
+Escenario Posible
+En este escenario se modificaron los factores de riesgo en 25%. En resumen los movimientos aplicados a cada factor de riesgo fueron los
+Los factores de riesgo IR, Vol y FX se multiplicaron por 1.25, es decir se incrementaron 25%.
+Los factores de riesgo EQ se multiplicaron por 0.75, es decir se disminuyeron 25%.
+Escenario Remoto
+En este escenario, se modificaron los factores de riesgo en 50%. En resumen los movimientos aplicados a cada factor de riesgo fueron los
+Los factores de riesgo IR, Vol y FX se multiplican por 1.50, es decir se incrementaron 50%.
+Los factores de riesgo EQ se multiplicaron por 0.5, es decir se disminuyeron 50%.
+Impacto en Resultados
+En el siguiente cuadro se muestran las posibles utilidades (pérdidas) para la cartera de negociación de Banco Santander, de acuerdo a cada
+escenario de estrés, al cierre del tercer trimestre de 2020:
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Pesos
+Otras Divisas
+EQ
+EQ
+Stress todos los
+Perfil de Riesgo
+factores
+(5.05)
+IR
+(0.10)
+(0.09)
+Resumen Análisis de Stress Test
+Millones de pesos
+13.21
+(0.90)
+(49.80)
+FX
+FX
+riesgo.
+Santander
+(1.44)
+A
+siguientes:
+siguientes:
+Este
+En
+113

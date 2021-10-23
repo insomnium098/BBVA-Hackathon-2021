@@ -1,0 +1,87 @@
+Anexo 2. Indicadores Financieros según CNBV
+Porcentajes
+3T20
+2T20
+3T19
+9M20
+9M19
+Índice de morosidad
+2.09
+2.51
+2.33
+2.09
+2.33
+Índice de cobertura de cartera de crédito
+vencida
+167.94
+138.81
+130.82
+167.94
+130.82
+Eficiencia operativa
+2.20
+2.06
+2.77
+2.10
+2.69
+ROE
+13.50
+11.77
+16.14
+13.13
+16.00
+ROA
+1.06
+0.91
+1.56
+1.03
+1.55
+Índice de capitalización desglosado:
+Riesgo de crédito
+26.31
+25.46
+23.76
+26.31
+23.76
+Riesgo de crédito, mercado y operacional
+17.16
+16.69
+16.89
+17.16
+16.89
+Liquidez
+118.03
+110.73
+91.33
+118.03
+91.33
+MIN
+2.68
+1.82
+3.90
+2.40
+3.91
+Nota: Indicadores elaborados con base a las Disposiciones de Carácter General aplicables a la Información Financiera de las Instituciones de Crédito, emitidas
+por la CNBV, según anexo 34 de la CUB.
+ÍNDICE DE MOROSIDAD = Saldo de la cartera de crédito vencida al cierre del trimestre / Saldo de la cartera de crédito total al cierre del trimestre.
+ÍNDICE DE COBERTURA DE CARTERA DE CREDITO VENCIDA = Saldo de la estimación preventiva para riesgos crediticios al cierre del trimestre / Saldo de la cartera
+de crédito vencida al cierre del trimestre.
+EFICIENCIA OPERATIVA = Gastos de administración y promoción del trimestre anualizados, / Activo total promedio.
+ROE = Utilidad neta del trimestre anualizada/ Capital contable promedio.
+ROA = Utilidad neta del trimestre anualizada / Activo total promedio.
+ÍNDICE DE CAPITALIZACIÓN DESGLOSADO: (1)=Capital neto / Activos sujetos a riesgo de crédito. (2) = =Capital neto / Activos sujetos a riesgo de crédito, mercado
+y
+operacional.
+LIQUIDEZ = Activos líquidos / Pasivos líquidos.
+Donde: Activos Líquidos = Disponibilidades + Títulos para negociar + Títulos disponibles para la venta.
+Pasivos Líquidos = Depósitos de exigibilidad inmediata + Préstamos bancarios y de otros organismos de exigibilidad inmediata + Préstamos bancarios y de otros
+organismos de corto plazo.
+MIN = Margen financiero del trimestre ajustado por riesgos crediticios anualizado / Activos productivos promedio.
+Dónde: Activos productivos promedio = Disponibilidades, Inversiones en valores, Operaciones con valores y derivadas y Cartera de crédito vigente.
+Notas:
+Datos promedio = ((Saldo del trimestre en estudio + Saldo del trimestre inmediato anterior) / 2).
+Datos Anualizados = (Flujo del trimestre en estudio * 4).
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+62

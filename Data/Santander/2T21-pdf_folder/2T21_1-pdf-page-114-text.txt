@@ -1,0 +1,149 @@
+cobertura, y que requieran que la Emisora asuma nuevas obligaciones, compromisos o variaciones en su flujo de efectivo de forma que vea
+afectada
+su
+liquidez; ni contingencias y eventos conocidos o esperados por la administración, que puedan afectarla en futuros reportes.
+Durante el segundo trimestre de 2021, el número de instrumentos financieros derivados vencidos y posiciones cerradas fue el siguiente
+(no
+auditado):
+Resumen de Instrumentos Financieros Derivados
+Cifras en millones de pesos al 30 de junio de 2021
+Valor Razonable
+Fines de
+Negociación o
+Trimestre
+Trimestre
+Tipo de Derivado
+Subyacente
+de Cobertura
+Monto Nocional
+Actual
+Anterior
+Contratos Adelantados
+Divisas
+Negociación
+374,847
+2,075
+321
+Contratos Adelantados
+Acciones
+Negociación
+204
+(7)
+14
+Futuros
+Divisas
+Negociación
+19,061
+0
+0
+Futuros
+Índices
+Negociación
+538
+0
+0
+Opciones
+Acciones
+Negociación
+4,817
+(1,681)
+(746)
+Opciones
+Divisas
+Negociación
+127,161
+(395)
+202
+Opciones
+Índices
+Negociación
+845
+28
+27
+Opciones
+Tasas
+Negociación
+119,605
+(98)
+(32)
+Swaps
+Divisas
+Negociación
+860,776
+2,901
+2,971
+Swaps
+Tasas
+Negociación
+7,548,951
+2,904
+3,696
+Swaps
+Acciones
+Negociación
+450
+(76)
+(124)
+Contratos Adelantados
+Divisas
+Cobertura
+66,766
+2,409
+5,255
+Swaps
+Divisas
+Cobertura
+42,736
+(4,172)
+(5,740)
+Swaps
+Tasas
+Cobertura
+57,358
+(269)
+(1,494)
+Banco Santander México, en la celebración de operaciones con instrumentos financieros derivados OTC, tiene formalizados contratos Colaterales
+con muchas de sus contrapartes, que sirven de garantía del valor de mercado de las operaciones de derivados y se determina en función a la
+exposición de la posición neta en riesgo con cada contraparte. El Colateral gestionado consiste mayoritariamente en depósitos en efectivo, con
+lo cual no se da situación de deterioro del mismo.
+No se tiene instrumentos financieros derivados cuyo subyacente sean acciones propias o títulos de crédito que las representen, durante el
+trimestre.
+Durante el segundo trimestre de 2021, el número de instrumentos financieros derivados vencidos y posiciones cerradas fue el siguiente
+(no
+auditado):
+Descripción
+Vencimientos
+Posiciones cerradas
+Caps and Floors
+337
+6
+Equity Forward
+0
+0
+OTC Equity
+93
+34
+OTC Fx
+1,093
+215
+Swaptions
+0
+0
+Fx Forward
+5,433
+146
+IRS
+824
+121
+CCS
+88
+26
+Equity Swap
+0
+0
+El monto de las llamadas de margen realizadas durante el trimestre fue el necesario para cubrir tanto las aportaciones en mercados organizados
+como los requeridos en los contratos de colaterales.
+Reporte de Resultados | 2T.2021
+Santander
+Banco Santander México
+112

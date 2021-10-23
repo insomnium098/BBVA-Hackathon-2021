@@ -1,0 +1,91 @@
+T
+-
+GRUPO FINANCIERO
+BANORTE
+Acreedores por
+Reporto
+VM acreedores por
+reporto
+309,252
+36,361
+7,598
+353,211
+61
+V. Anexos
+Valores gubernamentales
+Valores bancarios
+Valores privados
+Total
+Segundo Trimestre de 2020
+POSICIONES POR OPERACIONES DE REPORTO 2T20
+(Millones de Pesos)
+Deudores por Reporto
+VM Colaterales
+VM deudores por
+recibidos
+Diferencia
+Diferencia
+reporto
+vendidos en
+deudora
+acreedora
+reporto
+116,928
+115,008
+1,928
+23,540
+23,540
+-
+5,272
+5,272
+-
+145,741
+143,820
+1,928
+OPERACIONES CON INSTRUMENTOS
+DERIVADOS AL 2T20
+(Millones de Pesos)
+Posición Activa
+Instrumento
+Valor Razonable
+Futuros
+Futuros TIIE 28
+-
+Forward
+Forward de divisa
+181
+Opciones
+Opciones de tasas
+345
+Opciones de divisa
+1,713
+Títulos Opcionales
+-
+Swaps
+Swaps de tasas
+47,044
+Swaps de divisas
+12,128
+Swaps de crédito
+294
+Total negociación
+61,705
+Opciones
+Opciones de tasas
+-
+Opciones de divisa
+-
+Swaps
+Swaps de tasas
+1,385
+Swaps de divisas
+999
+Swaps de crédito
+-
+Total cobertura
+2,384
+Total posición
+64,089
+8
+0
+8

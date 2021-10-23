@@ -1,0 +1,115 @@
+BBVA
+Creando Oportunidades
+Captación y Tasas
+Captación y Tasas
+Tasas deinteréspromedio en %
+Moneda nacional
+Captación
+Depósitos de exigibilidad inmediata
+Depósitos a plazo
+Préstamos interbancarios y de otros organismos
+Call money
+Préstamos de Banco de México
+Financiamiento de los fondos de fomento
+Financiamiento de otros organismos
+Captación total moneda nacional
+Moneda extranjera
+Captación
+Depósitos de exigibilidad inmediata
+Depósitos a plazo
+Préstamos interbancarios y de otros organismos
+Call money
+Préstamos de bancos comerciales
+Captación total moneda extranjera
+pbs
+1T
+4T
+1.41
+1T
+Var
+Trim
+(19)
+(11)
+(30)
+(44)
+(23)
+(144)
+(31)
+131
+(18)
+(1)
+0
+(10)
+4
+0
+0
+o
+Var
+Anual
+(138)
+(82)
+(264)
+(245)
+(292)
+(331)
+(249)
+(56)
+(141)
+(10)
+(8)
+(88)
+(142)
+(94)
+(276)
+(12)
+2020
+2.60
+1.48
+5.88
+7.63
+6.87
+7.38
+7.88
+11.57
+2.69
+0.12
+0.10
+0.95
+1.84
+0.94
+3.62
+0.15
+2020
+0.77
+3.54
+5.62
+4.18
+5.51
+5.70
+9.70
+1.46
+0.03
+0.02
+0.17
+0.38
+0.00
+0.86
+0.03
+2021
+1.22
+0.66
+3.24
+5.18
+3.95
+4.07
+5.39
+11.01
+1.28
+0.02
+0.02
+0.07
+0.42
+0.00
+0.86
+0.03
+67

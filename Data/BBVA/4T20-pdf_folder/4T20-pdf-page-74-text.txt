@@ -1,0 +1,103 @@
+BBVA
+Creando Oportunidades
+Operaciones e Instrumentos
+Operaciones de Reportos
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Operaciones de reportos
+Diciembre 2020
+Millones de pesos
+Gubernamental
+Total
+Acreedores por reporto
+(255,330)
+(255,330)
+Deudores por reporto
+23,314
+23,314
+Operaciones con Instrumentos Financieros Derivados
+Futuros*
+Subyacente
+Compra
+Venta
+USD
+39,988
+1,522
+MXN
+169
+896
+Indice
+O
+273
+Bono M10
+397
+O
+Contratos Adelantados
+Subyacente
+Compra
+Venta
+USD*
+537,077
+490,694
+Otras divisas
+90,450
+48,255
+Indice Extranjero
+14,868
+26,865
+lpc
+3,671
+72
+Opciones **
+Call
+Put
+Subyacente
+Ventas
+Compras
+Ventas
+Compras
+Divisa OTC
+40,771
+32,128
+20,331
+26,951
+Acciones OTC
+83
+4,688
+478
+51
+Indices OTC
+95
+3,259
+464
+464
+Divisa ORG
+19.5
+O
+O
+0
+Acciones ORG
+1
+13
+16
+6
+Indices ORG
+1,238
+13,387
+16,092
+102
+Warrant
+10,391
+O
+0
+0
+CAPS
+87,491
+31,738
+8,859
+9,735
+Swaption
+0
+3,700
+1,291
+6,658
+74

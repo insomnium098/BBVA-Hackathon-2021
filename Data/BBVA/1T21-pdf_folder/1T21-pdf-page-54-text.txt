@@ -1,0 +1,282 @@
+BBVA
+Creando Oportunidades
+Pasivo y Capital
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Mar
+Jun
+Sep
+Dic
+Mar
+Millones de pesos
+2020
+2020
+2020
+2020
+2021
+CAPTACION TRADICIONAL
+1,388,640
+1,384,394
+1,413,428
+1,410,989
+1,444,230
+Depósitos de exigibilidad inmediata
+1,009,526
+1,016,021
+1,047,248
+1,083,733
+1,115,493
+Depósitos a plazo
+272,634
+273,665
+272,245
+238,248
+238,406
+Del Público en General
+246,531
+245,544
+251,619
+224,386
+232,356
+Mercado de Dinero
+26,103
+28,121
+20,626
+13,862
+6,050
+Titulos de crédito emitidos
+101,903
+89,927
+89,006
+84,052
+85,296
+Cuenta Global de Captación sin Movimientos
+4,577
+4,781
+4,929
+4,956
+5,035
+PRESTAMOS INTERBANCARIOS Y DE OTROS ORGANISMOS
+18,026
+20,358
+19,374
+17,860
+30,885
+De exigibilidad inmediata
+2,349
+0
+O
+0
+0
+De corto plazo
+6,374
+9,604
+7,757
+6,985
+6,070
+Delargo plazo
+9,303
+10,754
+11,617
+10,875
+24,815
+Reservas Técnicas
+224,090
+226,827
+234,163
+238,550
+250,399
+Acreedores por reporto
+221,279
+215,118
+240,870
+255,331
+247,129
+Prestamos de valores
+1
+2
+1
+5
+3
+COLATERALES VENDIDOS O DADOS EN GARANTIA
+55,304
+55,877
+49,932
+63,841
+64,426
+Préstamo de Valores
+55,304
+55,877
+49,932
+63,841
+44,463
+DERIVADOS
+370,224
+302,932
+244,304
+223,841
+162,609
+Con fines de Negociación
+353,793
+285,789
+229,061
+210,971
+155,273
+Con fines de Cobertura
+16,431
+17,143
+15,243
+12,870
+7,336
+Ajustes de valuación por cobertura de pasivos financieros
+10,133
+10,770
+9,659
+7,915
+4,796
+Cuentas por pagar a reaseguradores y reafianzadores (neto)
+237
+164
+161
+934
+1,396
+OTRAS CUENTAS POR PAGAR
+142,450
+137,515
+133,830
+121,001
+126,387
+Participación de los Trabajadores en las Utilidades por pagar
+22
+20
+22
+285
+75
+Acreedores por liquidación de operaciones
+81,859
+77,516
+78,298
+55,312
+62,518
+Acreedores por cuentas de margen
+O
+O
+O
+1,179
+348
+Acreedores por colaterales recibidos en efectivo
+26,385
+26,875
+24,937
+19,762
+21,444
+Acreedores diversos y otras cuentas por pagar
+34,184
+33,104
+30,573
+44,463
+42,002
+Obligaciones subordinadas en circulación
+117,287
+98,793
+93,446
+85,181
+70,869
+Créditos diferidos y cobros anticipados
+7,869
+7,412
+7,382
+7,540
+7,604
+TOTAL PASIVO
+2,555,540
+2,460,162
+2,446,550
+2,432,988
+2,410,733
+CAPITAL CONTRIBUIDO
+89,132
+89,132
+89,132
+89,132
+89,132
+Capital social
+9,799
+9,799
+9,799
+9,799
+9,799
+Prima en venta de acciones
+79,333
+79,333
+79,333
+79,333
+79,333
+CAPITAL GANADO
+144,385
+159,129
+173,613
+182,393
+188,490
+Reservas de capital
+204
+204
+204
+204
+204
+Resultado de ejercicios anteriores
+145,650
+145,650
+145,650
+145,650
+188,510
+Resultado por valuación de títulos disponibles para la venta
+(2,859)
+577
+774
+2,879
+(2,122)
+Resultado por valuación de instrumentos de cobertura de flujos de efect
+292
+389
+283
+(96)
+(430)
+Efecto acumulado por conversión
+440
+440
+440
+440
+440
+Remediciones por Beneficios Definidos a los Empleados
+(7,962)
+(7,940)
+(7,799)
+(9,544)
+(9,199)
+Resultado neto
+8,620
+19,809
+34,061
+42,860
+11,087
+CAPITAL CONTABLE MAYORITARIO
+233,517
+248,261
+262,745
+271,525
+277,622
+Participación no controladora
+38
+39
+40
+39
+39
+TOTAL CAPITAL CONTABLE
+233,555
+248,300
+262,785
+271,564
+277,661
+TOTAL PASIVO Y CAPITAL CONTABLE
+2,789,095 2,708,462 2,709,335 2,704,552 2,688,394
+54

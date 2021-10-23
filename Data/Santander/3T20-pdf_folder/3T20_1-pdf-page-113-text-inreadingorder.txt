@@ -1,0 +1,127 @@
+C. Frecuencia de Valuación
+La frecuencia con la cual se valoran los productos financieros derivados con fines de negociación y de cobertura es diaria.
+Administración sobre las fuentes internas y externas de liquidez que pudieran ser utilizadas para atender requerimientos
+con instrumentos financieros derivados.
+Los recursos se obtienen a través de las áreas de Tesorería Nacional e Internacional.
+Cambios en la exposición a los riesgos identificados, contingencias y eventos conocidos o esperados en instrumentos financieros
+derivados.
+Al
+cierre
+del tercer trimestre de 2020 Banco Santander no tiene ninguna situación o eventualidad, tales como cambios en el valor del activo
+subyacente o las variables de referencia, que implique que el uso de los instrumentos financieros derivados difieran de aquellos con que
+originalmente fueron concebidos, que modifiquen significativamente el esquema de los mismos o que impliquen la pérdida parcial o total de la
+cobertura, y que requieran que la Emisora asuma nuevas obligaciones, compromisos o variaciones en su flujo de efectivo de forma que vea
+afectada su liquidez; ni contingencias y eventos conocidos o esperados por la administración, que puedan afectarla en futuros reportes.
+Durante el tercer trimestre de 2020, el número de instrumentos financieros derivados vencidos y posiciones cerradas fue el siguiente (no
+auditado):
+Tipo de Derivado
+Contratos Adelantados
+Contratos Adelantados
+Futuros
+Futuros
+Opciones
+Opciones
+Opciones
+Opciones
+Swaps
+Swaps
+Swaps
+Contratos Adelantados
+Swaps
+Swaps
+Banco Santander México, en la celebración de operaciones con instrumentos financieros derivados OTC, tiene formalizados contratos Colaterales
+con muchas de sus contrapartes, que sirven de garantía del valor de mercado de las operaciones de derivados y se determina en función a la
+exposición de la posición neta en riesgo con cada contraparte. El Colateral gestionado consiste mayoritariamente en depósitos en efectivo, con
+lo cual no se da situación de deterioro del mismo.
+No se tiene instrumentos financieros derivados cuyo subyacente sean acciones propias o títulos de crédito que las representen, durante
+trimestre.
+Durante el tercer trimestre de 2020, el número de instrumentos financieros derivados vencidos y posiciones cerradas fue el siguiente (no
+auditado):
+Reporte de Resultados | 3T.2020
+Banco Santander México
+relacionados
+Trimestre
+Anterior
+(767)
+(5)
+0
+0
+(478)
+1,308
+156
+213
+(3,337)
+7,453
+167
+1,057
+(14,672)
+(4,616)
+el
+Santander
+Resumen de Instrumentos Financieros Derivados
+Cifras en millones de pesos al 30 de septiembre de 2020
+Fines de
+Negociación o
+Subyacente
+de Cobertura
+Monto Nocional
+Divisas
+Negociación
+415,601
+Acciones
+Negociación
+1,714
+Divisas
+Negociación
+3,941
+Índices
+Negociación
+1,708
+Acciones
+Negociación
+1,853
+Divisas
+Negociación
+144,418
+Índices
+Negociación
+1,828
+Tasas
+Negociación
+172,163
+Divisas
+Negociación
+984,939
+Tasas
+Negociación
+7,271,793
+Acciones
+Negociación
+640
+Divisas
+Cobertura
+60,507
+Divisas
+Cobertura
+58,554
+Tasas
+Cobertura
+65,905
+Valor Razonable
+466
+(33)
+0
+0
+(516)
+1,246
+119
+113
+(1,463)
+6,486
+82
+3,313
+(13,814)
+(3,897)
+Trimestre
+Actual
+111

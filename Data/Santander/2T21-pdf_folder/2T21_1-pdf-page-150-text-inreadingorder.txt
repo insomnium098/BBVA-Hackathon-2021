@@ -1,0 +1,100 @@
+(x)
+Mercado donde cotiza:
+Nasdaq
+Descripción:
+Spotify Technology S.A. provee música en servicio streaming. La compañía ofrece música con un servicio gratuito financiado por anuncios o por
+suscripción. Spotify Technology da servicio a clientes en todo el mundo.
+Evolución Histórica
+Volatilidad Histórica
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+SPO207L DC007
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Spotify Technology S.A (SPOT N)
+Periodo
+2016
+2017
+2018
+2019
+2020
+2° Sem. 2019
+1° Sem. 2020
+2° Sem. 2020
+1° Sem. 2021
+enero 2021
+febrero 2021
+marzo 2021
+abril 2021
+mayo 2021
+junio 2021
+300%
+250%
+200%
+150%
+100%
+50%
+0%
+-
+-
+-
+157.66
+343.30
+157.66
+267.47
+343.30
+364.59
+353.11
+364.59
+322.74
+299.74
+252.12
+275.59
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+Fuente de información sobre Evolución y Volatilidad Histórico: www.bloomberq.com.mx
+IPC SPOT
+Precio máximo
+Volumen promedio (títulos)
+1,528,661.78
+1,866,541.69
+1,288,643.59
+2,022,765.20
+1,712,016.25
+1,553,549.00
+1,402,260.19
+2,059,777.57
+1,464,350.23
+1,581,801.07
+1,554,568.03
+1,300,267.77
+Precio mínimo
+106.84
+109.02
+117.64
+112.24
+117.64
+231.26
+217.07
+311.00
+303.06
+252.59
+252.12
+217.07
+232.19
+DEA 1M
+-
+-
+-
+-
+-
+DEA3M
+DEA 6M
+Santander
+DEA 12M
+148

@@ -1,0 +1,97 @@
+GRUPO FINANCIERO
+II. Discusión y Análisis de la Administración
+BANORTE
+Activos Sujetos a Riesgo
+Var. VS.
+3T19
+2T20
+3T20
+(Millones de Pesos)
+2T20
+3T19
+Total Crédito
+620,837
+697,870
+690,967
+(1%)
+11.30%
+Crédito (Cartera)
+516,598
+553,096
+548,959
+(1%)
+6.26%
+Crédito (Otros)
+104,238
+144,774
+142,008
+(2%)
+36.23%
+Total Mercado
+92,508
+126,671
+144,157
+13.80%
+55.83%
+Total Operacional
+62,297
+67,820
+69,421
+2.36%
+11.43%
+Totales
+775,642
+892,361
+904,544
+1.37%
+16.62%
+Al comparar los Activos Sujetos a Riesgo de 3T20 respecto al 2T20 se puede observar:
+Disminución en Activos Sujetos a Riesgo de Crédito (Cartera) guiado por reducción de carteras Corporativo y Gobierno
+de Estados y Municipios, así como por la disminución en disponibilidades derivadas de la gestión del balance.
+Disminución en Activos Sujetos a Riesgo de Crédito (Otros) guiado por el requerimiento de Ajuste de Valuación
+Crediticia para las operaciones de derivados, esto por el efecto de la evolución de las tasas de mercado en estas
+posiciones, ya que, de manera trimestral, la curva de tasa de derivados tuvo incrementos en plazos de hasta 7 años,
+(+10 pbs) disminuyendo la exposición en contratos con clientes que cubren riesgo de alza en tasas y,
+consecuentemente, el capital requerido.
+Incremento en Activos Sujetos a Riesgo de Mercado por efecto de tipo de cambio principalmente y evolución de la
+estructura de balance.
+Al comparar los Activos Sujetos a Riesgo de 3T20 respecto al 3T19 se puede observar:
+Incremento en Activos Sujetos a Riesgo de Crédito (Cartera) alineado con el crecimiento de la cartera total del banco,
+destacando crecimientos de la cartera hipotecaria, y los portafolios Empresarial y Corporativa.
+Incremento en Activos Sujetos a Riesgo de Crédito (Otros) guiado por el requerimiento de Ajuste de Valuación
+Crediticia para las operaciones de derivados, mismo que, con las disminuciones en las curvas de tasas de derivados
+acumuladas en el año (-213 pbs en promedio toda la curva), han incrementado la exposición en contratos con clientes
+que cubren riesgo de alza en tasas y, consecuentemente, el capital requerido.
+Incremento en Activos Sujetos a Riesgo de Mercado por efecto de tipo de cambio principalmente y evolución de la
+estructura de balance.
+Razón de Apalancamiento (Banco Mercantil del Norte)
+A continuación, se presenta el índice de apalancamiento conforme a la regulación de la CNBV:
+Apalancamiento
+Var. Vs.
+3T19
+2T20
+3T20
+(Millones de Pesos)
+2T20
+3T19
+Capital Básico
+143,514
+163,806
+179,672
+9.7%
+25.2%
+Activos Ajustados
+1,317,225
+1,482,849
+1,480,394
+(0.2%)
+12.4%
+Razón de Apalancamiento
+10.90%
+11.05%
+12.14%
+109 pb
+124 pb
+Los Activos Ajustados se definen conforme a lo establecido en la Circular Única de Bancos.
+Tercer Trimestre de 2020
+23

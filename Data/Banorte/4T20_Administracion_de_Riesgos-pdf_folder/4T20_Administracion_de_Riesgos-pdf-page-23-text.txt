@@ -1,0 +1,94 @@
+GRUPO FINANCIERO
+BANORTE
+4.3. Coeficiente de Cobertura de Liquidez
+El CCL permite cuantificar el Riesgo de Liquidez a través de la relación entre Activos Líquidos y Salidas Netas de Efectivo, en
+los próximos 30 días, bajo supuestos de un escenario de estrés regulatorio.
+El CCL es un indicador que debe interpretarse como la suficiencia de liquidez de la Institución para cubrir sus obligaciones
+de corto plazo, bajo un escenario extremo, haciendo uso únicamente de sus Activos Líquidos de mayor calidad.
+La siguiente tabla presenta la evolución promedio de los componentes del CCL en 4T20.
+Bancoy Sofomes
+Componentes del CCL
+Importe Sin
+Importe
+(Millones de pesos)
+Ponderar
+Ponderado
+(Promedio)
+(Promedio)
+ACTIVOS LÍQUIDOS COMPUTABLES
+1 Total de Activos Líquidos Computables
+No aplica
+144,142
+SALIDAS DE EFECTIVO
+2 Financiamiento minorista no garantizado
+437,703
+29,854
+3 Financiamiento estable
+278,317
+13,916
+4 Financiamiento menos estable
+159,386
+15,939
+5 Financiamiento mayorista no garantizado
+296,866
+85.060
+6 Depósitos operacionales
+251,182
+57,500
+7 Depósitos no operacionales
+39,445
+21,321
+8 Deuda no garantizada
+6,239
+6,239
+9 Financiamiento mayorista garantizado
+261,909
+19,381
+10 Requerimientos adicionales:
+300,684
+22,238
+11
+Salidas relacionadas a instrumentos financieros derivados y otros
+31,085
+6,933
+requerimientos de garantías
+12 Salidas relacionadas a pérdidas del financiamiento de instrumentos de deuda
+0
+0
+13 Líneas de crédito y liquidez
+269,599
+15,305
+14 Otras obligaciones de financiamiento contractuales
+1,606
+161
+15 Otras obligaciones de financiamiento contingentes
+0
+0
+16 TOTAL DE SALIDAS DE EFECTIVO
+No aplica
+156,694
+ENTRADAS DE EFECTIVO
+17 Entradas de efectivo por operaciones garantizadas
+185,814
+18,978
+18 Entradas de efectivo por operaciones no garantizadas
+78,966
+58,096
+19 Otras entradas de efectivo
+4,639
+4,639
+20 TOTAL DE ENTRADAS DE EFECTIVO
+269,419
+81,713
+Importe Ajustado
+21 TOTAL DE ACTIVOS LIQUIDOS COMPUTABLES
+No aplica
+144,142
+22 TOTAL NETO DE SALIDAS DE EFECTIVO
+No aplica
+74,981
+23 COEFICIENTE DE COBERTURA DE LIQUIDEZ
+No aplica
+192.52%
+Administración de Riesgos 4T20
+23

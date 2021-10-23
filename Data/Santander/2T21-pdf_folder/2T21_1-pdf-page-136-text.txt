@@ -1,0 +1,150 @@
+1,975.78
+85.00
+1.05
+0.00
+Ps. 101.05
+2,092.01
+90.00
+1.05
+0.00
+Ps. 101.05
+2,208.23
+95.00
+1.05
+0.00
+Ps. 101.05
+2,324.45
+100.00
+0.00
+101.05
+Ps. 101.05
+2,440.67
+105.00
+0.00
+101.05
+Ps. 101.05
+2,556.90
+110.00
+0.00
+101.05
+Ps. 101.05
+2,673.12
+115.00
+0.00
+101.05
+Ps. 101.05
+2,789.34
+120.00
+0.00
+101.05
+Ps. 101.05
+2,905.56
+125.00
+0.00
+101.05
+Ps. 101.05
+3,021.79
+130.00
+0.00
+101.05
+Ps. 101.05
+3,138.01
+135.00
+0.00
+101.05
+Ps. 101.05
+3,254.23
+140.00
+0.00
+101.05
+Ps. 101.05
+(v)
+CVS Health Corporation (CVS*)
+Mercado donde cotiza:
+New York Stock Exchange
+Descripción:
+CVS Health Corporation es un proveedor de atención médica de farmacia integrada. Las ofertas de la empresa incluyen servicios de
+administración de beneficios de farmacia, pedidos por correo, farmacia minorista y especializada, programas de gestión y clínicas minoristas.
+La compañía opera farmacias en EE. UU., el Distrito de Columbia y Puerto Rico.
+Evolución Histórica
+120%
+110%
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+IPC
+CVS
+Base de comparación: 30 de junio de 2016
+Periodo
+Precio mínimo
+Precio máximo
+Volumen promedio (títulos)
+2016
+73.53
+98.06
+6,393,458.77
+2017
+66.80
+83.92
+7,168,068.43
+2018
+60.60
+83.63
+8,366,162.04
+2019
+52.13
+76.58
+9,383,150.91
+2020
+52.30
+76.05
+8,678,757.11
+2° Sem. 2019
+54.09
+76.58
+6,962,725.22
+1° Sem. 2020
+52.30
+76.05
+9,486,557.24
+2° Sem. 2020
+55.93
+74.50
+7,879,737.42
+1° Sem. 2021
+68.13
+89.81
+6,852,319.44
+enero 2021
+68.30
+76.26
+6,925,155.45
+febrero 2021
+68.13
+74.21
+7,364,509.54
+marzo 2021
+68.94
+76.30
+7,428,179.45
+abril 2021
+73.79
+76.70
+5,689,431.33
+mayo 2021
+76.40
+89.81
+8,824,370.19
+junio 2021
+82.40
+87.06
+4,829,058.47
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+134

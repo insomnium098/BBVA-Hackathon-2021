@@ -1,0 +1,138 @@
+Promedio del requerimiento por riesgo de mercado y de
+crédito de los últimos 36 meses
+Principales características de los títulos que forman parte del Capital Neto
+Referencia
+Característica
+1
+Emisor
+2
+Identificador ISIN, CUSIP o Bloomberg
+3
+Marco legal
+Tratamiento regulatorio
+4
+Nivel de capital con transitoriedad
+5
+Nivel de capital sin transitoriedad
+6
+Nivel del instrumento
+7
+Tipo de instrumento
+8
+Monto reconocido en el capital regulatorio
+9
+Valor nominal del instrumento
+9A
+Moneda del instrumento
+10
+Clasificación contable
+11
+Fecha de emisión
+12
+Plazo del instrumento
+13
+Fecha de vencimiento
+14
+Cláusula de pago anticipado
+15
+Primera fecha de pago anticipado
+15A
+Eventos regulatorios o fiscales
+15B
+Precio de liquidación de la cláusula de pago anticipado
+16
+Fechas subsecuentes de pago anticipado
+Rendimientos / dividendos
+17
+Tipo de rendimiento / dividendo
+18
+Tasa de interés / dividendo
+19
+Cláusula de cancelación de dividendos
+20
+Discrecionalidad en el pago
+21
+Cláusula de aumento de intereses
+22
+Rendimiento / dividendos
+23
+Convertibilidad del instrumento
+24
+Condiciones de convertibilidad
+25
+Grado de convertibilidad
+26
+Tasa de conversión
+27
+Tipo de convertibilidad del instrumento
+28
+Tipo de instrumento financiero de la convertibilidad
+29
+Emisor del instrumento
+30
+Cláusula de disminución de valor (Write-Down)
+31
+Condiciones para disminución de valor
+32
+Grado de baja de valor
+33
+Temporalidad de la baja de valor
+34
+Mecanismo de disminución de valor temporal
+35
+Posición de subordinación en caso de liquidación
+36
+Características de incumplimiento
+37
+Descripción de características de incumplimiento
+Reporte de Resultados |
+2T.2021
+Banco Santander México
+Promedio de los ingresos netos anuales positivos
+de los últimos 36 meses
+64,326
+Tabla IV.1
+Opciones
+Banco Santander México, S. A.
+MX41BS060013
+Ley del Mercado de Valores
+N.A
+Básico I
+Institución de Crédito sin consolidar
+Subsidiarias
+Acciones Serie F
+$15,210,402,155.77
+$3.78
+Pesos Mexicanos
+Capital
+N.A
+Perpetuidad
+Sin vencimiento
+No
+N.A
+No
+N.A
+N.A
+Variable
+Variable
+No
+Obligatorio
+No
+No Acumulable
+N.A
+N.A
+N.A
+N.A
+N.A
+N.A
+N.A
+No
+N.A
+N.A
+N.A
+N.A
+Acreedores en general
+No
+N.A
+Santander
+87

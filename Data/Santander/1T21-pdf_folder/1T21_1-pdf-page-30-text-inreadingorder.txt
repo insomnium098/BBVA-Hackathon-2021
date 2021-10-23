@@ -1,0 +1,89 @@
+Capitalización y liquidez
+Capitalización
+Millones de pesos
+Capital fundamental
+Capital básico
+Capital complementario
+Total capital
+Activos en riesgo
+Riesgos de crédito
+Riesgos de crédito, mercado y operacional
+Riesgos de crédito:
+Capital Fundamental (CET1) (%)
+Capital Básico (Tier1)
+Capital Complementario (Tier2) (%)
+Índice de capitalización (%)
+Riesgos totales:
+Capital Fundamental (CET1) (%)
+Capital Básico (Tier 1)
+Capital Complementario (Tier2) (%)
+Índice de capitalización (%)
+El índice de capitalización de Banco Santander México a marzo 2021 fue de 19.73%, comparado con el 16.23% y el
+19.01% a marzo 2020 y diciembre 2020, respectivamente. El índice de capitalización del 19.73% está compuesto
+por 14.81% de capital fundamental (CET1), 1.32% de capital básico no fundamental (Additional Tier 7) y 3.60% de
+capital complementario (Tier 2). Tanto el CET1 como el índice de capitalización son los más altos que ha tenido el
+Banco desde que se convirtió en una empresa pública, reflejando el aplazamiento del pago de dividendos, según la
+recomendación hecha por la CNBV en marzo del año pasado.
+En febrero 2021, Banco Santander México se encontraba clasificado en la categoría I de conformidad con las reglas
+de carácter general a que se refiere el artículo 134 bis de la Ley de Instituciones de Crédito. De acuerdo al resultado
+previo obtenido en el mes de marzo 2021, el Banco continúa en la categoría I.
+Coeficiente de cobertura de liquidez (CCL)
+De conformidad con el requerimiento regulatorio de Banco de México y la Comisión Nacional Bancaria y de Valores
+(CNBV), el Coeficiente de Cobertura de Liquidez Promedio para el 1T21 fue de 316% que compara con el 124.99%
+en 1T20 y con el 312.98% reportado en 4T20. (Por favor consulte la nota 24 del presente reporte).
+Razón de apalancamiento
+De conformidad con el requerimiento regulatorio por parte de la CNBV emitido el 14 de junio de 2016, se presenta
+la razón de apalancamiento en 7.61% a marzo 2021, y en 2020: 7.39% a diciembre, 6.82% a septiembre, 6.53% a
+junio y 6.53% a marzo.
+Esta razón es definida por los reguladores y es resultado de dividir el Capital Básico (de conformidad con el artículo
+2 Bis 6 de la Circular Única de Bancos (CUB)), entre los activos ajustados (de conformidad a lo establecido en el
+apartado II del artículo 1 de la CUB).
+Reporte de Resultados | 1T.2021
+Banco Santander México
+Mar-21
+Dic-20
+Mar-20
+114,711
+124,926
+27,855
+152,782
+526,922
+774,368
+21.77
+23.71
+5.29
+29.00
+14.81
+16.13
+3.60
+19.73
+Santander
+114,306
+124,255
+27,203
+151,458
+540,191
+796,836
+21.16
+23.00
+5.04
+28.04
+14.35
+15.59
+3.42
+19.01
+90,288
+102,020
+30,487
+132,507
+539,806
+816,199
+16.73
+18.90
+5.65
+24.55
+11.06
+12.50
+3.73
+16.23
+28

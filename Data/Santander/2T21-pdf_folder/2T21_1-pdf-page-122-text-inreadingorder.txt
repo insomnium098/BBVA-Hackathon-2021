@@ -1,0 +1,119 @@
+Ticker
+KNEBV FH Equity
+FLTR ID Equity
+ISP IM Equity
+Para mayor información de este índice respecto sus antecedentes, características principales y criterios de selección de emisoras, consultar la
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+Nombre
+Ticker
+Kone Oyj
+IFX GY Equity
+Flutter Entertainment PLC
+DB1 GY Equity
+Intesa Sanpaolo SpA
+VNA GY Equity
+un
+Precio mínimo
+2,761.37
+3,230.68
+2,937.36
+2,954.66
+2,385.82
+3,282.78
+2,385.82
+2,958.21
+3,481.44
+3,481.44
+3,530.85
+3,669.54
+3,940.46
+3,924.80
+4,064.30
+DEA 1M
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Nombre
+Infineon Technologies AG
+Deutsche Boerse AG
+Vonovia SE
+562,754,603.16
+480,238,812.63
+495,508,357.82
+450,435,611.05
+518,941,433.31
+427,656,156.48
+629,402,342.08
+409,681,186.58
+338,311,281.07
+361,690,634.39
+407,596,249.29
+401,005,656.68
+272,934,422.50
+298,168,513.58
+291,560,175.80
+página de Internet www.stoxx.com
+Evolución Histórica:
+Periodo
+2016
+2017
+2018
+2019
+2020
+2° Sem. 2019
+1° Sem. 2020
+2° Sem. 2020
+1° Sem. 2021
+enero 2021
+febrero 2021
+marzo 2021
+abril 2021
+mayo 2021
+junio 2021
+Volatilidad Histórica:
+SXE108R DC063
+Reporte de Resultados | 2T.2021
+Banco Santander México
+150%
+140%
+130%
+120%
+110%
+100%
+90%
+80%
+70%
+60%
+Base de comparación: 30 de junio de 2016
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+DEA 3M
+91-700
+SX5E
+Precio máximo
+3,290.52
+3,697.40
+3,672.29
+3,782.27
+3,865.18
+3,782.27
+3,865.18
+3,581.37
+4,158.14
+3,645.05
+3,734.20
+3,926.20
+4,032.99
+4,070.56
+4,158.14
+DEA 6M
+IPC
+Volumen promedio (títulos)
+DEA 12M
+Santander
+120

@@ -1,0 +1,80 @@
+Volatilidad Histórica
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generar
+KOC107R DC005
+Reporte de Resultados | 3T.2020
+Banco Santander México
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Pago de derechos
+bajo distintos valores del valor observado
+$130
+$120
+$110
+$100
+$90
+$80
+Valor observado (VO)
+DEA 1M
+110.00
+Valor observado
+2.23
+4.47
+6.70
+8.94
+11.17
+13.40
+15.64
+17.87
+20.11
+22.34
+24.57
+26.81
+DEA 3M
+DEA 12M
+100.00
+130.00
+derechos a
+vencimiento
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+Ps.90.00
+DEA 6M
+5.00
+10.00
+15.00
+20.00
+25.00
+30.00
+35.00
+40.00
+45.00
+50.00
+55.00
+60.00
+Santander
+80.00
+Nivel de mercado
+90.00
+0
+120.00
+0
+Pago de
+144

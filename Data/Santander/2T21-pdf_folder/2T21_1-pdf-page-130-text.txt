@@ -1,0 +1,149 @@
+marzo 2021
+222.72
+241.69
+16,743,005.81
+abril 2021
+223.31
+244.01
+16,195,524.53
+mayo 2021
+206.08
+230.95
+17,481,075.13
+junio 2021
+209.32
+229.44
+13,401,001.30
+Volatilidad Histórica
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+DEA 1M
+DEA 3M
+DEA 6M
+DEA 12M
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+BAB202L DC045
+Page de Derechos
+bajo distintos valores del Valor Observado
+$120
+$100
+$00
+$60
+$40
+$20
+$-
+o
+50
+100
+150
+Valer Observado
+Feshas 1 a a
+Fechas Ejercicio 1 - a
+Fecha de Ejercicio a
+Nivel de mercado Valor observado Fechas de observación 1a3 Fechas de observación 1a3 Fecha de observación 4
+0.00
+0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+13.23
+5.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+26.45
+10.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+39.68
+15.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+52.90
+20.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+66.13
+25.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+79.35
+30.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+92.58
+35.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+105.80
+40.00
+Ps. 0.00
+Ps. .0.00
+Ps. 70.00
+119.03
+45.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+132.26
+50.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+145.48
+55.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+158.71
+60.00
+Ps. 0.00
+Ps. 0.00
+Ps. 70.00
+171.93
+65.00
+Ps. 0.00
+Ps. 0.00
+Ps. 75.00
+185.16
+70.00
+Ps. 0.00
+Ps. 0.00
+Ps. 80.00
+198.38
+75.00
+Ps. 0.00
+Ps. 0.00
+Ps. 85.00
+211.61
+80.00
+Ps. 0.00
+Ps. 0.00
+Ps. 90.00
+224.83
+85.00
+Ps. 0.00
+Ps. 0.00
+Ps. 95.00
+238.06
+90.00
+Ps. 3.10
+Ps.0.00
+Ps. 103.10
+Reporte de Resultados | 2T.2021
+Santander
+Banco Santander México
+128

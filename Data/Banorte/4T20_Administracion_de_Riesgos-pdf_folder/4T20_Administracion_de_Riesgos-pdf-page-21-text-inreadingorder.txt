@@ -1,0 +1,63 @@
+GRUPO FINANCIERO
+BANORTE
+21
+3.2.2.
+Backtesting
+A fin de validar la efectividad y precisión de la pérdida potencial, se presenta mensualmente al CPR el análisis de Backtesting.
+Mediante este análisis es posible comparar las pérdidas y ganancias observadas respecto a la Pérdida Potencial estimada y,
+en caso de ser necesario, se realizan ajustes pertinentes al estimador.
+3.2.3.
+Pérdida Potencial en Casa de Bolsa
+La pérdida potencial promedio para el 4T20 del portafolio es de Ps 43.0 millones (Ps 13.6 millones mayor que la pérdida
+potencial promedio del trimestre anterior).
+El resultado mostrado representa que la pérdida potencial de la Casa de Bolsa, con nivel de confianza de 97.5%, es en
+promedio Ps 43.0 millones.
+La pérdida potencial por factor de riesgo del portafolio de instrumentos descritos para la Casa de Bolsa se comportó
+durante el 4T20 de la siguiente manera:
+La pérdida potencial al cierre del 4T20 corresponde a Ps 37.9 millones.
+La pérdida potencial por factor de riesgo se determina simulando 500 escenarios históricos y realizando una agrupación de
+instrumentos por su factor de riesgo principal. Es importante destacar que se tomaron en cuenta todas las posiciones
+clasificadas como de negociación, excluyendo la posición de conservados al vencimiento y disponibles para la venta.
+concentración por factor de Riesgo de Mercado se encuentra principalmente en tasas de interés.
+3.2.4.
+Análisis de Sensibilidad y Pruebas bajo Condiciones Extremas.
+De manera complementaria a la Pérdida Potencial, y con objeto de robustecer el análisis de riesgo, Casa de Bolsa Banorte
+realiza el análisis mediante la aplicación de pruebas bajo condiciones extremas, también denominadas Stress Testing. Lo
+anterior, presentado de manera mensual al CPR y tiene como objetivo principal obtener el impacto en las posiciones de la
+institución dados movimientos importantes en los factores de riesgo.
+3.2.5. Backtesting
+A fin de validar la efectividad y precisión la Pérdida Potencial, se presenta mensualmente al CPR el análisis de Backtesting.
+Mediante este análisis es posible comparar las pérdidas y ganancias observadas respecto de la Pérdida Potencial estimada
+y, en caso de ser necesario, se realizarán los ajustes pertinentes al estimador.
+Administración de Riesgos 4T20
+Pérdida Potencial
+Promedio
+(Millones de pesos)
+Pérdida Potencial Total
+Pérdida Potencial/Capital Neto
+Factor de Riesgo
+(Millones de pesos)
+37.9
+0.0
+0.0
+(0.0)
+Pérdida Potencial Total de Casa de Bolsa
+37.9
+4T20
+43.0
+4,525
+0.95%
+4T20
+Capital Neto(1)
+Promedio
+4T20
+43.0
+0.0
+0.1
+(0.1)
+43.0
+Tasas
+FX
+Renta Variable
+Efecto Diversificación
+La

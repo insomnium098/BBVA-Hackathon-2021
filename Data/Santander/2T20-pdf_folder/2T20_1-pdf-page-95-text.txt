@@ -1,0 +1,88 @@
+Tabla IV.1.4
+Principales características de los títulos que forman parte del Capital Neto
+Referencia
+Característica
+Opciones
+Banco Santander México, S. A., Institución de Banca Múltiple,
+1
+Emisor
+Grupo Financiero Santander México.
+ISIN: US40053CAA36
+2
+Identificador ISIN, CUSIP o Bloomberg
+CUSIP: 40053C AA3
+Clave de Pizarra BMV: BSMX 17
+Los Instrumentos han sido emitidos, y se rigen, conforme a las leyes
+aplicables del estado de Nueva York, Estados Unidos de América, en
+el entendido que todas las disposiciones relacionadas con la
+determinación de la cancelación del pago de intereses, la conversión
+3
+Ley Aplicable
+de los Instrumentos, si ha ocurrido cualquier evento que permita
+una amortización o la subordinación de los Instrumentos, entre
+otros eventos relevantes, se regirán de conformidad con las leyes de
+México, conforme a lo previsto en el Acta de Emisión.
+Tratamiento Regulatorio
+Nivel de capital al que corresponde el título que
+está sujeto a la transitoriedad establecida de
+4
+conformidad con el Artículo Tercero Transitorio,
+de la Resolución 50a.
+N.A.
+Nivel de capital al que corresponde el título que
+5
+cumple con el anexo 1-Q, 1-R, o 1-S de la
+Circular Única de Bancos
+Capital Básico No Fundamental o Capital Básico 2.
+Deuda Subordinada emitida desde la Institución de Crédito del
+6
+Nivel del instrumento dentro del Grupo
+Grupo.
+Instrumentos de capital emitidos conforme a legislación extranjera,
+7
+Tipo de instrumento
+conocidos como obligaciones subordinadas, no preferentes,
+perpetuas y susceptibles de ser convertidas en acciones.
+Monto del Instrumento reconocido como capital
+8
+regulatorio
+Ps.9,018,160,682.00
+9
+Valor nominal del instrumento
+Ps. 11,544,650,000 (USD $500,000,000.00)
+9A
+Denominación del instrumento
+USD.
+El principal se contabiliza como deuda, los cupones que se paguen
+10
+Clasificación contable del instrumento
+como capital.
+11
+Fecha de emisión
+23 de diciembre de 2016.
+12
+Tipo de Vencimiento
+Perpetuidad.
+Los Instrumentos de Capital son perpetuos y, por lo tanto, no tienen
+13
+Fecha de vencimiento
+fecha de vencimiento.
+Sujeto a ciertas condiciones, incluyendo, más no limitado a, la
+autorización previa de Banco de México, el Emisor podrá pagar
+anticipadamente el Instrumento a par, más los intereses
+devengados y no pagados a la fecha en que pretenda realizar dicho
+14
+Cláusula de pago anticipado
+pago, más Pagos Adicionales, en su caso, (i) por el valor total o un
+monto parcial en una Fecha de Pago Anticipado Voluntario, o (ii) en
+su totalidad y en cualquier fecha de presentarse un Evento de
+Amortización Anticipada por Razones Fiscales o un Evento de
+Amortización por Razones Especiales.
+Primera fecha de amortización anticipada
+15
+voluntaria
+Enero 20, 2022.
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+94

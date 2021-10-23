@@ -1,0 +1,66 @@
+GRUPO FINANCIERO
+BANORTE
+Durante 1T21, se observó un CCL promedio de los 92 días del trimestre para Banco y Sofomes de 207.62%, con CCL al
+cierre de 1T21 de 192.35%, situándose por arriba del Perfil de Riesgo Deseado y el mínimo regulatorio establecido en la
+normativa vigente. Los resultados anteriores indican que Banorte se encuentra en posición de hacer frente a la totalidad
+de sus obligaciones de corto plazo ante un escenario de crisis¹
+4.4. Evolución de los Componentes del CCL
+La evolución de los componentes del Coeficiente de Cobertura de Liquidez entre el cierre del 4T20 y el cierre del 1T21 se
+presenta en la siguiente tabla.
+Componente CCL
+4T20
+1T21
+Var vs. 4T20
+(Millones de pesos)
+Activos Líquidos
+142,015
+166,523
+17.3%
+Entradas de Efectivo
+77,100
+58,175
+(24.5%)
+Salidas de Efectivo
+145,456
+144,746
+(0.5%)
+Los Activos Líquidos que computan para el CCL del Banco y Sofomes entre el cierre del 4T20 y el cierre del 1T21 presentan
+la siguiente distribución:
+Tipo de Activo
+4T20
+1T21
+Var vs. 4T20
+(Millones de pesos)
+Total
+142,015
+166,523
+17.3%
+Nivel I
+132,921
+158,497
+19.2%
+Nivel Il
+9,095
+8,026
+(11.7%)
+Nivel Il A
+5,030
+4,111
+(18.3%)
+Nivel Il B
+4,065
+3,915
+(3.7%)
+4.5. Principales Causas de los Resultados del CCL
+Las variaciones en el Coeficiente de Cobertura de Liquidez entre el 4T20 y el 1T21 se deben a la estructura de pasivos en el
+balance.
+Cabe destacar que Banorte no ha usado las Facilidades Ordinarias ni las Facilidades Extraordinarias de Banco de México
+durante el 1T21.
+4.6. Riesgo de Liquidez en moneda extranjera
+Para la cuantificación y el seguimiento del Riesgo de Liquidez se utilizan, para el portafolio de dólares, los criterios
+establecidos por Banco de México para la elaboración del Coeficiente de Liquidez, en moneda extranjera.
+El Coeficiente de Liquidez en moneda extranjera debe interpretarse como la capacidad que tiene la institución de cubrir
+sus descalces de liquidez con activos líquidos, ambos en moneda extranjera.
+La información del Coeficiente de Cobertura de Liquidez es preliminar y está sujeto a la validación de Banco de México.
+Administración de Riesgos 1T21
+24

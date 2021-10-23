@@ -1,0 +1,141 @@
+15B
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Precio de liquidación de la cláusula de pago anticipado
+Fechas subsecuentes de pago anticipado
+Rendimientos / dividendos
+Tipo de rendimiento / dividendo
+Tasa de interés/dividendo
+Cláusula de cancelación de dividendos
+Discrecionalidad en el pago
+Cláusula de aumento de intereses
+Rendimiento / dividendos
+Convertibilidad del instrumento
+Condiciones de convertibilidad
+Grado de convertibilidad
+Tasa de conversión
+Tipo de convertibilidad del instrumento
+Tipo de instrumento financiero de la convertibilidad
+Emisor del instrumento
+Cláusula de disminución de valor (Write-Down)
+Condiciones para disminución de valor
+Grado de baja de valor
+Temporalidad de la baja de valor
+Mecanismo de disminución de valor temporal
+Posición de subordinación en caso de liquidación
+Características de incumplimiento
+Descripción de características de incumplimiento
+Tabla IV.1.2
+Principales características de los títulos que forman parte del Capital Neto
+Característica
+Emisor
+Identificador ISIN, CUSIP o Bloomberg
+Marco legal
+Tratamiento regulatorio
+Nivel de capital con transitoriedad
+Nivel de capital sin transitoriedad
+Nivel del instrumento
+Tipo de instrumento
+Monto reconocido en el capital regulatorio
+Valor nominal del instrumento
+Moneda del instrumento
+Clasificación contable
+Fecha de emisión
+Plazo del instrumento
+Fecha de vencimiento
+Cláusula de pago anticipado
+Primera fecha de pago anticipado
+Eventos regulatorios o fiscales
+Precio de liquidación de la cláusula de pago anticipado
+Fechas subsecuentes de pago anticipado
+Rendimientos / dividendos
+Tipo de rendimiento / dividendo
+N.A
+N.A
+No
+No
+N.A
+N.A
+N.A
+N.A
+N.A
+N.A
+N.A
+No
+N.A
+N.A
+N.A
+N.A
+No
+N.A
+Variable
+Variable
+Obligatorio
+No Acumulable
+Institución de Crédito sin consolidar Subsidiarias
+Acreedores en general
+Opciones
+Referencia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+9A
+10
+11
+12
+13
+14
+15
+15A
+15B
+16
+17
+Banco Santander México, S. A.
+MX41BS060005
+Ley del Mercado de Valores
+N.A
+Básico I
+Acciones Serie B
+$14,588,587,852.93
+$3.78
+Pesos Mexicanos
+Capital
+N.A
+Perpetuidad
+Sin vencimiento
+No
+N.A
+No
+N.A
+N.A
+Variable
+Santander
+84

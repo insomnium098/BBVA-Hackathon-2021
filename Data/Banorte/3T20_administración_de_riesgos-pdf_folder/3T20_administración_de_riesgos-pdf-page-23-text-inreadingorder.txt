@@ -1,0 +1,94 @@
+GRUPO FINANCIERO
+BANORTE
+Bancoy Sofomes
+Importe
+Ponderado
+(Promedio)
+105,198
+28,935
+13,373
+15,562
+72,997
+53,388
+18,519
+1,090
+20,535
+24,315
+9,070
+0
+15,246
+86
+0
+146,869
+11,432
+74,630
+5,031
+91,093
+Importe Ajustado
+105,198
+55,775
+193.57%
+23
+4.3. Coeficiente de Cobertura de Liquidez
+El CCL permite cuantificar el Riesgo de Liquidez a través de la relación entre Activos Líquidos y Salidas Netas de Efectivo, en
+los próximos 30 días, bajo supuestos de un escenario de estrés regulatorio.
+El CCL es un indicador que debe interpretarse como la suficiencia de liquidez de la Institución para cubrir sus obligaciones
+de corto plazo, bajo un escenario extremo, haciendo uso únicamente de sus Activos Líquidos de mayor calidad.
+La siguiente tabla presenta la evolución promedio de los componentes del CCL en 3T20.
+Componentes del CCL
+(Millones de pesos)
+ACTIVOS LÍQUIDOS COMPUTABLES
+1 Total de Activos Líquidos Computables
+SALIDAS DE EFECTIVO
+2 Financiamiento minorista no garantizado
+3 Financiamiento estable
+4 Financiamiento menos estable
+5 Financiamiento mayorista no garantizado
+6 Depósitos operacionales
+7 Depósitos no operacionales
+8 Deuda no garantizada
+9 Financiamiento mayorista garantizado
+10 Requerimientos adicionales:
+11
+Salidas relacionadas a instrumentos financieros derivados y otros
+requerimientos de garantías
+12 Salidas relacionadas a pérdidas del financiamiento de instrumentos de deuda
+13 Líneas de crédito y liquidez
+14 Otras obligaciones de financiamiento contractuales
+15 Otras obligaciones de financiamiento contingentes
+16 TOTAL DE SALIDAS DE EFECTIVO
+ENTRADAS DE EFECTIVO
+17 Entradas de efectivo por operaciones garantizadas
+18 Entradas de efectivo por operaciones no garantizadas
+19 Otras entradas de efectivo
+20 TOTAL DE ENTRADAS DE EFECTIVO
+21 TOTAL DE ACTIVOS LIQUIDOS COMPUTABLES
+22 TOTAL NETO DE SALIDAS DE EFECTIVO
+23 COEFICIENTE DE COBERTURA DE LIQUIDEZ
+Administración de Riesgos 3T20
+Importe Sin
+Ponderar
+(Promedio)
+No aplica
+423,083
+267,461
+155,622
+269,710
+233,787
+34,833
+1,090
+255,023
+335,541
+61,910
+273,631
+No aplica
+107,992
+96,470
+5,031
+209,493
+No aplica
+No aplica
+No aplica
+0
+0
+832

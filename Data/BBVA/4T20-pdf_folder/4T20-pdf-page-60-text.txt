@@ -1,0 +1,125 @@
+BBVA
+Creando Oportunidades
+Estado de Flujos de Ffectivo
+Grupo Financiero BBVA Bancomer S.A. de C.V.
+Estado de flujos de efectivo
+Del de Enero al 31 de Diciembre de 2020
+Millones de pesos
+Resultado neto
+42,860
+Ajustes por partidas que no implican flujo de efectivo:
+Pérdidas por deterioro o efecto por reversión del deter ioro asociados a actividades de inversión
+351
+Depreciaciones de inmuebles, mobiliario y equipo
+2,381
+Amortizaciones de gastos de instalación
+1,817
+Amortizaciones de activos intar gibles
+1.792
+Reservas técnicas
+(2,767)
+Provisiones
+(1,860)
+Impuestos ala utilidad causados y diferidos
+17,576
+Participación en el resultado de subsidiarias no consolidadas y asociadas
+(69)
+Partic cipación no controladora
+(1)
+19,220
+62,080
+Actividades de operación
+Cambio en cuentas de margen
+(13,441)
+Cambio en inversiones en valores
+(128,895)
+Cambio en deudores por reporto
+(12,051)
+Cambio en derivados (activo)
+(88,229)
+Cambio en cartera de crédito (neto)
+17,216
+Cambio en deudores por primas (neto)
+(431)
+Cambio en reaseguradores y reafianzadores (neto) (activo)
+(823)
+Cambio en beneficios por recibir en operaciones de bursatilización
+25
+Cambio en bienes adjudicados (neto)
+122
+Cambio en otros activos operativos (neto)
+(12,400)
+Cambio en captación tradicional
+139,465
+Cambio en préstamos interbancarios y de otros organismos
+(4,236)
+Cambio en reservas técnicas
+30,169
+Cambio en acreedores por reporto
+31,526
+Cambio en préstamo de valores (pasivo)
+4
+Cambio en colaterales vendidos o dados en garantía
+16,264
+Cambio en derivados (pasivo)
+83,058
+Cambio en reaseguradores y reafianzadores (neto) (pasivo)
+858
+Cambio en obligaciones subordinadas con características de pasivo
+(14,349)
+Cambio en otros pasivos operativos
+7,929
+Cambio en instrumentos de cobertura (de partidas cubiertas relacionadas con actividades de operación)
+2,606
+Pagos de impuestos alautilidad
+(32,176)
+Flujos netos de efectivo de actividades de operación
+22,211
+Actividades de inversión
+Cobros por disposición de inmuebles mobiliario equipo
+27
+Pagos por adquisición de inmuebles, mobiliario) equipo
+(2,385)
+Cobros por disposición de subsidiarias
+3
+Pagos por adquisición de subsidiarias
+(262)
+Cobros de dividendos en efectivo
+1
+Cobros por disposición de activos de larga duración disponibles para la venta
+(107)
+Pagos por adquisición de activos intangibles
+(1,731)
+Flujos netos de efectivo de actividades de inversión
+(4,454)
+Actividades definanciamiento
+Pagos de dividendos en efectivo
+(10,919)
+Flujos netos de efectivo de actividades de financiamiento
+(10.919)
+Incremento o disminución neta de efectivo: equivalentes de efectivo
+68,918
+Efectos por cambios enel valor del efectivoy equivalentes de efectivo
+4.058
+Efectivo y equivalentes de efectivo al inicio del periodo
+150,711
+Efectivo y equivalentes de efectivo al final del periodo
+223,687
+"El presente Estado de Flujos de efectivo consolidado con los de las entidades financieras y demás sociedades que forman parte del Grupo
+Financiero que son susceptibles de consolidarse, se formuló de conformidad con los Criterios de Contabilidad para Sociedades Controladoras
+de Grupos Financieros, emitidos por la CNBV, con fundamento en lo dispuesto por el artículo 30 (SIC) de la Ley para Regular las Agrupaciones
+Financieras, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los ingresos y egresos
+derivados de las operaciones efectuadas por la sociedad controladora y las entidades financieras y demás sociedades que forman parte del
+Grupo Financiero que son susceptibles de consolidarse, durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a
+sanas prácticas y a las disposiciones legales y administrativas aplicables..
+El presente Estado de Flujos de Efectivo consolidado fue aprobado por el Consejo de Administración bajo la responsabilidad de los directivos
+que lo suscriben."
+Ana Luisa Miriam Ordorica
+Eduardo Osuna Osuna
+Luis Ignacio De La Luz Dávalos
+Adolfo Arcos González
+Amezcua
+Director General
+Director General Finanzas
+Director General Auditoría Interna Director Contabilidad Corporativa
+6C

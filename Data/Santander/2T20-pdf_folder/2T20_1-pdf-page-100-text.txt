@@ -1,0 +1,103 @@
+(Deducciones a las cuentas por cobrar por margen de variación en efectivo aportados en
+7
+operaciones con instrumentos financieros derivados)
+0
+(Exposición por operaciones en instrumentos financieros derivados por cuenta de clientes,
+8
+en las que el socio liquidador no otorga su garantía en caso del incumplimiento de las
+obligaciones de la Contraparte Central)
+Importe nocional efectivo ajustado de los instrumentos financieros derivados de crédito
+9
+suscritos
+(Compensaciones realizadas al nocional efectivo ajustado de los instrumentos financieros
+10
+derivados de crédito suscritos y deducciones de los factores adicionales por los
+instrumentos financieros derivados de crédito suscritos)
+11
+Exposiciones totales a instrumentos financieros derivados (suma de las líneas 4 a 10)
+89,748
+Exposiciones por operaciones de financiamiento con valores
+Activos SFT brutos (sin reconocimiento de compensación), después de ajustes por
+12
+68,310
+transacciones contables por ventas
+13
+(Cuentas por pagar y por cobrar de SFT compensadas)
+(32,652)
+14
+Exposición Riesgo de Contraparte por SFT
+1,543
+15
+Exposiciones por SFT actuando por cuenta de terceros
+Exposiciones totales por operaciones de financiamiento con valores (suma de las líneas
+16
+12 a 15)
+37,200
+Otras exposiciones fuera de balance
+17
+Exposición fuera de balance (importe nocional bruto)
+151,030
+18
+(Ajustes por conversión a equivalentes crediticios)
+(55,323)
+19
+Partidas fuera de balance (suma de las líneas 17 y 18)
+95,707
+Capital y exposiciones totales
+20
+Capital de Nivel 1
+108,451
+21
+Exposiciones totales (suma de las líneas 3, 11, 16 y 19)
+1,661,985
+Coeficiente de apalancamiento
+22
+Coeficiente de apalancamiento de Basilea III
+6.53%
+Tabla II.1
+Comparativo de los activos totales y los activos ajustados
+Referencia
+Descripción
+jun-20
+1
+Activos totales
+1,909,720
+Ajuste por inversiones en el capital de entidades bancarias, financieras, aseguradoras o comerciales
+2
+que se consolidan a efectos contables, pero quedan fuera del ámbito de consolidación regulatoria
+0
+Ajuste relativo a activos fiduciarios reconocidos en el balance conforme al marco contable, pero
+3
+excluidos de la medida de la exposición del coeficiente de apalancamiento
+(49,230)
+4
+Ajuste por instrumentos financieros derivados
+(295,755)
+5
+Ajuste por operaciones de reporto y préstamo de valores[¹]
+1,543
+6
+Ajuste por partidas reconocidas en cuentas de orden
+95,707
+7
+Otros ajustes
+Exposición del coeficiente de apalancamiento
+1,661,985
+Tabla III.1
+Conciliación entre activo total y la exposición dentro del balance
+Referencia
+Concepto
+jun-20
+1
+Activos totales
+1,909,720
+2
+Operaciones en instrumentos financieros derivados
+(385,504)
+3
+Operaciones en reporto y prestamos de valores
+(35,657)
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+99

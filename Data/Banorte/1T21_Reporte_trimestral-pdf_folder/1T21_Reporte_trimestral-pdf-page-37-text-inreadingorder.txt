@@ -1,0 +1,393 @@
+GRUPO FINANCIERO
+BANORTE
+24,491
+8,357
+352
+314
+16,171
+3,231
+12,940
+473
+509
+2,916
+277
+1,164
+106
+6
+-
+0
+670
+6,122
+1,625
+-
+1,118
+2,743
+3,379
+574
+111
+(264)
+420
+764
+5
+3
+772
+1,193
+-
+85
+86
+-
+(168)
+-
+2
+-
+342
+348
+4,919
+17,860
+3,823
+138
+699
+1,859
+2,152
+453
+912
+10,036
+7,824
+28
+7,852
+1,285
+593
+1,879
+5,974
+-
+0
+5,974
+37
+IV. Estados Financieros
+Banco
+Estado de Resultados - Banco
+(Millones de Pesos)
+Ingresos por Intereses
+Gastos por Intereses
+Comisiones cobradas
+Comisiones Pagadas
+Ingresos de Intereses Netos antes de Estim.
+Ptva. para Riesgos Cred.
+Provisiones Prev. para Riesgos crediticios
+Ingresos de Intereses Netos Ajustado por
+Riesgos Crediticios
+Transferencia de Fondos
+Manejo de Cuenta
+Servicios de Banca Electrónica
+Por Créditos Comerciales y Vivienda
+Por créditos de Consumo
+Fiduciario
+Ingresos por Portafolios Inmobiliarios
+Fondos de Inversión
+Asesoría e Intermediación financiera
+Otras Comisiones Cobradas
+Comisiones por Servicios Cobrados
+Cuotas de Intercambio
+Comisiones de Seguros
+Otras Comisiones Pagadas
+Comisiones por Servicios Pagados
+Comisiones Netas
+Valuación y compra-venta de divisas y metales
+Derivados
+Títulos
+Valuación
+Divisas y Metales
+Derivados
+Títulos
+Compra-venta
+Resultado por intermediación
+Recuperación de cartera de crédito
+Portafolios de crédito
+Resultado por bienes adjudicados
+Liberación de Provisiones
+Quebrantos y Estimaciones
+Deterioro de Activos
+Ingresos por Arrendamiento
+Provenientes de Seguros
+Otros Ingresos (Egresos) de la Operación:
+Total Otros Ingresos (Egresos) de la
+Operación
+Total de Ingresos No Financieros
+Ingreso Total de Operación
+Gasto de Personal
+Participación de los Trabajadores en las Utilidades
+(PTU) causado
+Honorarios Pagados
+Gastos de Administración y Promoción
+Rentas, Depreciaciones y Amortizaciones
+Otros impuestos y Gastos No deducibles
+Aportación al Fobaproa ó al IPAB
+Total Gasto No Financiero
+Resultado de la Operación
+Participación en subsidiarias y asociadas no
+consolidadas
+Resultados Antes de Impuestos a la Utilidad
+Impuestos a la utilidad causados
+Impuesto al Activo
+Impuestos a la utilidad diferidos
+Impuestos
+Resultados antes de operaciones
+discontinuadas
+Operaciones discontinuadas
+Participación no controladora
+Utilidad Neta
+Información Financiera 1T21
+1T20
+1T21
+29,491
+12,042
+17,517
+4,262
+13,254
+1,241
+2,135
+(1,238)
+17,980
+2,091
+6,180
+2T20
+28,517
+11,172
+17,421
+14,163
+3T20
+26,257
+8,829
+17,501
+14,379
+18,983
+9,129
+9,156
+6,634
+4T20
+24,971
+8,094
+16,942
+5,953
+10,989
+3,033
+6,511
+1,194
+2,879
+3,633
+(1,476)
+(1,111)
+15,865
+4,477
+2,053
+10,832
+5,062
+3,900
+3,901
+358
+291
+400
+598
+2,336
+495
+118
+2
+-
+0
+592
+5,782
+1,226
+-
+909
+3,647
+1,219
+(119)
+(137)
+(862)
+1,742
+305
+1,185
+1,048
+-
+67
+92
+-
+(319)
+-
+18
+-
+173
+31
+4,726
+3,755
+131
+624
+1,862
+428
+828
+9,718
+8,263
+29
+8,292
+2,576
+(465)
+2,112
+-
+(0)
+6,180
+346
+270
+8,527
+8,895
+476
+526
+2,027
+394
+1,048
+102
+3
+-
+0
+540
+5,116
+1,018
+-
+918
+1,936
+3,180
+(500)
+1,139
+(75)
+565
+774
+(323)
+385
+836
+1,402
+-
+52
+121
+-
+(162)
+-
+19
+-
+658
+687
+5,268
+3,704
+131
+650
+1,789
+1,967
+419
+919
+9,579
+4,584
+19
+4,603
+317
+617
+934
+3,669
+-
+(0)
+3,669
+354
+281
+3,122
+489
+564
+2,379
+129
+1,148
+112
+2
+-
+0
+651
+5,475
+1,228
+-
+998
+2,226
+3,248
+(306)
+531
+65
+291
+464
+2
+277
+743
+1,034
+-
+76
+178
+-
+(167)
+-
+(26)
+-
+260
+321
+4,603
+3,846
+131
+731
+1,773
+1,993
+428
+951
+9,853
+27
+2,004
+518
+2,522
+-
+(0)
+6,634
+380
+314
+513
+543
+366
+1,292
+153
+12
+-
+0
+598
+1,684
+-
+309
+56
+1,930
+(169)
+84
+1,845
+734
+-
+54
+189
+-
+(136)
+-
+4
+-
+399
+510
+4,876
+131
+888
+1,796
+556
+931
+5,034
+28
+1,912
+(750)
+1,161
+-
+0
+)

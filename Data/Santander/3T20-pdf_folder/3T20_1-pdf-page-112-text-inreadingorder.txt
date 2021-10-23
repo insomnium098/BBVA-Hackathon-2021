@@ -1,0 +1,53 @@
+sigue una distribución lognormal. Para productos exóticos, o bien cuando el pago dependa de la trayectoria que siga alguna
+variable de mercado, se utiliza para la valuación simulaciones de MonteCarlo. En este caso se supone que los logaritmos de las
+variables involucradas sigue una distribución normal multivariada.
+Instrumentos financieros derivados sin opcionalidad.
+La técnica de valuación empleada es obtener el valor presente de los flujos futuros estimados.
+En todos los casos Banco Santander realiza las valuaciones de sus posiciones y registrando el valor obtenido. Sin embargo, en
+algunos
+casos
+se
+tiene establecido un agente de cálculo distinto, que puede ser la misma contraparte o un cuartoo.
+En su actividad de banca comercial, Banco Santander ha buscado cubrir la evolución del margen financiero de sus carteras estructurales
+a movimientos adversos de tasas de interés. El ALCO, órgano responsable de la gestión de los activos y pasivos de largo plazo, ha
+venido construyendo el portafolio a través del cual Banco Santander consigue dicha cobertura.
+Se califica como cobertura contable, una operación cuando se cumplen las dos condiciones siguientes:
+a. Se designe la relación de cobertura y se documente en su momento inicial con un expediente individual, fijando su objetivo y
+estrategia.
+b.
+La cobertura sea eficaz, para compensar variaciones en el valor razonable o en los flujos de efectivo que se atribuyan al riesgo
+cubierto, de manera consistente con la gestión del riesgo documentada inicialmente.
+La Administración de Banco Santander realiza operaciones de derivados con fines de cobertura con swaps.
+derivados con fines de cobertura se valúan a mercado el efecto se reconoce dependiendo del tipo de cobertura contable, de acuerdo con lo
+a. Si son coberturas de valor razonable, se valúa a mercado por el riesgo cubierto la posición primaria y el instrumento derivado
+de cobertura, registrándose el efecto neto en los resultados del período.
+b. Si son coberturas de flujos de efectivo, se valúa a mercado el instrumento derivado de cobertura. La parte efectiva de la
+cobertura se registra dentro de la cuenta de utilidad integral en el capital contable y la parte inefectiva se registra en
+resultados.
+Banco Santander suspende la contabilidad de coberturas cuando el derivado ha vencido, ha sido vendido, es cancelado o ejercido, cuando el
+derivado no alcanza una alta efectividad para compensar los cambios en el valor razonable o flujos de efectivo de la partida cubierta, o cuando
+se decide cancelar la designación de cobertura.
+Se exige demostrar que la cobertura cumpla eficazmente con el objetivo para el que se contrataron los derivados. Esta exigencia de efectividad
+supone que la cobertura deba cumplir un rango máximo de desviación sobre el objetivo inicial de entre un 80% al 125%.
+Para demostrar la efectividad de las coberturas es necesario cumplir con dos pruebas:
+a. Test Prospectivo: En que se demuestra que en el futuro la cobertura se mantendrá dentro del rango máximo mencionado.
+b. Test Retrospectivo: En el que se revisará que en el pasado, desde su fecha de constitución hasta el momento actual, la
+cobertura se ha mantenido dentro del rango permitido.
+Al cierre del tercer trimestre de 2020, las coberturas de valor razonable y de flujo de efectivo son prospectiva y retrospectivamente eficientes,
+y
+se encuentran dentro del rango máximo de desviación permitido.
+Las variables de referencia más relevantes son:
+Canastas e índices accionarios.
+Reporte de Resultados | 3T.2020
+Santander
+ii)
+2) Con fines de Cobertura
+B. Variables de referencia
+Tipos de Cambio
+Tasas de Interés
+Banco Santander México
+expuestas
+Los
+siguiente:
+Acciones
+110

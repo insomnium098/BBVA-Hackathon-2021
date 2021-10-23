@@ -1,0 +1,315 @@
+GRUPO FINANCIERO
+II. Discusión y Análisis de la Administración
+BANORTE
+Banco
+Estado de Resultados y Balance General
+Var. Vs.
+Var. Vs
+4T19
+3T20
+4T20
+2019
+2020
+(Millones de Pesos)
+3T20
+4T19
+2019
+Ingresos de Intereses Netos
+17,654
+17,501
+16,942
+(3%)
+(4%)
+68,587
+69,382
+1%
+Ingresos No Financieros
+4,906
+4,603
+4,876
+6%
+(1%)
+21,574
+19,474
+(10%)
+Ingreso Total
+22,559
+22,105
+21,819
+(1%)
+(3%)
+90,161
+88,856
+(1%)
+Gasto No Financiero
+9,875
+9,853
+10,832
+10%
+10%
+38,095
+39,982
+5%
+Provisiones
+3,713
+3,122
+5,953
+91%
+60%
+15,104
+21,864
+45%
+Resultado Neto de Operación
+8,971
+9,129
+5,034
+(45%)
+(44%)
+36,962
+27,010
+(27%)
+Impuestos
+2,167
+2,522
+1,161
+(54%)
+(46%)
+9,597
+6,729
+(30%)
+Partidas Discontinuas
+-
+-
+-
+-
+-
+-
+-
+N.A.
+Subsidiarias y participación no controladora
+44
+27
+28
+5%
+(37%)
+128
+103
+(19%)
+Utilidad Neta
+6,848
+6,634
+3,901
+(41%)
+(43%)
+27,493
+20,384
+(26%)
+Balance General
+Cartera Vigente (a)
+743,507
+786,350
+782,532
+(0%)
+5%
+743,507
+782,532
+5%
+Cartera Vencida (b)
+12,392
+6,307
+8,580
+36%
+(31%)
+12,392
+8,580
+(31%)
+Cartera de Crédito (a+b)
+755,899
+792,658
+791,112
+(0%)
+5%
+755,899
+791,112
+5%
+Total de Cartera de Crédito Neto (d)
+738,816
+775,489
+771,648
+(0%)
+4%
+738,816
+771,648
+4%
+Derechos de Cobro Adquiridos ( e)
+1,359
+1,341
+1,617
+21%
+19%
+1,359
+1,617
+19%
+Cartera Total (d+e)
+740,175
+776,830
+773,264
+(0%)
+4%
+740,175
+773,264
+4%
+Activo Total
+1,149,536
+1,277,593
+1,262,185
+(1%)
+10%
+1,149,536
+1,262,185
+10%
+Depósitos Total
+744,271
+834,137
+843,253
+1%
+13%
+744,271
+843,253
+13%
+Depósitos a la Vista
+435,453
+506,588
+530,747
+5%
+22%
+435,453
+530,747
+22%
+Depósitos a Plazo
+308,819
+327,548
+312,506
+(5%)
+1%
+308,819
+312,506
+1%
+Pasivo Total
+1,035,276
+1,148,153
+1,127,138
+(2%)
+9%
+1,035,276
+1,127,138
+9%
+Capital Contable
+114,261
+129,440
+135,047
+4%
+18%
+114,261
+135,047
+18%
+Indicadores Financieros Banco
+4T19
+3T20
+4T20
+2019
+2020
+Rentabilidad:
+MIN (1)
+6.6%
+5.8%
+5.8%
+6.4%
+5.9%
+MIN ajustado por Riesgos Crediticios (2)
+5.2%
+4.7%
+3.7%
+5.0%
+4.1%
+ROE (3)
+23.9%
+21.1%
+11.8%
+24.2%
+16.6%
+ROA (4)
+2.4%
+2.0%
+1.2%
+2.4%
+1.6%
+Operación:
+Índice de Eficiencia (5)
+43.8%
+44.6%
+49.6%
+42.3%
+45.0%
+Índice de Eficiencia Operativa (6)
+3.4%
+3.0%
+3.4%
+3.3%
+3.2%
+Coeficiente de Cobertura de Liquidez Promedio de
+133.5%
+193.6%
+0.0%
+133.5%
+0.0%
+Banorte y SOFOM (CCL)- Basilea III (7)
+Calidad de Activos:
+Índice de Cartera Vencida
+1.6%
+0.8%
+1.1%
+1.6%
+1.1%
+Índice de Cobertura
+137.9%
+272.2%
+226.9%
+137.9%
+226.9%
+Capitalización
+Capital Neto/ Activos Sujetos a Riesgo de Crédito
+23.7%
+27.6%
+26.7%
+23.7%
+26.7%
+Capital Neto/ Activos Sujetos a Riesgo de Crédito,
+18.5%
+21.1%
+20.2%
+18.5%
+20.2%
+Mercado y Operacional
+Apalancamiento
+Capital Básico/ Activos Ajustados
+10.8%
+12.1%
+12.1%
+10.8%
+12.1%
+1)
+MIN= Ingresos de Intereses Netos del trimestre anualizado / Activos productivos promedio.
+2)
+MIN= Ingresos de Intereses Netos del trimestre ajustado por Riesgos Crediticios anualizado / Activos productivos promedio
+3) Utilidad Neta del periodo anualizada como porcentaje del promedio trimestral del Capital Contable (sin interés minoritario) del mismo periodo.
+4)
+Utilidad Neta del periodo anualizada como porcentaje del promedio trimestral del Activo Total (sin interés minoritario) del mismo periodo.
+5)
+Gasto No Financiero / Ingreso Total
+6)
+Gasto No Financiero del trimestre anualizado / Activo Total Promedio
+7)
+El cálculo del CCL es preliminar y será actualizado una vez que Banco de México realice su cálculo
+Cuarto Trimestre de 2020
+19

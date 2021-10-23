@@ -1,0 +1,31 @@
+medirse a valor razonable con cambios en resultados, con la excepción que una entidad puede realizar una elección
+irrevocable para presentar en ORI los cambios posteriores en el valor razonable de una inversión en un instrumento
+de capital que no sea mantenido para negociar en el corto plazo.
+NIF C-8, Activos intangibles
+Incorpora la definición de monto amortizable para alinear las definiciones de los conceptos de depreciación y
+amortización, en el caso de un activo intangible el monto amortizable debe determinarse deduciendo del costo de
+adquisición su valor residual; un valor residual distinto a cero implica que una entidad espera disponer del activo
+intangible al término de su vida útil.
+NIF D-5, Arrendamientos
+Establece las revelaciones obligatorias del gasto relacionado con arrendamientos a corto plazo y de bajo valor por
+los cuales no se ha reconocido el activo por derecho de uso. Asimismo, establece que si la transferencia de un activo
+por el vendedor-arrendatario satisface los requerimientos de la NIF D-1, Ingresos por contratos con clientes, para
+ser reconocida como una venta parcial del activo, el vendedor-arrendatario debe dar de baja el activo transferido y
+reconocer el activo por derecho de uso que surge del arrendamiento en vía de regreso en la proporción del importe
+en libros anterior del activo que corresponde a los derechos de uso conservados por el vendedor-arrendatario.
+Revelaciones sobre propiedades de inversión.
+Elimina el párrafo donde especificaba que los activos por derecho de uso cumplen la definición de propiedad de
+inversión, un arrendatario debe aplicar los requerimientos de información a revelar según la norma para propiedad
+de inversión toda vez que en la NIF C-17, Propiedades de inversión, establece no permite la revaluación de los activos
+por derecho de uso.
+Pagos variables por arrendamiento.
+Se aclara que el pago variable por arrendamiento es la parte del pago establecida en el contrato de arrendamiento
+por el derecho a usar un activo subyacente durante el plazo del arrendamiento que varía debido a cambios en hechos
+y
+circunstancias ocurridos después de la fecha de comienzo del arrendamiento, y no es consecuencia del paso del
+tiempo. Por lo que los pagos por arrendamientos deben incluirse en el reconocimiento inicial de la inversión neta en
+el arrendamiento.
+Reporte de Resultados | 1T.2021
+Banco Santander México
+Santander
+57

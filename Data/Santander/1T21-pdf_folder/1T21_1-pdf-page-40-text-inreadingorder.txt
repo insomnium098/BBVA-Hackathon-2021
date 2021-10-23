@@ -1,0 +1,269 @@
+Balance general consolidado
+Millones de pesos
+Activo
+Disponibilidades
+Cuentas de margen
+Inversiones en valores
+Títulos para negociar
+Títulos disponibles para la venta
+Títulos conservados a vencimiento
+Deudores por reporto
+Derivados
+Con fines de negociación
+Con fines de cobertura
+Ajustes de valuación por cobertura de activos financieros
+Cartera de crédito vigente
+Créditos comerciales
+Actividad empresarial o comercial
+Entidades financieras
+Entidades gubernamentales
+Créditos de consumo
+Créditos a la vivienda
+Media y residencial
+De interés social
+Créditos adquiridos al Infonavit o el Fovissste
+Total cartera de crédito vigente
+Cartera de crédito vencida
+Créditos comerciales
+Actividad empresarial o comercial
+Entidades financieras
+Créditos de consumo
+Créditos a la vivienda
+Media y residencial
+De interés social
+Créditos adquiridos al Infonavit o el Fovissste
+Total cartera de crédito vencida
+Total cartera de crédito
+Estimación preventiva para riesgos crediticios
+Cartera de crédito (neto)
+Beneficios por recibir en operaciones de bursatilización
+Otras cuentas por cobrar (neto)
+Bienes adjudicados (neto)
+Propiedades, mobiliario y equipo (neto)
+Inversiones permanentes
+Impuestos y participación de los trabajadores en las utilidades diferidos
+(neto)
+Cargos diferidos, pagos anticipados e intangibles
+Otros activos a corto y largo plazo
+Total activo
+Reporte de Resultados | 1T.2021
+Banco Santander México
+2021
+Mar
+Jun
+85,658
+4,638
+558,857
+540,938
+204,194
+175,739
+343,332
+353,978
+11,221
+36,848
+228,247
+385,504
+218,097
+376,412
+9,092
+416,942
+472,748
+318,773
+384,891
+13,083
+74,774
+107,758
+108,292
+168,529
+151,335
+157,642
+138,919
+12,392
+693,229
+732,375
+6,700
+6,698
+4,700
+7,444
+5,864
+1,575
+18,844
+713,989
+751,219
+(24,937)
+(26,157)
+689,052
+725,062
+107,968
+10,185
+21,560
+9,324
+1,748,298
+1,929,350
+Santander
+2020
+8
+2
+18
+40
+Dic
+575,415
+304,687
+296,381
+407,941
+108,173
+165,015
+681,129
+702,769
+677,478
+1,856,213
+Sep
+552,369
+173,679
+367,422
+324,984
+315,071
+451,752
+360,463
+110,421
+157,765
+145,627
+719,938
+735,330
+(25,850)
+709,480
+119,989
+1,858,684
+Mar
+113,427
+368,394
+116,232
+241,000
+346,921
+334,082
+498,956
+405,260
+111,592
+148,494
+135,594
+759,042
+775,809
+(22,664)
+753,145
+106,093
+1,802,210
+97,483
+4,017
+11,331
+47,713
+10,150
+167
+421
+10,549
+87,620
+6
+24
+10,881
+6,503
+6,503
+0
+2
+5,536
+8,721
+6,805
+9
+1,907
+20,760
+151
+155
+78,686
+92
+136
+12,045
+1,168
+913
+19,675
+10,903
+42
+40
+94,802
+4,122
+208,089
+356,039
+11,287
+62,294
+8,306
+281
+324,825
+10,082
+73,034
+153,753
+6
+11,256
+6,245
+6,245
+0
+7,539
+7,856
+6,079
+10
+1,767
+21,640
+(25,291)
+160
+93,628
+135
+12,376
+1,091
+19,225
+10,477
+42
+83,502
+3,876
+11,268
+21,813
+9,913
+371
+11,020
+80,269
+12,130
+5,783
+5,781
+2,637
+6,972
+5,516
+1,438
+15,392
+158
+119
+10,746
+1,012
+20,766
+9,459
+4,929
+11,162
+66,147
+12,839
+264
+17,103
+76,593
+29
+12,871
+5,728
+5,728
+0
+4,319
+6,720
+5,095
+3
+1,622
+16,767
+154
+155
+10,343
+359
+21,849
+9,991
+39
+5
+38

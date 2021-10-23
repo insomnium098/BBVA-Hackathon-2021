@@ -1,0 +1,127 @@
+C. Frecuencia de Valuación
+La frecuencia con la cual se valoran los productos financieros derivados con fines de negociación y de cobertura es diaria.
+Administración sobre las fuentes internas y externas de liquidez que pudieran ser utilizadas para atender requerimientos
+relacionados
+con instrumentos financieros derivados.
+Los recursos se obtienen a través de las áreas de Tesorería Nacional e Internacional.
+Cambios en la exposición a los riesgos identificados, contingencias y eventos conocidos o esperados en instrumentos financieros
+derivados.
+Al
+cierre
+del tercer trimestre de 2020 Banco Santander no tiene ninguna situación o eventualidad, tales como cambios en el valor del activo
+subyacente o las variables de referencia, que implique que el uso de los instrumentos financieros derivados difieran de aquellos con que
+originalmente fueron concebidos, que modifiquen significativamente el esquema de los mismos o que impliquen la pérdida parcial o total de la
+cobertura, y que requieran que la Emisora asuma nuevas obligaciones, compromisos o variaciones en su flujo de efectivo de forma que vea
+afectada su liquidez; ni contingencias y eventos conocidos o esperados por la administración, que puedan afectarla en futuros reportes.
+Durante el tercer trimestre de 2020, el número de instrumentos financieros derivados vencidos y posiciones cerradas fue el siguiente (no
+auditado):
+Resumen de Instrumentos Financieros Derivados
+Cifras en millones de pesos al 30 de septiembre de 2020
+Valor Razonable
+Fines de
+Negociación o
+Trimestre
+Trimestre
+Tipo de Derivado
+Subyacente
+de Cobertura
+Monto Nocional
+Actual
+Anterior
+Contratos Adelantados
+Divisas
+Negociación
+415,601
+466
+(767)
+Contratos Adelantados
+Acciones
+Negociación
+1,714
+(33)
+(5)
+Futuros
+Divisas
+Negociación
+3,941
+0
+0
+Futuros
+Índices
+Negociación
+1,708
+0
+0
+Opciones
+Acciones
+Negociación
+1,853
+(516)
+(478)
+Opciones
+Divisas
+Negociación
+144,418
+1,246
+1,308
+Opciones
+Índices
+Negociación
+1,828
+119
+156
+Opciones
+Tasas
+Negociación
+172,163
+113
+213
+Swaps
+Divisas
+Negociación
+984,939
+(1,463)
+(3,337)
+Swaps
+Tasas
+Negociación
+7,271,793
+6,486
+7,453
+Swaps
+Acciones
+Negociación
+640
+82
+167
+Contratos Adelantados
+Divisas
+Cobertura
+60,507
+3,313
+1,057
+Swaps
+Divisas
+Cobertura
+58,554
+(13,814)
+(14,672)
+Swaps
+Tasas
+Cobertura
+65,905
+(3,897)
+(4,616)
+Banco Santander México, en la celebración de operaciones con instrumentos financieros derivados OTC, tiene formalizados contratos Colaterales
+con muchas de sus contrapartes, que sirven de garantía del valor de mercado de las operaciones de derivados y se determina en función a la
+exposición de la posición neta en riesgo con cada contraparte. El Colateral gestionado consiste mayoritariamente en depósitos en efectivo, con
+lo cual no se da situación de deterioro del mismo.
+No se tiene instrumentos financieros derivados cuyo subyacente sean acciones propias o títulos de crédito que las representen, durante
+el
+trimestre.
+Durante el tercer trimestre de 2020, el número de instrumentos financieros derivados vencidos y posiciones cerradas fue el siguiente (no
+auditado):
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+111

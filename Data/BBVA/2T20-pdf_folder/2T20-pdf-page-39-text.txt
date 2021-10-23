@@ -1,0 +1,42 @@
+BBVA
+Creando Oportunidades
+través de un importe máximo de Financiación a Corto Plazo (FCP); y c) capacidad de
+absorción de shocks de liquidez a través de la Capacidad Básica a 30 días (CB 30d -
+cociente de buffer de liquidez disponibley las salidas netas de liquidez previstas dentro
+del plazo por vencer correspondiente). También se tienen alertas para prevenir que los
+límites no sean vulnerados, incluyendo el seguimiento en otros plazos por vencer.
+Asimismo, se tienen métricas para identificar con carácter anticipatorio posibles
+amenazas para permitir la adopción, en su caso, de las acciones de gestión preventivas
+necesarias, incluidos indicadores de concentración del financiamiento, liquidez en
+divisas, diversificación de la financiación a largo plazo, liquidez intradía, entre otros.
+Trimestral
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Exposición de Riesgo de Liquidez: promedio de cierres mensuales
+Margen absoluto en relación a su límite (positivo sin exceso, negativo con exceso)
+2T20
+LtSCD
+18%
+FCP 12m
+212,811 mill MXP
+CB 30d
+63%
+(b) La exposición al riesgo liquidez y las necesidades de financiamiento a nivel de BBVA
+México, teniendo en cuenta las limitaciones legales, regulatorias y operacionales a la
+transferibilidad de liquidez.
+La exposición al riesgo de liquidez de BBVA México y sus necesidades de
+financiamiento parten del principio de una gestión descentralizada e independiente de
+la
+liquidez (incluido Banco Bilbao Vizcaya Argentaria, S.A. en España O cualquier otra
+entidad de ésta), a fin de evitar dependencias O subsidios y eventuales contagios por
+crisis. En todo momento, se toman en cuenta las limitaciones legales, regulatorias y
+operacionales a la transferibilidad de liquidez de las regulaciones aplicables en la
+fijación de las políticas de riesgo de liquidez de BBVA México, incluidos los regímenes
+de admisión de pasivos y de inversión para las operaciones pasivas en Moneda
+Extranjera del Banco de México, reglas de operación de los sistemas de pagos, la
+diversificación de riesgos en la realización de operaciones pasivas especificadas por la
+CUB, entre otros.
+En el caso del régimen de inversión para las operaciones pasivas en Moneda
+Extranjera, adicional al límite regulatorio de Faltante, de manera preventiva se cuenta
+con un alertamiento más estricto que el límite regulatorio para el régimen de inversión
+para las operaciones pasivas en Moneda Extranjera del Banco de México.
+39

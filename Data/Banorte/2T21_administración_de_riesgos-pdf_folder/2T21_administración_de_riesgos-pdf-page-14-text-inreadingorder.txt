@@ -1,0 +1,101 @@
+GRUPO FINANCIERO
+BANORTE
+Promedio 2T21
+(3)
+(3)
+Promedio 2T21
+26
+26
+14
+En la siguiente tabla se presenta los niveles de exposición actual y de exposición potencial futura al cierre del trimestre y
+en promedio durante el trimestre respectivamente, para Casa de Bolsa.
+Casa de Bolsa
+(Millones de pesos)
+Riesgo Potencial
+Riesgo Actual
+Contrapartes
+2T21
+Promedio 2T21
+2T21
+Financieras
+SWAP TASA
+229
+76
+(8)
+Total
+229
+76
+(8)
+Contrapartes
+2T21
+Promedio 2T21
+2T21
+No Financieras
+SWAP TASA
+89
+30
+77
+Total
+89
+30
+77
+Con base en las condiciones que se establecen dentro los contratos de operación de instrumentos financieros derivados
+se consideran niveles de tolerancia de exposición, en función a la calificación que mantengan las entidades involucradas
+en la transacción. La siguiente tabla presenta el monto de garantías a entregar en caso de deterioro por baja de calificación
+de la institución. Cabe mencionar que con la mayor parte de las contrapartes se ha migrado a umbral (threshold) cero, por
+lo que las garantías a entregar no dependen de la calificación crediticia sino que obedecen a movimientos de mercado:
+Casa de Bolsa
+Salidas Netas de Efectivo
+2T21
+Promedio 2T21
+(Millones de pesos)
+Salida de Efectivo con Downgrade de 1 Escalón
+0
+0
+Salida de Efectivo con Downgrade de 2 Escalones
+0
+0
+Salida de Efectivo con Downgrade de 3 Escalones
+0
+0
+En la siguiente tabla se detalla el valor de mercado de acuerdo a los rangos de calificación para las contrapartes del
+portafolio de los productos derivados operados.
+Casa de Bolsa
+Intervalo de Calificación
+MtM 2T21
+Promedio 2T21
+(Millones de pesos)
+AAA/AA-
+0
+0
+A+/A-
+(8)
+(3)
+BBB+/BBB-
+0
+0
+BB+/BB-
+0
+0
+B+/B-
+0
+0
+CCC/C
+0
+0
+SC
+77
+26
+Total
+69
+23
+2.3. Garantía de los Créditos
+Las garantías representan la segunda fuente de recuperación del crédito, cuando la cobertura del mismo vía la actividad
+preponderante del solicitante se ve comprometida. Las garantías pueden ser reales o personales.
+Los principales tipos de garantías reales son los siguientes:
+Hipotecaria Civil
+Hipotecaria Industrial
+Prendaria Ordinaria
+Prenda sin Transmisión de Posesión
+Prenda/Bono de Prenda
+Administración de Riesgos 2T21

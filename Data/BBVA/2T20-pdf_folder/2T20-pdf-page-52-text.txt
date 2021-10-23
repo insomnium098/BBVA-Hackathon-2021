@@ -1,0 +1,40 @@
+BBVA
+Creando Oportunidades
+6) A partir de los cambios a la CUB publicados el 31 de diciembre de 2014 por la CNBV, en
+los cuales se definen los criterios metodológicos para determinar el requerimiento de
+capital por riesgo operacional mediante los enfoques Básico, Estándar y Estándar
+Alternativo, BBVA México solicitó y obtuvo autorización por parte de la CNBV, para
+utilizar el método Estándar Alternativo en el cálculo del requerimiento de capital por
+riesgo operacional.
+7) El Método Estándar Alternativo, consiste en la suma simple de los ingresos netos para
+cada una de las ocho líneas de negocio multiplicados por los factores correspondientes a
+cada línea, salvo cuando se trate del cálculo de los requerimientos de capital por Riesgo
+Operacional de las líneas de negocio de banca minorista y banca comercial, para las
+cuales el requerimiento de capital se calculará sustituyendo el ingreso neto mensual de
+cada una de estas líneas de negocio, por la cantidad ejercida de préstamos y anticipos
+mensuales correspondiente a cada línea de negocio, multiplicado por un factor fijo "m" el
+cual será de 0.035.
+Los factores a utilizar por línea de negocio son los siguientes:
+Líneas de Negocio
+% Aplicable a cada línea de negocio
+Finanzas corporativas
+18
+Negociación y ventas
+18
+Banca minorista
+12
+Banca comercial
+15
+Pagos y liquidación
+18
+Servicios de agencia
+15
+Administración de activos
+12
+Intermediación minorista
+12
+Para el cálculo de los ingresos netos y la cantidad ejercida de préstamos y anticipos se
+deberán considerar los importes correspondientes a los 36 meses anteriores al mes
+para el cual se está calculando el requerimiento de capital, y se deberán agrupar en tres
+periodos de doce meses para determinar los ingresos netos anuales.
+52

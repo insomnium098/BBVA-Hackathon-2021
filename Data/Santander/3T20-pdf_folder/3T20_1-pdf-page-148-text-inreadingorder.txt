@@ -1,0 +1,165 @@
+Estado de la cobertura de Títulos Opcionales al 30 de septiembre de 2020
+Emisoras: SXE108R DC063, XLE110R DC013, CTI102L DC008, SPX012R DV008, FXI106R DC030, FXI107R DC031, KOC107R DC005, CTI109L DC009.
+Periodo en
+Precio de
+Coefic. delta (en caso de opciones y
+Coef. beta
+meses para el
+mercado
+títulos opcionales)
+cálculo de beta
+0.00
+1.0000
+12
+0.00
+1.0000
+12
+0.00
+1.0000
+12
+0.00
+1.0000
+12
+0.00
+1.0000
+12
+0.00
+1.0000
+12
+0.00
+1.0000
+12
+0.00
+1.0000
+12
+90.45
+1.0000
+12
+89.28
+1.0000
+12
+97.44
+1.0000
+12
+97.36
+1.0000
+12
+99.10
+1.0000
+12
+98.98
+1.0000
+12
+100.64
+1.0000
+12
+89.52
+1.0000
+12
+Valores en cobertura
+Tipo de valor
+Emisora/Serie
+Cobertura
+SXE108R DC063
+Cobertura
+XLE110R DC013
+Cobertura
+CTI102L DC008
+Cobertura
+SPX012RDV008
+Cobertura
+FXI106RDC030
+Cobertura
+FXI107RDC031
+Cobertura
+KOC107R DC005
+Cobertura
+CTI109LDC009
+Obligación
+SXE108R DC063
+Obligación
+XLE110R DC013
+Obligación
+CTI102LDC008
+Obligación
+SPX012R DV008
+Obligación
+FXI106R DC030
+Obligación
+FXI107R DC031
+Obligación
+KOC107R DC005
+Obligación
+CTI109L DC009
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Número de
+títulos
+808,500
+1,360,000
+217,500
+930,000
+500,700
+497,000
+236,200
+802,000
+808,500
+1,360,000
+217,500
+930,000
+500,700
+497,000
+236,200
+802,000
+Delta en términos de
+emisoras
+(44.9056)
+(36,524.2311)
+(12,206.1705)
+430.3709
+(21,298.6653)
+(20,674.5262)
+(7,187.0030)
+(38,832.4552)
+44.9056
+36,524.2311
+12,206.1705
+(430.3709)
+21,298.6653
+20,674.5262
+7,187.0030
+38,832.4552
+Santander
+Delta títulos
+808,500.00
+1,360,000.00
+217,500.00
+930,000.00
+500,700.00
+497,000.00
+1.000000 236,200.0000
+802,000.0000
+44.91
+36,524.23
+12,206.17
+430.37
+21,298.67
+20,674.53
+7,187.0030
+38,832.4552
+1.000000
+1.000000
+1.000000
+1.000000
+1.000000
+1.000000
+1.000000
+0.000056
+0.026856
+0.056120
+0.000463
+0.042538
+0.041599
+0.030428
+0.048420
+146

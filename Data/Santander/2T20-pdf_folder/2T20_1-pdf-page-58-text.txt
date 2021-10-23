@@ -1,0 +1,38 @@
+La NIF C-2 establece que una entidad puede, en el reconocimiento inicial de un instrumento financiero, designarlo
+irrevocablemente como valuado a su valor razonable con efecto en la utilidad o pérdida neta. No obstante, la
+redacción de la NIF no era clara, por lo que se modificó para hacer la precisión.
+NIF C-3, Cuentas por cobrar
+La NIF C-3 establece que una entidad debe reconocer un bien adjudicado recibido a cambio de una cuenta por cobrar,
+al menor del valor bruto en libros de la cuenta por cobrar y el valor neto de realización del activo adjudicado. No
+obstante, en el Apéndice A de esta NIF se menciona que debe ser el valor neto en libros de la cuenta por cobrar, por
+lo que se ajustó dicho apéndice.
+NIF C-16, Deterioro de instrumentos financieros por cobrar
+Se considera necesario hacer una modificación para precisar que tasa de interés se usará en caso de renegociación
+de un Instrumento Financiero para Cobrar Principal e Interés (IFCPI). La tasa a usar será la tasa de interés efectiva
+original la cual sólo deberá modificarse por el efecto de los costos de la renegociación por amortizar.
+NIF C-19, Instrumentos financieros por pagar
+La NIF C-19 menciona que cuando un instrumento financiero tiene una tasa de interés variable, la tasa de interés
+efectiva debe recalcularse periódicamente durante la vida del instrumento; en la aplicación de dicho criterio, se ha
+detectado que los efectos del recálculo de la tasa efectiva normalmente no tienen efectos de importancia relativa
+en la amortización de los costos de transacción y finalmente en el valor contable de los Instrumentos Financieros
+por Pagar (IFP), por lo que se modifica la NIF C-19 para no requerir recalcular la tasa de interés efectiva ante una
+tasa de interés variable que no produzca efectos de importancia relativa.
+NIF C-20, Instrumentos financieros por cobrar principal e interés
+Al igual que la NIF C-19, la NIF C-20 menciona que cuando un instrumento financiero tiene una tasa de interés
+variable, la tasa de interés efectiva debe recalcularse periódicamente por el resto de la vida del instrumento,
+en
+consistencia con el cambio efectuado por el CINIF a la NIF C-19, también se modifica la NIF C-20.
+NIF D-2, Costos por contratos con clientes
+En la sección de convergencia con las Normas Internacionales de Información Financiera (NIIF o IFRS por sus siglas
+en inglés), dentro de la sección de Introducción de la NIF D-2, se mencionaba que esta NIF era totalmente
+convergente con dichas normas internacionales; sin embargo, se detectó una diferencia, por lo que el CINIF modificó
+la NIF D-2 para mencionarla.
+NIF D-3, Beneficios a los empleados
+Establece las bases para reconocer los tratamientos fiscales inciertos en la Participación de los Trabajadores en las
+Utilidades (PTU) tanto causada como diferida, así como los requerimientos de revelaciones al respecto. La PTU al
+determinarse sobre la misma sobre la misma ley y básicamente sobre la misma base con la que se determina el
+impuesto a la utilidad, también podría estar basada en determinaciones fiscales inciertas, establecidas en la NIF D-
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+57

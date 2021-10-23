@@ -1,0 +1,336 @@
+GRUPO FINANCIERO
+BANORTE
+Var. Vs.
+1S19
+1S20
+1S19
+75,686
+69,692
+(8%)
+36,723
+27,947
+(24%)
+1,313
+905
+(31%)
+40,276
+42,651
+6%
+6,598
+6,524
+(1%)
+2,114
+2,869
+36%
+2,796
+1,467
+(48%)
+11,508
+10,860
+(6%)
+51,784
+53,511
+3%
+19,528
+20,774
+6%
+7,464
+12,800
+71%
+24,792
+19,938
+(20%)
+6,750
+5,114
+(24%)
+877
+1,001
+14%
+(258)
+(189)
+(27%)
+618
+813
+31%
+18,660
+15,636
+(16%)
+1S19
+1S20
+5.6%
+5.6%
+21.1%
+15.8%
+2.3%
+1.8%
+37.7%
+38.8%
+2.4%
+2.4%
+122.2%
+150.8%
+1.9%
+1.2%
+127.6%
+200.5%
+1.91%
+3.24%
+8.25%
+5.00%
+8.53%
+6.72%
+19.29
+23.29
+4
+I.
+Resumen Ejecutivo
+El cuidado del capital, la generación interna del mismo, así como el buen manejo de la liquidez han sido
+prioritarios para el Grupo Financiero en este periodo difícil para todos, así lo podemos observar con el índice de
+capitalización del Banco que se ubica en 19.68%, con un nivel de capital fundamental de 13.19%; y un
+coeficiente de cobertura de liquidez de 150.8%. La razón de apalancamiento se ubicó en 11.05%.
+Estado de Resultados - GFNorte
+(Millones de Pesos)
+Ingresos por Intereses
+Gastos por Intereses
+Resultado Técnico (Seguros y Pensiones)
+Ingresos de Intereses Netos
+Comisiones por Servicios Netas
+Intermediación
+Otros Ingresos (Egresos) de la Operación
+Ingresos No Financieros
+Ingreso Total
+Gasto No Financiero
+Resultado Neto de Operación
+Participación en el Resultado de Subsidiarias
+Participación no controladora
+Subsidiarias y participación no controladora
+Utilidad Neta
+Balance General - GFNorte
+(Millones de Pesos)
+Activos en Administración
+Cartera Vigente (a)
+Cartera Vencida (b)
+Cartera de Crédito (a+b)
+Total de Cartera de Crédito Neto (d)
+Derechos de Cobro Adquiridos ( e)
+Total de Cartera de Crédito (d+e)
+Depósitos Total
+Capital Contable
+Indicadores Financieros GFNorte
+Rentabilidad:
+Operación:
+Índice de Eficiencia (4)
+Índice de Eficiencia Operativa (5)
+CCL Promedio Banorte y SOFOM - Basilea III (6)
+Calidad de Activos:
+Índice de Cartera Vencida
+Índice de Cobertura
+Costo de Riesgo (7)
+Referencias de Mercado
+Tasa de Referencia Banxico
+TIIE 28 días (Promedio)
+Tipo de Cambio Peso/Dólar
+1)
+MIN= Ingresos de Intereses Netos del trimestre anualizado / Activos productivos promedio
+2)
+Utilidad Neta del periodo anualizada como porcentaje del promedio trimestral del Capital Contable (sin interés minoritario) del mismo periodo
+3) Utilidad Neta del periodo anualizada como porcentaje del promedio trimestral del Activo Total (sin interés minoritario) del mismo periodo
+Segundo Trimestre de 2020
+Var. Vs.
+(12%)
+(9%)
+N.A.
+(6%)
+(11%)
+46%
+248%
+19%
+(1%)
+(2%)
+95%
+(35%)
+(42%)
+83%
+(33%)
+138%
+(29%)
+Var. Vs.
+6%
+2%
+(30%)
+1%
+1%
+(4%)
+1%
+3%
+4%
+3%
+5%
+2T19
+1T20
+37,612
+18,317
+19,492
+3,630
+5,246
+24,738
+9,525
+3,728
+11,485
+3,100
+8,728
+2T19
+1T20
+2,763,574
+768,183
+14,567
+782,750
+764,158
+2,065
+766,222
+1,589,998
+734,568
+1,411,630
+178,368
+5.3%
+13.0%
+1.49%
+38.8%
+2.3%
+150.8%
+1.2%
+200.5%
+4.24%
+5.00%
+6.07%
+1T20
+37,008
+14,657
+21,968
+3,455
+1,166
+4,949
+26,916
+10,466
+4,344
+12,106
+3,228
+9,118
+1T20
+2,708,692
+779,818
+13,212
+793,030
+774,525
+1,500
+776,025
+1,729,280
+772,993
+1,531,790
+197,490
+2T20
+32,684
+13,289
+1,288
+20,683
+3,069
+1,703
+1,140
+5,911
+26,595
+10,307
+8,456
+7,832
+1,886
+6,518
+2T20
+2,878,778
+791,637
+9,254
+800,891
+782,337
+1,438
+783,774
+1,783,581
+801,148
+1,575,237
+208,344
+2T19
+(13%)
+(27%)
+555%
+6%
+(15%)
+77%
+75%
+13%
+8%
+8%
+127%
+(32%)
+(39%)
+39%
+(39%)
+67%
+(25%)
+2T19
+4%
+3%
+(36%)
+2%
+2%
+(30%)
+2%
+12%
+9%
+12%
+17%
+197
+963
+653
+466
+(123)
+343
+(383)
+327
+353
+(113)
+240
+Provisiones
+Impuestos
+Activo Total
+Pasivo Total
+MIN (1)
+ROE (2)
+ROA (3)
+648
+(75)
+573
+2T19
+19.5%
+38.5%
+122.2%
+127.6%
+1.91%
+8.25%
+8.50%
+19.21
+1T20
+18.8%
+2.21%
+38.9%
+120.1%
+140.1%
+2.22%
+6.50%
+7.36%
+23.48
+2T20
+23.09
+5.5%
+2.2%
+2.4%
+1.9%
+5.9%
+2.5%
+1.7%

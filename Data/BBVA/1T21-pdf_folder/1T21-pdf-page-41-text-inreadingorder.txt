@@ -1,0 +1,105 @@
+BBVA
+Creando Oportunidades
+presentarse escenarios adversos y los procesos para implantar medidas de
+recuperación. Este plan de igual forma está aprobado por el Consejo de Administración
+a propuesta del Comité de Riesgos y elaborado por el Director General.
+Coeficiente de Cobertura de Liquirez (CCL)
+El CCL cuantifica la capacidad potencial del Banco para hacer frente a sus necesidades de
+liquidez a 30 días ante un escenario de estrés, a partir de sus activos líquidos que tenga
+disponibles.
+De acuerdo con los requerimientos de revelación de información, especificados en el Anexo 5
+de las Disposiciones de Carácter General sobre los Requerimientos de Liquidez para las
+Instituciones de Banca Múltiple, a continuación, se presenta el Formato de Revelación del
+Coeficiente de Cobertura de Liquidez de BBVA México correspondiente al primer trimestre de
+2021.
+Coeficiente de Cobertura de Liquidez
+Millones de pesos
+ACTIVOS LÍQUIDOS COMPUTABLES
+1 Total de Activos Líquidos Computables
+SALIDAS DE EFECTIVO
+2 Financiamiento Minorista No Garantizado
+3
+Financiamiento Estable
+4
+Financiamiento menos Estable
+5 Financiamiento Mayorista No Garantizado
+6
+Depósitos Operacionales
+7
+Depósitos No Operacionales
+8 Deuda No Garantizada
+9 Financiamiento Mayorista Garantizado
+10 Requerimientos Adicionales
+Salidas relacionadas a instrumentos financieros derivados y otros requerimientos de
+11
+garantías
+12 Salidas relacionadas a pérdidas del financiamiento de Instrumentos de deuda
+13 Líneas de Crédito y Liquidez
+14 Otras Obligaciones de Financiamiento Contractuales
+15 Otras Obligaciones de Financiamiento Contingentes
+16 TOTAL DE SALIDAS DE EFECTIVO
+ENTRADAS DE EFECTIVO
+17 Entradas de Efectivo por Operaciones Garantizadas
+18 Entradas de Efectivo por Operaciones No Garantizadas
+19 Otras entradas de Efectivo
+20 TOTAL DE ENTRADAS DE EFECTIVO
+21 TOTAL DE ACTIVOS LÍQUIDOS COMPUTABLES
+22 TOTAL NETO DE SALIDAS DE EFECTIVO
+23 COEFICIENTE DE COBERTURA DE LIQUIDEZ
+1T21 Promedio de 90 dias
+* Información previa
+Las cifras se encuentran en revisión por la autoridad.
+1T 2021*
+497,518
+10,392
+30,087
+0
+87,848
+0
+47,925
+99,666
+5,308
+152,899
+Importe sin
+Ponderar
+(promedio)
+No Aplica
+777,982
+604,062
+173,920
+272,823
+214,302
+295,323
+609,024
+578,937
+No Aplica
+No Aplica
+No Aplica
+No Aplica
+Importe
+Ponderado
+(promedio)
+444,312
+47,595
+30,203
+17,392
+167,619
+65,792
+91,434
+10,392
+57,330
+21,438
+35,892
+9,919
+283,265
+58,881
+5,308
+64,189
+444,312
+219,076
+203.12%
+803
+0
+O
+0
+41

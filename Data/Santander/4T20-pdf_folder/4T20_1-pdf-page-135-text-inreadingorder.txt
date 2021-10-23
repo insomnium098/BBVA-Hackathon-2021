@@ -1,0 +1,123 @@
+Volatilidad Histórica
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+AMZ110L DC127
+Reporte de Resultados | 4T.2020
+Banco Santander México
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Pago de derechos
+bajo distintos valores del valor observado
+$120
+$100
+$80
+$60
+$40
+$20
+Valor observado
+Fechas de Observación 1 a
+Valor
+Fechas de observación
+observado
+0.00
+Ps. 0.00
+5.00
+Ps. 0.00
+10.00
+Ps. 0.00
+15.00
+Ps. 0.00
+20.00
+Ps. 0.00
+25.00
+Ps. 0.00
+30.00
+Ps. 0.00
+35.00
+Ps. 0.00
+40.00
+Ps. 0.00
+45.00
+Ps. 0.00
+50.00
+Ps. 0.00
+55.00
+Ps. 0.00
+60.00
+Ps. 0.00
+65.00
+Ps. 0.00
+70.00
+Ps. 0.00
+1
+Fecha de
+observación 4
+DEA 1M
+DEA 6M
+0
+Fechas de Ejercicio 1 a 3
+Fechas de observación
+DEA 3M
+DEA 12M
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Santander
+$-
+50
+1a3
+100
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 75.00
+Ps. 80.00
+150
+3
+Fecha de Ejercicio 4
+1a3
+Nivel de
+mercado
+157.44
+314.87
+472.31
+629.75
+787.18
+944.62
+1102.06
+1259.49
+1416.93
+1574.37
+1731.80
+1889.24
+2046.67
+2204.11
+0.00
+133

@@ -1,0 +1,131 @@
+Nivel de
+Valor
+Fechas de observación
+Fechas de observación
+Fecha de
+mercado
+observado
+1a3
+1a3
+observación 4
+2361.55
+75.00
+Ps. 0.00
+Ps. 0.00
+Ps. 85.00
+2518.98
+80.00
+Ps. 0.00
+Ps. 0.00
+Ps. 90.00
+2676.42
+85.00
+Ps. 0.00
+Ps. 0.00
+Ps. 95.00
+2833.86
+90.00
+Ps. 3.70
+Ps. 0.00
+Ps. 103.70
+2991.29
+95.00
+Ps. 3.70
+Ps. 0.00
+Ps. 103.70
+3148.73
+100.00
+Ps. 0.00
+Ps. 103.70
+Ps. 103.70
+3306.17
+105.00
+Ps. 0.00
+Ps. 103.70
+Ps. 103.70
+3463.60
+110.00
+Ps. 0.00
+Ps. 103.70
+Ps. 103.70
+3621.04
+115.00
+Ps. 0.00
+Ps. 103.70
+Ps. 103.70
+3778.48
+120.00
+Ps. 0.00
+Ps. 103.70
+Ps. 103.70
+3935.91
+125.00
+Ps. 0.00
+Ps. 103.70
+Ps. 103.70
+4093.35
+130.00
+Ps. 0.00
+Ps. 103.70
+Ps. 103.70
+4250.79
+135.00
+Ps. 0.00
+Ps. 103.70
+Ps. 103.70
+4408.22
+140.00
+Ps. 0.00
+Ps. 103.70
+Ps. 103.70
+(vi) Intel Corporaton (INTC*)
+Mercado donde cotiza:
+Nasdaq
+Descripción:
+Intel Corporation diseña, fabrica y vende componentes de computadoras y productos relacionados. Los principales productos de la empresa
+incluyen microprocesadores, conjuntos de chips, procesadores integrados, microcontroladores, memoria flash, gráficos, redes y
+comunicaciones, gestión de sistemas, productos de software, conferencias e imágenes digitales.
+Evolución Histórica
+210%
+190%
+170%
+150%
+130%
+110%
+90%
+70%
+IPC
+INTC
+Base de comparación: 31 de diciembre de 2015
+Periodo
+Precio mínimo
+Precio máximo
+Volumen promedio (títulos)
+2016
+28.22
+38.10
+23,423,552.05
+2017
+33.46
+47.56
+24,190,031.49
+2018
+42.42
+57.08
+30,219,890.01
+2019
+43.46
+60.08
+23,182,203.39
+2020
+44.11
+68.47
+32,956,109.44
+1°Sem. 2019
+43.46
+58.82
+25,726,232.57
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Santander
+134

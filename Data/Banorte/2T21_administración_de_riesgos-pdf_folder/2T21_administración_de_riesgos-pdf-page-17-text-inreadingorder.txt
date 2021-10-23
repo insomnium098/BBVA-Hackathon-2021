@@ -1,0 +1,127 @@
+GRUPO FINANCIERO
+BANORTE
+por
+grados
+Millones de
+pesos
+El Vigente
+23,278
+2,467
+384
+0
+0
+649
+907
+18
+9
+27,713
+% Cobertura
+PNC
+117%
+117%
+17
+En la siguiente tabla se observa la Cartera de Auto Persona Física sujeta al Modelo Interno Avanzado clasificado
+de riesgo regulatorios:
+Cartera de Auto Persona Física bajo Modelo Interno Avanzado
+Grado de
+Saldo
+Exposición al
+Severidad de
+Contable
+Incumplimiento
+PI ponderada
+Riesgo*
+la Pérdida
+(EI)
+por El
+A1
+23,278
+23,278
+56.62%
+0.79%
+A2
+2,467
+2,467
+61.07%
+3.58%
+B1
+384
+384
+68.98%
+5.36%
+B2
+0
+0
+0.00%
+0.00%
+B3
+0
+0
+0.00%
+0.00%
+C1
+649
+649
+52.04%
+13.91%
+C2
+908
+908
+68.98%
+13.91%
+D
+229
+229
+52.04%
+53.43%
+E
+492
+492
+69.35%
+80.02%
+Cartera
+28,408
+28,408
+57.65%
+3.61%
+Total
+* La escala de grados de riesgo del Modelo Interno Avanzado ha sido mapeada a los niveles de riesgo regulatorios.
+En la siguiente tabla se presenta la diferencia entre la pérdida esperada y la observada resultante del Modelo Interno
+Avanzado para Autos Persona Física a partir de 2T20:
+Backtesting
+Diferencia Ps
+Pérdida Esperada
+Cartera
+Pérdida Observada
+(Pérdida Observada
+Modelos Internos*
+- Pérdida Esperada)
+Auto Persona Física
+689
+587
+(102)
+Cartera Total
+689
+587
+(102)
+*
+Información a diciembre 2019
+2.5.3.
+Modelo Interno Básico para Empresas
+GF Banorte obtuvo el 30 de noviembre de 2018 por parte de la Comisión Nacional Bancaria y de Valores la aprobación para
+el uso del Modelo Interno de Empresas para la constitución de reservas y requerimiento de capital regulatorios por riesgo
+de crédito con un enfoque básico (Oficio 111-3/1472/2018) en Banco Mercantil del Norte, y el 1 de Marzo de 2019 para
+Arrendadora y Factor Banorte (Oficios 111-1/160/2019 y 111-1/161/2019). Cada año, los Modelos Internos son recalibrados,
+y se obtiene nuevamente la certificación de la CNBV para poder utilizarlos en el cálculo de los requerimientos regulatorios
+por otro periodo de 12 meses.
+Las posiciones sujetas a dicha calificación son aquellas de clientes personas morales (distintas a entidades federativas,
+municipios y entidades financieras) y personas físicas con actividad empresarial, ambos con ventas anuales mayores o
+iguales a 14 millones de UDls.
+El Modelo Interno mejora la gestión integral del riesgo de crédito, estimando los parámetros de riesgo a través de la
+experiencia de la Institución, y han sido aplicados a partir de febrero 2019 (con cifras a enero) en Banco Mercantil del Norte;
+y a partir de marzo 2019 (con cifras a febrero) en Arrendadora y Factor Banorte. El parámetro autorizado bajo el Modelo
+Interno Básico de Empresas es:
+Probabilidad de Incumplimiento (PI). Indica la probabilidad de que un acreditado incumpla sus obligaciones
+contractuales en los siguientes doce meses respecto al mes de calificación. Para cada acreditado se obtiene una
+puntuación, que es mapeada a una escala maestra de calificación.
+Administración de Riesgos 2T21

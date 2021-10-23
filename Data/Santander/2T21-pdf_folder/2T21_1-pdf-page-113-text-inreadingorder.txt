@@ -1,0 +1,49 @@
+Se
+califica como cobertura contable, una operación cuando se cumplen las dos condiciones siguientes:
+La Administración de Banco Santander realiza operaciones de derivados con fines de cobertura con swaps.
+Los derivados con fines de cobertura se valúan a mercado y el efecto se reconoce dependiendo del tipo de cobertura contable, de
+siguiente:
+Banco Santander suspende la contabilidad de coberturas cuando el derivado ha vencido, ha sido vendido, es cancelado o ejercido, cuando el
+derivado no alcanza una alta efectividad para compensar los cambios en el valor razonable o flujos de efectivo de la partida cubierta, o cuando
+se decide cancelar la designación de cobertura.
+Se exige demostrar que la cobertura cumpla eficazmente con el objetivo para el que se contrataron los derivados. Esta exigencia de efectividad
+supone que la cobertura deba cumplir un rango máximo de desviación sobre el objetivo inicial de entre un 80% al 125%.
+Para demostrar la efectividad de las coberturas es necesario cumplir con dos pruebas:
+Al cierre del segundo trimestre de 2021, las coberturas de valor razonable y de flujo de efectivo son prospectiva y retrospectivamente eficientes,
+y se encuentran dentro del rango máximo de desviación permitido.
+B. Variables de referencia
+Las variables de referencia más relevantes son:
+Tipos de Cambio
+Tasas de Interés
+Acciones
+Canastas e índices accionarios.
+C. Frecuencia de Valuación
+La frecuencia con la cual se valoran los productos financieros derivados con fines de negociación y de cobertura es diaria.
+Administración sobre las fuentes internas y externas de liquidez que pudieran ser utilizadas para atender requerimientos relacionados
+con instrumentos financieros derivados.
+Los recursos se obtienen a través de las áreas de Tesorería Nacional e Internacional.
+Cambios en la exposición a los riesgos identificados, contingencias y eventos conocidos o esperados en instrumentos financieros
+derivados.
+Al cierre del segundo trimestre de 2021 Banco Santander no tiene ninguna situación o eventualidad, tales como cambios en el valor del activo
+subyacente o las variables de referencia, que implique que el uso de los instrumentos financieros derivados difieran de aquellos con que
+originalmente fueron concebidos, que modifiquen significativamente el esquema de los mismos o que impliquen la pérdida parcial o total de la
+Reporte de Resultados | 2T.2021
+Banco Santander México
+a. Se designe la relación de cobertura y se documente en su momento inicial con un expediente individual, fijando su objetivo y
+estrategia.
+b.
+La cobertura sea eficaz, para compensar variaciones en el valor razonable o en los flujos de efectivo que se atribuyan al riesgo
+cubierto, de manera consistente con la gestión del riesgo documentada inicialmente.
+acuerdo
+con
+lo
+a. Si son coberturas de valor razonable, se valúa a mercado por el riesgo cubierto la posición primaria el instrumento derivado
+de cobertura, registrándose el efecto neto en los resultados del período.
+b. Si son coberturas de flujos de efectivo, se valúa a mercado el instrumento derivado de cobertura. La parte efectiva de la
+cobertura se registra dentro de la cuenta de utilidad integral en el capital contable y la parte inefectiva se registra en
+resultados.
+a. Test Prospectivo: En que se demuestra que en el futuro la cobertura se mantendrá dentro del rango máximo mencionado.
+b. Test Retrospectivo: En el que se revisará que en el pasado, desde su fecha de constitución hasta el momento actual, la
+cobertura se ha mantenido dentro del rango permitido.
+Santander
+111

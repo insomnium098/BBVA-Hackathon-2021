@@ -1,0 +1,491 @@
+GRUPO FINANCIERO
+IV. Estados Financieros
+BANORTE
+IV. Estados Financieros
+Grupo Financiero Banorte
+Estado de Resultados-GFNorte
+1T20
+2T20
+3T20
+4T20
+1T21
+2T21
+(Millones de Pesos)
+Ingresos por Intereses
+36,519
+32,350
+32,987
+30,296
+32,142
+31,016
+Gastos por Intereses
+14,237
+13,032
+10,149
+9,324
+9,405
+9,260
+Comisiones cobradas
+360
+346
+354
+380
+352
+362
+Comisiones Pagadas
+291
+270
+281
+314
+314
+313
+Ingresos de Intereses Netos de intereses y
+22,351
+19,395
+22,911
+21,038
+22,775
+21,806
+comisiones
+Ingresos por Primas (Neto)
+12,155
+8,118
+7,385
+9,192
+15,340
+8,602
+Incremento neto de reservas técnicas
+7,946
+1,216
+4,262
+4,368
+11,016
+4,983
+Siniestros, Reclamaciones y Otras Obligaciones
+4,592
+5,613
+5,433
+6,281
+7,097
+5,777
+Ingresos de Intereses Netos antes de Estim.
+21,968
+20,683
+20,601
+19,580
+20,002
+19,649
+Ptva. para Riesgos Cred.
+Provisiones Prev. para Riesgos crediticios
+4,344
+8,456
+3,138
+5,993
+3,215
+2,765
+Ingresos de Intereses Netos Ajustado por
+17,623
+12,227
+17,463
+13,587
+16,788
+16,883
+Riesgos Crediticios
+Transferencia de fondos
+400
+476
+489
+513
+473
+530
+Manejo de cuenta
+578
+508
+548
+529
+494
+491
+Servicios de Banca Electrónica
+2,336
+2,027
+2,379
+3,033
+2,916
+3,212
+Por créditos comerciales y vivienda
+495
+394
+129
+366
+296
+278
+Por créditos de consumo y tarjeta de crédito
+1,242
+1,049
+1,148
+1,292
+1,164
+1,263
+Fiduciario
+119
+102
+113
+153
+106
+177
+Ingresos por Portafolios Inmobiliarios
+5
+11
+6
+19
+10
+23
+Fondos de Inversión
+461
+486
+501
+504
+484
+503
+Asesoría e Intermediación financiera
+147
+126
+128
+142
+188
+166
+Otras comisiones Cobradas
+331
+226
+268
+223
+250
+42
+Comisiones por Servicios Cobrados
+6,115
+5,406
+5,708
+6,775
+6,380
+6,685
+Cuotas de Intercambio
+1,226
+1,018
+1,228
+1,684
+1,625
+1,911
+Comisiones de Seguros
+473
+353
+317
+227
+339
+236
+Otras Comisiones Pagadas
+961
+966
+1,066
+1,264
+1,202
+1,248
+Comisiones por Servicios Pagados
+2,660
+2,337
+2,611
+3,176
+3,166
+3,396
+Comisiones por Servicios Netas
+3,455
+3,069
+3,096
+3,599
+3,214
+3,289
+Divisas y Metales
+1,235
+(501)
+(309)
+(1,483)
+575
+(453)
+Derivados
+(1,238)
+1,139
+531
+309
+111
+164
+Títulos
+(166)
+(111)
+80
+92
+(579)
+122
+Valuación
+(169)
+527
+302
+(1,083)
+107
+(167)
+Divisas y Metales
+(862)
+774
+464
+1,930
+764
+838
+Derivados
+1,742
+(323)
+2
+(169)
+5
+(10)
+Títulos
+455
+724
+359
+180
+87
+180
+Compra-venta
+1,335
+1,175
+826
+1,941
+857
+1,008
+Ingresos por Intermediación
+1,166
+1,703
+1,128
+858
+964
+840
+Recuperación de cartera de crédito
+-
+-
+-
+-
+-
+-
+Portafolios de crédito
+80
+63
+90
+69
+99
+85
+Resultado por bienes adjudicados
+88
+132
+165
+129
+87
+132
+Liberación de Provisiones
+-
+-
+-
+-
+-
+-
+Deterioro de Activos
+(55)
+-
+-
+-
+-
+-
+Ingresos por Arrendamiento
+100
+77
+11
+62
+64
+57
+Provenientes de Seguros
+211
+322
+198
+317
+275
+195
+Resultado por Valuación en Op. de Bursatilización
+31
+6
+15
+(36)
+o
+o
+Otros (gastos)
+(128)
+541
+178
+319
+298
+141
+Total Otros Ingresos (Egresos) de la
+327
+1,140
+656
+859
+822
+609
+Operación
+Total de Ingresos No Financieros
+4,949
+5,911
+4,880
+5,315
+5,000
+4,739
+Ingreso Total de Operación
+22,572
+18,139
+22,343
+18,903
+21,788
+21,622
+Gasto de Personal
+3,930
+3,891
+4,037
+4,660
+4,006
+4,273
+Participación de los Trabajadores en las Utilidades
+133
+133
+133
+136
+139
+139
+(P.T.U)) causado
+Honorarios Pagados
+749
+801
+861
+962
+806
+808
+Gastos de Administración y Promoción
+2,382
+2,032
+2,075
+2,141
+2,223
+1,914
+Rentas, Depreciaciones y Amortizaciones
+1,946
+2,047
+2,074
+2,136
+2,243
+2,240
+Otros impuestos y Gastos No deducibles
+498
+483
+496
+648
+553
+589
+Aportación al Fobaproa o al IPAB
+828
+919
+951
+931
+912
+889
+Total Gasto No Financiero
+10,466
+10,307
+10,627
+11,612
+10,883
+10,851
+Resultado de la Operación
+12,106
+7,832
+11,717
+7,290
+10,905
+10,771
+Participación en subsidiarias y asociadas no
+353
+648
+492
+509
+429
+675
+consolidadas
+Resultados Antes de Impuestos a la Utilidad
+12,459
+8,480
+12,208
+7,800
+11,334
+11,446
+Impuestos a la utilidad causados
+3,555
+947
+2,477
+2,268
+1,909
+1,738
+Impuesto al Activo
+-
+-
+-
+-
+-
+-
+Impuestos a la utilidad diferidos
+(328)
+939
+702
+(511)
+769
+1,017
+Impuestos
+3,228
+1,886
+3,178
+1,757
+2,678
+2,756
+Resultados antes de operaciones
+9,231
+6,593
+9,030
+6,043
+8,656
+8,690
+discontinuadas
+Operaciones discontinuadas
+-
+-
+-
+-
+-
+-
+Participación no controladora
+(113)
+(75)
+(124)
+(77)
+(112)
+(122)
+Utilidad Neta
+9,118
+6,518
+8,906
+5,966
+8,544
+8,568
+Información Financiera 2T21
+33

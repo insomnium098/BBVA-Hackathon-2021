@@ -1,0 +1,233 @@
+13
+360
+0
+Reserva
+Var. vs
+1T20
+Registro
+Contable
+GRUPO FINANCIERO
+BANORTE
+Reservas
+Cartera Total
+Totales
+772,504
+14,913
+29,493
+476
+0
+(1,105)
+3,166
+800,891
+18,555
+Castigos
+Días**
+2T20
+Vencidos
+27
+0
+(61)
+365
+2,338
+(436)
+1,384
+(153)
+442
+4,529
+(87)
+472
+9
+573
+(494)
+2,734
+8,308
+Cartera Total
+(1,454)
+162,832
+282
+91,608
+49,805
+49,168
+44,869
+(1,172)
+398,282
+66
+402,610
+(1,105)
+800,891
+9
+Subsidiaria
+(Millones de pesos)
+Arrendadora y Factoraje
+Registros Contables*
+* La cartera total de Banorte incluye eliminaciones por (Ps 14,995) millones.
+** Incluye la cartera del Fid. FCICK16-1 por Ps 66.4 millones
+Las reservas totales de Ps 18,555 millones incluyen reservas por calificación de Ps 15,389 millones, y registros contables (para
+reservar al 100% los Intereses vencidos, por valorización, adeudos negativos en el Buró de Crédito y registradas en
+recuperaciones) por Ps 3,166 millones.
+La cartera crediticia vigente, vencida y emproblemada de GFNorte al 2T20 agrupada por sector y subsidiaria se detallan en
+las siguientes dos tablas:
+Sector
+(Millones de pesos)
+Vigente
+162,717
+90,843
+49,399
+48,080
+44,578
+Principales 5 Sectores
+395,617
+102,245
+177,282
+115,601
+Registros Contables***
+790,812
+Servicios incluye Servicios Financieros, Inmobiliarios y Otros Servicios.
+** Días vencidos de la cartera vencida.
+Incluye la cartera del Fid. FCICK16-1 por Ps 66.4 millones.
+Sector/Subsidiaria
+(Millones de pesos)
+Principales 5 Sectores
+La cartera total de Banorte incluye eliminaciones por (Ps 14,995) millones.
+** Servicios incluye Servicios Financieros e Inmobiliarios.
+Resto Incluye la cartera del Fid. FCICK16-1 por Ps 66.4 millones.
+Administración de Riesgos 2T20
+Cartera
+Emproblemada
+0
+Cartera
+4
+162,832
+43
+91,608
+36
+49,805
+69
+49,168
+28
+44,869
+180
+398,282
+93
+103,126
+2,305
+179,587
+4,229
+119,830
+66
+6,808
+800,891
+Sólida
+161,567
+86,067
+41,196
+43,557
+41,506
+373,895
+398,609
+772,504
+Vigente
+Vigente
+762,814
+29,103
+(1,105)
+790,812
+Cartera
+Vencida
+Vencida
+111
+496
+255
+740
+214
+1,816
+630
+2,446
+Banorte*
+2,718
+5,259
+8,608
+5,611
+3,362
+25,558
+3,935
+29,493
+Vencida
+Vencida
+6,799
+2,086
+6,808
+2,446
+Emproblemada
+Vigente
+0
+1,395
+226
+865
+115
+510
+279
+801
+49
+442
+669
+4,013
+157
+956
+0
+1,163
+0
+9,257
+3,166
+825
+18,555
+Banorte*
+Sólida
+Cartera Total
+Gobierno
+Servicios*
+Manufactura
+Comercio
+Transporte
+Otros Sectores
+Vivienda
+Consumo
+Cartera Total
+Gobierno
+Servicios**
+Manufactura
+Comercio
+Transporte
+Resto***
+Cartera Total
+805
+21
+0
+825
+Total
+9
+0
+(1,707)
+(2,331)
+(2,903)
+AyF
+0
+180
+2T20
+30
+60
+90
+61
+0
+0
+66
+*
+*
+0
+0
+0
+0
+0
+0
+0
+0

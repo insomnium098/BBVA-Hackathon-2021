@@ -1,0 +1,414 @@
+GRUPO FINANCIERO
+BANORTE
+2T21
+534,257
+243,118
+3,364
+2,744
+31,907
+815,389
+0
+8,155
+6,599
+14,754
+-
+119,110
+-
+55
+-
+-
+-
+55
+20,003
+5,623
+-
+25,626
+144,792
+-
+-
+930
+297
+-
+17,474
+-
+38,489
+57,190
+57,243
+395
+1,107
+1,090,870
+18,795
+-
+3,442
+-
+22,237
+18,959
+91,819
+2,666
+(2,496)
+-
+5
+(2,272)
+-
+-
+-
+12,495
+121,176
+4
+143,416
+1,234,286
+41
+IV. Estados Financieros
+Banco - Balance General
+(Millones de Pesos)
+PASIVOS
+Depósitos exigibilidad inmediata
+Depósitos a plazo-Del Público en General
+Depósitos a plazo-Mercado de Dinero
+Cuenta global de captación sin movimientos
+Títulos de crédito emitidos
+Captación de Recursos
+De exigibilidad inmediata
+De corto plazo
+De largo plazo
+Préstamos de Bancos y otros
+Valores asignados por liquidar
+Acreedores por reporto
+Préstamos de Valores
+Reportos (saldo acreedor)
+Préstamos de valores
+Derivados
+Otros colaterales vendidos
+Total de Colaterales vendidos o dados en
+garantía
+Con fines de negociación
+Con fines de cobertura
+Operaciones con valores y derivados
+Derivados
+Total de Op. con Valores y Derivados
+Ajustes de valuación por cobertura de pasivos
+financieros
+Obligaciones en operaciones de bursatilización
+Impuestos a la Utilidad por pagar
+Participación de los trabajadores en la utili.
+Aport. para futuros aumentos de capital pendientes
+de formalizar por su órgano de gobierno
+Acreedores por liquidación de operaciones
+Acreedores por cuentas de margen
+Acreedores Diver. y otras ctas. p/pagar
+Otras cuentas por pagar
+Obligaciones subordinadas en circulación
+Impuestos diferidos (Neto)
+Créditos diferidos y Cobros Anticipados
+TOTAL PASIVOS
+CAPITAL
+Capital Social
+Aport. para futuros aumentos de capital pendientes
+de formalizar por su órgano de gobierno
+Prima en venta de acciones
+Obligaciones subordinadas en circulación
+Capital contribuido
+Reservas de capital
+Resultado de ejercicios anteriores
+Res. por valuación de títulos disponibles para la venta
+Res. por valuación de instrumentos de cobertura de
+flujos de efectivo
+Resultado en la valuación de la reserva de riesgo en
+curso por variaciones en las tasas
+Efecto acumulado por conversión
+Remediciones por beneficios definidos a los
+empleados
+Exceso (insuf.) en la actualiz. del Cap. Cont.
+Ajustes por obligaciones laborales al retiro
+Efecto acumulado de impuesto diferido
+Resultado neto
+Capital Ganado
+Participación no controladora
+Total Capital Contable
+TOTAL PASIVOS Y CAPITAL
+Información Financiera 2T21
+1T20
+1T21
+451,842
+545,953
+275,566
+246,944
+26,894
+2,213
+35,355
+31,937
+791,870
+835,542
+5,000
+8,332
+4,197
+17,529
+14,856
+175,685
+113,047
+50,574
+24,508
+10,487
+61,062
+30,073
+236,763
+143,139
+2,402
+29,983
+42,155
+38,753
+75,179
+43,300
+58,423
+58,759
+1,179,984
+1,096,778
+18,794
+18,795
+2,336
+21,131
+21,871
+17,330
+18,959
+77,595
+92,748
+(2,824)
+(3,965)
+(2,255)
+(1,963)
+6,180
+92,529
+115,368
+113,663
+137,242
+1,293,647
+1,234,021
+2T20
+479,142
+265,347
+28,433
+2,368
+46,430
+821,721
+40,754
+4,156
+44,910
+190,404
+58,754
+7,682
+66,436
+256,847
+1,204
+3,524
+39,933
+44,941
+57,321
+1,226,044
+18,794
+2,546
+21,340
+18,959
+75,094
+(1,423)
+(1,997)
+9,849
+101,240
+122,583
+1,348,628
+3T20
+506,588
+251,496
+26,741
+2,489
+46,823
+834,137
+16,672
+4,073
+20,745
+113,037
+50,121
+7,189
+57,310
+170,348
+1,714
+8,670
+45,620
+56,412
+66,241
+1,148,153
+18,795
+2,747
+21,541
+18,959
+74,280
+1,796
+(1,707)
+(2,031)
+16,483
+107,895
+129,440
+1,277,593
+4T20
+530,747
+252,331
+14,248
+2,585
+43,342
+843,253
+8,261
+6,404
+14,665
+115,962
+44,097
+4,990
+49,087
+165,062
+2,388
+4,251
+38,353
+45,530
+57,152
+1,211
+1,127,138
+18,795
+2,964
+21,759
+18,959
+73,302
+3,871
+(2,333)
+20,384
+113,285
+135,047
+1,262,185
+8,069
+2,639
+0
+8,224
+6,632
+-
+-
+19
+-
+-
+-
+19
+5,566
+-
+-
+-
+1,220
+187
+-
+3,140
+-
+-
+1,183
+-
+3,076
+-
+2,213
+-
+32
+(2,303)
+-
+-
+-
+5,974
+3
+0
+-
+-
+8
+-
+-
+-
+8
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3
+0
+-
+-
+2
+-
+-
+-
+2
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3
+0
+-
+-
+13
+-
+-
+-
+13
+-
+-
+-
+-
+-
+-
+-
+-
+7
+-
+-
+-
+3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3
+16
+16
+639
+221
+177
+280
+304
+597
+160
+407
+271
+115
+538
+265
+(905)

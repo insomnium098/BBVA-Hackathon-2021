@@ -1,0 +1,87 @@
+13
+GRUPO FINANCIERO
+BANORTE
+9,849
+1,015
+95
+3,046
+(49)
+4,107
+13,956
+(12,426)
+(52,823)
+87
+(39,403)
+(30,542)
+(79)
+(18)
+60
+(19,416)
+77,450
+30,281
+27,719
+(98)
+38,002
+9,271
+5,114
+2,103
+(3,387)
+45,851
+180
+(1,269)
+(73)
+32
+(1,130)
+(1,628)
+(1,628)
+43,093
+162
+62,282
+105,537
+41
+IV. Estados Financieros
+Resultado Neto
+Ajustes por partidas que no implican flujo de efectivo
+Depreciación de Inmuebles, mobiliario yequipo
+Provisiones
+Impuestos a la utilidad causados ydiferidos
+Participación en el resultado de subsidiarias no consolidadas,
+Actividades de operación
+Cambio en cuentas de margen
+Cambio en inversiones en valores
+Cambio en deudores por reporto
+Cambio en derivados (activo)
+Cambio en cartera de crédito (neto)
+Cambio en derecho de cobro adquiridos (neto)
+Cambio en beneficios por recibir en operaciones de bursatilización
+Cambio en bienes adjudicados (neto)
+Cambio en otros activos operativos (neto)
+Cambio en captación tradicional
+Cambio en préstamos interbancarios y de otros organismos
+Cambio en acreedores por reporto
+Cambio en colaterales vendidos o dados en garantía
+Cambio en derivados (pasivo)
+Cambio en obligaciones subordinadas con características de pasivo
+Cambio en otros pasivos operativos
+Cambio en instrumentos de cobertura (de partidas cubiertas
+relacionadas con actividades de operación)
+Pago de Impuestos a la utilidad
+Flujos netos de efectivo de actividades de operación
+Actividades de inversión
+Cobros por disposición de inmuebles, mobiliario yequipo
+Pagos por adquisición de inmuebles, mobiliario yequipo
+Pagos por disposición de subsidiarias, asociadas y acuerdos con
+control conjunto
+Cobros de dividendos en efectivo
+Flujos netos de efectivo de actividades de inversión
+Actividades de financiamiento
+Pagos de intereses de obligaciones subordinadas
+Flujos netos de efectivo de actividades de financiamiento
+Incremento o disminución neta de efectivo y equivalentes de efectivo
+Efectos por cambios en el valor del efectivo y equivalentes de efectivo
+Efectivo y equivalentes al inicio del período
+Efectivo y equivalentes al final del período
+Segundo Trimestre de 2020
+BANORTE- ESTADO DE FLUJO DE EFECTIVO
+CONSOLIDADO DEL 1 DE ENERO AL 30 DE JUNIO DE 2020
+(Millones de Pesos)

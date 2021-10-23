@@ -1,0 +1,133 @@
+incurra.
+Adicionalmente, de forma mensual se informa en el Comité de Administración Integral de Riesgos, los límites de riesgos de contrapartida, los
+límites de Riesgo Emisor y los consumos vigentes; en el Comité de Crédito de Banca Corporativa y en el Comité Central de Admisión Banca de
+Empresas e Instituciones mensualmente se presentan los excesos incurridos y las operaciones con clientes no autorizados. También de forma
+mensual en el Comité de Administración Integral de Riesgos se muestra el valor presente de la pérdida esperada por operaciones vigentes
+en
+mercados financieros al cierre de cada mes; así como dos escenarios de estrés de la probabilidad de incumplimiento y severidad de la pérdida.
+Actualmente Banco Santander tiene líneas aprobadas de riesgos de contrapartida para los siguientes sectores: Soberano Mexicano y
+Banca
+de
+Desarrollo local, Instituciones Financieras Extranjeras, Instituciones Financieras Mexicanas, Corporativos, Banca de Empresas-SGC, Banca de
+Instituciones, Unidad de Grandes Empresas y Project Finance.
+El REC Neto de las líneas de riesgo de crédito de contrapartida de Banco Santander del segundo trimestre de 2021 es:
+Riesgo Equivalente de Crédito Neto
+Millones de dólares americanos
+Segmento
+abr-21
+may-21
+jun-21
+Promedio
+Riesgo Soberano, Banca de Desarrollo e
+Instituciones Financieras
+981
+966
+765
+904
+Corporativos
+465
+456
+425
+449
+Project Finance
+309
+308
+294
+304
+Empresas
+222
+221
+182
+208
+Mark to Market
+Millones de dólares americanos
+Segmento
+abr-21
+may-21
+jun-21
+Promedio
+Riesgo Soberano, Banca de Desarrollo e
+Instituciones Financieras
+25,737
+21,582
+16,119
+21,146
+Corporativos
+(339)
+(318)
+(332)
+(330)
+Project Finance
+189
+195
+175
+186
+Empresas
+91
+85
+33
+70
+Rating ponderado
+Millones de dólares americanos
+Segmento
+abr-21
+may-21
+jun-21
+Promedio
+Riesgo Soberano, Banca de Desarrollo e
+Instituciones Financieras
+6.1
+6.1
+6.1
+6.1
+Corporativos
+6.0
+6.1
+6.2
+6.1
+Project Finance
+5.4
+5.5
+5.4
+5.4
+Empresas
+5.2
+5.2
+5.2
+5.2
+El rating promedio se calculó ponderando rating interno por exposición
+El REC Neto de las líneas de riesgo emisor de Banco Santander del segundo trimestre de 2021 es:
+Riesgo equivalente de crédito neto
+Millones de dólares americanos
+Segmento
+abr-21
+may-21
+jun-21
+Promedio
+Riesgo Soberano, Banca de Desarrollo e
+Instituciones Financieras
+26,636
+26,046
+20,997
+24,560
+Corporativos
+67
+63
+64
+65
+Project Finance
+0
+0
+0
+0
+Empresas
+0
+0
+0
+0
+El porcentaje por productos de Riesgo de Contrapartida de Banco Santander al cierre del segundo trimestre de 2021, que corresponde a
+operaciones de derivados se distribuye de la siguiente manera de acuerdo con el tipo de derivado:
+Reporte de Resultados | 2T.2021
+Santander
+Banco Santander México
+107

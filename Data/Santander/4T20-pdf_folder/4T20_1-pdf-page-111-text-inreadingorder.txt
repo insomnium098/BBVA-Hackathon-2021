@@ -1,0 +1,64 @@
+exposición de la posición neta en riesgo con cada contraparte. El Colateral gestionado consiste mayoritariamente en depósitos en efectivo,
+lo cual no se da situación de deterioro del mismo.
+No se tiene instrumentos financieros derivados cuyo subyacente sean acciones propias o títulos de crédito que las representen, durante el
+trimestre.
+Durante el cuarto trimestre de 2020, el número de instrumentos financieros derivados vencidos y posiciones cerradas fue el siguiente (no
+auditado):
+Descripción
+Vencimientos
+Posiciones cerradas
+Caps and Floors
+347
+39
+Equity Forward
+31
+0
+OTC Equity
+114
+58
+OTC Fx
+1178
+162
+Swaptions
+0
+0
+Fx Forward
+5182
+150
+IRS
+780
+222
+CCS
+97
+38
+El monto de las llamadas de margen realizadas durante el trimestre fue el necesario para cubrir tanto las aportaciones en mercados organizados
+como los requeridos en los contratos de colaterales.
+Durante el cuarto trimestre de 2020 no se dieron incumplimientos por parte de las contrapartes.
+Análisis de Sensibilidad
+Identificación de Riesgos
+Las medidas de sensibilidad de riesgo de mercado, asociadas a valores y a instrumentos financieros derivados, son aquéllas que miden la
+variación (sensibilidad) del valor de mercado del instrumento financiero de que se trate, ante variaciones en cada uno de los factores de riesgo
+asociados al mismo.
+La sensibilidad del valor de un instrumento financiero ante modificaciones en los factores de mercado, se obtiene mediante la revaluación
+completa del instrumento.
+A continuación se detallan las sensibilidades de acuerdo a cada factor de riesgo y los consumos históricos asociados de la cartera de negociación.
+La estrategia de gestión de Banco Santander se integra con posiciones de valores y de instrumentos financieros derivados. Estos últimos se
+contratan en gran medida para mitigar el riesgo de mercado de los primeros. En atención a lo anterior, las sensibilidades o exposiciones
+expuestas a continuación consideran ambos tipos de instrumentos en su conjunto.
+1.
+Sensibilidad a los factores de riesgo de tipo Equity ("Delta EQ")
+La Delta EQ muestra el cambio en el valor del portafolio en relación a cambios en los precios de activos de renta variable.
+La Delta EQ calculada, para el caso de instrumentos financieros derivados considera la variación relativa de 1% en los precios de los
+activos subyacentes de renta variable, para el caso de títulos de renta variable considera la variación relativa del 1% del precio de mercado
+del título.
+2.
+Sensibilidad a los factores de riesgo de tipo Foreign Exchange ("Delta FX")
+La Delta FX muestra el cambio en el valor del portafolio en relación a cambios en los precios de activos de tipo de cambio.
+La Delta FX calculada, para el caso de instrumentos financieros derivados considera la variación relativa de 1% en los precios de los
+activos subyacentes de tipo de cambio, para el caso de posiciones en divisas considera la variación relativa del 1% del tipo de cambio
+correspondiente.
+Reporte de Resultados | 4T.2020
+Santander
+Banco Santander México
+con
+109

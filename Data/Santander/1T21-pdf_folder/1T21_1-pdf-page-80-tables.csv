@@ -1,0 +1,19 @@
+Table
+,,Tabla II.2 ,,
+,Conceptos regulatorios considerados ,para el cálculo ,de los componentes del Capital ,Neto 
+Identificador ,Conceptos regulatorios considerados para el cálculo de los componentes del Capital Neto ,Referencia del formato de revelación de la integración de capital del apartado I del presente anexo ,Monto de conformidad con las notas a la tabla Conceptos regulatorios considerados para el cálculo de los componentes del Capital Neto ,Referencia(s) del rubro del balance general y monto relacionado con el concepto regulatorio considerado para el cálculo del Capital Neto proveniente de la referencia mencionada. 
+,Activo ,,,
+1 ,Crédito mercantil ,8 ,"2,404 ","BG16= = 10,488 Menos: cargos diferidos y pagos anticipados 1,801; intangibles 6,272; otros activos que computan como activos en riesgo 1,811; Más: Intangibles que se reconocen en el pasivo 1,800 "
+2 ,Otros Intangibles ,9 ,"6,272 ","BG16= 10,488 Menos: cargos diferidos y pagos anticipados 1,801; intangibles 2,404; otros activos que computan como activos en riesgo 1,811; Más: Intangibles que se reconocen en el pasivo 1,800 "
+3 ,Impuesto a la utilidad diferida (a favor) proveniente de pérdidas y créditos fiscales ,10 ,0 ,
+4 ,Beneficios sobre el remanente en operaciones de burzatilización ,13 ,151 ,BG9=160 
+5 ,Inversiones del plan de pensiones por beneficios definidos sin acceso irrestricto e ilimitado ,15 ,0 ,
+6 ,Inversiones en acciones de la propia institución ,16 ,0.00 ,"BG3= 558,824 Menos: Inversiones indirectas en el capital de entidades financieras "
+
+
+Table
+BG39 ,Operaciones de banca de inversión por cuenta de terceros (neto) ,0 
+BG40 ,Intereses devengados no cobrados derivados de cartera de crédito vencida ,817 
+BG41 ,Otras cuentas de registro ,"1,671,523 "
+
+

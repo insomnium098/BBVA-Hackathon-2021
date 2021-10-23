@@ -1,0 +1,122 @@
+140.00%
+120.00%
+100.00%
+80.00%
+60.00%
+40.00%
+20.00%
+0.00%
+Fuente de información sobre Evolución y Volatilidad Histórico:www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+Pago de Derechos
+bajo distintos valores del Valor Observado
+100
+Valor Observado
+Fechas de ejercicio 1 a 2
+DEA 1M
+o
+Fecha de Ejercicio 3
+DEA 3M
+50
+Fechas de Ejercicio 1 a 2
+Fecha de ejercicio 3
+DEA 6M
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 70.00
+Ps. 75.00
+Ps. 80.00
+Ps. 85.00
+Ps. 90.00
+Ps. 95.00
+Ps. 100.00
+Ps. 100.00
+Santander
+DEA 12M
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps.0.00
+Ps.0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+Ps. 0.00
+NVD210L DC110
+Reporte de Resultados | 2T.2021
+Banco Santander México
+$180
+$160
+$140
+$120
+$100
+$80
+$60
+$40
+$20
+$
+Valor observado
+150
+Nivel de mercado
+128.72
+205.95
+231.69
+257.44
+283.18
+308.92
+334.67
+360.41
+386.15
+411.90
+437.64
+489.13
+0.00
+0.00
+25.74
+5.00
+51.49
+10.00
+77.23
+15.00
+102.97
+20.00
+25.00
+154.46
+30.00
+180.20
+35.00
+40.00
+45.00
+50.00
+55.00
+60.00
+65.00
+70.00
+75.00
+80.00
+85.00
+463.38
+90.00
+95.00
+16o

@@ -1,0 +1,52 @@
+el contrato netting de la contraparte y deben tener un CSA independiente con threshold 0, de modo que su exposición esté acotada.
+Riesgo Legal
+El riesgo legal, se define como la pérdida potencial por el incumplimiento de las disposiciones legales y administrativas aplicables, la emisión
+de resoluciones administrativas y judiciales desfavorables y la aplicación de sanciones, en relación con las operaciones que Banco Santander
+lleva a cabo.
+En cumplimiento a los lineamientos en materia de Administración Integral de Riesgos, se desarrollan las funciones siguientes: a)
+Establecimiento de políticas y procedimientos para analizar la validez jurídica y procurar la adecuada instrumentación de los actos jurídicos
+celebrados, b) Estimación del monto de pérdidas potenciales derivado de resoluciones judiciales o administrativas desfavorables y la posible
+aplicación de sanciones, c) Análisis de los actos jurídicos que se rijan por un sistema jurídico distinto al nacional, d) Difusión entre los directivos
+y empleados, de las disposiciones legales y administrativas aplicables a las operaciones y e) Realización, cuando menos anualmente, auditorias
+legales internas.
+Riesgo Operacional
+El riesgo operacional se define como el riesgo de pérdidas debido a la inadecuación o el fallo de los procesos, personas y sistemas internos, o de
+eventos externos.
+El objetivo principal es evitar o reducir el impacto del riesgo operacional, a través de la identificación, monitoreo y control de los factores que
+desencadenan los eventos de pérdida potencial. Por lo tanto, también requiere establecer políticas y procedimientos para operar bajo la
+exposición al riesgo que el Banco está dispuesto a aceptar.
+En materia de riesgo operacional Banco Santander, alineado con la metodología corporativa, cuenta con políticas, procedimientos y metodología
+para la identificación, control, mitigación, vigilancia y revelación de los riesgos operativos.
+La buena gestión del riesgo involucra principalmente a los responsables de cada Unidad de Negocio en las herramientas de gestión y los
+resultados; así como una capacitación continua para el personal. Los pilares sobre los que se gestionan los riesgos operativos son:
+a) Planificación estratégica y presupuesto: Actividades requeridas para definir el perfil de riesgo operacional para Banco Santander México; esto
+incluye:
+-
+Apetito de riesgo, definido como el nivel de riesgo que el Banco está dispuesto a aceptar.
+-
+Presupuesto anual de pérdida, asegurando la visión general de las pérdidas reales de acuerdo con el presupuesto y las desviaciones,
+desafiando los controles y las medidas de atenuación.
+b)
+Identificar, medir y evaluar el riesgo operacional: Identificar los riesgos y los factores que los desencadenan en el Banco, y estimare el impacto
+cualitativo y / o cuantitativo.
+c)
+Supervisión: Visión general y seguimiento del objetivo de riesgo operativo para el análisis periódico de la información de riesgo disponible
+(tipo y nivel) durante el desarrollo normal de las actividades.
+d)
+Mitigación: Una vez que se ha evaluado el riesgo operacional, se requiere establecer acciones para evitar el riesgo o mitigar el impacto de
+los riesgos relevantes o críticos, realizar un estudio costo-beneficio e implementar indicadores que nos ayuden a evaluar la eficacia de dichas
+acciones.
+e) Reportes: Informes del perfil de riesgo operacional y el desempeño del ambiente de riesgo operacional se presentan de manera regular en
+los Comités del Banco.
+Banco Santander México tuvo una pérdida promedio mensual de Ps.59 millones de pesos por riesgo operacional al segundo trimestre de 2021.
+Desde diciembre de 2016, Banco Santander México aplica el Enfoque Estándar Alternativo (ASA) para los requisitos de capital de riesgo
+operacional.
+Riesgo Tecnológico
+El
+riesgo tecnológico, se define como la pérdida potencial por daños, interrupción, alteración o fallas derivadas del uso o dependencia en el
+hardware, software, sistemas, aplicaciones, redes y cualquier otro canal de distribución de información en la prestación de servicios bancarios
+con los clientes de Banco Santander México.
+Reporte de Resultados | 2T.2021
+Santander
+Banco Santander México
+109

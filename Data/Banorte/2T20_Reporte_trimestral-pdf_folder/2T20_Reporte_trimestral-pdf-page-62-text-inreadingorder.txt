@@ -1,0 +1,144 @@
+9
+NOCIONAL OPERATIONS
+5,545
+7,953
+27,524
+27,586
+25,728
+36,075
+6,488
+6,321
+409,282
+1,008,905
+163
+108,945
+22,736
+9,185
+5,152
+13,788
+2,900
+1,247
+GRUPO FINANCIERO
+BANORTE
+73
+84
+35
+17
+68
+335
+23
+22
+3,270
+3,338
+2
+123
+40
+3
+2
+66
+12
+5
+62
+V. Anexos
+PRODUCTO
+Forwards de Divisa
+Forwards de Divisa
+Opciones de Divisa
+Opciones de Divisa
+Opciones de Tasa
+Opciones de Tasa
+Opciones de Tasa
+Opciones de Tasa
+Swaps de Tasa
+Swaps de Tasa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Swaps de Tasa y Divisa
+Derivados de Crédito
+Segundo Trimestre de 2020
+OPERACIONES CON INSTRUMENTOS
+DERIVADOS AL 2T20
+(Millones de Pesos)
+Posición Pasiva
+Instrumento
+Valor Razonable
+Futuros TIIE 28
+Forward de divisa
+Opciones
+Opciones de tasas
+Opciones de divisa
+Swaps de tasas
+Swaps de divisas
+Swaps de crédito
+Total negociación
+Opciones
+Opciones de tasas
+Opciones de divisa
+Swaps de tasas
+Swaps de divisas
+Swaps de crédito
+Total cobertura
+Total posición
+MONTOS NOCIONALES EN OPERACIONES DERIVADAS AL 2T20
+(Millones de Pesos)
+TIPO
+SUBYACENTE
+Compras
+Tipo de Cambio (USD/MXN)
+Ventas
+Tipo de Cambio (USD/MXN)
+Compras
+Tipo de Cambio (Dólar)
+Ventas
+Tipo de Cambio (Dólar)
+Compras
+TIIE
+Ventas
+TIIE
+Compras
+LIBOR
+Ventas
+LIBOR
+USD LIBOR
+LIBOR
+MXN TIIE
+TIIE
+CS USDMXN
+FIJO/VARIABLE
+CS USDMXN
+VARIABLE/VARIABLE
+CS USDMXN
+FIJO/FIJO
+CS CHFMXN
+FIJO/FIJO
+CS CHFMXN
+FIJO/VARIABLE
+CS EURMXN
+FIJO/FIJO
+CS GBPMXN
+FIJO/FIJO
+CDS USD
+02 PEMEX 150927
+Futuros
+Forward
+Swaps
+Swaps
+-
+-
+-
+-
+-
+-
+106
+250
+1,189
+41,949
+15,260
+58,754
+7,682
+7,682
+66,436

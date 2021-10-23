@@ -1,0 +1,59 @@
+Initial Margin: se refiere al colateral recibido por una contrapartida para cubrir su exposición actual y futura en el intervalo comprendido
+entre la última recepción de margen y la liquidación de posiciones o la cobertura del riesgo de mercado tras un impago de la otra
+contrapartida.
+El monto total de colaterales recibidos por operaciones de derivados al cierre del cuarto trimestre de 2020:
+Garantía
+Porcentaje
+Efectivo
+72.27%
+Bonos Emitidos por el gobierno Mexicano
+14.78%
+Bonos Emitidos por otros gobiernos
+12.95%
+Nota: En caso de que descienda la calificación crediticia de Banco Santander, no habría impacto en la cantidad de garantías reales que la
+Institución tendría que proporcionar, porque los contratos de garantías con threshold mayor a 0, por son unilaterales a favor de la Institución.
+Respecto
+a
+la
+correlación
+entre el colateral recibido y el garante, en las operaciones de derivados, se confirma que por concepto de variation
+margin, se reciben únicamente bonos gubernamentales y/o efectivo como colateral, lo cual implica que, prácticamente no existe riesgo de
+efectos adversos por la existencia de correlaciones.
+El riesgo de correlación adversa o wrong-way risk también es gestionado por la dirección de riesgo de crédito de contrapartida. Este riesgo se
+origina en caso de que la exposición con una cartera o con una contraparte aumente cuando la calidad crediticia de ésta se deteriore. Es decir,
+existe wrong-way risk cuando se produce un incremento del riesgo de incumplimientoy, como consecuencia, aumenta la exposición que se tiene
+con la contraparte. En Banco Santander (México) las operaciones que generen wrong-way risk tienen un tratamiento especial, no se incluyen en
+el contrato netting de la contraparte y deben tener un CSA independiente con threshold 0, de modo que su exposición esté acotada.
+Riesgo Legal
+El riesgo legal, se define como la pérdida potencial por el incumplimiento de las disposiciones legales y administrativas aplicables, la emisión
+de resoluciones administrativas y judiciales desfavorables y la aplicación de sanciones, en relación con las operaciones que Banco Santander
+lleva a cabo.
+En cumplimiento a los lineamientos en materia de Administración Integral de Riesgos, se desarrollan las funciones siguientes: a)
+Establecimiento de políticas y procedimientos para analizar la validez jurídica y procurar la adecuada instrumentación de los actos jurídicos
+celebrados, b) Estimación del monto de pérdidas potenciales derivado de resoluciones judiciales o administrativas desfavorables y la posible
+aplicación de sanciones, c) Análisis de los actos jurídicos que se rijan por un sistema jurídico distinto al nacional, d) Difusión entre los directivos
+y empleados, de las disposiciones legales y administrativas aplicables a las operaciones e) Realización, cuando menos anualmente, auditorias
+legales internas.
+Riesgo Operacional
+El riesgo operacional se define como el riesgo de pérdidas debido a la inadecuación o el fallo de los procesos, personas y sistemas internos, o de
+eventos externos.
+El objetivo principal es evitar o reducir el impacto del riesgo operacional, a través de la identificación, monitoreo y control de los factores
+que
+desencadenan los eventos de pérdida potencial. Por lo tanto, también requiere establecer políticas y procedimientos para operar bajo la
+exposición al riesgo que el Banco está dispuesto a aceptar.
+En materia de riesgo operacional Banco Santander, alineado con la metodología corporativa, cuenta con políticas, procedimientos y metodología
+para la identificación, control, mitigación, vigilancia y revelación de los riesgos operativos.
+La buena gestión del riesgo involucra principalmente a los responsables de cada Unidad de Negocio en las herramientas de gestión y los
+resultados; así como una capacitación continua para el personal. Los pilares sobre los que se gestionan los riesgos operativos son:
+a) Planificación estratégica y presupuesto: Actividades requeridas para definir el perfil de riesgo operacional para Banco
+Santander
+México;
+esto incluye:
+-
+Apetito de riesgo, definido como el nivel de riesgo que el Banco está dispuesto a aceptar.
+- Presupuesto anual de pérdida, asegurando la visión general de las pérdidas reales de acuerdo con el presupuesto y las desviaciones,
+desafiando los controles y las medidas de atenuación.
+Reporte de Resultados | 4T.2020
+Banco Santander México
+Santander
+105

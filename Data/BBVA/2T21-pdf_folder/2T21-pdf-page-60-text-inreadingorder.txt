@@ -1,0 +1,41 @@
+BBVA
+Creando Oportunidades
+NIF B-17 "Determinación del valor razonable" - Define al valor razonable como el precio de salida que
+sería recibido por vender un activo O pagado para transferir un pasivo en una transacción ordenada entre
+participantes del mercado a la fecha de valuación. Se menciona que el valor razonable es una
+determinación basado en el mercado y no en un valor específico de un activo O un pasivo y que, al
+determinar el valor razonable, la entidad debe utilizar supuestos que los participantes del mercado
+usarían al fijar el precio de un activo O un pasivo en las condiciones actuales del mercado a una fecha
+determinada, incluyendo los supuestos sobre el riesgo. Como resultado de ello, la intención de la entidad
+para mantener un activo O liquidar, O de alguna otra forma satisfacer un pasivo, no es relevante en la
+determinación del valor razonable.
+NIF C-3 "Cuentas por cobrar" - Las principales características emitidas para esta NIF, se muestran a
+continuación:
+Deja sin efecto al Boletín C-3 "Cuentas por cobrar".
+Especifica que las cuentas por cobrar que se basan en un contrato representan un instrumento
+financiero, en tanto que algunas de las otras cuentas por cobrar generadas por una disposición legal O
+fiscal, pueden tener ciertas características de un instrumento financiero, tal como generar intereses,
+pero no son en sí instrumentos financieros.
+Establece que la estimación para incobrabilidad para cuentas por cobrar comerciales se
+reconoce desde el momento en que se devenga el ingreso, con base en las pérdidas crediticias
+esperadas.
+Establece que, desde el reconocimiento inicial, deberá considerarse el valor del dinero en el
+tiempo, por lo que, si el efecto del valor presente de la cuenta por cobrar es importante en atención a
+su plazo, deberá ajustarse con base en dicho valor presente. El efecto del valor presente es material
+cuando se pacta el cobro de la cuenta por cobrar, total O parcialmente, a un plazo mayor de un año, ya
+que en estos casos existe una operación de financiamiento.
+Los cambios contables que surjan deberán reconocerse en forma retrospectiva, sin embargo, los
+efectos de valuación pueden reconocerse prospectivamente.
+NIF C-9 "Provisiones, contingencias y compromisos" - Deja sin efecto al Boletín C-9 "Pasivo,
+provisiones, activos y pasivos contingentes y compromisos", se disminuye su alcance al reubicar el tema
+relativo al tratamiento contable de pasivos financieros en la NIF C-19 "Instrumentos financieros por
+pagar" y se modifica la definición de pasivo eliminando el calificativo de "virtualmente ineludible"
+incluyendo el término "probable". La aplicación por primera vez de esta NIF no generará cambios
+contables en los estados financieros.
+NIF C-16 "Deterioro de instrumentos financieros por cobrar" - Señala que, para determinar el
+reconocimiento de la pérdida esperada, deberá considerarse la experiencia histórica que tenga la
+entidad de pérdidas crediticias, las condiciones actuales y los pronósticos razonables y sustentables de
+los diferentes eventos futuros cuantificables que pudieran afectar el importe de los flujos de efectivo
+futuros por recuperar de los instrumentos financieros por cobrar (IFC).
+e
+60

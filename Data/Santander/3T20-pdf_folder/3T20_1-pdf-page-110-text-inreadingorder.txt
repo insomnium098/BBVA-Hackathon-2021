@@ -1,0 +1,64 @@
+Efectivo
+Bonos Emitidos por el gobierno Mexicano
+Bonos Emitidos por otros gobiernos
+Nota: En caso de que descienda la calificación crediticia de Banco Santander, no habría impacto en la cantidad de garantías reales que la
+Institución tendría que proporcionar, por que los contratos de garantías con threshold mayor a 0, por son unilaterales a favor de la Institución.
+Respecto a la correlación entre el colateral recibido y el garante, en las operaciones de derivados, se confirma que por concepto de variation
+margin, se reciben únicamente bonos gubernamentales y/o efectivo como colateral, lo cual implica que, prácticamente no existe riesgo de
+riesgo de correlación adversa o wrong-way risk también es gestionado por la dirección de riesgo de crédito de contrapartida. Este riesgo se
+en caso de que la exposición con una cartera o con una contraparte aumente cuando la calidad crediticia de ésta se deteriore. Es decir,
+existe wrong-way risk cuando se produce un incremento del riesgo de incumplimientoy como consecuencia, aumenta la exposición que se tiene
+con la contraparte. En Banco Santander (México) las operaciones que generen wrong-way risk tienen un tratamiento especial, no
+el contrato netting de la contraparte y deben tener un CSA independiente con threshold 0, de modo que su exposición esté acotada.
+El riesgo legal, se define como la pérdida potencial por el incumplimiento de las disposiciones legales y administrativas aplicables, la emisión
+de resoluciones administrativas y judiciales desfavorables y la aplicación de sanciones, en relación con las operaciones que Banco Santander
+En cumplimiento a los lineamientos en materia de Administración Integral de Riesgos, se desarrollan las funciones siguientes: a)
+Establecimiento de políticas y procedimientos para analizar la validez jurídica y procurar la adecuada instrumentación de los actos jurídicos
+celebrados, b) Estimación del monto de pérdidas potenciales derivado de resoluciones judiciales o administrativas desfavorables y la posible
+aplicación de sanciones, c) Análisis de los actos jurídicos que se rijan por un sistema jurídico distinto al nacional, d) Difusión entre los directivos
+y empleados, de las disposiciones legales y administrativas aplicables a las operaciones y e) Realización, cuando menos anualmente,
+El riesgo operacional se define como el riesgo de pérdidas debido a la inadecuación o el fallo de los procesos, personas y sistemas internos, o de
+El objetivo principal es evitar o reducir el impacto del riesgo operacional, a través de la identificación, monitoreo y control de los factores que
+desencadenan los eventos de pérdida potencial. Por lo tanto, también requiere establecer políticas y procedimientos para operar bajo la
+exposición al riesgo que el Banco está dispuesto a aceptar.
+En materia de riesgo operacional Banco Santander, alineado con la metodología corporativa, cuenta con políticas, procedimientos y metodología
+para la identificación, control, mitigación, vigilancia y revelación de los riesgos operativos.
+La buena gestión del riesgo involucra principalmente a los responsables de cada Unidad de Negocio en las herramientas de
+resultados; así como una capacitación continua para el personal. Los pilares sobre los que se gestionan los riesgos operativos son:
+a) Planificación estratégica y presupuesto: Actividades requeridas para definir el perfil de riesgo operacional para Banco Santander México;
+Apetito de riesgo, definido como el nivel de riesgo que el Banco está dispuesto a aceptar.
+- Presupuesto anual de pérdida, asegurando la visión general de las pérdidas reales de acuerdo con el presupuesto y las desviaciones,
+desafiando los controles y las medidas de atenuación.
+Identificar, medir y evaluar el riesgo operacional: Identificar los riesgos y los factores que los desencadenan en el Banco, yestimarel impacto
+Supervisión: Visión general y seguimiento del objetivo de riesgo operativo para el análisis periódico de la información de riesgo disponible
+(tipo y nivel) durante el desarrollo normal de las actividades.
+d) Mitigación: Una vez que se ha evaluado el riesgo operacional, se requiere establecer acciones para evitar el riesgo o mitigar el impacto de
+los riesgos relevantes o críticos, realizar un estudio costo-beneficio e implementar indicadores que nos ayuden a evaluar la eficacia de dichas
+65.36%
+12.91%
+21.73%
+efectos adversos por la existencia de correlaciones.
+El
+origina
+Riesgo Legal
+lleva a cabo.
+legales internas.
+Riesgo Operacional
+eventos externos.
+esto incluye:
+-
+b)
+cualitativo y / o cuantitativo.
+c)
+acciones.
+Reporte de Resultados | 3T.2020
+Banco Santander México
+se
+incluyen
+auditorias
+gestión
+y
+Santander
+en
+los
+108

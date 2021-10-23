@@ -1,0 +1,196 @@
+13
+4T19
+-
+21,105
+(0)
+21,664
+1,892
+-
+-
+1,892
+-
+-
+4,059
+7,787
+-
+-
+-
+14,062
+-
+2,655
+29,751
+53,610
+GRUPO FINANCIERO
+BANORTE
+1T20
+2T20
+1,765
+2,861
+-
+-
+-
+24,424
+26,497
+554
+596
+(0)
+(0)
+(0)
+24,978
+27,094
+1,654
+851
+-
+-
+-
+-
+-
+-
+1,654
+851
+-
+-
+-
+-
+-
+-
+289
+346
+7,581
+8,937
+8,162
+8,872
+-
+-
+-
+-
+-
+-
+-
+-
+-
+346
+342
+12,849
+13,241
+-
+-
+-
+298
+298
+1,710
+2,322
+91
+93
+31,326
+34,450
+59,723
+65,256
+44
+IV. Estados Financieros
+Seguros Banorte - Balance General
+(Millones de Pesos)
+ACTIVOS
+Disponibilidades
+Cuentas de Margen
+Títulos para negociar
+Títulos disponibles para la venta
+Títulos conservados a vencimiento
+Inversiones en Valores
+Deudores por reporto (saldo deudor)
+Préstamo de Valores
+Operaciones con Derivados
+Operaciones con Valores y Derivadas
+Ajustes de valuación por cobertura de activos
+Derechos de cobro adquiridos
+Cuentas por cobrar
+Deudores por Prima (Neto)
+Ctas por cobrar a reaseguradores y reafianzadores
+Beneficios por recibir en operaciones de Busatilización
+Otras Cuentas por cobrar, neto
+Inventario de Mercancías
+Propiedades, Mobiliario y equipo (Neto)
+Inversiones permanentes
+Activos de larga duración disponibles para la venta
+Impuestos diferidos, neto
+Cargos diferidos, pagos anticipados e intangibles
+Otros activos a corto y largo plazo
+TOTAL ACTIVOS
+Segundo Trimestre de 2020
+1T19
+19,031
+861
+19,893
+3,200
+3,200
+164
+10,970
+11,532
+371
+12,840
+250
+1,858
+38,078
+61,233
+2T19
+423
+19,624
+552
+20,176
+545
+545
+281
+8,611
+10,884
+365
+13,273
+250
+2,253
+36,004
+57,148
+3T19
+965
+20,118
+20,680
+491
+491
+5,972
+10,920
+357
+13,696
+2,472
+34,159
+56,296
+63
+-
+(0)
+-
+-
+-
+-
+-
+-
+-
+-
+91
+303
+560
+443
+356
+298
+91
+-
+(0)
+-
+-
+-
+-
+-
+-
+-
+-
+562
+355
+297
+90
+87

@@ -1,0 +1,79 @@
+Cantidades por debajo de los umbrales para deducción (antes de la ponderación por riesgo)
+Inversiones no significativas en el capital de otras instituciones financieras
+Inversiones significativas en acciones comunes de instituciones financieras
+Derechos por servicios hipotecarios (netos de impuestos a la utilidad diferidos a cargo)
+Impuestos a la utilidad diferidos a favor derivados de diferencias temporales (netos de impuestos a la utilidad
+diferidos a cargo)
+Límites aplicables a la inclusión de reservas en el capital de nivel 2
+Reservas elegibles para su inclusión en el capital de nivel 2 con respecto a las exposiciones sujetas a la
+metodología estandarizada (previo a la aplicación del límite)
+Límite en la inclusión de provisiones en el capital de nivel 2 bajo la metodología estandarizada
+Reservas elegibles para su inclusión en el capital de nivel 2 con respecto a las exposiciones sujetas a riesgos de
+crédito (previo a la aplicación del límite)
+Límite en la inclusión de reservas en el capital de nivel 2 bajo la metodología de calificaciones internas
+Instrumentos de capital sujetos a eliminación gradual (aplicable únicamente entre el 1 de enero de 2018
+yel 1 de enero de 2022)
+Límite actual de los instrumentos de CET1 sujetos a eliminación gradual
+Monto excluído del CET1 debido al límite (exceso sobre el límite después de amortizaciones y vencimientos)
+Límite actual de los instrumentos AT1 sujetos a eliminación gradual
+Monto excluído del AT1 debido al límite (exceso sobre el límite después de amortizaciones y vencimientos)
+Límite actual de los instrumentos T2 sujetos a eliminación gradual
+Monto excluído del T2 debido al límite (exceso sobre el límite después de amortizaciones y vencimientos)
+Tabla 1.2
+Notas al formato de revelación de la integración de capital sin considerar transitoriedad en la aplicación de los ajustes regulatorios
+Descripción
+Elementos del capital contribuido conforme a la fracción I inciso a) numerales 1) y 2) del Artículo
+2 Bis 6 de las presentes disposiciones.
+Resultados de ejercicios anteriores y sus correspondientes actualizaciones.
+Reservas de capital, resultado neto, resultado por valuación de títulos disponibles para la venta,
+efecto acumulado por conversión, resultado por valuación de instrumentos de cobertura de flujos
+de efectivo, resultado por tenencia de activos no monetarios, y el saldo de remediciones por
+beneficios definidos a los empleados considerando en cada concepto sus actualizaciones.
+No aplica. El capital social de las instituciones de crédito en México está representado por títulos
+representativos o acciones. Este concepto solo aplica para entidades donde dicho capital no esté
+representado por títulos representativos o acciones.
+No aplica para el ámbito de capitalización en México que es sobre una base no consolidada. Este
+concepto solo aplicaría para entidades donde el ámbito de aplicación es consolidado.
+Suma de los conceptos 1 a 5.
+No aplica. En México no se permite el uso de modelos internos para el cálculo del requerimiento
+de capital por riesgo de mercado.
+Crédito mercantil, neto de sus impuestos a la utilidad diferidos a cargo conforme a lo establecido
+en la fracción I inciso n) del Artículo 2 Bis 6 de las presentes disposiciones.
+Intangibles, diferentes al crédito mercantil, y en su caso a los derechos por servicios hipotecario,
+netos de sus impuestos a la utilidad diferidos a cargo, conforme a lo establecido en la fracción I
+inciso n) del Artículo 2 Bis 6 de las presentes disposiciones.
+Impuestos a la utilidad diferidos a favor provenientes de pérdidas y créditos fiscales conforme
+lo establecido en la fracción I inciso p) del Artículo 2 Bis 6 de las presentes disposiciones.
+72
+73
+74
+75
+76
+(conservador)
+77
+(conservador)
+78
+79
+80
+81
+82
+83
+84
+85
+Referencia
+Reporte de Resultados | 2T.2021
+Banco Santander México
+8,329
+a
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10*
+Santander
+72

@@ -1,0 +1,72 @@
+BBVA
+Creando Oportunidades
+BBVA México
+Valor en riesgo de títulos
+VaR
+VaR
+Millones depesos
+1 Día
+10 Días
+2T 2021
+Renta fija
+204
+632
+Renta variable
+4
+14
+Cambios
+40
+134
+Vega
+21
+65
+Total
+209
+648
+BBVA México
+Valor en riesgo de títulos
+2T
+3T
+4T
+1T
+2T
+Millones de pesos
+2020
+2020
+2020
+2021
+2021
+VaR 1 día
+175
+148
+159
+203
+209
+VaR 10 días
+549
+482
+501
+645
+648
+Asimismo, se realizan simulaciones diarias de las pérdidas O ganancias de las carteras mediante
+reevaluaciones de las mismas bajo escenarios catastróficos (stress test). Estas estimaciones se
+generan aplicando a los factores de riesgo, cambios porcentuales observados en determinado
+período de la historia, el cual abarca turbulencias significativas del mercado. Con frecuencia
+mensual se realizan pruebas de "backtesting" para comparar las pérdidas y ganancias diarias que
+se hubieran observado si se hubiesen mantenido las mismas posiciones, considerando
+únicamente el cambio en valor debido a movimientos del mercado contra el cálculo de valor en
+riesgo y en consecuencia poder calibrar los modelos utilizados.
+Riesgo de Liquirez
+Información Cuantitativa
+(a) Límites de concentración respecto de los distintos grupos de garantías recibidas y las
+fuentes principales de financiamiento.
+De manera adicional a los ratios regulatorios de liquidez y el esquema de control del riesgo
+de liquidez de BBVA México se basan en el establecimiento de límites en tres ejes
+fundamentales: a) autofinanciación a través del ratio LtSCD (Loan to Stable Customer
+Deposits) que mide la relación máxima de la financiación de la inversión crediticia neta con
+recursos estables de clientes; b) diversificación de la estructura de financiación a través de
+un importe máximo de Financiación a Corto Plazo (FCP); y c) capacidad de absorción de
+shocks de liquidez a través de la Capacidad Básica a 30 días (CB 30d - -cociente de buffer
+de liquidez disponible y las salidas netas de liquidez previstas dentro del plazo por vencer
+correspondiente). También se tienen alertas para prevenir que los límites no sean
+36

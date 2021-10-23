@@ -1,0 +1,48 @@
+Table
+Divisa ,Por recibir ,A entregar 
+MXN ,"145,340 ","143,717 "
+USD ,"187,088 ","165,464 "
+UDI ,"55,392 ","60,471 "
+JPY ,0 ,148 
+Euro ,"43,751 ","63,523 "
+COP ,"2,163 ",0 
+GBP ,"1,375 ","1,375 "
+CLP ,"3,241 ",0 
+
+
+Table
+Divisa ,Compra ,Venta 
+MXN ,"27,943 ","14,141 "
+USD ,"21,970 ","15,699 "
+EURO ,0 ,"13,644 "
+UDI ,0 ,426 
+GBP ,0 ,"1,298 "
+
+
+Table
+Divisa ,Compra ,Venta 
+MXN ,"56,685 ",0 
+USD ,"72,582 ",0 
+
+
+Table
+Divisa ,Compra ,Venta 
+USD ,"2,886 ",0 
+EUR ,"1,440 ",0 
+
+
+Table
+Swaps de Tasa de Interés ** ,Por Recibir 
+MXN ,"4,915,481 "
+USD ,"1,243,334 "
+EUR ,"128,163 "
+GBP ,
+COP ,399 
+
+
+Table
+Swaps de Acciones ,Por Recibir 
+Acciones USD/Eur ,"1,025 "
+Acciones MXN ,"3,588 "
+
+

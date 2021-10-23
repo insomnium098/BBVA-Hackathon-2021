@@ -1,0 +1,50 @@
+BBVA
+Creando Oportunidades
+Operaciones e Instrumentos
+Operaciones de Reportos
+Operaciones con Instrumentos Financieros Derivaros
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Operaciones de reportos
+Marzo 2021
+Millones de pesos
+Gubernamental
+Acreedores por reporto
+(247,129)
+Deudores por reporto
+5,143
+Futuros*
+Subyacente
+Compra
+USD
+37,212
+MXN
+4
+Indice
+O
+Bono M10
+465
+Contratos Adelantados
+Subyacente
+Compra
+USD*
+564,138
+Otras divisas
+90,680
+Indice Extranjero
+21,793
+lpc
+3,776
+72
+Total
+(247,129)
+5,143
+Venta
+Venta
+520,408
+52,914
+34,912
+276
+0
+308
+O
+48

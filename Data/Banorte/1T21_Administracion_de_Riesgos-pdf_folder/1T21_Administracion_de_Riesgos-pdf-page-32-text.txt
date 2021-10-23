@@ -1,0 +1,108 @@
+GRUPO FINANCIERO
+BANORTE
+b)
+Tasa de prepago: los flujos de efectivo a recibir de la cartera de crédito son ajustados por determinado porcentaje
+sobre el saldo insoluto de la cartera que se estima se prepagará. Dicho porcentaje se estima con información
+histórica del comportamiento de dicha cartera.
+c)
+Plazo de la cartera: Se estima a través del WAM (Weighted Average Maturity) de la cartera bursatilizada.
+d)
+Tasa de interés de la cartera: Se estima a través del WAC (Weighted Average Coupon) de la cartera bursatilizada.
+e)
+Fechas de pago de la cartera: Se considera como supuesto que las fechas de pago de los créditos de la cartera
+son iguales a los de los certificados bursátiles.
+f)
+Reserva por calificación: El valor presente de los flujos remanentes son disminuidos por el monto de la reserva
+por calificación. Esta reserva corresponde al riesgo por incumplimiento de los flujos de efectivo de los primeros
+12 meses.
+g)
+Cuenta general: El valor presente de los flujos remanentes son adicionados con el monto de efectivo o
+equivalentes a efectivo depositados en la cuenta general, cuenta de cobranza y en su caso en la cuenta de reserva
+de gastos, ya que, en caso del pago total de los certificados bursátiles, esto activos serían distribuidos a los
+tenedores de la constancia.
+h)
+Términos generales de certificados bursátiles: Se estiman conforme a lo publicado por el proveedor de precios
+PiP-Latam.
+En lo que respecta a las políticas para el reconocimiento de obligaciones en balance de los acuerdos que pudieran requerir
+de la Institución apoyo financiero para la bursatilización de activos, se tiene que todas las cantidades adeudadas bajo los
+certificados bursátiles de las diferentes bursatilizaciones vigentes, se pagarán con cargo al patrimonio del fideicomiso. En
+caso de que, por cualquier motivo, los recursos líquidos del patrimonio del fideicomiso no sean suficientes para pagar
+íntegramente las cantidades adeudadas bajo los certificados bursátiles, los tenedores no tendrán derecho de reclamar su
+pago a la Institución, al fiduciario, al representante común, al intermediario colocador, al garante o garantes, que en su
+caso se hubieran contratado, o a cualquier persona. Los certificados bursátiles no han sido garantizados o avalados por
+ninguna de las personas participantes en la emisión de los mismos, por lo que ninguno de ellos está obligado a realizar
+pagos a los tenedores, con excepción, en el caso del fiduciario, de los pagos que tenga que hacer a cargo al patrimonio
+del fideicomiso de acuerdo con lo previsto en el contrato de fideicomiso.
+7. POSICIÓN EN ACCIONES
+Al 1T21, la posición accionaria en Banco Mercantil del Norte ascendió a Ps 1,587 millones, con plusvalía de Ps 299.9 millones
+acumulados en el año.
+Durante el primer trimestre del año, no existieron utilidades provenientes de las ventas y liquidaciones de acciones.
+El requerimiento de capital por Riesgo de Mercado fue de Ps 24.5 millones y las deducciones de capital neto regulatorias
+ascendieron a Ps 421.6 millones.
+Utilidad /
+Valor
+Institució
+Tipo de
+Clasificación
+Plusvalía /
+Tratamiento
+Pérdida
+Mercado
+Minusvalía
+n
+Cotización
+Contable
+Capitalización
+Ventas /
+1T21
+Acum.
+Compras
+Banorte
+Cotización Pública
+Negociación
+Riesgo Mercado
+0
+(27.2)
+0
+Banorte
+Cotización Pública
+Disponibles
+para la Venta
+Riesgo Mercado
+3.9
+(11.7)
+0
+Deducción de
+Banorte
+Cotización Pública
+Negociación
+capital
+221.6
+120.9
+0
+Disponibles
+Deducción de
+Banorte
+Cotización Pública
+para la Venta
+capital
+421.6
+180.2
+0
+Banorte
+Sin Cotización Pública
+Disponibles
+Riesgo Mercado y
+para la Venta
+Crédito
+939.9
+37.7
+0
+Total
+1,587
+299.9
+0
+Al 1T21, se cuenta con una posición de Ps 584.1 millones en Casa de Bolsa Banorte.
+Durante el trimestre, se registró una ganancia de Ps 4.0 millones por concepto de ventas y liquidaciones.
+Administración de Riesgos 1T21
+32

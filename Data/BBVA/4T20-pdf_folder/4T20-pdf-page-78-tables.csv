@@ -1,0 +1,39 @@
+Table
+,Activos Ponderados por Riesgo ,Capital Requerido 
+Activos en Riesgo Crédito ,"1,081,916 ","86,553 "
+Ponderados al 10% ,"1,838 ",147 
+Ponderados al 11.5% ,"1,886 ",151 
+Ponderados al 20% ,"22,083 ","1,767 "
+Ponderados al 25% ,382 ,31 
+Ponderados al 30% ,"1,880 ",150 
+Ponderados al 40% ,"2,580 ",206 
+Ponderados al 50% ,"4,314 ",345 
+Ponderados al 75% ,"20,379 ","1,630 "
+Ponderados al 90% ,"4,208 ",337 
+Ponderados al 100% ,"363,276 ","29,062 "
+Ponderados al 115% ,"7,703 ",616 
+Ponderados al 120% ,"1,184 ",95 
+Ponderados al 150% ,522 ,42 
+Ponderados al 1250% ,909 ,73 
+Metodología Interna ,"593,328 ","47,466 "
+-CVA (RC06 B) ,"24,991 ","1,999 "
+-ECC(RC06C) ,24 ,2 
+-Contraparte ,"19,238 ","1,539 "
+-Relacionados ,"11,018 ",881 
+-Reportos y Spot ,175 ,14 
+Activos en Riesgo Mercado ,"438,808 ","35,105 "
+Operaciones en moneda nacional con tasa nominal ,"345,599 ","27,648 "
+Operaciones en moneda nacional con tasa real O denominados en Udis ,"12,497 ","1,000 "
+Tasa de Rendimineto referida al salario minimo general (SMG) ,"5,462 ",437 
+Tasa de interés operaciones en moneda extranjera con tasa nominal ,"39,721 ","3,178 "
+Posiciones en UDIs O con rendimiento referido al INPC ,43 ,3 
+Operaciones referidas al SMG ,359 ,29 
+Posiciones en divisas O con rendimiento indizado al tipo de cambio ,"9,733 ",779 
+Posiciones en acciones O con rendimiento indizado al precio de una acción O grupo de acciones ,"15,772 ","1,262 "
+Sobretasa ,"5,838 ",467 
+Gamma ,"3,497 ",280 
+Vega ,285 ,23 
+Activos en riesgo operativo ,"113,960 ","91,168 "
+"Total con Crédito, Mercado y Operativo ","1,634,683 ","212,826 "
+
+

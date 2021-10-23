@@ -1,0 +1,103 @@
+Delta en términos de emisoras
+BAB204L DC046
+Cobertura
+6,614.174240
+Obligación
+(6,614.174240)
+TSL110L DC061
+Cobertura
+401.776440
+Emisora/Serie
+Tipo de valor
+Total
+Obligación
+(401.776440)
+MLI210L DC004
+Cobertura
+470.069350
+Obligación
+(470.069350)
+PYL205L DC021
+Cobertura
+6,933.241990
+Obligación
+(6,933.241990)
+TSL112L DC062
+Cobertura
+1,307.326420
+Obligación
+(1,307.326420)
+INT112LDC010
+Cobertura
+5,029.316850
+Obligación
+(5,029.316850)
+ICL211RDC003
+Cobertura
+42,928.193590
+Obligación
+(42,928.193590)
+MSF112L DC047
+Cobertura
+(0.000000)
+Obligación
+0.000000
+AMZ112L DC185
+Cobertura
+124.244910
+Obligación
+(124.244910)
+ICL211L DC004
+Cobertura
+57,198.141030
+Obligación
+(57,198.141030)
+ICL211L DC005
+Cobertura
+30,393.852320
+Obligación
+(30,393.852320)
+CVS111L DC026
+Cobertura
+4,143.652110
+Obligación
+(4,143.652110)
+TSL211L DC063
+Cobertura
+1,045.934660
+Obligación
+(1,045.934660)
+FBK205L DC094
+Cobertura
+1,783.122190
+Obligación
+(1,783.122190)
+BKN112L DC001
+Cobertura
+199.265690
+Obligación
+(199.265690)
+TSL212L DC065
+Cobertura
+2,134.173640
+Obligación
+(2,134.173640)
+SXG112L DC001
+Cobertura
+2,029.327439
+Obligación
+(2,029.327439)
+NVD112L DC117
+Cobertura
+145.520280
+Obligación
+(145.520280)
+SPO207L DC007
+Cobertura
+6,450.469750
+Obligación
+(6,450.469750)
+Reporte de Resultados | 2T.2021
+Santander
+Banco Santander México
+18o

@@ -1,0 +1,39 @@
+Table
+Emisión ,Fideicomiso ,Número de títulos ,Fecha de vencimiento ,Precio en pesos ,Monto 
+B4-220707 ,422-9 ,"12,762,386 ",07-jul-22 ,131.51 ,"1,678 "
+B4-270701 ,423-2 ,"15,292,752 ",01-jul-27 ,131.51 ,"2,011 "
+B4-220804 ,431-2 ,"440,294 ",04-ago-22 ,120.40 ,53 
+BC-220804 ,431-2 ,"71,442 ",04-ago-22 ,40.45 ,3 
+,,,,,"3,745 "
+
+
+Table
+Pasivos ,Importe valorizado ,Tasa Promedio % ,Vencimientos 
+Préstamos en pesos ,,,
+Call money ,"13,990 ",4.20 ,De 1 a 3 días 
+Bancos del país ,48 ,9.39 ,Hasta 6 años 
+Fiduciarios públicos ,"19,005 ",4.58 ,De 1 día hasta 9 años 
+Banca de desarrollo ,"8,401 ",5.34 ,De 1 día hasta 15 años 
+Total ,"41,444 ",,
+Préstamos en divisas ,,,
+Fiduciarios públicos ,"1,711 ",1.04 ,Hasta 1 día a 5 años 
+Banca de desarrollo ,52 ,6.28 ,De 1 a 6 meses 
+Total ,"1,763 ",,
+
+
+Table
+,Pesos ,Dólares 
+Saldo promedio ,"446,686 ","62,653 "
+Intereses ,"1,866 ",3 
+Tasa ,1.65% ,0.02% 
+
+
+Table
+Valores gubernamentales- ,Monto 
+CETES Especiales para programa de apoyo para deudores de créditos de vivienda ,"3,745 "
+Total de títulos conservados a vencimiento (sin reserva) ,"3,745 "
+Menos- ,
+Reserva para CETES Especiales ,(166) 
+"Total de títulos conservados a vencimiento, neto ","3,579 "
+
+

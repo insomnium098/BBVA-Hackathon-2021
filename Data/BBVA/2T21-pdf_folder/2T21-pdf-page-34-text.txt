@@ -1,0 +1,66 @@
+BBVA
+Creando Oportunidades
+Al cierre de junio de 2021 la sensibilidad de Valor Económicoy Sensibilidad de Margen Financiero
++/- - 100 pb y agregada presentan las siguientes cifras:
+Junio 2021
+Sensibilidad Valor Económico Estimado
+Balance Estructural (millones de pesos)
+Portafolio
+- -100 pb
++100 pb
+Agregada
+Uso Mgmt Limit Agregada
+MN
+7,231
+(6,974)
+(9,379)
+ME
+(1,813)
+3,977
+(1,813)
+Total
+5,418
+(2,997)
+(8,310)
+69%
+Nota: Cifras del Balance Estructural sin el portafolio de Compromisos con Empleados
+Valores positivos son ganancias y negativos son pérdidas
+Junio 2021
+Sensibilidad Margen Financiero Proyectado a 12 meses
+Balance Estructural (millones de pesos)
+Portafolio
+-100 pb
+-100 pb
+Agregada
+Uso Mgmt Limit Agregada
+MN
+(3,686)
+3,676
+(4,827)
+ME
+(492)
+1,775
+(497)
+Total
+(4,178)
+5,451
+(5,040)
+59%
+Nota: Cifras del Balance Estructural sin el portafolio de Compromisos con Empleados
+Valores positivos son ganancias ynegativos son pérdidas
+En términos de consumos de Alerta en el trimestre muestran la siguiente exposición:
+1T21
+Exposición de Riesgo de Balance Estructural:
+Porcentaje de uso de Mgmt Limit, promedio cierres mensuales
+Sensibilidad Valor Económico
+Sensibilidad Margen Financiero Proyectado a 12 meses
+Portafolio
+Uso Mgmt Limit
+Portafolio
+Uso Mgmt Limit
+Total
+72.5%
+Total
+57.7%
+Nota: Cifras del Balance Estructural sin el portafolio de Compromisos con Empleados
+34

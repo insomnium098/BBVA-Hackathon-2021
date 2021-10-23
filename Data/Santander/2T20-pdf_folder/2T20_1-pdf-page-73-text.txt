@@ -1,0 +1,88 @@
+Capital Común de Nivel 1
+61
+(como porcentaje de los activos ponderados por riesgo totales)
+11.64%
+Capital de Nivel 1
+62
+(como porcentaje de los activos ponderados por riesgo totales)
+13.03%
+Capital Total
+63
+(como porcentaje de los activos ponderados por riesgo totales)
+16.69%
+Suplemento específico institucional (al menos deberá constar de: el requerimiento de
+capital común de nivel 1 más el colchón de conservación de capital, más el colchón
+contracíclico, más el colchón D-SIB; expresado como porcentaje de los activos
+64
+ponderados por riesgo totales)
+15.34%
+65
+del cual: Suplemento de conservación de capital
+2.50%
+66
+del cual: Suplemento contracíclico bancario específico
+67
+del cual: Suplemento de bancos globales sistémicamente importantes (D-SIB)
+1.20%
+Capital Común de Nivel 1 disponible para cubrir los suplementos (como porcentaje de
+68
+los activos ponderados por riesgo totales)
+4.64%
+Mínimos nacionales (en caso de ser diferentes a los de Basilea 3)
+Razón mínima nacional de CET1
+69
+(si difiere del mínimo establecido por Basilea 3)
+Razón mínima nacional de T1
+70
+(si difiere del mínimo establecido por Basilea 3)
+Razón mínima nacional de TC
+71
+(si difiere del mínimo establecido por Basilea 3)
+Cantidades por debajo de los umbrales para deducción (antes de la ponderación por
+riesgo)
+72
+Inversiones no significativas en el capital de otras instituciones financieras
+73
+Inversiones significativas en acciones comunes de instituciones financieras
+74
+Derechos por servicios hipotecarios (netos de impuestos a la utilidad diferidos a cargo)
+Impuestos a la utilidad diferidos a favor derivados de diferencias temporales (netos de
+75
+impuestos a la utilidad diferidos a cargo)
+9,505
+Límites aplicables a la inclusión de reservas en el capital de nivel 2
+76
+Reservas elegibles para su inclusión en el capital de nivel 2 con respecto a las
+(conservador)
+exposiciones sujetas a la metodología estandarizada (previo a la aplicación del límite)
+77
+Límite en la inclusión de provisiones en el capital de nivel 2 bajo la metodología
+(conservador)
+estandarizada
+Reservas elegibles para su inclusión en el capital de nivel 2 con respecto a las
+78
+exposiciones sujetas a riesgos de crédito (previo a la aplicación del límite)
+Límite en la inclusión de reservas en el capital de nivel 2 bajo la metodología de
+79
+calificaciones internas
+Instrumentos de capital sujetos a eliminación gradual (aplicable únicamente entre el
+1 de enero de 2018 y el 1 de enero de 2022)
+80
+Límite actual de los instrumentos de CET1 sujetos a eliminación gradual
+Monto excluido del CET1 debido al límite (exceso sobre el límite después de
+81
+amortizaciones y vencimientos)
+82
+Límite actual de los instrumentos AT1 sujetos a eliminación gradual
+Monto excluido del AT1 debido al límite (exceso sobre el límite después de
+83
+amortizaciones y vencimientos)
+84
+Límite actual de los instrumentos T2 sujetos a eliminación gradual
+Monto excluido del T2 debido al límite (exceso sobre el límite después de
+85
+amortizaciones y vencimientos)
+Reporte de Resultados | 2T.2020
+Banco Santander México
+Santander
+72

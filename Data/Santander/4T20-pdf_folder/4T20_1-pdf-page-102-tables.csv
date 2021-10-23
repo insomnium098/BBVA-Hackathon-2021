@@ -1,0 +1,28 @@
+Table
+,VaR ,,
+,(Miles de pesos) ,,% 
+Mesas de Negociación ,,"123,515.25 ",0.08% 
+Market Making ,,"46,331.97 ",0.03% 
+Propietary Trading ,,"21,441.55 ",0.01% 
+Factor de Riesgo ,,,
+Tasa de Interés ,,"82,470.54 ",0.06% 
+Tipo de Cambio ,,"68,857.34 ",0.05% 
+Renta Variable ,,931.50 ,0.00% 
+
+
+Table
+Mesas de Negociación ,"73,928.24 ",0.05% 
+Market Making ,"46,723.37 ",0.03% 
+Propietary Trading ,"26,211.27 ",0.02% 
+Factor de Riesgo ,,
+Tasa de Interés ,"73,137.50 ",0.05% 
+Tipo de Cambio ,"11,959.41 ",0.01% 
+Renta Variable ,79.46 ,0.00% 
+
+
+Table
+,,Sensibilidad ,NIM ,,,Sensibilidad ,MVE ,
+Banco ,oct-20 ,nov-20 ,dic-20 ,Promedio ,oct-20 ,nov-20 ,dic-20 ,Promedio 
+Balance MXN GAP ,2% ,12% ,11% ,9% ,42% ,33% ,31% ,36% 
+
+

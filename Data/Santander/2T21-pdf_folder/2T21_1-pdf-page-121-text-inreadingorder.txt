@@ -1,0 +1,120 @@
+Descripción
+El Euro Stoxx 50 es una índice accionario de la zona europea diseñado por Stoxx Ltd, un proveedor de índices de Deutsche Börse y SIX Group. Su
+meta es la de proveer una representación "blue chip" de los líderes de la zona europea.
+Metodología
+El universo del índice es definido como todos los componentes de los 19 Euro Stoxx índices del Supersector. Las acciones componentes son
+ordenadas de acuerdo con el número de acciones en circulación. Las acciones con mayor flotación son añadidas a lista de selección hasta que la
+cobertura es cerrada, pero sin pasar el 60% de la libre flotación del Índice de Mercado total Euro Stoxx (TMI). Si las siguientes acciones ordenadas
+tienen una cobertura cercana al 60% en términos absolutos, entonces también es añadido a la lista seleccionada.
+Cualquier acción remanente que sea un componente actual del índice es añadida a la lista de selección.
+Las acciones en la lista son ordenadas de mayor a menor en circulación. En casos excepcionales, el Comité de Supervisión puede añadir o quitar
+acciones a la lista de selección.
+Selección de las acciones
+Las 40 acciones con más acciones en circulación en la lista de selección son elegidas como componentes.
+Cualquier componente remanente del índice Euro Stoxx 50 ordenado entre el lugar 41 y 60 son añadidos como componentes del índice.
+Siel número de componentes sigue siendo menor a 50, entonces las acciones con mayor número de acciones en circulación son añadidas
+hasta completar 50 acciones.
+Frecuencia de la Revisión
+La composición del índice es revisada anualmente en septiembre. Los componentes son monitoreados mensualmente.
+Ponderación
+El
+índice es ponderado por capitalización de mercado de libre flotación. El peso de cada componente está topado al 10% del mercado de libre
+flotación. Los pesos de libre flotación son revisados trimestralmente.
+A continuación la lista de valores que componen la muestra:
+Reporte de Resultados |
+Banco Santander México
+Ticker
+OR FP Equity
+DG FP Equity
+ASML NA Equity
+SAN SQ Equity
+PHIA NA Equity
+TTE FP Equity
+Al FP Equity
+CS FP Equity
+BNP FP Equity
+BN FP Equity
+EL FP Equity
+VIV FP Equity
+MC FP Equity
+KER FP Equity
+AMS SQ Equity
+SAF FP Equity
+AD NA Equity
+IBE SQ Equity
+INGA NA Equity
+LIN GY Equity
+PRX NA Equity
+ITX SQ Equity
+Nombre
+Ticker
+L'Oreal SA
+ENI IM Equity
+Vinci SA
+ENGI FP Equity
+ASML Holding NV
+ABI BB Equity
+Banco Santander SA
+ADYEN NA Equity
+Koninklijke Philips NV
+SAN FP Equity
+TotalEnergies SE
+ENEL IM Equity
+Air Liquide SA
+SU FP Equity
+AXA SA
+ALV GY Equity
+BNP Paribas SA
+AIR FP Equity
+Danone SA
+BAYN GY Equity
+EssilorLuxottica SA
+BMW GY Equity
+Vivendi SE
+CRH ID Equity
+LVMH Moet Hennessy Louis Vuitton SE
+BAS GY Equity
+Kering SA
+SIE GY Equity
+Amadeus IT Group SA
+VOW3 GY Equity
+Safran SA
+MUV2 GY Equity
+Koninklijke Ahold Delhaize NV
+SAP GY Equity
+Iberdrola SA
+RI FP Equity
+ING Groep NV
+ADS GY Equity
+Linde PLC
+DTE GY Equity
+Prosus NV
+DPW GY Equity
+Industria de Diseño Textil SA
+DAI GY Equity
+Nombre
+Eni SpA
+Engie SA
+Anheuser-Busch InBev SA/NV
+Adyen NV
+Sanofi
+Enel SpA
+Schneider Electric SE
+Allianz SE
+Airbus SE
+Bayer AG
+Bayerische Motoren Werke AG
+CRH PLC
+BASF SE
+Siemens AG
+Volkswagen AG
+Munich Re
+SAP SE
+Pernod Ricard SA
+adidas AG
+Deutsche Telekom AG
+Deutsche Post AG
+Daimler AG
+2T.2021
+Santander
+119

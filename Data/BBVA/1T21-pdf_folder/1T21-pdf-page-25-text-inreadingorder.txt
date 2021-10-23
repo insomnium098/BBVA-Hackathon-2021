@@ -1,0 +1,48 @@
+BBVA
+Creando Oportunidades
+RENTABILIDAD
+a)
+Margen de interés neto (MIN): Margen financiero ajustado por riesgos crediticios (anualizado) / Activo productivo promedio.
+Activo productivo promedio: Disponibilidades + inversiones en valores + deudores por reporto + prestamos de valores + derivados +
+cartera de crédito vigente + Beneficio por recibir en operaciones de bursatilización + Ajuste valuación por cobertura de activos
+financieros.
+b)
+Margen de interés neto (MIN): Margen financiero (sin ajustar por riesgos crediticios, anualizado) / Activo total promedio.
+c)
+Eficiencia operativa: Gastos (anualizado) / Activo total promedio.
+d)
+Índice de eficiencia: Gastos de administración y promoción / Margen financiero + comisiones y tarifas, neto + resultado por
+intermediación + otros ingresos (egresos) de la operación.
+e)
+Índice de productividad: Comisiones y tarifas, neto / Gastos de administración y promoción.
+f)
+Rendimiento sobre capital (ROE): Utilidad neta (anualizada) / Capital contable promedio.
+g)
+Rendimiento sobre activo (ROA): Utilidad neta (anualizada) / Activo total promedio.
+CALIDAD DE ACTIVOS
+h)
+Índice de morosidad: Cartera vencida / Cartera total bruta.
+i)
+Índice de cobertura: Estimación preventiva para riesgos crediticios / Cartera vencida
+SOLVENCIA (Información de BBVA México).
+j)
+Índice de Capital Fundamental: Capital Fundamental / Activos sujetos a riesgo de crédito, mercado y operacional (aplicado en México a
+partir de enero de 2013).
+k)
+Índice de capital básico total: Capital básico total / Activos sujetos a riesgo de crédito, mercado y operacional.
+I)
+Índice de capital total: Capital neto / Activos sujetos a riesgo de crédito, mercado y operacional.
+m)
+Coeficiente de Apalancamiento: Medida del capital / Medida de la exposición.
+LIQUIDEZ
+n)
+Índice de liquidez: Activo líquido / Pasivo líquido.
+Activo líquido: Disponibilidades + títulos para negociar + títulos disponibles para la venta.
+Pasivo líquido: Depósitos de exigibilidad inmediata + préstamos bancarios y de otros organismos de exigibilidad inmediata +
+préstamos bancarios y de otros organismos de corto plazo.
+o)
+Liquidez: Cartera Vigente / Captación bancaria (vista + plazo).
+p)
+Coeficiente de cobertura de liquidez (CCL): Activos Líquidos Computables / Salidas Netas en estrés a 30 días (Información de BBVA
+México).
+25

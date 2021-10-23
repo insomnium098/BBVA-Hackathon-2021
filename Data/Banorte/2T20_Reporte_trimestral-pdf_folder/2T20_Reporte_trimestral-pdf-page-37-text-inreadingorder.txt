@@ -1,0 +1,455 @@
+GRUPO FINANCIERO
+BANORTE
+1T20
+2T20
+29,620
+28,504
+12,171
+11,160
+358
+346
+291
+270
+17,517
+17,421
+4,262
+8,527
+13,254
+8,895
+400
+476
+598
+526
+2,336
+2,027
+495
+394
+1,241
+1,048
+118
+102
+2
+3
+-
+-
+o
+o
+592
+540
+5,782
+5,116
+1,226
+1,018
+-
+-
+909
+918
+2,135
+1,936
+3,647
+3,180
+1,219
+(500)
+(1,238)
+1,139
+(119)
+(75)
+(137)
+565
+(862)
+774
+1,742
+(323)
+305
+385
+1,185
+836
+1,048
+1,402
+-
+-
+67
+52
+92
+121
+-
+-
+(319)
+(162)
+-
+-
+18
+19
+-
+-
+173
+658
+31
+687
+4,726
+5,268
+17,980
+14,163
+3,755
+3,704
+131
+131
+624
+650
+2,091
+1,789
+1,862
+1,967
+428
+419
+828
+919
+9,718
+9,579
+8,263
+4,584
+29
+19
+8,292
+4,603
+2,576
+317
+(465)
+617
+2,112
+934
+6,180
+3,669
+-
+-
+(0)
+(0)
+6,180
+3,669
+37
+IV. Estados Financieros
+Banco
+Estado de Resultados - Banco
+(Millones de Pesos)
+Ingresos por Intereses
+Gastos por Intereses
+Comisiones cobradas
+Comisiones Pagadas
+Ingresos de Intereses Netos antes de Estim.
+Ptva. para Riesgos Cred.
+Provisiones Prev. para Riesgos crediticios
+Ingresos de Intereses Netos Ajustado por
+Riesgos Crediticios
+Transferencia de Fondos
+Manejo de Cuenta
+Servicios de Banca Electrónica
+Por Créditos Comerciales y Vivienda
+Por créditos de Consumo
+Fiduciario
+Ingresos por Portafolios Inmobiliarios
+Fondos de Inversión
+Asesoría e Intermediación financiera
+Otras Comisiones Cobradas
+Comisiones por Servicios Cobrados
+Cuotas de Intercambio
+Comisiones de Seguros
+Otras Comisiones Pagadas
+Comisiones por Servicios Pagados
+Comisiones Netas
+Valuación y compra-venta de divisas y metales
+Derivados
+Títulos
+Valuación
+Divisas y Metales
+Derivados
+Títulos
+Compra-venta
+Resultado por intermediación
+Recuperación de cartera de crédito
+Portafolios de crédito
+Resultado por bienes adjudicados
+Liberación de Provisiones
+Quebrantos y Estimaciones
+Deterioro de Activos
+Ingresos por Arrendamiento
+Provenientes de Seguros
+Otros Ingresos (Egresos) de la Operación:
+Total Otros Ingresos (Egresos) de la
+Operación
+Total de Ingresos No Financieros
+Ingreso Total de Operación
+Gasto de Personal
+Participación de los Trabajadores en las Utilidades
+(PTU) causado
+Honorarios Pagados
+Gastos de Administración y Promoción
+Rentas, Depreciaciones y Amortizaciones
+Otros impuestos y Gastos No deducibles
+Aportación al Fobaproa ó al IPAB
+Total Gasto No Financiero
+Resultado de la Operación
+Participación en subsidiarias y asociadas no
+consolidadas
+Resultados Antes de Impuestos a la Utilidad
+Impuestos a la utilidad causados
+Impuesto al Activo
+Impuestos a la utilidad diferidos
+Impuestos
+Resultados antes de operaciones
+discontinuadas
+Operaciones discontinuadas
+Participación no controladora
+Utilidad Neta
+Segundo Trimestre de 2020
+1T19
+4T19
+32,320
+30,425
+15,432
+12,837
+382
+315
+16,931
+17,654
+3,700
+3,713
+13,231
+13,941
+427
+604
+2,128
+2,656
+506
+1,210
+1,423
+146
+606
+5,303
+6,370
+1,082
+1,349
+1,080
+1,951
+2,430
+3,351
+3,940
+342
+(115)
+432
+659
+662
+203
+(237)
+2,248
+269
+1,820
+304
+6,105
+4,906
+19,336
+18,846
+3,765
+3,933
+134
+485
+1,926
+2,158
+1,595
+1,837
+520
+809
+9,341
+9,875
+9,996
+8,971
+10,009
+9,015
+2,176
+1,355
+812
+2,647
+2,167
+7,362
+6,848
+7,362
+6,848
+2T19
+32,094
+15,299
+16,853
+3,657
+13,196
+2,285
+1,244
+5,539
+1,077
+2,016
+3,523
+1,014
+4,631
+17,826
+3,390
+1,882
+1,552
+8,931
+8,895
+8,934
+1,941
+2,382
+6,553
+6,553
+3T19
+30,964
+13,896
+17,150
+4,034
+13,116
+2,363
+1,280
+5,695
+1,168
+2,119
+3,576
+(1,473)
+(1,390)
+2,270
+3,519
+2,129
+5,932
+19,048
+4,074
+2,045
+1,691
+9,947
+9,101
+9,132
+2,550
+2,401
+6,730
+6,730
+323
+280
+367
+623
+238
+104
+1
+-
+1
+632
+-
+869
+(5)
+521
+68
+585
+101
+82
+166
+349
+934
+-
+45
+88
+-
+(447)
+(132)
+19
+-
+121
+610
+485
+839
+14
+472
+-
+(0)
+335
+278
+399
+614
+289
+108
+o
+-
+1
+599
+-
+940
+(25)
+176
+13
+164
+206
+121
+344
+671
+835
+-
+60
+57
+-
+(877)
+-
+19
+-
+273
+121
+655
+503
+829
+39
+441
+-
+(0)
+365
+283
+444
+598
+269
+126
+5
+-
+1
+609
+-
+951
+(14)
+97
+471
+778
+-
+52
+163
+-
+(263)
+-
+25
+-
+251
+228
+120
+778
+418
+821
+31
+(149)
+-
+(0)
+2
+-
+o
+-
+2
+-
+-
+-
+-
+-
+(0)
+39
+(79)
+43
+45
+23
+44

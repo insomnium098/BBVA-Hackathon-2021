@@ -1,0 +1,155 @@
+Futuros
+Compra
+Venta
+Divisas
+19,061
+0
+Índices
+0
+538
+Contratos adelantados
+Divisas
+365,280
+9,566
+Acciones
+0
+204
+Opciones
+Larga
+Corta
+Tasa de interés
+46,927
+72,678
+Divisas
+63,739
+63,422
+Índices
+493
+2,032
+Acciones
+2,097
+1,040
+Total derivados con fines de negociación
+8,954,821
+149,480
+Cobertura
+Flujo de efectivo
+Swaps de tasas
+7,311
+Swaps de divisas
+13,771
+Forward de divisas
+66,766
+Valor razonable
+Swaps de tasas
+3,000
+Swaps de divisas
+28,965
+Total derivados con fines de cobertura
+119,813
+Total de instrumentos financieros derivados
+9,074,634
+149,480
+5. Cartera de crédito vigente
+A continuación se detallan los préstamos otorgados por tipo de crédito y tipo de moneda, al 30 de junio de 2021:
+Importe valorizado
+Pesos
+Dólares
+UDIS
+Euros
+Total
+Actividad empresarial o comercial
+254,739
+55,391
+2,313
+1,214
+313,657
+Entidades financieras
+9,252
+691
+0
+0
+9,943
+Entidades gubernamentales
+72,342
+9,465
+0
+0
+81,807
+Créditos comerciales
+336,333
+65,547
+2,313
+1,214
+405,407
+Créditos al consumo
+110,756
+0
+0
+0
+110,756
+Media y residencial
+161,052
+385
+1,988
+0
+163,425
+De interés social
+5
+0
+0
+0
+5
+Créditos adquiridos al Infonavit o el Fovissste
+10,329
+0
+0
+0
+10,329
+Créditos a la vivienda
+171,386
+385
+1,988
+0
+173,759
+Total cartera de crédito vigente
+618,475
+65,932
+4,301
+1,214
+689,922
+6. Cartera vencida
+Importe valorizado
+Pesos
+Dólares
+UDIS
+Total
+Actividad empresarial o comercial
+4,358
+2,315
+0
+6,673
+Entidades financieras
+0
+0
+0
+0
+Créditos comerciales
+4,358
+2,315
+0
+6,673
+Créditos al consumo
+4,835
+0
+0
+4,835
+Media y residencial
+6,765
+88
+266
+7,119
+Reporte de Resultados | 2T.2021
+Banco Santander México
+Santander
+65

@@ -1,0 +1,86 @@
+BBVA
+Creando Oportunidades
+Swaps de Divisas *
+Por recibir
+A entregar
+128,877
+149,149
+61,672
+64,847
+1,360
+Swaps de Tasa de Interés
+**
+Por recibir
+A entregar
+CCS de cobertura
+Compra
+Venta
+14,141
+18,268
+14,964
+1,283
+IRS de cobertura
+Compra
+Venta
+75
+Divisa
+MXN
+USD
+UDI
+JPY
+Euro
+COP
+GBP
+CLP
+Swaps de Acciones
+Acciones USD/Eur
+Acciones MXN
+Swaps de Crédito
+México
+Divisa
+MXN
+USD
+EURO
+UDI
+GBP
+Divisa
+MXN
+USD
+134,799
+168,662
+58,097
+O
+40,113
+2,185
+1,360
+3,336
+100
+27,790
+21,972
+O
+O
+O
+49,709
+77,829
+159
+O
+0
+199
+508
+O
+O
+Por Recibir
+4,137,165
+1,462,904
+144,507
+O
+708
+Por Recibir
+1,101
+3,518
+MXN
+USD
+EUR
+GBP
+COP
+SUBYACENTE

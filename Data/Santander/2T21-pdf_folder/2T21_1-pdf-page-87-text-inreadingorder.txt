@@ -1,0 +1,144 @@
+Posiciones en acciones o con rendimiento indizado al precio de una acción o grupo de
+acciones
+Posiciones en Mercancías
+Requerimiento de Capital por Impacto de Gamma y Vega
+Tabla III.2
+Activos ponderados sujetos a riesgo de crédito por grupo de riesgo
+Concepto
+Grupo I-A (ponderados al 0%)
+Grupo I-A (ponderados al 10%)
+Grupo I-A (ponderados al 20%)
+Grupo I-B (ponderados al 2%)
+Grupo I-B (ponderados al 4.0%)
+Grupo II (ponderados al 0%)
+Grupo Il (ponderados al 20%)
+Grupo Il (ponderados al 50%)
+Grupo Il (ponderados al 100%)
+Grupo Il (ponderados al 120%)
+Grupo Il (ponderados al 150%)
+Grupo III (ponderados al 2.5%)
+Grupo III (ponderados al 10%)
+Grupo III (ponderados al 11.50%)
+Grupo III (ponderados al 20%)
+Grupo III (ponderados al 23%)
+Grupo III (ponderados al 25%)
+Grupo III (ponderados al 28.75%)
+Grupo III (ponderados al 50%)
+Grupo III (ponderados al 57.5%)
+Grupo III (ponderados al 60%)
+Grupo III (ponderados al 75%)
+Grupo III (ponderados al 100%)
+Grupo III (ponderados al 115%)
+Grupo III (ponderados al 120%)
+Grupo III (ponderados al 138%)
+Grupo III (ponderados al 150%)
+Grupo III (ponderados al 172.5%)
+Grupo IV (ponderados al 0%)
+Grupo IV (ponderados al 20%)
+Grupo V (ponderados al 10%)
+Grupo V (ponderados al 20%)
+Grupo V (ponderados al 50%)
+Grupo V (ponderados al 115%)
+Grupo V (ponderados al 150%)
+Grupo VI (ponderados al 20%)
+Grupo VI (ponderados al 50%)
+Grupo VI (ponderados al 75%)
+Grupo VI (ponderados al 100%)
+Grupo VI (ponderados al 120%)
+Grupo VI (ponderados al 150%)
+Reporte de Resultados | 2T.2021
+Banco Santander México
+5,333.6
+0.5
+0.9
+0.0
+0.0
+0.0
+199.2
+0.0
+0.0
+2,248.0
+0.0
+28,233.1
+0.0
+0.0
+0.0
+0.0
+0.0
+24,993.8
+36.8
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+23,890.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+8,354.0
+0.0
+8,874.3
+0.0
+0.0
+0.0
+0.0
+46,291.0
+35,044.0
+70,867.6
+0.0
+0.0
+426.7
+0.0
+0.1
+0.0
+0.0
+0.0
+15.9
+0.0
+0.0
+179.8
+0.0
+2,258.7
+0.0
+0.0
+0.0
+0.0
+0.0
+1,999.5
+2.9
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1,911.2
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+668.3
+0.0
+709.9
+0.0
+0.0
+0.0
+0.0
+3,703.3
+2,803.5
+5,669.4
+0.0
+0.0
+Activos ponderados por
+riesgo
+Requerimiento de
+capital
+Santander
+85

@@ -1,0 +1,50 @@
+GRUPO FINANCIERO
+II. Discusión y Análisis de la Administración
+BANORTE
+Al comparar los Activos Sujetos a Riesgo de 2T21 respecto al 1T21 se puede observar:
+Disminución en Activos Sujetos a Riesgo de Crédito (Cartera) guiado por la dinámica de crecimiento trimestral en las
+carteras de crédito mayorista.
+Disminución en Activos Sujetos a Riesgo de Crédito (Otros) guiado por el efecto del alza de tasas en el requerimiento
+de Ajuste de Valuación Crediticia para las operaciones de derivados.
+Incremento en Activos Sujetos a Riesgo de Mercado por impacto de la disminución de APRs en modelos internos de
+balance, ya que estos tienen un beneficio máximo como porcentaje de los APRs, establecido en la regulación.
+Al comparar los Activos Sujetos a Riesgo de 2T21 respecto al 2T20 se puede observar:
+Disminución en Activos Sujetos a Riesgo de Crédito (Cartera) guiado por la calibración anual de modelos internos, así
+como por la dinámica de crecimiento en las carteras de crédito mayorista.
+Disminución en Activos Sujetos a Riesgo de Crédito (Otros) guiado por el efecto del alza de tasas en el requerimiento
+de Ajuste de Valuación Crediticia para las operaciones de derivados.
+Incremento en Activos Sujetos a Riesgo de Mercado por dinámica de crecimiento de las posiciones, descalces entre
+posiciones activas y pasivas en el balance para efectos regulatorios, volatilidad en el tipo de cambio, e impacto de la
+disminución de APRs en modelos internos de balance, ya que estos tienen un beneficio máximo como porcentaje de
+los APRs, establecido en la regulación.
+Razón de Apalancamiento (Banco Mercantil del Norte)
+A continuación, se presenta el índice de apalancamiento conforme a la regulación de la CNBV:
+Apalancamiento
+Var. Vs.
+2T20
+1T21
+2T21
+(Millones de Pesos)
+1T21
+2T20
+Capital Básico
+163,806
+183,236
+179,769
+(1.9%)
+9.7%
+Activos Ajustados
+1,482,849
+1,527,496
+1,536,418
+0.6%
+3.6%
+Razón de Apalancamiento
+11.05%
+12.00%
+11.70%
+(30 pb)
+65 pb
+Los Activos Ajustados se definen conforme a lo establecido en la Circular Única de Bancos.
+Información Financiera 2T21
+26

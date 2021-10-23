@@ -1,0 +1,85 @@
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+DEA 1M
+DEA 3M
+DEA 6M
+DEA 12M
+Fuente de información sobre Evolución y Volatilidad Histórica: www.bloomberg.com.mx
+Ejercicios que cuantifiquen los posibles rendimientos o pérdidas que bajo diferentes escenarios pudieran generarse
+SXE108R DC063
+Pago de derechos
+bajo distintos valores del valor observado
+$140
+$130
+$120
+$110
+$100
+50.00
+70.00
+90.00
+110.00
+130.00
+150.00
+$90
+$80
+Valor observado
+Nivel de mercado Valor observado Pago de derechos
+1.00
+38.37
+Ps. 90.00
+6.00
+230.19
+Ps. 90.00
+11.00
+422.02
+Ps. 90.00
+16.00
+613.85
+Ps. 90.00
+21.00
+805.67
+Ps. 90.00
+26.00
+997.50
+Ps. 90.00
+31.00
+1189.33
+Ps. 90.00
+36.00
+1381.15
+Ps. 90.00
+41.00
+1572.98
+Ps. 90.00
+46.00
+1764.81
+Ps. 90.00
+51.00
+1956.64
+Ps. 90.00
+56.00
+2148.46
+Ps. 90.00
+61.00
+2340.29
+Ps. 90.00
+66.00
+2532.12
+Ps. 90.00
+71.00
+2723.94
+Ps. 90.00
+76.00
+2915.77
+Ps. 90.00
+Reporte de Resultados | 3T.2020
+Banco Santander México
+Santander
+130

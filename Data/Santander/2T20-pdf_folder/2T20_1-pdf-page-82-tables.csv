@@ -1,0 +1,17 @@
+Table
+12 ,Impuesto a la utilidad diferida (a favor) proveniente de diferencias temporales ,21 ,"6,478 ","BG15= 15,983 Menos: monto que computa como activo en riesgo 9,505 "
+13 ,Reservas reconocidas como capital complementario ,50 ,86 ,"BG8= Cartera de crédito (neta) 680,149 "
+14 ,Inversiones en deuda subordinada ,26-B ,0 ,
+15 ,Inversiones en organismos multilaterales ,26- D ,0 ,"BG13= 36,498 Menos: inversiones permanentes en subsidiarias 32,190; inversiones en cámaras de compensación 457; inversiones permanentes en asociadas 933; otras inversiones que computan como activo en riesgo 2,918 "
+16 ,Inversiones en empresas relacionadas ,26-E ,"32,190 ","BG13= = 36,498 Menos: inversiones en cámaras de compensación 457; inversiones permanentes en asociadas 933; otras inversiones que computan como activo en riesgo 2,918 "
+17 ,Inversiones en capital de riesgo ,26-F ,0 ,
+18 ,Inversiones en fondos de inversión ,26 G ,0 ,
+19 ,Financiamiento para la adquisición de acciones propias ,26-H ,0 ,
+20 ,Cargos diferidos y pagos anticipados ,26-J ,978 ,"BG16= 9,083 Menos: intangibles 8,724; otros activos que computan como activos en riesgo 1,103; Más: Intangibles que se reconocen en el pasivo 1,722 "
+21 ,Participación de los trabajadores en las utilidades diferida (neta) ,26 L ,0 ,
+22 ,Inversiones del plan de pensiones por beneficios definidos ,26-N ,0 ,
+23 ,Inversiones en cámaras de compensación ,26-P ,457 ,"BG13= 36,498 Menos: inversiones permanentes en subsidiarias 32,190; inversiones permanentes en asociadas 933; otras inversiones que computan como activo en riesgo 2,918 "
+,Pasivo ,,,
+24 ,Impuestos a la utilidad diferida (a cargo) asociados al crédito mercantil ,8 ,,
+
+

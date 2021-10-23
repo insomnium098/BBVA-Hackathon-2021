@@ -1,0 +1,127 @@
+Grupo IX (ponderados al 100%)
+Grupo IX (ponderados al 115%)
+Grupo IX (ponderados al 150%)
+Grupo X (ponderados al 1250%)
+Otros Activos (ponderados al 0%)
+Otros Activos (ponderados al 100%)
+Ajuste por Valuación Crediticia en Operaciones Derivadas
+Bursatilizaciones con Grado de Riesgo 1 (ponderados al 20%)
+Bursatilizaciones con Grado de Riesgo 2 (ponderados al 50%)
+Bursatilizaciones con Grado de Riesgo 3 (ponderados al 100%)
+Bursatilizaciones con Grado de Riesgo 4 (ponderados al 350%)
+Bursatilizaciones con grado de Riesgo 4, o 5 o No calificados (ponderados al 1250%)
+Rebursatilizaciones con Grado de Riesgo 1 (ponderados al 40%)
+Rebursatilizaciones con Grado de Riesgo 2 (ponderados al 100%)
+Rebursatilizaciones con Grado de Riesgo 3 (ponderados al 225%)
+Rebursatilizaciones con Grado de Riesgo 4 (ponderados al 650%)
+Rebursatilizaciones con grado de Riesgo 4, 5 o No Calificados (ponderados al 1250%)
+Método estándar alternativo
+Promedio del requerimiento por riesgo de mercado y de
+crédito de los últimos 36 meses
+Referencia
+1
+Emisor
+2
+3
+Marco legal
+4
+5
+6
+7
+8
+9
+9A
+10
+11
+Fecha de emisión
+12
+13
+14
+15
+15A
+Reporte de Resultados | 4T.2020
+Banco Santander México
+41,861
+0
+0
+1,389
+0
+24,121
+26,384
+2,888
+0
+0
+0
+1,049
+0
+0
+0
+0
+0
+Banco Santander México, S. A.
+Ley del Mercado de Valores
+$15,210,402,155.77
+3,349
+0
+0
+111
+0
+1,930
+2,111
+231
+0
+0
+0
+84
+0
+0
+0
+0
+0
+5,133
+Tabla III.3
+Activos ponderados sujetos a riesgo de operacional
+Activos ponderados por riesgo
+Promedio de los ingresos netos anuales positivos
+Tabla IV.1
+Principales características de los títulos que forman parte del Capital Neto
+MX41BS060013
+Institución de Crédito sin consolidar
+Subsidiarias
+Acciones Serie F
+Pesos Mexicanos
+Perpetuidad
+Sin vencimiento
+Requerimiento
+de capital
+Santander
+Método empleado
+Identificador ISIN, CUSIP o Bloomberg
+Tratamiento regulatorio
+Nivel de capital con transitoriedad
+Nivel de capital sin transitoriedad
+Nivel del instrumento
+Tipo de instrumento
+Monto reconocido en el capital regulatorio
+Valor nominal del instrumento
+Moneda del instrumento
+Clasificación contable
+Plazo del instrumento
+Fecha de vencimiento
+Cláusula de pago anticipado
+Primera fecha de pago anticipado
+Eventos regulatorios o fiscales
+64,166
+60,902
+Opciones
+de los últimos 36 meses
+Característica
+N.A
+$3.78
+Capital
+N.A
+No
+N.A
+No
+Básico |
+83

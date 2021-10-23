@@ -1,0 +1,71 @@
+BBVA
+Creando Oportunidades
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Valor en riesgo de títulos para negociar
+VaR
+VaR
+Millones de pesos
+1 Día
+10 Días
+1T 2021
+Renta fija
+203
+646
+Renta variable
+9
+37
+Cambios
+21
+75
+Vega
+23
+73
+Total
+203
+645
+Grupo Financiero BBVA Bancomer, S.A. de C.V.
+Valor en riesgo de títulos para negociar
+1T
+2T
+3T
+4T
+1T
+Millones de pesos
+2020
+2020
+2020
+2020
+2021
+VaR 1 día
+121
+175
+148
+159
+203
+VaR 10 días
+381
+549
+482
+501
+645
+Asimismo, se realizan simulaciones diarias de las pérdidas O ganancias de las carteras
+mediante reevaluaciones de las mismas bajo escenarios catastróficos (stress test). Estas
+estimaciones se generan aplicando a los factores de riesgo, cambios porcentuales observados
+en determinado período de la historia, el cual abarca turbulencias significativas del mercado.
+Con frecuencia mensual se realizan pruebas de "backtesting" para comparar las pérdidas y
+ganancias diarias que se hubieran observado sise hubiesen mantenido las mismas posiciones,
+considerando únicamente el cambio en valor debido a movimientos del mercado contra el
+cálculo de valor en riesgo y en consecuencia poder calibrar los modelos utilizados.
+Riesgo de Liquidez
+Información Cuantitativa
+(a) Límites de concentración respecto de los distintos grupos de garantías recibidas y las
+fuentes principales de financiamiento.
+De manera adicional a los ratios regulatorios de liquidez y el esquema de control del
+riesgo de liquidez de BBVA México se basan en el establecimiento de límites en tres ejes
+fundamentales: a) autofinanciación a través del ratio LtSCD O Loan to Stable Customer
+Deposits (relación máxima de la financiación de la inversión crediticia neta con recursos
+estables de clientes); b) diversificación de la estructura de financiación a través de un
+importe máximo de Financiación a Corto Plazo (FCP); y c) capacidad de absorción de
+shocks de liquidez a través de la Capacidad Básica a 30 días (CB 30d - -cociente de buffer
+de liquidez disponible y las salidas netas de liquidez previstas dentro del plazo por vencer
+36
