@@ -1,4 +1,11 @@
 
+## Overview
+Este pipeline permite el procesamiento y normalización de los resultados financieros
+de bancos en pdf a tablas csv y a un dashboard, permitiendo tener un overview de los
+bancos competidores de forma fácil y automatizada.
+
+Además permite tener una plantilla especial para cada banco, permitiendo su
+modificación para procesar otros bancos no analizados actualmente.
 
 ## Procesamiento de pdf a tablas
 
@@ -49,13 +56,12 @@ especificaciones:
 La funcion ab_team devuelve un dataframe que contiene la informacion condensada
 de todas las entidades financieras incluidas en params
 
-* Base de datos
+## Base de datos
 
 Los csv resultantes fueron cargados en una BD E/R en el servicio de Amazon RDS
 
-* Dashboard
+## Dashboard
 
 El dashboard se realizó en Amazon QuickSight, por su funcionamiento se enviaron
-invitaciones al dashboard a los jueces del evento. El link del dashboard es el siguiente:
-
-XXXXXXXXXX
+invitaciones al dashboard a los jueces del evento. Para acceder al dashboard es necesario
+aceptar la invitación e ingresar a QuickSight, ahi el dashboard aparecerá
