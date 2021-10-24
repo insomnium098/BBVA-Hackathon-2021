@@ -58,6 +58,11 @@ especificaciones:
 La funcion ab_team devuelve un dataframe que contiene la informacion condensada
 de todas las entidades financieras incluidas en params
 
+Para cada banco se extrajeron 3 tablas:
+ * Estado de Resultados
+ * Balance General Activos
+ * Balance General Pasivos
+
 ## Base de datos
 
 Los csv resultantes fueron cargados en una BD E/R en el servicio de Amazon RDS
