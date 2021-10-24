@@ -1,6 +1,6 @@
 
 ## Overview
-Este pipeline permite el procesamiento y normalización de los resultados financieros
+Este pipeline esta implementado completamente en AWS, permite el procesamiento y normalización de los resultados financieros
 de bancos en pdf a tablas csv y a un dashboard, permitiendo tener un overview de los
 bancos competidores de forma fácil y automatizada.
 
