@@ -7,6 +7,8 @@ bancos competidores de forma fácil y automatizada.
 Además permite tener una plantilla especial para cada banco, permitiendo su
 modificación para procesar otros bancos no analizados actualmente.
 
+![Diagrama](/imagenes/diagrama_general.jpeg)
+
 ## Procesamiento de pdf a tablas
 
 El codigo se encuentra dividido en dos partes:
@@ -65,3 +67,10 @@ Los csv resultantes fueron cargados en una BD E/R en el servicio de Amazon RDS
 El dashboard se realizó en Amazon QuickSight, por su funcionamiento se enviaron
 invitaciones al dashboard a los jueces del evento. Para acceder al dashboard es necesario
 aceptar la invitación e ingresar a QuickSight, ahi el dashboard aparecerá
+
+
+![Diagrama](/imagenes/resultado_consolidado.jpeg)
+
+![Diagrama](/imagenes/balance_general_activos.jpeg)
+
+![Diagrama](/imagenes/balance_general_pasivos.jpeg)
