@@ -1,0 +1,57 @@
+GRUPO FINANCIERO
+BANORTE
+26
+4.11. Riesgo de Balance
+El riesgo de tasa de interés consiste en estimar el impacto en el margen financiero. El margen financiero es la diferencia
+entre los ingresos generados por intereses y los costos asociados a pasivos con costo financieros (gastos por interés).
+Dependiendo de la estructura del balance, los movimientos en las tasas de interés pueden tener impactos positivos o
+negativos en los escenarios de alza o baja en tasas.
+Debido a que el margen financiero obedece a la estructura de flujos de los activos y pasivos en el balance, el modelo
+utilizado para estimar esta métrica, es un modelo de brechas de reprecio. Todos los activos y pasivos se alocan en distintas
+bandas dependiendo su naturaleza de reprecio y/o estructura de vencimientos. Una vez con la estructura de reprecio, se
+puede calcular el impacto de cada banda en el indicador.
+4.11.1. Sensibilidad del Margen Financiero
+La sensibilidad de margen financiero es una métrica estática que considera el ejercicio presupuestal a doce meses, es decir,
+solo las bandas menores a un año son impactadas por los distintos movimientos de tasas de interés. Los supuestos son:
+Considera los efectos de repreciación de todos los activos y pasivos financieros del libro de balance.
+El seguimiento del libro de negociación se lleva por separado.
+Considera el comportamiento de todos los modelos de balance (ej. Prepago hipotecario, y sobrevivencia de
+depósitos).
+El balance es considerado estático y constante a lo largo del tiempo, es decir, no se considera ni crecimiento
+orgánico ni movimientos en la estructura de tasas ni cambios en la mezcla o estrategias de productos.
+En la siguiente tabla, se aprecia la Sensibilidad del Margen Financiero para Banco Banorte.
+Sensibilidad al Margen
+Balance en Moneda Nacional
+Balance en Moneda Extranjera
+Durante en 2T20, la sensibilidad del balance en moneda nacional a una variación de 100 pbs en tasas nacionales pasa de Ps
+462 millones en 1T20 a Ps 428 millones. Por otro lado, la sensibilidad del balance en moneda extranjera a una variación de
+100 pbs en tasas extranjeras pasa de Ps 570 millones a Ps 592 millones. Es importante destacar que las posiciones de
+Mercados Financieros inmunizan, vía resultados por intermediación, el impacto de baja en tasas en el Balance.
+Para el 2T20 la sensibilidad del balance en moneda nacional ha disminuido Ps 572 millones desde el máximo histórico de
+Enero 2019 (Ps 1,001 millones), guiado por 4 factores: 1) disminución en activos de tasa variable al tiempo que incrementaron
+pasivos de tasa variable; 2) la gestión de la estructura de fondeo de la tesorería para optimizar el margen de interés neto
+(nuevas emisiones de tasa variable de bajo costo con impacto positivo en el margen); 3) la inmunización del balance ante la
+perspectiva de bajada de tasas de mercado a través del reconocimiento de las coberturas naturales proporcionadas por los
+depósitos estables, reduciendo el costo financiero de las coberturas; 4) la estructura actual de liquidez y la gestión de la
+misma que ha resultado en un incremento en valores a tasa variable.
+Por otro lado, la sensibilidad del balance en moneda extranjera se ha mantenido estable teniendo como principal fuente de
+riesgo el portafolio de cartera en moneda extranjera a tasa variable con estructuras de reprecio de 3 meses o menos.
+Es importante mencionar que la sensibilidad del margen ante una baja en tasas está parcialmente compensada por el perfil
+del riesgo base del balance. Este último se encuentra asociado al uso de diferentes índices sobre los cuales se calculan los
+intereses de las posiciones de tasa variable activas y pasivas. En el balance de Banorte, la cartera se encuentra principalmente
+referenciado a la TIIE, mientras que los depósitos se basan en CETES, teniendo que la diferencia entre la TIIE promedio y los
+CETES promedio implica riesgo de base con efecto positivo cuando los CETES disminuye más que la TIIE. Lo anterior resulta
+en un efecto positivo en el margen financiero en el ambiente actual.
+La situación actual ha incrementado la diferencia entre índices que antes se consideraba estable. En el mercado local, al
+2T20, la diferencia promedio entre TIIE y CETES fue de 59 puntos básicos, contra 27 puntos básicos al cierre de 1T20.
+Administración de Riesgos 2T20
+1T20
+Var vs. 1T20
+462
+570
+2T20
+428
+592
+(Millones de pesos)
+(7.4%)
+3.9%

@@ -1,0 +1,100 @@
+GRUPO FINANCIERO
+BANORTE
+En la siguiente tabla se detalla el valor de mercado de acuerdo a los rangos de calificación para las contrapartes del portafolio
+de los productos derivados operados.
+Intervalo de Calificación
+MtM 2T20
+Promedio 2T20
+(Millones de pesos)
+AAA/AA-
+0
+0
+A+/A-
+(12,690)
+(13,033)
+BBB+/BBB-
+1,063
+4
+BB+/BB-
+8,638
+7,597
+B+/B-
+1,844
+1,451
+CCC/C
+0
+0
+SC
+9,174
+8,239
+Total
+8,029
+4,258
+2.3. Garantía de los Créditos
+Las garantías representan la segunda fuente de recuperación del crédito, cuando la cobertura del mismo vía la actividad
+preponderante del solicitante se ve comprometida. Las garantías pueden ser reales o personales.
+Los principales tipos de garantías reales son los siguientes:
+Hipotecaria Civil
+Hipotecaria Industrial
+Prendaria Ordinaria
+Prenda sin Transmisión de Posesión
+Prenda/Bono de Prenda
+Bono de Prenda
+Caución Bursátil
+Prenda Bursátil
+Fideicomiso de Administración y Pago
+Fondos de Fomento
+Para el caso de bienes físicos otorgados en garantía, la Institución cuenta con políticas y procesos para dar seguimiento y
+realizar visitas de inspección periódicas para cerciorarse de la existencia, legitimidad, valor y calidad de las garantías que
+fueron aceptadas como soporte alterno del crédito. Por otro lado, cuando las garantías son valores, existen políticas y
+procesos para dar seguimiento a la valuación de mercado de las mismas y requerir garantías adicionales en caso de ser
+necesario.
+A continuación se muestra la cartera de crédito cubierta por tipo de garantía:
+2T20
+Tipo de Garantía
+Arrendadora
+(Millones de pesos)
+Banorte
+Sólida
+GFNorte*
+y Factor**
+Cartera Total
+787,565
+29,493
+0
+800,891
+Cartera Cubierta por Tipo de Garantía
+Garantías Reales Financieras
+19,542
+0
+0
+19,542
+Garantías Reales No Financieras
+441,373
+6,805
+0
+448,179
+Pari Passu
+30,766
+0
+0
+30,766
+Primeras Pérdidas
+17,770
+0
+0
+17,770
+Garantías Personales
+21,460
+5,575
+0
+27,035
+Cartera Total Cubierta
+530,911
+12,380
+0
+543,292
+*Cartera de Crédito Total GFNorte incluye eliminaciones y registros contables por (Ps 16,167).
+** La cartera de AyF no incluye arrendamiento puro.
+Administración de Riesgos 2T20
+13

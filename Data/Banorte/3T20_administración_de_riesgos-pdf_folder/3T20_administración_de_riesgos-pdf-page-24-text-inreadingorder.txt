@@ -1,0 +1,74 @@
+T
+GRUPO FINANCIERO
+BANORTE
+24
+Durante 3T20, se observó un CCL promedio de los 92 días del trimestre para Banco y Sofomes de 193.57%, con CCL al cierre
+de 3T20 de 188.27%, situándose por arriba del Perfil de Riesgo Deseado y el mínimo regulatorio establecido en la normativa
+vigente. Los resultados anteriores indican que Banorte se encuentra en posición de hacer frente a la totalidad de sus
+obligaciones de corto plazo ante un escenario de crisis¹.
+4.4. Evolución de los Componentes del CCL
+La evolución de los componentes del Coeficiente de Cobertura de Liquidez entre el cierre del 2T20 y el cierre del 3T20 se
+presenta en la siguiente tabla.
+Componente CCL
+2T20
+3T20
+Var vs. 2T20
+(Millones de pesos)
+Activos Líquidos
+92,222
+130,857
+41.9%
+Entradas de Efectivo
+99,660
+79,080
+(20.7%)
+Salidas de Efectivo
+151,496
+148,584
+(1.9%)
+Los Activos Líquidos que computan para el CCL del Banco y Sofomes entre el cierre del 2T20 y el cierre del 3T20 presentan
+la siguiente distribución:
+Tipo de Activo
+2T20
+3T20
+Var vs. 2T20
+(Millones de pesos)
+Total
+92,222
+130,857
+41.9%
+Nivel I
+82,317
+121,192
+47.1%
+Nivel Il
+9,851
+9,666
+(1.9%)
+Nivel Il A
+5,852
+5,652
+(3.4%)
+Nivel Il B
+3,999
+4,013
+0.4%
+Las variaciones en el Coeficiente de Cobertura de Liquidez entre el 2T20 y el 3T20, principalmente en lo que respecta al
+aumento de Activos Líquidos, son consecuencia de diversas iniciativas orientadas a fortalecer nuestra liquidez.
+4.5. Riesgo de Liquidez en moneda extranjera
+Para la cuantificación y el seguimiento del Riesgo de Liquidez se utilizan, para el portafolio de dólares, los criterios
+establecidos por Banco de México para la elaboración del Coeficiente de Liquidez, en moneda extranjera.
+El Coeficiente de Liquidez en moneda extranjera debe interpretarse como la capacidad que tiene la institución de cubrir sus
+descalces de liquidez con activos líquidos, ambos en moneda extranjera.
+4.6. Principales iniciativas que incidieron sobre la liquidez de Banorte durante 3T20
+La estrategia de liquidez de Banorte está orientada a sostener niveles adecuados en función a las circunstancias
+prevalecientes; en este sentido, ante la actual contingencia, decidimos incrementar nuestros niveles de liquidez a través de
+nuestra estructura de fondeo. En concreto:
+a) Reforzamos la calidad de la captación con nuestros clientes privilegiado su estabilidad y costo.
+b) En Julio 2020 emitimos USD 500 millones de Notas AT1 Perp NC10 (Capital Básico No Fundamental) que no solo
+apuntalan el Capital Regulatorio del Banco, sino también los niveles de liquidez de la Institución,
+Cabe destacar que Banorte no ha usado las Facilidades Ordinarias ni las Facilidades Extraordinarias de Banco de México
+durante el 3T20.
+4.7. Exposición a Instrumentos Derivados y posibles llamadas de Margen
+La información del Coeficiente de Cobertura de Liquidez es preliminar y está sujeto a la validación de Banco de México.
+Administración de Riesgos 3T20

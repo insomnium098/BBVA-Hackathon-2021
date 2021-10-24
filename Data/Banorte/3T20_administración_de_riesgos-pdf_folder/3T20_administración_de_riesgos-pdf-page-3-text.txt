@@ -1,0 +1,52 @@
+GRUPO FINANCIERO
+BANORTE
+Administración de Riesgos
+La función de Administración de Riesgos en Grupo Financiero Banorte es un pilar fundamental para la determinación y
+ejecución de la planeación estratégica de la Institución. Asimismo, la gestión y políticas de Riesgos en el Grupo están
+alineadas al cumplimiento de la regulación y a las mejores prácticas del mercado.
+1. OBJETIVOS, ALCANCE Y FUNCIONES DE ADMINISTRACIÓN DE RIESGOS
+Los objetivos principales de la función de Administración de Riesgos en GFNorte son:
+Proporcionar a las diferentes áreas de negocio reglas claras que coadyuven a minimizar el riesgo y que aseguren estar
+dentro de los parámetros establecidos y aprobados por el Consejo de Administración y el Comité de Políticas de Riesgo
+(CPR).
+Establecer mecanismos para dar seguimiento a la toma de riesgos dentro de GFNorte con sistemas y procesos robustos.
+Verificar la observancia del Perfil de Riesgo Deseado.
+Calcular y dar seguimiento al capital de GFNorte, bajo escenarios normales y adversos, con el fin de cubrir pérdidas no
+esperadas por movimientos del mercado, quiebras crediticias y riesgos operativos.
+Implementar modelos de valuación para los distintos tipos de riesgos.
+Establecer procedimientos de optimización del portafolio y administración de la cartera de crédito.
+Actualizar y dar seguimiento al Plan de Contingencia para restaurar el nivel de capital y liquidez en caso de eventos
+adversos.
+Adicionalmente, GFNorte cuenta con metodologías sólidas para administrar los riesgos cuantificables tales como el Riesgo
+Crédito, el Riesgo Mercado, el Riesgo Liquidez, el Riesgo Operacional, el Riesgo de Concentración y el Riesgo de Contraparte.
+Riesgo Crédito: volatilidad de los ingresos como consecuencia de la constitución de reservas por deterioro de los créditos y
+pérdidas potenciales por falta de pago de un acreditado o contraparte.
+Riesgo Mercado: volatilidad de los ingresos por cambios en las condiciones del mercado, que inciden sobre la valuación de
+las posiciones por operaciones activas, pasivas o causantes de pasivos contingentes, tales como: tasas de interés, sobretasas,
+tipos de cambio, índices de precios, etc.
+Riesgo Liquidez: pérdida potencial ante la imposibilidad de renovar pasivos o de contratar otros en condiciones normales
+para GFNorte, por la venta anticipada o forzosa de activos a descuentos inusuales para hacer frente a sus obligaciones.
+Riesgo Operacional: pérdida resultante de una falta de adecuación o de un fallo de los procesos, del personal, de los sistemas
+internos o bien de acontecimientos externos. Esta definición incluye al Riesgo Tecnológico y al Riesgo Legal. El Riesgo
+Tecnológico incluye pérdidas potenciales por daños, interrupción, alteración o fallas derivadas del uso o dependencia en el
+hardware, software, sistemas, aplicaciones, redes y cualquier otro canal de distribución de información, mientras que el
+Riesgo Legal involucra la pérdida potencial por sanciones derivadas del incumplimiento de las disposiciones legales y
+administrativas o la emisión de resoluciones judiciales desfavorables inapelables en relación con las operaciones que
+GFNorte lleva a cabo.
+Riesgo de Concentración: pérdida potencial atribuida a la elevada y desproporcional exposición a factores de riesgo
+particulares dentro de una misma categoría o entre distintas categorías de riesgo.
+Por otro lado, en lo referente a Riesgos No Cuantificables, en GFNorte existen objetivos definidos en el Manual de
+Administración de Riesgos para:
+Riesgo Reputacional: pérdida potencial en el desarrollo de la actividad de la Institución provocado por el deterioro en la
+percepción que tienen las distintas partes interesadas, tanto internas como externas, sobre su solvencia y viabilidad.
+1.1. Estructura y Gobierno Corporativo de Administración de Riesgos
+En relación a la estructura y organización de la función para la Administración Integral de Riesgos, el Consejo de
+Administración es el responsable de autorizar las políticas y estrategias generales así como:
+El Perfil de Riesgo Deseado para GFNorte.
+El Marco para la Administración Integral de Riesgos y el Plan de Financiamiento de Contingencia.
+Los Límites de Exposición al Riesgo, los Niveles de Tolerancia al Riesgo y los mecanismos para la realización de
+acciones correctivas.
+El Plan de Contingencia.
+Los Resultados de los Escenarios Supervisores e Internos de Adecuación de Recursos.
+Administración de Riesgos 3T20
+3

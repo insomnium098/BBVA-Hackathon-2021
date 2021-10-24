@@ -1,0 +1,77 @@
+GRUPO FINANCIERC
+BANORTE
+Promedio 2T21
+23
+23
+30
+3
+13
+Con base en las condiciones que se establecen dentro los contratos de operación de instrumentos financieros derivados
+se consideran niveles de tolerancia de exposición, en función a la calificación que mantengan las entidades involucradas
+en la transacción. La siguiente tabla presenta el monto de garantías a entregar en caso de deterioro por baja de calificación
+de la institución. Cabe mencionar que con la mayor parte de las contrapartes se ha migrado a umbral (threshold) cero, por
+lo que las garantías a entregar no dependen de la calificación crediticia sino que obedecen a movimientos de mercado:
+Banorte
+Salidas Netas de Efectivo
+2T21
+Promedio 2T21
+(Millones de pesos)
+Salida de Efectivo con Downgrade de 1 Escalón
+0
+0
+Salida de Efectivo con Downgrade de 2 Escalones
+0
+0
+Salida de Efectivo con Downgrade de 3 Escalones
+0
+0
+En la siguiente tabla se detalla el valor de mercado de acuerdo a los rangos de calificación para las contrapartes del
+portafolio de los productos derivados operados.
+Banorte
+Intervalo de Calificación
+MtM 2T21
+Promedio 2T21
+(Millones de pesos)
+AAA/AA-
+0
+0
+A+/A-
+(5,923)
+(6,959)
+BBB+/BBB-
+301
+693
+BB+/BB-
+3,352
+4,507
+B+/B-
+55
+443
+CCC/C
+0
+0
+SC
+2,150
+3,215
+Total
+(65)
+1,899
+A continuación se presenta la exposición al riesgo de contraparte de las operaciones con instrumentos financieros
+Derivados para Casa de Bolsa, así como el efecto de compensación (neteo) y la mitigación de la exposición con base al
+agregado de las garantías relacionadas con las operaciones celebradas (incluye operaciones con Banco de México. No
+incluye operaciones liquidadas a través de contrapartes centrales).
+Posición Casa de Bolsa
+2T21
+(Millones de pesos)
+Swap Tasa de Interés (IRS)
+69
+Total
+69
+Valor Razonable Positivo
+77
+(Valor de Mercado positivo)
+Efecto del neteo*
+8
+*La diferencia entre el valor de mercado positivo (sin considerar el neteo de las posiciones) y el valor de mercado del portafolio.
+No se incluyen operaciones liquidadas en Cámara de Compensación debido a que no tienen riesgo contraparte.
+Administración de Riesgos 2T21

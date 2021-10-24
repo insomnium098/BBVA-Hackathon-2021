@@ -1,0 +1,55 @@
+GRUPO FINANCIERO
+BANORTE
+ANEXO
+MODELOS INTERNOS DE CALIFICACIÓN DE CARTERA DE CRÉDITO PARA CONSTITUCIÓN DE
+RESERVAS Y CAPITAL POR RIESGO CREDITICIO
+1. Portafolios Aplicables
+GFNorte cuenta con Modelos Internos (MI) de calificación para la cartera de Consumo Revolvente y para la cartera de Auto
+Personas Físicas, para la constitución de reservas y capital bajo un Enfoque Avanzado estimando los tres parámetros
+requeridos para su cálculo: Probabilidad de Incumplimiento (PI), Severidad de la Pérdida (SP) y Exposición al Incumplimiento
+(EI).
+Adicionalmente, cuenta con un Modelo Interno de calificación para la cartera de Empresas, para la constitución de reservas
+y capital bajo un Enfoque Básico, estimando únicamente el parámetro de Probabilidad de Incumplimiento (PI). Las posiciones
+consideradas en la cartera de Empresas son aquellas de clientes personas morales (distintas a Entidades Federativas,
+Municipios y Entidades Financieras) y personas físicas con actividad empresarial, ambos con ventas anuales mayores o
+iguales a 14 millones de UDls.
+La metodología que utiliza la institución en la estimación de los parámetros y el cálculo de reservas y capital cuenta con los
+lineamientos establecidos por la Comisión Nacional Bancaria y de Valores (CNBV), en lo referente a las disposiciones de
+carácter general aplicables a las instituciones de crédito estipuladas en la Circular Única de Bancos (CUB) y su Anexo 15.
+De acuerdo a lo establecido en esos lineamientos (CUB y Anexo 15), anualmente es necesario efectuar una calibración y re-
+certificación de los Modelos Internos, incorporando la información más reciente disponible, atendiendo las observaciones
+de Auditoría Interna y de la CNBV y realizando los ajustes que se consideren necesarios para la mejora del modelo.
+2. Autorización de Modelos Internos
+GFNorte obtuvo el 15 de Noviembre de 2017 por parte de la Comisión Nacional Bancaria y de Valores la aprobación para el
+uso de Modelos Internos (MI) de calificación de Tarjeta de Crédito (TDC) para la constitución de reservas y capital regulatorios
+por riesgo de crédito con un enfoque avanzado (Oficio 111-3/706/2017). De acuerdo a lo establecido en la regulación, los
+Modelos volvieron a certificarse el 28 de Enero 2019 (Oficio 111-1/153/2019) y el 8 de Enero 2020 (Oficio 111/698/2019).
+Asimismo, obtuvo el 30 de Noviembre de 2018 por parte de la Comisión Nacional Bancaria y de Valores la aprobación para
+el uso del Modelo Interno de Empresas para la constitución de reservas y requerimiento de capital regulatorios por riesgo
+de crédito con un enfoque básico (Oficio 111-3/1472/2018) en Banco Mercantil del Norte, y el 1 de Marzo de 2019 para
+Arrendadora y Factor Banorte (Oficios 111-1/160/2019 y 111-1/161/2019). Los Modelos fueron certificados nuevamente el
+20 de Diciembre de 2019 (Oficio 111/690/2019) para Banorte, y para Arrendadora y Factor Banorte (Oficios 111/694/2019 y
+111/695/2019).
+Posteriormente GFNorte obtuvo el 25 de Noviembre de 2019 por parte de la Comisión Nacional Bancaria y de Valores la
+aprobación para el uso de Modelos Internos (MI) de calificación de Auto Personas Físicas (Auto) para la constitución de
+reservas y capital regulatorios por riesgo de crédito con un enfoque avanzado (Oficio 111/678/2019). Se volvieron a certificar
+los modelos el 30 de Septiembre de 2020 (Oficio 111-2/085/2020).
+3.
+Generalidades de los Modelos Internos
+Los Modelos Internos utilizados por la Institución, al igual que las Modelos Estándar, tienen un enfoque de pérdida esperada
+para los siguientes doce meses.
+Los Modelos Internos permiten tener una gestión integral del riesgo de crédito, al considerar el riesgo propio del portafolio
+de tal forma que los modelos resultantes muestren mayor predictibilidad, derivado de la utilización de atributos específicos
+para cada uno de los segmentos.
+3.1.1.
+Uso de los Modelos Internos
+Uno de los usos de las estimaciones internas es el realizar el cálculo de las Reservas y Capital de las Carteras de Tarjeta de
+Crédito, Autos Persona Física y Empresas, que se deberá calificar de acuerdo a lo establecido en las Disposiciones de Carácter
+General Aplicables a las Instituciones de Crédito (Circular Única de Bancos "CUB").
+Por otra parte, se generan informes relacionados al desempeño de los Modelos Internos que son enviados trimestralmente
+a la alta dirección. En estos informes se muestran las matrices de transición de la Probabilidad de Incumplimiento (PI); así
+como un análisis comparativo de los valores estimados contra los observados para cada uno de los parámetros: Probabilidad
+de Incumplimiento (PI), Severidad de la Pérdida (SP) y Exposición al Incumplimiento (EI) (los dos últimos sólo para Tarjeta
+de Crédito y Autos Persona Física).
+Administración de Riesgos 3T20
+34

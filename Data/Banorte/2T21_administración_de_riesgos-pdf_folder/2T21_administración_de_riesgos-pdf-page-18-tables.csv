@@ -1,0 +1,30 @@
+Table
+Cartera Comercial de Grupo Financiero Banorte ,Empresas bajo Modelo ,Interno Básico ,Millones de pesos 
+Nivel de Riesgo ,Saldo Contable ,Exposición al Incumplimiento (EI)* ,PI ponderada por El 
+1 ,"50,404 ","50,465 ",0.21% 
+2 ,"65,326 ","65,498 ",0.50% 
+3 ,"35,580 ","35,783 ",0.91% 
+4 ,"17,094 ","17,094 ",1.02% 
+5 ,"3,949 ","3,949 ",2.07% 
+6 ,"1,950 ","1,950 ",2.61% 
+7 ,731 ,732 ,11.55% 
+8 ,"1,690 ","1,690 ",28.12% 
+9 ,24 ,24 ,57.62% 
+Incumplimiento ,"1,570 ","1,570 ",100.00% 
+Total ,"178,319 ","178,755 ",1.79% 
+
+
+Table
+Cartera Comercial de Empresas bajo ,Modelo Interno Básico ,,Millones de pesos 
+Subsidiaria ,Saldo Contable* ,Exposición al Incumplimiento (EI)* ,Pérdida Esperada 
+Banco Mercantil del Norte ,"152,649 ","153,086 ",908 
+Arrendadora y Factor Banorte ,"25,670 ","25,670 ",348 
+Cartera Total* ,"178,319 ","178,755 ","1,256 "
+
+
+Table
+Backtesting* ,,,Millones de pesos 
+Periodo ,Pérdida Esperada Modelos Internos ,Pérdida Observada ,% Cobertura (Pérdida Esperada / Pérdida Observada) 
+2T20 ,749 ,194 ,385% 
+
+

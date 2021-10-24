@@ -1,0 +1,40 @@
+GRUPO FINANCIERO
+BANORTE
+El Consejo de Administración ha designado al CPR (Comité de Políticas de Riesgo) como el órgano responsable de
+administrar los riesgos a los que se encuentra expuesto el Grupo Financiero, así como vigilar que la realización de
+operaciones se apegue a los objetivos, políticas y procedimientos para la Administración de Riesgos.
+Por su parte, el CPR también vigila los límites globales de exposición de riesgo aprobados por el Consejo de Administración,
+además de aprobar los límites específicos para exposición a los distintos tipos de riesgo.
+El CPR está integrado por miembros propietarios y suplentes del Consejo de Administración, el Director General del Grupo
+Financiero, los Directores Generales de las Entidades del Grupo y el Director General de Administración de Riesgo y Crédito,
+además del Director General de Auditoría, participando este último con voz pero sin voto.
+Asimismo, el Comité de Activos y Pasivos (ALCO) y el Grupo de Capital y Liquidez, analizan, monitorean y toman decisiones
+en relación con el riesgo de tasas en el balance, el margen financiero, la liquidez y el capital neto de la Institución.
+La Unidad para la Administración Integral de Riesgos (UAIR) está a cargo de la Dirección General de Administración de
+Riesgo y Crédito (DGARC) y contempla entre sus funciones identificar, medir, vigilar, limitar, controlar, informar y revelar los
+distintos tipos de riesgo a que se encuentra expuesto GFNorte.
+La DGARC reporta al CPR, dando cumplimiento a la normatividad referente a la independencia de ésta respecto a las áreas
+de Negocio.
+1.2. Alcance y Naturaleza de la Administración de Riesgos en GFNorte
+La función de Administración de Riesgos se extiende a todas las subsidiarias de GFNorte. Dependiendo del giro de cada una
+de las líneas de Negocio del Grupo, se miden, administran y controlan los Riesgos de Crédito, Concentración, Mercado,
+Liquidez y Operacional.
+Para este fin, la DGARC se apoya en diversos sistemas de información y medición de los riesgos, los cuales cumplen con los
+estándares regulatorios y están alineados a las mejores prácticas internacionales en materia de Administración de Riesgos.
+Cabe mencionar, que la información contenida en los sistemas de riesgo, así como los reportes que éstos generan son
+respaldados de forma continua siguiendo procedimientos institucionales en materia de seguridad informática. Así mismo,
+los sistemas de riesgos contienen operaciones sujetas a Riesgo de Crédito, Mercado, Liquidez y Operacional, mismas que
+son procesadas y a las cuales se les aplican los diferentes modelos y metodologías vigentes, generándose periódicamente
+reportes para cada uno de estos riesgos.
+En GFNorte existen políticas y procesos para el empleo de coberturas y estrategias de mitigación y compensación para cada
+tipo de riesgo dentro y fuera de balance, mismas que están contenidas en los modelos, metodologías y procedimientos de
+Administración de Riesgos. Dentro de estas políticas y procesos se detallan entre otros: las características, aforos, aspectos
+legales, temas de instrumentación y grado de cobertura que debe considerarse para las coberturas al momento de
+compensar o mitigar el riesgo. Dentro de las políticas y procesos también se contempla la ejecución de garantías como
+mecanismo de compensación de riesgo cada vez que existe algún incumplimiento no subsanado por parte de los deudores.
+Como parte de las estrategias y los procesos para vigilar la eficacia continua de las coberturas o los mitigantes de los
+diferentes riesgos existen límites para cada tipo de Riesgo (Crédito, Mercado, Liquidez y Operacional), los cuales son
+monitoreados de forma continua y existen procedimientos establecidos para que los excesos y las causas de los mismos
+sean documentados y se implementen las acciones correctivas correspondientes para regresar a niveles de riesgo aceptables.
+Administración de Riesgos 3T20
+4

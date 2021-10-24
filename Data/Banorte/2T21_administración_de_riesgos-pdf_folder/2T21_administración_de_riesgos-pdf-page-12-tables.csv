@@ -1,0 +1,43 @@
+Table
+Posición Banorte (Millones de pesos) ,2T21 ,Promedio 2T21 
+Forwards ,367 ,375 
+FX Swap ,(10) ,(29) 
+FX ,1 ,1 
+Opciones ,144 ,210 
+Swap Tasa de Interés (IRS) ,"5,514 ","7,497 "
+Cross Currency Swap (CCIRS) ,"(6,222) ","(6,298) "
+Credit Default Swaps (CDS) ,141 ,142 
+Total ,(65) ,"1,899 "
+Valor Razonable Positivo ,"9,214 ","12,045 "
+(Valor de Mercado positivo) ,,
+Efecto del neteo* ,"9,278 ","10,152 "
+Garantías Entregadas (-) / Recibidas (+) ,,
+Efectivo ,"(6,804) ","(7,670) "
+Valores ,(10) ,(46) 
+Totales ,"(6,814) ","(7,716) "
+
+
+Table
+Banorte (Millones de pesos) ,Riesgo ,Potencial ,Riesgo ,Actual 
+Contrapartes Financieras ,2T21 ,Promedio 2T21 ,2T21 ,Promedio 2T21 
+FWD ,,,349 ,347 
+FX SWAP ,"2,688 ","3,082 ",(10) ,(29) 
+FX ,,,1 ,1 
+OPCIONES ,"2,158 ","3,809 ",294 ,317 
+SWAP TASA ,"6,510 ","6,791 ","(1,138) ","(1,915) "
+CCS ,"4,768 ","5,232 ","(6,233) ","(6,313) "
+CDS ,4 ,97 ,141 ,142 
+Total ,"5,654 ","5,642 ","(6,595) ","(7,448) "
+Clientes (No Financieras) ,2T21 ,Promedio 2T21 ,2T21 ,Promedio 2T21 
+,,,,
+
+
+Table
+,,,,
+FWD ,32 ,48 ,17 ,28 
+OPCIONES ,24 ,46 ,(150) ,(107) 
+SWAP TASA ,"8,753 ","10,847 ","6,653 ","9,412 "
+CCS ,223 ,224 ,11 ,14 
+Total ,"9,032 ","11,164 ","6,530 ","9,348 "
+
+

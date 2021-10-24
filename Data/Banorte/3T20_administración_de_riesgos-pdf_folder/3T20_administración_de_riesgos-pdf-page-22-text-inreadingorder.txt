@@ -1,0 +1,81 @@
+GRUPO FINANCIERO
+BANORTE
+22
+4. RIESGO DE BALANCE Y LIQUIDEZ
+Los objetivos de Riesgo de Balance y Liquidez en GFNorte son:
+Cumplir con el Perfil de Riesgo Deseado definido por el Consejo de Administración del Grupo.
+Dar un adecuado seguimiento al Riesgo de Balance y Liquidez.
+Cuantificar mediante el uso de diversas metodologías, la exposición al Riesgo de Balance y Liquidez.
+Medir la vulnerabilidad de la Institución a condiciones extremas de mercado y que dichos resultados se consideren
+para la toma de decisiones.
+Mantener adecuadamente informada en tiempo y forma a la Alta Dirección sobre la exposición al Riesgo de Balance
+y Liquidez y sobre cualquier desviación a los límites y al perfil de riesgo.
+Dar seguimiento a la política de cobertura de la institución y revisarla al menos anualmente.
+Mantener un nivel suficiente de Activos Líquidos elegibles para garantizar la liquidez de la Institución aún bajo
+condiciones de estrés.
+Las políticas de Riesgo de Liquidez en GFNorte son:
+Establecimiento de Límites Globales y Específicos de Administración de Riesgo de Balance y Liquidez.
+Medición y monitoreo del Riesgo de Balance y Liquidez.
+Información y revelación del Riesgo de Liquidez a las áreas tomadoras de riesgos, al CPR, al Consejo de
+Administración, a las Autoridades Financieras y al Público Inversionista.
+4.1. Metodologías y Exposición al Riesgo de Liquidez
+El Riesgo de Balance y Liquidez se gestiona a través de una serie de pilares fundamentales, entre los que se pueden destacar
+la utilización de indicadores clave, como el Coeficiente de Cobertura de Liquidez (CCL), brechas de re-precio y liquidez, así
+como las pruebas de estrés. Lo anterior se fundamenta en un marco de políticas y manuales, incluyendo un plan de
+financiamiento de contingencia y un plan de contingencia para la preservación de la solvencia y la liquidez. De manera
+similar se complementa con el seguimiento de límites y niveles de Perfil de Riesgo Deseado sobre las métricas de Riesgo de
+Balance y Liquidez en cuestión. La revelación de las métricas e indicadores referidos y el cumplimiento de éstos con los
+límites y el Perfil de Riesgo Deseado establecido se realiza a través de reportes mensuales al CPR, semanales al grupo de
+gestión de capital y liquidez y de manera trimestral al Consejo de Administración.
+4.2. Perfil y Estrategia de Financiamiento
+La composición y evolución del fondeo del banco durante el trimestre se muestra en la siguiente tabla:
+Fuente de Fondeo
+(Millones de pesos)
+Depósitos a la Vista
+Moneda Nacional (1)
+Moneda Extranjera (1)
+Depósitos a la Vista
+Depósitos a Plazo - Ventanilla
+Moneda Nacional (2)
+Moneda Extranjera
+Captación Ventanilla
+Mesa de Dinero
+Moneda Nacional (3)
+Moneda Extranjera (3)
+Captación Integral Sector Banca
+1.
+Incluye saldo de Cuenta Global de Captación sin Movimiento.
+2.
+Incluye eliminaciones entre subsidiarias
+3. Mesa de Dinero y Depósitos a Plazo
+Administración de Riesgos 3T20
+2T20
+Var vs. 2T20
+430,604
+51,611
+482,215
+211,308
+13,060
+706,583
+69,412
+42,900
+818,895
+3T20
+450,484
+59,067
+509,551
+206,691
+12,945
+729,187
+58,600
+43,482
+831,270
+4.6%
+14.4%
+5.7%
+(2.2%)
+(0.9%)
+3.2%
+(15.6%)
+1.4%
+1.5%

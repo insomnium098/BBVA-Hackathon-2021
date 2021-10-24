@@ -1,0 +1,54 @@
+GRUPO FINANCIERO
+BANORTE
+3.1.2.
+Proceso de Administración de Cobertura
+La Institución cuenta con un sistema de cobertura para el riesgo usando distintos escenarios, los cuales han demostrado
+que la cobertura se encuentra en niveles aceptables cubriendo las pérdidas observadas de los siguientes doce meses.
+3.1.3.
+Mecanismos de Control
+Como parte del proceso del control de los Sistemas de Calificación, se cuenta con un proceso de validación interna que
+consiste en un monitoreo de los modelos para asegurar la consistencia de los resultados de los mismos, así como un proceso
+de Validación Independiente y Autoevaluación que verifica que los modelos satisfagan las necesidades para las cuales fueron
+desarrollados y cumplan con todos los requisitos establecidos en la CUB para la certificación de Modelos Internos.
+En los procesos de control de los Sistemas de Calificación, participan las siguientes áreas independientes:
+Área de Desarrollo de Modelos. Responsable del desarrollo Modelos Internos.
+Validación Independiente. Es un área independiente al área de Desarrollo de Modelos que revisa, valida y replica
+el desarrollo de un modelo desde su inicio y, emite un dictamen sobre el mismo desde el punto de vista de su
+consistencia estadística.
+Auditor. Es un evaluador objetivo e independiente de los controles internos de la Institución que lleva a cabo el
+proceso de Autoevaluación del modelo de conformidad con el numeral VI del Anexo 15 y la fracción Il del artículo
+2 Bis 66 de la CUB.
+Áreas de Apoyo. Son todas aquellas áreas que participan a lo largo de las diferentes etapas del proyecto, como
+puede ser: la Dirección de Planeación, Oficina de Certificación, Riesgos, Auditoria, Contraloría, entre otros.
+4. Proceso de Calificación Interna
+4.1.1.
+Cartera de Empresas
+Para la cartera de Empresas se realiza el cálculo de la Probabilidad de Incumplimiento (PI) mediante el Modelo Interno con
+Enfoque Básico, tomando como base variables internas y externas.
+Una vez determinada la Pl, se consideran los parámetros de la Severidad de la Pérdida (SP) y de la Exposición al
+Incumplimiento (EI) bajo el Método Estándar y una vez obtenidos los factores anteriores, la Pérdida Esperada (PE) se calcula
+de la siguiente forma:
+4.1.2.
+Portafolio de Tarjetas de Crédito
+En el portafolio de Tarjetas de Crédito, la escala del Sistema de Calificación le permite a la Institución tener una mejor gestión
+del riesgo de crédito al considerar el riesgo propio del portafolio, para así hacer un seguimiento continuo de los acreditados
+y prevenir o aminorar eventos adversos.
+Su propósito principal es dividir la población en subconjuntos (buckets) homogéneos dentro de sí, de tal forma que los
+modelos resultantes muestren mayor predictibilidad, derivado de la utilización de atributos específicos para cada uno de
+los segmentos.
+La certificación para el portafolio de Tarjetas de Crédito se hizo bajo el Enfoque Avanzado, lo que significa que se estimaron
+los tres parámetros necesarios para el cálculo de la Pérdida Esperada, la Probabilidad de Incumplimiento (PI), la Severidad
+de la Pérdida (SP) y la Exposición al Incumplimiento (EI).
+4.1.3.
+Portafolio de Auto Personas Físicas
+La escala del Sistema de Calificación del portafolio Auto Personas Físicas, le permite a la Institución tener una mejor gestión
+del riesgo de crédito al considerar el riesgo propio del portafolio, para así hacer un seguimiento continuo de los acreditados
+y prevenir o aminorar eventos adversos.
+El propósito principal es dividir la población en subconjuntos (buckets) homogéneos dentro de sí, de tal forma que los
+modelos resultantes muestren mayor predictibilidad, derivado de la utilización de atributos específicos para cada uno de
+los segmentos.
+La certificación para el portafolio de Auto se hizo bajo el Enfoque Avanzado, es decir, se estimaron los tres parámetros
+necesarios para el cálculo de la Pérdida Esperada, la Probabilidad de Incumplimiento (PI), la Severidad de la Pérdida (SP) y
+la Exposición al Incumplimiento (EI).
+Administración de Riesgos 3T20
+35

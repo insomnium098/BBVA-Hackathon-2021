@@ -1,0 +1,99 @@
+GRUPO FINANCIERO
+BANORTE
+En la siguiente tabla se observa la cartera sujeta al Modelo Interno de Empresas clasificada por grado de riesgo:
+Cartera Comercial de Empresas bajo Modelo Interno Básico
+Millones de pesos
+Grupo Financiero Banorte
+Saldo Contable
+Exposición al
+PI ponderada
+Nivel de Riesgo
+Incumplimiento (EI)*
+por El
+1
+50,404
+50,465
+0.21%
+2
+65,326
+65,498
+0.50%
+3
+35,580
+35,783
+0.91%
+4
+17,094
+17,094
+1.02%
+5
+3,949
+3,949
+2.07%
+6
+1,950
+1,950
+2.61%
+7
+731
+732
+11.55%
+8
+1,690
+1,690
+28.12%
+9
+24
+24
+57.62%
+Incumplimiento
+1,570
+1,570
+100.00%
+Total
+178,319
+178,755
+1.79%
+* Los saldos de la El incluyen tanto el riesgo potencial como el saldo dispuesto.
+A continuación se muestra el desglose de exposición al riesgo y pérdida esperada por subsidiaria:
+Cartera Comercial de Empresas bajo Modelo Interno Básico
+Millones de pesos
+Exposición al
+Pérdida
+Subsidiaria
+Saldo Contable*
+Incumplimiento (EI)*
+Esperada
+Banco Mercantil del Norte
+152,649
+153,086
+908
+Arrendadora y Factor Banorte
+25,670
+25,670
+348
+Cartera Total*
+178,319
+178,755
+1,256
+* Los saldos incluyen Cartas de Crédito por Ps 11,387 millones, y excluyen ajustes contables por Ps 1 millón en Banorte y Ps 96
+millones en Arrendadora y Factor Banorte.
+** Los saldos de la El incluyen tanto el riesgo potencial como el saldo dispuesto.
+En la siguiente tabla se observa la diferencia entre la pérdida esperada que fue estimada por el Modelo Interno de Empresas
+y la pérdida real observada en los siguientes 12 meses. Dado que dicho modelo fue recientemente autorizado, se muestran
+los resultados estimados durante el periodo de corridas paralelas:
+Backtesting*
+Millones de pesos
+% Cobertura
+Pérdida Esperada
+Periodo
+Pérdida Observada
+(Pérdida Esperada /
+Modelos Internos
+Pérdida Observada)
+2T20
+749
+194
+385%
+Administración de Riesgos 2T21
+18

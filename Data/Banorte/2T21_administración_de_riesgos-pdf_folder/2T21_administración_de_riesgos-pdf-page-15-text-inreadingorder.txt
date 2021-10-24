@@ -1,0 +1,76 @@
+GRUPO FINANCIERO
+BANORTE
+805,746
+14,000
+471,739
+34,176
+17,988
+27,771
+565,673
+15
+Bono de Prenda
+Caución Bursátil
+Prenda Bursátil
+Fideicomiso de Administración y Pago
+Fondos de Fomento
+Para el caso de bienes físicos otorgados en garantía, la Institución cuenta con políticas y procesos para dar seguimiento y
+realizar visitas de inspección periódicas para cerciorarse de la existencia, legitimidad, valor y calidad de las garantías que
+fueron aceptadas como soporte alterno del crédito. Por otro lado, cuando las garantías son valores, existen políticas y
+procesos para dar seguimiento a la valuación de mercado de las mismas y requerir garantías adicionales en caso de ser
+A continuación se muestra la cartera de crédito cubierta por tipo de garantía:
+Tipo de Garantía
+(Millones de pesos)
+Cartera Total
+Cartera Cubierta por Tipo de Garantía
+Garantías Reales Financieras
+Garantías Reales No Financieras
+Pari Passu
+Primeras Pérdidas
+Garantías Personales
+Cartera Total Cubierta
+*Cartera de Crédito Total GFNorte incluye eliminaciones y registros contables por (Ps 12,934).
+** La cartera de AyF no incluye arrendamiento puro.
+2.4. Pérdidas Esperadas
+Al 2T21, la cartera total de Banco Mercantil del Norte, es de Ps 786,651 millones. La pérdida esperada representa el 1.9% y
+la pérdida no esperada el 3.9% ambas con respecto a la cartera total. El promedio de la pérdida esperada representa el
+1.9% del periodo abril - junio 2021.
+En cuanto a Casa de Bolsa Banorte, la exposición de crédito de las inversiones es de Ps 262,930 millones y la pérdida
+esperada representa el 0.01% de esta exposición. El promedio de la pérdida esperada representa el 0.01% del periodo abril
+La cartera total de Arrendadora y Factor, incluyendo arrendamiento puro, es de Ps 34,072 millones. La pérdida esperada
+representa el 0.9% y la pérdida no esperada el 3.8% ambas con respecto a la cartera total. El promedio de la pérdida
+esperada representa el 1.1% del periodo abril - junio 2021.
+2.5. Modelos Internos
+2.5.1. Modelo Interno Avanzado para Tarjeta de Crédito
+GF Banorte obtuvo el 15 de noviembre de 2017 por parte de la Comisión Nacional Bancaria y de Valores (CNBV) la
+aprobación para el uso de Modelos Internos (MI) de calificación de Tarjeta de Crédito (TDC) para la constitución de reservas
+y capital regulatorios por riesgo de crédito con un enfoque avanzado (Oficio 111-3/706/2017). Cada año, los Modelos
+Internos son recalibrados, y se obtiene nuevamente la certificación de la CNBV para poder utilizarlos en el cálculo de los
+requerimientos regulatorios por otro periodo de 12 meses.
+Estos modelos internos mejoran la gestión integral del riesgo de crédito, estimando los parámetros de riesgo a través de
+la experiencia de la Institución, y han sido aplicados a partir de febrero de 2018 (con cifras de enero). Los parámetros antes
+Probabilidad de Incumplimiento (PI). Indica la probabilidad de que un acreditado incumpla sus obligaciones
+contractuales en los siguientes doce meses respecto al mes de calificación. Para cada crédito se obtiene una
+puntuación, que es mapeada a una escala Maestra de calificación.
+Administración de Riesgos 2T21
+necesario.
+- junio 2021.
+mencionados son:
+2T21
+Arrendadora
+y Factor**
+32,029
+6,759
+9,820
+Banorte
+786,651
+464,980
+555,853
+GFNorte*
+14,000
+34,176
+17,988
+24,710
+0
+0
+0
+3,061

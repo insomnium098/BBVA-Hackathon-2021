@@ -1,0 +1,21 @@
+Table
+Cartera de ,Consumo Revolvente ,bajo Modelo ,Interno ,Avanzado ,,,Millones de pesos 
+Grado de Riesgo* ,Saldo Contable ,Exposición al Incumplimiento (EI)** ,Severidad de la Pérdida ,PI ponderada por El ,Compromisos No Dispuestos ,El media ponderada por posición ,El Vigente 
+A1 ,"17,150 ","22,275 ",74.44% ,1.35% ,"60,407 ",23% ,"22,235 "
+A2 ,"4,707 ","5,871 ",76.72% ,4.01% ,"4,747 ",20% ,"5,830 "
+B1 ,"2,893 ","3,540 ",79.00% ,5.46% ,"1,554 ",18% ,"3,500 "
+B2 ,"2,337 ","2,878 ",77.60% ,7.69% ,"1,727 ",19% ,"2,850 "
+B3 ,"1,503 ","1,816 ",78.28% ,8.48% ,866 ,17% ,"1,786 "
+C1 ,"3,301 ","4,071 ",80.31% ,11.99% ,"1,276 ",19% ,"3,981 "
+C2 ,"4,263 ","5,091 ",84.44% ,23.75% ,608 ,16% ,"4,575 "
+D ,"1,080 ","1,177 ",83.75% ,63.89% ,384 ,8% ,198 
+E ,977 ,977 ,88.66% ,100.00% ,129 ,0% ,24 
+Cartera Total ,"38,213 ","47,697 ",77.66% ,9.50% ,"71,697 ",20% ,"44,979 "
+
+
+Table
+Cartera ,Pérdida Esperada Modelos Internos* ,Pérdida Observada* ,Diferencia Ps (Pérdida Observada - Pérdida Esperada) ,% Cobertura PNC 
+Tarjeta de Crédito ,"4,606 ","4,630 ",23 ,100% 
+Cartera Total ,"4,606 ","4,630 ",23 ,100% 
+
+

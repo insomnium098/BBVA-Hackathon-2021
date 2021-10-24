@@ -1,0 +1,45 @@
+Table
+Posición (Millones de pesos) ,3T20 ,Promedio 3T20 
+Forwards ,204 ,278 
+FX Swap ,161 ,115 
+FX ,2 ,1 
+Opciones ,481 ,434 
+Swap Tasa de Interés (IRS) ,"15,028 ","15,801 "
+Cross Currency Swap (CCIRS) ,"(8,826) ","(8,822) "
+Credit Default Swaps (CDS) ,288 ,263 
+Total ,"7,338 ","8,070 "
+Valor Razonable Positivo ,"24,913 ","25,950 "
+(Valor de Mercado positivo) ,,
+Efecto del neteo* ,"17,575 ","17,880 "
+Garantías Entregadas (-) / Recibidas (+) ,,
+Efectivo ,"(14,036) ","(14,106) "
+Valores ,0 ,0 
+Totales ,"(14,036) ","(14,106) "
+
+
+Table
+Salidas Netas de Efectivo (Millones de pesos) ,3T20 ,Promedio 3T20 
+Salida de Efectivo con Downgrade de 1 Escalón ,0 ,0 
+Salida de Efectivo con Downgrade de 2 Escalones ,0 ,0 
+Salida de Efectivo con Downgrade de 3 Escalones ,0 ,0 
+
+
+Table
+(Millones de pesos) ,Riesgo ,Potencial ,Riesgo ,Actual 
+Contrapartes Financieras ,3T20 ,Promedio 3T20 ,3T20 ,Promedio 3T20 
+FWD ,,,252 ,304 
+FX SWAP ,"9,168 ","6,498 ",161 ,115 
+FX ,,,2 ,1 
+OPCIONES ,"9,899 ","7,257 ",429 ,383 
+SWAP TASA ,"10,515 ","9,071 ","(5,296) ","(5,580) "
+CCS ,"8,597 ","6,778 ","(8,845) ","(8,841) "
+CDS ,288 ,265 ,288 ,263 
+Total ,"5,880 ","6,345 ","(13,008) ","(13,356) "
+Clientes (No Financieras) ,3T20 ,Promedio 3T20 ,3T20 ,Promedio 3T20 
+FWD ,27 ,26 ,(48) ,(26) 
+OPCIONES ,116 ,127 ,52 ,51 
+SWAP TASA ,"20,620 ","21,952 ","20,324 ","21,381 "
+CCS ,44 ,36 ,19 ,19 
+Total ,"20,806 ","22,105 ","20,346 ","21,426 "
+
+

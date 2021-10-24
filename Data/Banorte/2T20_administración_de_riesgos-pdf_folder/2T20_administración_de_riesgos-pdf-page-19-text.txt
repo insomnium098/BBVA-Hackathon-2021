@@ -1,0 +1,47 @@
+GRUPO FINANCIERO
+BANORTE
+3. RIESGO MERCADO (Banco y Casa de Bolsa)
+Los objetivos de Riesgo de Mercado en GFNorte son:
+Cumplir con el Perfil de Riesgo Deseado definido por el Consejo de Administración del Grupo.
+Mantener un adecuado seguimiento del Riesgo de Mercado.
+Mantener adecuadamente informada en tiempo y forma a la Alta Dirección.
+Cuantificar mediante el uso de diversas metodologías, la exposición al Riesgo de Mercado.
+Definir los niveles máximos de riesgo que la Institución está dispuesta a mantener.
+Medir la vulnerabilidad de la Institución a condiciones extremas de mercado y considerar dichos resultados para la
+toma de decisiones.
+Las políticas de Riesgo de Mercado en GFNorte son:
+Los nuevos productos sujetos a riesgo de mercado deberán ser evaluados y aprobados mediante los lineamientos
+de nuevos productos aprobados por el Comité de Políticas de Riesgo.
+El Consejo es el órgano facultado para aprobar límites globales y métricas de apetito de riesgo de mercado, así
+como modificaciones a los anteriores.
+El Comité de Políticas de Riesgo es el órgano facultado para aprobar modelos, metodologías y límites específicos,
+así como modificaciones a los anteriores.
+Los modelos de riesgo de mercado serán validados por un área independiente a aquella que los desarrolla y
+administra.
+Los insumos y modelos de riesgo mercado serán validados conforme a una política debidamente aprobada por el
+Comité de Políticas de Riesgo.
+3.1. Metodologías de Riesgo de Mercado
+La administración de Riesgo de Mercado se gestiona a través de una serie de pilares fundamentales, entre los que destacan
+el uso de modelos y metodologías como la pérdida potencial, conocida comúnmente como expected shortfall,", el Análisis
+Retrospectivo (Backtesting), el Análisis de Sensibilidad y Pruebas bajo Condiciones Extremas (Stress Testing), todos
+empleados para medir el riesgo de los productos y portafolios de instrumentos que cotizan en los mercados financieros.
+Banorte implementó durante el mes de enero de 2019, el cálculo de la pérdida potencial reemplazando así el cálculo de
+VaR. Asimismo, se implementó la valuación de los instrumentos Derivados mediante curvas OIS y curvas ajustadas por
+colateral siguiendo los estándares internacionales.
+De igual forma, la gestión del riesgo se encuentra sustentada mediante un marco de políticas y manuales, en los cuales, se
+establece la implementación y seguimiento de límites de Riesgo Mercado, la revelación de las métricas de riesgo referidas
+y su seguimiento respecto a los límites establecidos.
+Los indicadores claves de riesgo son dados a conocer por medio de reportes mensuales al CPR y mediante un reporte diario
+a los principales ejecutivos en la institución relacionados con la toma de posiciones de Riesgo de Mercado.
+3.2. Exposición al Riesgo de Mercado
+La exposición al Riesgo de Mercado de los portafolios de instrumentos financieros de la Institución, se cuantifica a través de
+la metodología denominada pérdida potencial (en inglés conocido como "Expected Shortfall') la cual se determina como el
+promedio de las pérdidas una vez que se supera el Valor en Riesgo (VaR).
+El modelo de pérdida potencial toma como base un horizonte de tiempo de un día y se basa en una simulación histórica no
+paramétrica con nivel de confianza al 97.5% y 500 observaciones históricas en los factores de riesgo. Asimismo, considera
+todas las posiciones de instrumentos financieros (mercado de dinero, tesorería, capitales, cambios, y derivados) clasificados
+contablemente como negociación, tanto dentro como fuera del balance.
+La pérdida potencial promedio para el 2T20 del portafolio del Banco es de Ps 70.7 millones, (Ps 28.0 millones menor que la
+pérdida potencial promedio del trimestre anterior).
+Administración de Riesgos 2T20
+19

@@ -1,0 +1,138 @@
+GRUPO FINANCIERO
+BANORTE
+Millones de pesos
+El Vigente
+46%
+27,752
+42%
+8,210
+23%
+5,691
+45%
+752
+24%
+2,627
+21%
+6,545
+19%
+5,047
+11%
+1,506
+1%
+10
+35%
+58,140
+14
+2.4. Pérdidas Esperadas
+Al 3T20, la cartera total de Banco Mercantil del Norte, es de Ps 792,590 millones. La pérdida esperada representa el 1.7% y
+la pérdida no esperada el 4.1% ambas con respecto a la cartera total. El promedio de la pérdida esperada representa el 1.7%
+del periodo julio - septiembre 2020.
+En cuanto a Casa de Bolsa Banorte, la exposición de crédito de las inversiones es de Ps 242,743 millones y la pérdida esperada
+representa el 0.02% de esta exposición. El promedio de la pérdida esperada representa el 0.02% del periodo julio -
+septiembre 2020.
+La cartera total de Arrendadora y Factor, incluyendo arrendamiento puro, es de Ps 31,461 millones. La pérdida esperada
+representa el 1.4% y la pérdida no esperada el 3.1% ambas con respecto a la cartera total, El promedio de la pérdida esperada
+representa el 1.4% del periodo julio - septiembre 2020.
+2.5. Modelos Internos
+2.5.1. Modelo Interno Avanzado para Tarjeta de Crédito
+GF Banorte obtuvo el 15 de Noviembre de 2017 por parte de la Comisión Nacional Bancaria y de Valores (CNBV) la
+aprobación para el uso de Modelos Internos (MI) de calificación de Tarjeta de Crédito (TDC) para la constitución de reservas
+y capital regulatorios por riesgo de crédito con un enfoque avanzado (Oficio 111-3/706/2017). Cada año, los Modelos
+Internos son recalibrados, y se obtiene nuevamente la certificación de la CNBV para poder utilizarlos en el cálculo de los
+requerimientos regulatorios por otro periodo de 12 meses.
+Estos modelos internos mejoran la gestión integral del riesgo de crédito, estimando los parámetros de riesgo a través de la
+experiencia de la Institución, y han sido aplicados a partir de febrero de 2018 (con cifras de enero). Los parámetros antes
+mencionados son:
+Probabilidad de Incumplimiento (PI). Indica la probabilidad de que un acreditado incumpla sus obligaciones
+contractuales en los siguientes doce meses respecto al mes de calificación. Para cada crédito se obtiene una
+puntuación, que es mapeada a una escala Maestra de calificación.
+Severidad de la Pérdida. (SP) Mide la intensidad de la pérdida en el incumplimiento expresada como porcentaje de
+la Exposición al Incumplimiento (EI).
+Exposición al Incumplimiento (EI). Es el monto de la deuda al momento del incumplimiento de un crédito,
+considerando un horizonte de los siguientes 12 meses respecto al mes de calificación.
+En la siguiente tabla se observa la Cartera de Tarjeta de Crédito sujeta al Modelo Interno Avanzado clasificado por grados
+de riesgo regulatorios:
+Cartera de Consumo Revolvente bajo Modelo Interno Avanzado
+Grado de
+Saldo
+Riesgo*
+Contable
+15,038
+4,732
+4,364
+414
+2,000
+5,198
+4,189
+3,278
+619
+Cartera
+39,831
+* La escala de grados de riesgo del Modelo Interno Avanzado ha sido mapeada a los niveles de riesgo regulatorios.
+** Los saldos de la El incluyen tanto el riesgo potencial como el saldo dispuesto.
+Administración de Riesgos 3T20
+El media
+ponderada
+por
+posición
+Exposición al
+Incumplimiento
+PI ponderada
+(EI) **
+27,752
+8,210
+5,691
+752
+2,638
+6,578
+5,166
+3,666
+625
+61,078
+Severidad
+Compromisos
+de la
+No
+Pérdida
+Dispuestos
+87.30%
+53,037
+87.30%
+87.30%
+87.30%
+87.30%
+87.30%
+87.30%
+87.30%
+89.00%
+87.49%
+67,443
+por El
+A1
+A2
+B1
+B2
+B3
+C1
+C2
+D
+E
+1.09%
+3.48%
+5.01%
+5.01%
+8.26%
+9.35%
+17.15%
+47.70%
+98.03%
+8.17%
+8,558
+1,368
+1,207
+717
+1,238
+632
+449
+236
+Total

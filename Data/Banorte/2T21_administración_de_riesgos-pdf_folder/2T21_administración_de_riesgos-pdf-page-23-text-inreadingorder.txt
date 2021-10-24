@@ -1,0 +1,7 @@
+GRUPO FINANCIERO
+BANORTE
+23
+A fin de validar la efectividad y precisión la Pérdida Potencial, se presenta mensualmente al CPR el análisis de Backtesting.
+Mediante este análisis es posible comparar las pérdidas y ganancias observadas respecto de la Pérdida Potencial estimada
+y, en caso de ser necesario, se realizarán los ajustes pertinentes al estimador.
+Administración de Riesgos 2T21

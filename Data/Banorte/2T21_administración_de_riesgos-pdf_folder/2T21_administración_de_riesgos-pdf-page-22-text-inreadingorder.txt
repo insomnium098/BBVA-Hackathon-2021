@@ -1,0 +1,64 @@
+GRUPO FINANCIERO
+BANORTE
+22
+como objetivo principal, obtener el impacto en las posiciones de la institución dado movimientos importantes en los
+factores de riesgo.
+3.2.2. Backtesting
+A fin de validar la efectividad y precisión de la pérdida potencial, se presenta mensualmente al CPR el análisis de
+Backtesting. Mediante este análisis es posible comparar las pérdidas y ganancias observadas respecto a la Pérdida Potencial
+estimada y, en caso de ser necesario, se realizan ajustes pertinentes al estimador.
+3.2.3. Pérdida Potencial en Casa de Bolsa
+La pérdida potencial promedio para el 2T21 del portafolio es de Ps 103.4 millones (Ps 61.9 millones mayor que la pérdida
+potencial promedio del trimestre anterior).
+El
+resultado mostrado representa que la pérdida potencial de la Casa de Bolsa, con nivel de confianza de 97.5%, es en
+promedio Ps 103.4 millones.
+Pérdida Potencial
+Promedio
+(Millones de pesos)
+2T21
+Pérdida Potencial Total
+103.4
+Capital Neto
+5,263
+Pérdida Potencial/Capital Neto
+1.97%
+La pérdida potencial por factor de riesgo del portafolio de instrumentos descritos para la Casa de Bolsa se comportó
+durante el 2T21 de la siguiente manera:
+Factor de Riesgo
+Promedio
+2T21
+(Millones de pesos)
+2T21
+Tasas
+62.8
+82.7
+Sobretasas
+26.7
+30.2
+FX
+0.0
+0.0
+Renta Variable
+5.7
+2.0
+Efecto Diversificación
+(14.9)
+(11.5)
+Pérdida Potencial Total de Casa de Bolsa
+80.3
+103.4
+La pérdida potencial al cierre del 2T21 corresponde a Ps 80.3 millones.
+La pérdida potencial por factor de riesgo se determina simulando 500 escenarios históricos más un escenario de estrés,
+realizando una agrupación de instrumentos por su factor de riesgo principal. Es importante destacar que se tomaron en
+cuenta todas las posiciones clasificadas como de negociación, excluyendo la posición de conservados al vencimiento y
+disponibles para la venta.
+La concentración por factor de Riesgo de Mercado se encuentra principalmente en tasas de interés.
+3.2.4. Análisis de Sensibilidad y Pruebas bajo Condiciones Extremas.
+De manera complementaria a la Pérdida Potencial, y con objeto de robustecer el análisis de riesgo, Casa de Bolsa Banorte
+realiza el análisis mediante la aplicación de pruebas bajo condiciones extremas, también denominadas Stress Testing. Lo
+anterior, presentado de manera mensual al CPR y tiene como objetivo principal obtener el impacto en las posiciones de la
+institución dados movimientos importantes en los factores de riesgo.
+3.2.5.
+Backtesting
+Administración de Riesgos 2T21

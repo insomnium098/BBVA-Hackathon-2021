@@ -1,0 +1,49 @@
+GRUPO FINANCIERO
+BANORTE
+31
+Esta Base de Datos Histórica permite contar con la estadística de los eventos operacionales en los que ha incurrido la
+institución para de esta manera poder determinar las tendencias, frecuencia, impacto y distribución que presentan.
+5.2.2. Base de Datos de Contingencias Legales y Fiscales
+Para el registro y seguimiento de los asuntos judiciales, administrativos y fiscales que puedan derivar en la emisión de
+resoluciones desfavorables inapelables, se desarrolló internamente el sistema llamado "Sistema de Monitoreo de Asuntos
+de Riesgo Legal" (SMARL). Este sistema permite a las áreas centrales proveedoras de información registrar directamente y
+en línea dichos eventos, los cuales son clasificando por empresa, sector y materia jurídica entre otros.
+Como parte de la gestión del Riesgo Legal en GFNorte se realiza una estimación de las Contingencias Legales y Fiscales
+por parte de los abogados que llevan los casos, determinando el grado de riesgo de cada asunto con base en una
+metodología interna. Lo anterior permite crear las Reservas Contables necesarias en un plazo determinado (en función a la
+duración de la demanda), a fin de hacer frente a dichas Contingencias.
+5.3. Modelo de Gestión
+Las empresas de GFNorte tienen objetivos definidos, los cuales son alcanzados a través de diferentes planes, programas y
+proyectos. El cumplimiento de dichos objetivos se puede ver afectado por la presencia de riesgos operacionales, razón por
+la cual se hace necesario contar con una metodología para administrar los mismos dentro de la organización, por lo que
+la administración del Riesgo Operacional es ahora una política institucional definida y respaldada por la Alta Dirección.
+Para llevar a cabo la Administración del Riesgo Operacional es fundamental identificar cada uno de los riesgos
+operacionales inmersos en los procesos a fin de poder analizarlos de una manera adecuada. En este sentido, actualmente
+los riesgos identificados, por el área de Contraloría Normativa con el apoyo de los Contralores de Proceso, son registrados
+y gestionados a fin de eliminarlos o mitigarlos (buscando reducir su severidad o frecuencia) y definiendo en su caso niveles
+de tolerancia.
+5.4. Cálculo de Requerimiento de Capital
+De acuerdo a las Reglas de Capitalización por Riesgo Operacional vigentes, la institución ha adoptado el Modelo Estándar
+Alternativo, mismo que es calculado y reportado periódicamente a la autoridad.
+5.5. Información y Reporte
+La información generada por las Bases de Datos y por el Modelo de Gestión es procesada periódicamente a fin de reportar
+al CPR y al Consejo de Administración los principales eventos operacionales detectados, tendencias, riesgos identificados
+y sus estrategias de mitigación. Adicionalmente se reporta el estatus de las principales iniciativas en materia de mitigación
+de Riesgo Operacional implementadas por las diferentes áreas de la organización.
+5.6. Riesgo Tecnológico
+Riesgo Tecnológico se define como la pérdida potencial por daños, interrupción, alteración, o fallas derivadas del uso o
+dependencia en el hardware, software, sistemas, aplicaciones, redes y cualquier otro canal de distribución de información
+en la prestación de servicios bancarios con los clientes. Este riesgo forma parte inherente al Riesgo Operacional por lo que
+su gestión es realizada en forma conjunta con toda la organización.
+Para atender el Riesgo Operacional relacionado con la integridad de la información ha sido creado el Comité de Integridad
+cuyos objetivos son alinear los esfuerzos de seguridad y control de la información bajo el enfoque de prevención, definir
+nuevas estrategias, políticas, procesos o procedimientos y buscar dar solución a problemas de seguridad informática que
+afecten o puedan afectar el patrimonio Institucional.
+Las funciones establecidas por la CNBV en materia de Administración de Riesgo Tecnológico, son realizadas por la
+Institución bajo los lineamientos establecidos por la normatividad institucional y el Comité de Integridad.
+Para enfrentar el Riesgo Operacional provocado por eventos externos de alto impacto, se cuenta con un Plan de
+Continuidad de Negocio (BCP por sus siglas en inglés) y con un Plan de Recuperación de Desastres (DRP por sus siglas en
+inglés) basados en un esquema de replicación de datos síncrona, en un centro de cómputo alterno. Con lo anterior, se tiene
+cubierto el respaldo y la recuperación de las principales aplicaciones críticas de la institución, en caso de presentarse algún
+evento operativo relevante.
+Administración de Riesgos 2T21

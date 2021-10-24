@@ -1,24 +1,28 @@
 
 
 ## Procesamiento de pdf a tablas
-Para cualquier mencion de textractor haremos referencia al codigo ligeramente
-modificado que se encuentra alojado en el repositorio
+
+El codigo se encuentra dividido en dos partes:
+* PDF a tablas (1_textractor): El resultado se encuentra en la carpeta "Data"
+* Procesar y extraer la informacion de las tablas (2_Procesar): El resultado se encuentra en la carpeta 3_tablas_data_base
 
 
-Una vez teniendo, en s3, una carpeta llamada Carpeta con la siguiente linea
-se procesan todos los pdf dentro de Carpeta y se guardan localmente en una carpeta
+## PDF a tablas  
+Se subieron los pdfs a Amazon S3 y posteriormente se realiza lo siguiente:
+
+
+* Se procesan todos los pdf dentro de Carpeta y se guardan localmente en una carpeta
 con el mismo nombre que Carpeta.
 
 python3 textractor.py --documents s3://testingbbvahackathon/Banorte/ --tables
 
 Dentro de la carpeta local se crea un folder para cada pdf contenido en Carpeta.
-
 En la carpeta de cada pdf se encuentra un directorio para cada una de las paginas.
 Para cada uno de estos directorios hay 3 archivos, dos de los cuales son txt donde
 se encuentran las palabras encontradas en el pdf.
 En el archivo csv esta la tabla extraida de dicha pagina
 
-## Procesamiento de tablas 
+## Procesar y extraer la informacion de las tablas
 Para procesar los resultados de textractor se utilizará la funcion ab_team la
 cual recibe un solo argumento params el cual es un diccionario con las siguientes
 especificaciones:
@@ -44,3 +48,14 @@ especificaciones:
 
 La funcion ab_team devuelve un dataframe que contiene la informacion condensada
 de todas las entidades financieras incluidas en params
+
+* Base de datos
+
+Los csv resultantes fueron cargados en una BD E/R en el servicio de Amazon RDS
+
+* Dashboard
+
+El dashboard se realizó en Amazon QuickSight, por su funcionamiento se enviaron
+invitaciones al dashboard a los jueces del evento. El link del dashboard es el siguiente:
+
+XXXXXXXXXX

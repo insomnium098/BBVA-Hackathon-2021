@@ -1,0 +1,69 @@
+GRUPO FINANCIERO
+BANORTE
+24
+Durante 2T20, se observó un CCL promedio de los 91 días del trimestre para Banco y Sofomes de 150.80%, con CCL al cierre
+de 2T20 de 177.91%, situándose por arriba del Perfil de Riesgo Deseado y el mínimo regulatorio establecido en la normativa
+vigente. Los resultados anteriores indican que Banorte se encuentra en posición de hacer frente a la totalidad de sus
+obligaciones de corto plazo ante un escenario de crisis¹.
+4.4. Evolución de los Componentes del CCL
+La evolución de los componentes del Coeficiente de Cobertura de Liquidez entre el cierre del 1T20 y el cierre del 2T20 se
+presenta en la siguiente tabla.
+Componente CCL
+1T20
+2T20
+Var vs. 1T20
+(Millones de pesos)
+Activos Líquidos
+114,567
+92,222
+(19.5%)
+Entradas de Efectivo
+69,743
+99,660
+42.9%
+Salidas de Efectivo
+161,208
+151,496
+(6.0%)
+Los Activos Líquidos que computan para el CCL del Banco y Sofomes entre el cierre del 1T20 y el cierre del 2T20 presentan
+la siguiente distribución:
+Tipo de Activo
+1T20
+2T20
+Var vs. 1T20
+(Millones de pesos)
+Total
+114,567
+92,222
+(19.5%)
+Nivel I
+108,655
+82,317
+(24.2%)
+Nivel Il
+5,912
+9,851
+66.6%
+Nivel Il A
+2,515
+5,852
+132.7%
+Nivel Il B
+3,398
+3,999
+17.7%
+Los activos líquidos disminuyeron en la comparativa de los cierres del 1T20 y 2T20, guiados por una disminución en bonos
+clasificados como Activos Líquidos de Nivel I, derivado del uso de subasta de liquidez con Banco de México.
+4.5. Principales Causas de los Resultados del CCL
+Las variaciones en el Coeficiente de Cobertura de Liquidez entre el 1T20 y el 2T20 se derivan principalmente por el
+incremento de la liquidez disponible derivado de las estrategias de Gestión de liquidez tales como: la participación en la
+subasta en dólares americanos colateralizada con títulos UMS, la disminución generalizada al sistema financiero del depósito
+de regulación monetaria, la incorporación de programa de captación a tasas diferenciadas para fortalecer la captación
+tradicional del Banco y una serie de emisiones de corto plazo realizadas por la tesorería.
+4.6. Riesgo de Liquidez en moneda extranjera
+Para la cuantificación y el seguimiento del Riesgo de Liquidez se utilizan, para el portafolio de dólares, los criterios
+establecidos por Banco de México para la elaboración del Coeficiente de Liquidez, en moneda extranjera.
+El Coeficiente de Liquidez en moneda extranjera debe interpretarse como la capacidad que tiene la institución de cubrir sus
+descalces de liquidez con activos líquidos, ambos en moneda extranjera.
+La información del Coeficiente de Cobertura de Liquidez es preliminar y está sujeto a la validación de Banco de México.
+Administración de Riesgos 2T20

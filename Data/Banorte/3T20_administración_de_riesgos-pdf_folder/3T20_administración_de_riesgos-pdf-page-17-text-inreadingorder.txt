@@ -1,0 +1,80 @@
+GRUPO FINANCIERO
+BANORTE
+Millones de pesos
+565
+111
+676
+577%
+163,806
+0
+0
+0%
+0
+0
+0%
+0
+0
+0%
+45,171
+17
+A continuación se muestra el desglose de exposición al riesgo y pérdida esperada por subsidiaria:
+Cartera Comercial de Empresas bajo Modelo Interno Básico
+Subsidiaria
+Saldo Contable*
+Exposición al
+Incumplimiento (EI)
+Banco Mercantil del Norte
+156,504
+156,757
+Arrendadora y Factor Banorte
+24,927
+24,927
+Cartera Total*
+181,431
+181,684
+* Los saldos incluyen Cartas de Crédito por Ps 9,490 millones, y excluyen ajustes contables por Ps 19 millones en Banorte y Ps 95
+millones en Arrendadora y Factor Banorte.
+** Los saldos de la El incluyen tanto el riesgo potencial como el saldo dispuesto.
+En la siguiente tabla se observa la diferencia entre la pérdida esperada que fue estimada por el Modelo Interno de Empresas
+y la pérdida real observada en los siguientes 12 meses. Dado que dicho modelo fue recientemente autorizado, se muestran
+los resultados estimados durante el periodo de corridas paralelas:
+Backtesting*
+Periodo
+Pérdida Esperada
+Pérdida Observada
+Modelos Internos
+3T19
+847
+147
+*Excluye castigos no recurrentes realizados en junio 2020.
+2.6. Diversificación de Riesgos
+En Diciembre de 2005, la CNBV emitió las "Disposiciones de Carácter General Aplicables a las Instituciones de Crédito en
+materia de Diversificación de Riesgo", estas Disposiciones implican que las instituciones realicen un análisis de los
+acreditados y/o financiamientos que posean para determinar el monto de su "Riesgo Común", asimismo, las instituciones
+deben contar con información y documentación necesaria para comprobar que una persona o grupo de personas
+representan riesgo común conforme a los supuestos a que se refieren las citadas reglas.
+En cumplimiento con las reglas de diversificación de riesgos en operaciones activas y pasivas, se muestra la siguiente
+información correspondiente a Banco Mercantil del Norte:
+Capital Básico a junio 2020
+(Millones de pesos)
+I. Financiamientos cuyo monto individual representa más del 10% del capital básico:
+Operaciones crediticias
+Número de financiamientos
+Monto de los financiamientos en su conjunto
+% en relación al capital básico
+Operaciones en mercado de dinero
+Número de financiamientos
+Monto de los financiamientos en su conjunto
+% en relación al capital básico
+Operaciones overnight
+Número de financiamientos
+Monto de los financiamientos en su conjunto
+% en relación al capital básico
+II. Monto máximo de financiamiento con los 3 mayores deudores y grupos de riesgo común
+Administración de Riesgos 3T20
+Pérdida
+Esperada
+Millones de pesos
+% Cobertura
+(Pérdida Esperada /
+Pérdida Observada)
